@@ -22,8 +22,8 @@ services:
       caddy.tls.protocols: "tls1.3" #### This is optional. Default it is tls1.2
 #      caddy.tls.dns: "cloudflare ${CLOUDFLARE_API_TOKEN}"
     volumes:
-      - ./Caddyfile.hupi:/etc/caddy/Caddyfile
-      - ./content:/srv #### content to be served
+      - ./Caddyfile.hupi:/etc/caddy/Caddyfile:ro
+      - ./content:/srv:ro #### content to be served
     networks:
       - proxy
     restart: unless-stopped
