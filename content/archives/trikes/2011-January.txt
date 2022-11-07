@@ -1,0 +1,493 @@
+From bourbonman at cfl.rr.com  Wed Jan  5 12:25:31 2011
+From: bourbonman at cfl.rr.com (Ed Logan)
+Date: Wed, 5 Jan 2011 15:25:31 -0500
+Subject: [trikes] Electric assist
+Message-ID: <32F5B87D2CD34E20A8395CECA78CE542@EdPC>
+
+I have just purchased a 20" Lithium powered E Bike motor kit that I am going to install on my Kettwiesel.  It should arrive early next week.  I was wondering if any of you have done this and might have some advice on things like, where to put the battery, the controller etc.  I have ordered the extra long cable and the torque lock and have seen a video on how to install the torque lock that is on ElectricBikeBuilding.com.
+
+Anyway, any advice would be appreciated. 
+
+Thanks,
+
+Ed Logan
+GRR, Vision Metro and my Kettwiesel
+ 
+
+From johnturvey at onetel.com  Wed Jan  5 13:24:33 2011
+From: johnturvey at onetel.com (John Turvey)
+Date: Wed, 5 Jan 2011 21:24:33 +0000
+Subject: [trikes] Electric assist
+In-Reply-To: <32F5B87D2CD34E20A8395CECA78CE542@EdPC>
+Message-ID: <30639D2C-1912-11E0-87F9-00306566DC3C@onetel.com>
+
+Never done it myself, but I saw an electric assist Kett once - the 
+motor was in the front-wheel hub, the battery was mounted under the 
+main frame tube behind the front wheel (so between the pedals - with 
+the steering connecting rod having 4 gentle right-angle bends in it so 
+it was above the main frame tube for the section where the battery was) 
+and I have no idea where the controller was.
+
+John Turvey
+
+On Wednesday, Jan 5, 2011, at 20:25 Europe/London, Ed Logan wrote:
+
+> I have just purchased a 20" Lithium powered E Bike motor kit that I am 
+> going to install on my Kettwiesel.  It should arrive early next week.  
+> I was wondering if any of you have done this and might have some 
+> advice on things like, where to put the battery, the controller etc.  
+> I have ordered the extra long cable and the torque lock and have seen 
+> a video on how to install the torque lock that is on 
+> ElectricBikeBuilding.com.
+>
+> Anyway, any advice would be appreciated.
+>
+> Thanks,
+>
+> Ed Logan
+> GRR, Vision Metro and my Kettwiesel
+>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+> subscription.
+>
+
+
+From holderjsculpt at gmail.com  Thu Jan  6 17:06:14 2011
+From: holderjsculpt at gmail.com (Judy Holder)
+Date: Thu, 6 Jan 2011 20:06:14 -0500
+Subject: [trikes] trikes Digest, Vol 74, Issue 1
+In-Reply-To: <mailman.19.1294344006.15149.trikes@bikelist.org>
+References: <mailman.19.1294344006.15149.trikes@bikelist.org>
+Message-ID: <AANLkTimuPb=EB_sxQ4HHGrBpKuf1J-7HjP87XYFjRZwt@mail.gmail.com>
+
+Hi,
+I don't have the answers how to install, but I do have a Hase Keit. that I
+need electric assist on. I just know most people tell me that the motor
+needs to be on the front wheel.  Please post pics when you get this done and
+let me know how you like the E-bike kit?
+ thanks
+Judy
+
+On Thu, Jan 6, 2011 at 3:00 PM, <trikes-request at bikelist.org> wrote:
+
+> Send trikes mailing list submissions to
+>        trikes at bikelist.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>        http://hupi.org/mailman/listinfo/trikes
+> or, via email, send a message with subject or body 'help' to
+>        trikes-request at bikelist.org
+>
+> You can reach the person managing the list at
+>        trikes-owner at bikelist.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of trikes digest..."
+>
+>
+> Today's Topics:
+>
+>   1. Electric assist (Ed Logan)
+>   2. Re: Electric assist (John Turvey)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Wed, 5 Jan 2011 15:25:31 -0500
+> From: "Ed Logan" <bourbonman at cfl.rr.com>
+> Subject: [trikes] Electric assist
+> To: <Trikes at bikelist.org>
+> Message-ID: <32F5B87D2CD34E20A8395CECA78CE542 at EdPC>
+> Content-Type: text/plain;       charset="iso-8859-1"
+>
+> I have just purchased a 20" Lithium powered E Bike motor kit that I am
+> going to install on my Kettwiesel.  It should arrive early next week.  I was
+> wondering if any of you have done this and might have some advice on things
+> like, where to put the battery, the controller etc.  I have ordered the
+> extra long cable and the torque lock and have seen a video on how to install
+> the torque lock that is on ElectricBikeBuilding.com.
+>
+> Anyway, any advice would be appreciated.
+>
+> Thanks,
+>
+> Ed Logan
+> GRR, Vision Metro and my Kettwiesel
+>
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Wed, 5 Jan 2011 21:24:33 +0000
+> From: John Turvey <johnturvey at onetel.com>
+> Subject: Re: [trikes] Electric assist
+> To: "Ed Logan" <bourbonman at cfl.rr.com>
+> Cc: Trikes at bikelist.org
+> Message-ID: <30639D2C-1912-11E0-87F9-00306566DC3C at onetel.com>
+> Content-Type: text/plain; charset=US-ASCII; format=flowed
+>
+> Never done it myself, but I saw an electric assist Kett once - the
+> motor was in the front-wheel hub, the battery was mounted under the
+> main frame tube behind the front wheel (so between the pedals - with
+> the steering connecting rod having 4 gentle right-angle bends in it so
+> it was above the main frame tube for the section where the battery was)
+> and I have no idea where the controller was.
+>
+> John Turvey
+>
+> On Wednesday, Jan 5, 2011, at 20:25 Europe/London, Ed Logan wrote:
+>
+> > I have just purchased a 20" Lithium powered E Bike motor kit that I am
+> > going to install on my Kettwiesel.  It should arrive early next week.
+> > I was wondering if any of you have done this and might have some
+> > advice on things like, where to put the battery, the controller etc.
+> > I have ordered the extra long cable and the torque lock and have seen
+> > a video on how to install the torque lock that is on
+> > ElectricBikeBuilding.com.
+> >
+> > Anyway, any advice would be appreciated.
+> >
+> > Thanks,
+> >
+> > Ed Logan
+> > GRR, Vision Metro and my Kettwiesel
+> >
+> > --
+> > This message comes to you via the trikes at bikelist.org mailing list,
+> > sponsored by http://www.HuPI.org/
+> > Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> > subscription.
+> >
+>
+>
+>
+> ------------------------------
+>
+> This message digest comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+> End of trikes Digest, Vol 74, Issue 1
+> *************************************
+>
+
+From rob at wrhpv.com  Fri Jan  7 04:39:38 2011
+From: rob at wrhpv.com (Rob Hague)
+Date: Fri, 7 Jan 2011 12:39:38 +0000
+Subject: [trikes] trikes Digest, Vol 74, Issue 1
+In-Reply-To: <AANLkTimuPb=EB_sxQ4HHGrBpKuf1J-7HjP87XYFjRZwt@mail.gmail.com>
+References: <mailman.19.1294344006.15149.trikes@bikelist.org>
+	<AANLkTimuPb=EB_sxQ4HHGrBpKuf1J-7HjP87XYFjRZwt@mail.gmail.com>
+Message-ID: <0CE8BFC8-E9BB-47D7-9720-BC39EDE9D86C@wrhpv.com>
+
+If you have Facebook then Greenspeed have photos of their Anura with a test hub motor fitted to the front wheel...
+Rob
+
+On 7 Jan 2011, at 01:06, Judy Holder wrote:
+
+> Hi,
+> I don't have the answers how to install, but I do have a Hase Keit. that I
+> need electric assist on. I just know most people tell me that the motor
+> needs to be on the front wheel.  Please post pics when you get this done and
+> let me know how you like the E-bike kit?
+> thanks
+> Judy
+> 
+> On Thu, Jan 6, 2011 at 3:00 PM, <trikes-request at bikelist.org> wrote:
+> 
+>> Send trikes mailing list submissions to
+>>       trikes at bikelist.org
+>> 
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>>       http://hupi.org/mailman/listinfo/trikes
+>> or, via email, send a message with subject or body 'help' to
+>>       trikes-request at bikelist.org
+>> 
+>> You can reach the person managing the list at
+>>       trikes-owner at bikelist.org
+>> 
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of trikes digest..."
+>> 
+>> 
+>> Today's Topics:
+>> 
+>>  1. Electric assist (Ed Logan)
+>>  2. Re: Electric assist (John Turvey)
+>> 
+>> 
+>> ----------------------------------------------------------------------
+>> 
+>> Message: 1
+>> Date: Wed, 5 Jan 2011 15:25:31 -0500
+>> From: "Ed Logan" <bourbonman at cfl.rr.com>
+>> Subject: [trikes] Electric assist
+>> To: <Trikes at bikelist.org>
+>> Message-ID: <32F5B87D2CD34E20A8395CECA78CE542 at EdPC>
+>> Content-Type: text/plain;       charset="iso-8859-1"
+>> 
+>> I have just purchased a 20" Lithium powered E Bike motor kit that I am
+>> going to install on my Kettwiesel.  It should arrive early next week.  I was
+>> wondering if any of you have done this and might have some advice on things
+>> like, where to put the battery, the controller etc.  I have ordered the
+>> extra long cable and the torque lock and have seen a video on how to install
+>> the torque lock that is on ElectricBikeBuilding.com.
+>> 
+>> Anyway, any advice would be appreciated.
+>> 
+>> Thanks,
+>> 
+>> Ed Logan
+>> GRR, Vision Metro and my Kettwiesel
+>> 
+>> 
+>> ------------------------------
+>> 
+>> Message: 2
+>> Date: Wed, 5 Jan 2011 21:24:33 +0000
+>> From: John Turvey <johnturvey at onetel.com>
+>> Subject: Re: [trikes] Electric assist
+>> To: "Ed Logan" <bourbonman at cfl.rr.com>
+>> Cc: Trikes at bikelist.org
+>> Message-ID: <30639D2C-1912-11E0-87F9-00306566DC3C at onetel.com>
+>> Content-Type: text/plain; charset=US-ASCII; format=flowed
+>> 
+>> Never done it myself, but I saw an electric assist Kett once - the
+>> motor was in the front-wheel hub, the battery was mounted under the
+>> main frame tube behind the front wheel (so between the pedals - with
+>> the steering connecting rod having 4 gentle right-angle bends in it so
+>> it was above the main frame tube for the section where the battery was)
+>> and I have no idea where the controller was.
+>> 
+>> John Turvey
+>> 
+>> On Wednesday, Jan 5, 2011, at 20:25 Europe/London, Ed Logan wrote:
+>> 
+>>> I have just purchased a 20" Lithium powered E Bike motor kit that I am
+>>> going to install on my Kettwiesel.  It should arrive early next week.
+>>> I was wondering if any of you have done this and might have some
+>>> advice on things like, where to put the battery, the controller etc.
+>>> I have ordered the extra long cable and the torque lock and have seen
+>>> a video on how to install the torque lock that is on
+>>> ElectricBikeBuilding.com.
+>>> 
+>>> Anyway, any advice would be appreciated.
+>>> 
+>>> Thanks,
+>>> 
+>>> Ed Logan
+>>> GRR, Vision Metro and my Kettwiesel
+>>> 
+>>> --
+>>> This message comes to you via the trikes at bikelist.org mailing list,
+>>> sponsored by http://www.HuPI.org/
+>>> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+>>> subscription.
+>>> 
+>> 
+>> 
+>> 
+>> ------------------------------
+>> 
+>> This message digest comes to you via the trikes at bikelist.org mailing list,
+>> sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+>> subscription.
+>> 
+>> End of trikes Digest, Vol 74, Issue 1
+>> *************************************
+>> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From n6ry at arrl.net  Fri Jan  7 07:23:30 2011
+From: n6ry at arrl.net (Terry Conboy)
+Date: Fri, 07 Jan 2011 07:23:30 -0800
+Subject: [trikes] Electric assist
+In-Reply-To: <32F5B87D2CD34E20A8395CECA78CE542@EdPC>
+References: <32F5B87D2CD34E20A8395CECA78CE542@EdPC>
+Message-ID: <4D272FF2.40300@arrl.net>
+
+On 2011-01-05 12:25 PM, Ed Logan wrote:
+> I have just purchased a 20" Lithium powered E Bike motor kit that I am going to install on my Kettwiesel.  It should arrive early next week.  I was wondering if any of you have done this and might have some advice on things like, where to put the battery, the controller etc.  I have ordered the extra long cable and the torque lock and have seen a video on how to install the torque lock that is on ElectricBikeBuilding.com.
+>
+> Ed Logan
+> GRR, Vision Metro and my Kettwiesel
+Hase now has the Klimax 2K and 5K with motors in the front wheel (in 
+addition to a folding weather fairing).
+http://hasebikes.com/215-1-pedelec-velomobile-e-trike-with-foldable-fairing-klimax.html
+
+Keep clam,
+Terry
+
+
+From dr.addn at gmail.com  Fri Jan  7 11:00:40 2011
+From: dr.addn at gmail.com (Ph.T)
+Date: Fri, 7 Jan 2011 12:00:40 -0700
+Subject: [trikes] trikes Digest, Vol 74, Issue 1
+In-Reply-To: <0CE8BFC8-E9BB-47D7-9720-BC39EDE9D86C@wrhpv.com>
+References: <mailman.19.1294344006.15149.trikes@bikelist.org>
+	<AANLkTimuPb=EB_sxQ4HHGrBpKuf1J-7HjP87XYFjRZwt@mail.gmail.com>
+	<0CE8BFC8-E9BB-47D7-9720-BC39EDE9D86C@wrhpv.com>
+Message-ID: <AANLkTikYtWL+c-oZnZ1e9_tUsvwcixXozdWTMP6SsyE_@mail.gmail.com>
+
+this page
+http://www.facebook.com/pages/Greenspeed/117171437552
+this album
+http://www.facebook.com/pages/Greenspeed/117171437552#!/album.php?aid=104549&id=117171437552
+not this page:
+http://www.facebook.com/pages/Greenspeed/88764146698
+
+
+On Fri, Jan 7, 2011 at 5:39 AM, Rob Hague <rob at wrhpv.com> wrote:
+
+> If you have Facebook then Greenspeed have photos of their Anura with a test
+> hub motor fitted to the front wheel...
+> Rob
+>
+> On 7 Jan 2011, at 01:06, Judy Holder wrote:
+>
+> > Hi,
+> > I don't have the answers how to install, but I do have a Hase Keit. that
+> I
+> > need electric assist on. I just know most people tell me that the motor
+> > needs to be on the front wheel.  Please post pics when you get this done
+> and
+> > let me know how you like the E-bike kit?
+> > thanks
+> > Judy
+> >
+> > On Thu, Jan 6, 2011 at 3:00 PM, <trikes-request at bikelist.org> wrote:
+> >
+> >> Send trikes mailing list submissions to
+> >>       trikes at bikelist.org
+> >>
+> >> To subscribe or unsubscribe via the World Wide Web, visit
+> >>       http://hupi.org/mailman/listinfo/trikes
+> >> or, via email, send a message with subject or body 'help' to
+> >>       trikes-request at bikelist.org
+> >>
+> >> You can reach the person managing the list at
+> >>       trikes-owner at bikelist.org
+> >>
+> >> When replying, please edit your Subject line so it is more specific
+> >> than "Re: Contents of trikes digest..."
+> >>
+> >>
+> >> Today's Topics:
+> >>
+> >>  1. Electric assist (Ed Logan)
+> >>  2. Re: Electric assist (John Turvey)
+> >>
+> >>
+> >> ----------------------------------------------------------------------
+> >>
+> >> Message: 1
+> >> Date: Wed, 5 Jan 2011 15:25:31 -0500
+> >> From: "Ed Logan" <bourbonman at cfl.rr.com>
+> >> Subject: [trikes] Electric assist
+> >> To: <Trikes at bikelist.org>
+> >> Message-ID: <32F5B87D2CD34E20A8395CECA78CE542 at EdPC>
+> >> Content-Type: text/plain;       charset="iso-8859-1"
+> >>
+> >> I have just purchased a 20" Lithium powered E Bike motor kit that I am
+> >> going to install on my Kettwiesel.  It should arrive early next week.  I
+> was
+> >> wondering if any of you have done this and might have some advice on
+> things
+> >> like, where to put the battery, the controller etc.  I have ordered the
+> >> extra long cable and the torque lock and have seen a video on how to
+> install
+> >> the torque lock that is on ElectricBikeBuilding.com.
+> >>
+> >> Anyway, any advice would be appreciated.
+> >>
+> >> Thanks,
+> >>
+> >> Ed Logan
+> >> GRR, Vision Metro and my Kettwiesel
+> >>
+> >>
+> >> ------------------------------
+> >>
+> >> Message: 2
+> >> Date: Wed, 5 Jan 2011 21:24:33 +0000
+> >> From: John Turvey <johnturvey at onetel.com>
+> >> Subject: Re: [trikes] Electric assist
+> >> To: "Ed Logan" <bourbonman at cfl.rr.com>
+> >> Cc: Trikes at bikelist.org
+> >> Message-ID: <30639D2C-1912-11E0-87F9-00306566DC3C at onetel.com>
+> >> Content-Type: text/plain; charset=US-ASCII; format=flowed
+> >>
+> >> Never done it myself, but I saw an electric assist Kett once - the
+> >> motor was in the front-wheel hub, the battery was mounted under the
+> >> main frame tube behind the front wheel (so between the pedals - with
+> >> the steering connecting rod having 4 gentle right-angle bends in it so
+> >> it was above the main frame tube for the section where the battery was)
+> >> and I have no idea where the controller was.
+> >>
+> >> John Turvey
+> >>
+> >> On Wednesday, Jan 5, 2011, at 20:25 Europe/London, Ed Logan wrote:
+> >>
+> >>> I have just purchased a 20" Lithium powered E Bike motor kit that I am
+> >>> going to install on my Kettwiesel.  It should arrive early next week.
+> >>> I was wondering if any of you have done this and might have some
+> >>> advice on things like, where to put the battery, the controller etc.
+> >>> I have ordered the extra long cable and the torque lock and have seen
+> >>> a video on how to install the torque lock that is on
+> >>> ElectricBikeBuilding.com.
+> >>>
+> >>> Anyway, any advice would be appreciated.
+> >>>
+> >>> Thanks,
+> >>>
+> >>> Ed Logan
+> >>> GRR, Vision Metro and my Kettwiesel
+> >>>
+> >>> --
+> >>> This message comes to you via the trikes at bikelist.org mailing list,
+> >>> sponsored by http://www.HuPI.org/
+> >>> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> >>> subscription.
+> >>>
+> >>
+> >>
+> >>
+> >> ------------------------------
+> >>
+> >> This message digest comes to you via the trikes at bikelist.org mailing
+> list,
+> >> sponsored by http://www.HuPI.org/
+> >> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> >> subscription.
+> >>
+> >> End of trikes Digest, Vol 74, Issue 1
+> >> *************************************
+> >>
+> > --
+> > This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> > Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+
+
+-- 
+Americium Dream Documents
+"(real opportunity starts with real documentation)
+

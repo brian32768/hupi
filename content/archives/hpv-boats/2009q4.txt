@@ -1,0 +1,518 @@
+From info at velosub.com  Sat Oct 24 03:28:17 2009
+From: info at velosub.com (David Adrian)
+Date: Sat, 24 Oct 2009 12:28:17 +0200
+Subject: [hpv-boats] hpv-boats Digest, Vol 55, Issue 2
+In-Reply-To: <mailman.19.1246820404.21323.hpv-boats@bikelist.org>
+References: <mailman.19.1246820404.21323.hpv-boats@bikelist.org>
+Message-ID: <1256380097.4ae2d6c1f1d25@imp.online.net>
+
+Sorry to react so late to Rick's propeller advices.
+For my aquatic vehicles I tested the props sold through Hobbycity, the master
+airscrew 15x10 and the 18x12. 12 being the maximal pitch they sell. Obviously
+they lack pitch if you keep the same gear.
+
+As I definitely needed more pitch I wanted to try the 15x25 Bolly, but it seems
+that Bolly have stopped somme of its works. The 15x25 prop is only sold by 30
+pieces.
+I am still looking for one, if one of you get one and could kindly sell it to
+me, I would be the happiest.
+
+David
+www.velosub.com
+
+
+Selon hpv-boats-request at bikelist.org:
+
+ Send hpv-boats mailing list submissions to
+ 	hpv-boats at bikelist.org
+
+ To subscribe or unsubscribe via the World Wide Web, visit
+ 	http://hupi.org/mailman/listinfo/hpv-boats
+ or, via email, send a message with subject or body 'help' to
+ 	hpv-boats-request at bikelist.org
+
+ You can reach the person managing the list at
+ 	hpv-boats-owner at bikelist.org
+
+ When replying, please edit your Subject line so it is more specific
+ than "Re: Contents of hpv-boats digest..."
+
+
+ Today's Topics:
+
+    1. Re: Propellers (Rick Willoughby)
+
+
+ ----------------------------------------------------------------------
+
+ Message: 1
+ Date: Sun, 5 Jul 2009 18:08:56 +1000
+ From: Rick Willoughby <rickwill at bigpond.net.au>
+ Subject: Re: [hpv-boats] Propellers
+ To: HPV Boat <hpv-boats at bikelist.org>
+ Message-ID: <89DFF61F-8C2E-4141-9D4A-49FAADCEF1B8 at bigpond.net.au>
+ Content-Type: text/plain; charset="US-ASCII"; delsp=yes; format=flowed
+
+ Ken
+ I have been travelling.  I did email directly but not sure if you got
+ it.
+
+ The best prop is designed to suit the application.  You need to know
+ what power you can produce and what speed you will achieve with that
+ power. If you have a hull in mind then the speed v power can be
+ worked out.  The best way to determine your power output is to do a
+ test on a recumbent machine at a gym.
+
+ Typical value of cadence is 70rpm and prop speed is 300rpm.  The
+ 300rpm works well for a suitable prop.
+
+ JavaProp is quite good for designing a prop.  You need to set the
+ Options to suit water and select a suitable foil.  You need to select
+ a foil.  The E193 at Re# 100,000 and 1 degree AoA is OK.   The design
+ process is iterative.  You need to achieve adequate strength while
+ aiming for the highest efficiency.
+
+ If you can weld then the easiest way to make a nice prop is to use
+ stainless steel flat bar.  I have a procedure for this.
+
+ The Bolly boat prop is OK for an easily driven hull.  Will not be as
+ good as you can make to suit but still good for most applications.
+
+ Rick
+
+
+ Greetings All,
+
+ It's time for me to do a little research on propellers and such.  I was
+ looking at Rich W's. boat here:
+ http://www.rickwill.bigpondhosting.com/V11J_Dec_2008.jpg   and I
+ noticed a
+ wide and steeply pitched prop.  I'm sure that this is a very efficient
+ setup, so are there plans/drawings for this prop?  How wide is it,
+ and at
+ what pitch?  Are there props for sale?  If I have to make my own, what
+ materials would I use, wood, fiberglass, or...?
+
+ On a related thread what rpms do these generally run at, and what
+ cadence is
+ typical for the pedaling?
+
+ Thanks a lot,
+
+ Ken
+
+
+ Rick Willoughby
+ rickwill at bigpond.net.au
+ 03 9796 2415
+ 0419 104 821
+
+
+
+
+ ------------------------------
+
+
+ hpv-boats mailing list
+ mailto:hpv-boats at bikelist.org
+ http://hupi.org/mailman/listinfo/hpv-boats
+
+
+ End of hpv-boats Digest, Vol 55, Issue 2
+ ****************************************
+
+
+From rickwill at bigpond.net.au  Sat Oct 24 20:29:50 2009
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 25 Oct 2009 14:29:50 +1100
+Subject: [hpv-boats] Velosub Prop
+Message-ID: <C6C12557-8974-4F12-9866-5A92488BA949@bigpond.net.au>
+
+David
+For such a high drag application the Bolly prop would not have enough  
+blade area to be efficient.
+
+The low pitch props you have will give you better efficiency than a  
+Bolly but of course you need to gear it up.
+
+A higher pitch like the Bolly would need 4 or more blades get good  
+efficiency.   These Bolly props are made for easily driven hulls that  
+have much lower drag than the Velosub.
+
+If you cannot alter the gearing then you will be better off making  
+your own prop as it is a unique application.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+From flareking at talktalk.net  Sat Oct 31 07:10:52 2009
+From: flareking at talktalk.net (dennis)
+Date: Sat, 31 Oct 2009 15:10:52 +0000
+Subject: [hpv-boats] hpv-boats Digest, Vol 55, Issue 2
+References: <mailman.19.1246820404.21323.hpv-boats@bikelist.org>
+	<1256380097.4ae2d6c1f1d25@imp.online.net>
+Message-ID: <4994DEF844EE4F6BA17A99BB5CEE4A59@den>
+
+APC make a 16 x16 prop if that is any help
+
+Dennis A
+
+----- Original Message ----- 
+From: "David Adrian" <info at velosub.com>
+To: <hpv-boats at bikelist.org>
+Sent: Saturday, October 24, 2009 10:28 AM
+Subject: Re: [hpv-boats] hpv-boats Digest, Vol 55, Issue 2
+
+
+> Sorry to react so late to Rick's propeller advices.
+> For my aquatic vehicles I tested the props sold through Hobbycity, the 
+> master
+> airscrew 15x10 and the 18x12. 12 being the maximal pitch they sell. 
+> Obviously
+> they lack pitch if you keep the same gear.
+>
+> As I definitely needed more pitch I wanted to try the 15x25 Bolly, but it 
+> seems
+> that Bolly have stopped somme of its works. The 15x25 prop is only sold by 
+> 30
+> pieces.
+> I am still looking for one, if one of you get one and could kindly sell it 
+> to
+> me, I would be the happiest.
+>
+> David
+> www.velosub.com
+>
+>
+> Selon hpv-boats-request at bikelist.org:
+>
+> Send hpv-boats mailing list submissions to
+>  hpv-boats at bikelist.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>  http://hupi.org/mailman/listinfo/hpv-boats
+> or, via email, send a message with subject or body 'help' to
+>  hpv-boats-request at bikelist.org
+>
+> You can reach the person managing the list at
+>  hpv-boats-owner at bikelist.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of hpv-boats digest..."
+>
+>
+> Today's Topics:
+>
+>    1. Re: Propellers (Rick Willoughby)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Sun, 5 Jul 2009 18:08:56 +1000
+> From: Rick Willoughby <rickwill at bigpond.net.au>
+> Subject: Re: [hpv-boats] Propellers
+> To: HPV Boat <hpv-boats at bikelist.org>
+> Message-ID: <89DFF61F-8C2E-4141-9D4A-49FAADCEF1B8 at bigpond.net.au>
+> Content-Type: text/plain; charset="US-ASCII"; delsp=yes; format=flowed
+>
+> Ken
+> I have been travelling.  I did email directly but not sure if you got
+> it.
+>
+> The best prop is designed to suit the application.  You need to know
+> what power you can produce and what speed you will achieve with that
+> power. If you have a hull in mind then the speed v power can be
+> worked out.  The best way to determine your power output is to do a
+> test on a recumbent machine at a gym.
+>
+> Typical value of cadence is 70rpm and prop speed is 300rpm.  The
+> 300rpm works well for a suitable prop.
+>
+> JavaProp is quite good for designing a prop.  You need to set the
+> Options to suit water and select a suitable foil.  You need to select
+> a foil.  The E193 at Re# 100,000 and 1 degree AoA is OK.   The design
+> process is iterative.  You need to achieve adequate strength while
+> aiming for the highest efficiency.
+>
+> If you can weld then the easiest way to make a nice prop is to use
+> stainless steel flat bar.  I have a procedure for this.
+>
+> The Bolly boat prop is OK for an easily driven hull.  Will not be as
+> good as you can make to suit but still good for most applications.
+>
+> Rick
+>
+>
+> Greetings All,
+>
+> It's time for me to do a little research on propellers and such.  I was
+> looking at Rich W's. boat here:
+> http://www.rickwill.bigpondhosting.com/V11J_Dec_2008.jpg   and I
+> noticed a
+> wide and steeply pitched prop.  I'm sure that this is a very efficient
+> setup, so are there plans/drawings for this prop?  How wide is it,
+> and at
+> what pitch?  Are there props for sale?  If I have to make my own, what
+> materials would I use, wood, fiberglass, or...?
+>
+> On a related thread what rpms do these generally run at, and what
+> cadence is
+> typical for the pedaling?
+>
+> Thanks a lot,
+>
+> Ken
+>
+>
+> Rick Willoughby
+> rickwill at bigpond.net.au
+> 03 9796 2415
+> 0419 104 821
+>
+>
+>
+>
+> ------------------------------
+>
+>
+> hpv-boats mailing list
+> mailto:hpv-boats at bikelist.org
+> http://hupi.org/mailman/listinfo/hpv-boats
+>
+>
+> End of hpv-boats Digest, Vol 55, Issue 2
+> ****************************************
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+
+
+--------------------------------------------------------------------------------
+
+
+
+No virus found in this incoming message.
+Checked by AVG - www.avg.com
+Version: 8.5.423 / Virus Database: 270.14.32/2460 - Release Date: 10/26/09 
+08:10:00
+
+
+From carl.hyllander at bredband.net  Sat Oct 31 12:54:46 2009
+From: carl.hyllander at bredband.net (Carl Hyllander)
+Date: Sat, 31 Oct 2009 21:54:46 +0100
+Subject: [hpv-boats] APC 16x16 prop
+References: <mailman.17.1257019199.56552.hpv-boats@bikelist.org>
+Message-ID: <F2E7B1826C31410C9D4D63F4413F179E@Calle>
+
+The APC 16x16 prop is great.
+I have used it for a long time on my inflatable pontoon pedal boat.
+My drive system has a gear ratio of 5,5 to 1.
+
+Carl
+
+----- Original Message ----- 
+From: <hpv-boats-request at bikelist.org>
+To: <hpv-boats at bikelist.org>
+Sent: Saturday, October 31, 2009 8:59 PM
+Subject: hpv-boats Digest, Vol 58, Issue 3
+
+
+> Send hpv-boats mailing list submissions to
+> hpv-boats at bikelist.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> http://hupi.org/mailman/listinfo/hpv-boats
+> or, via email, send a message with subject or body 'help' to
+> hpv-boats-request at bikelist.org
+>
+> You can reach the person managing the list at
+> hpv-boats-owner at bikelist.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of hpv-boats digest..."
+>
+>
+> Today's Topics:
+>
+>   1. Re: hpv-boats Digest, Vol 55, Issue 2 (dennis)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Sat, 31 Oct 2009 15:10:52 +0000
+> From: dennis <flareking at talktalk.net>
+> Subject: Re: [hpv-boats] hpv-boats Digest, Vol 55, Issue 2
+> To: Human Powered Vehicles -- Boats <hpv-boats at bikelist.org>
+> Message-ID: <4994DEF844EE4F6BA17A99BB5CEE4A59 at den>
+> Content-Type: text/plain; format=flowed; charset="iso-8859-1";
+> reply-type=original
+>
+> APC make a 16 x16 prop if that is any help
+>
+> Dennis A
+>
+> ----- Original Message ----- 
+> From: "David Adrian" <info at velosub.com>
+> To: <hpv-boats at bikelist.org>
+> Sent: Saturday, October 24, 2009 10:28 AM
+> Subject: Re: [hpv-boats] hpv-boats Digest, Vol 55, Issue 2
+>
+>
+>> Sorry to react so late to Rick's propeller advices.
+>> For my aquatic vehicles I tested the props sold through Hobbycity, the
+>> master
+>> airscrew 15x10 and the 18x12. 12 being the maximal pitch they sell.
+>> Obviously
+>> they lack pitch if you keep the same gear.
+>>
+>> As I definitely needed more pitch I wanted to try the 15x25 Bolly, but it
+>> seems
+>> that Bolly have stopped somme of its works. The 15x25 prop is only sold 
+>> by
+>> 30
+>> pieces.
+>> I am still looking for one, if one of you get one and could kindly sell 
+>> it
+>> to
+>> me, I would be the happiest.
+>>
+>> David
+>> www.velosub.com
+>>
+>>
+>> Selon hpv-boats-request at bikelist.org:
+>>
+>> Send hpv-boats mailing list submissions to
+>>  hpv-boats at bikelist.org
+>>
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>>  http://hupi.org/mailman/listinfo/hpv-boats
+>> or, via email, send a message with subject or body 'help' to
+>>  hpv-boats-request at bikelist.org
+>>
+>> You can reach the person managing the list at
+>>  hpv-boats-owner at bikelist.org
+>>
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of hpv-boats digest..."
+>>
+>>
+>> Today's Topics:
+>>
+>>    1. Re: Propellers (Rick Willoughby)
+>>
+>>
+>> ----------------------------------------------------------------------
+>>
+>> Message: 1
+>> Date: Sun, 5 Jul 2009 18:08:56 +1000
+>> From: Rick Willoughby <rickwill at bigpond.net.au>
+>> Subject: Re: [hpv-boats] Propellers
+>> To: HPV Boat <hpv-boats at bikelist.org>
+>> Message-ID: <89DFF61F-8C2E-4141-9D4A-49FAADCEF1B8 at bigpond.net.au>
+>> Content-Type: text/plain; charset="US-ASCII"; delsp=yes; format=flowed
+>>
+>> Ken
+>> I have been travelling.  I did email directly but not sure if you got
+>> it.
+>>
+>> The best prop is designed to suit the application.  You need to know
+>> what power you can produce and what speed you will achieve with that
+>> power. If you have a hull in mind then the speed v power can be
+>> worked out.  The best way to determine your power output is to do a
+>> test on a recumbent machine at a gym.
+>>
+>> Typical value of cadence is 70rpm and prop speed is 300rpm.  The
+>> 300rpm works well for a suitable prop.
+>>
+>> JavaProp is quite good for designing a prop.  You need to set the
+>> Options to suit water and select a suitable foil.  You need to select
+>> a foil.  The E193 at Re# 100,000 and 1 degree AoA is OK.   The design
+>> process is iterative.  You need to achieve adequate strength while
+>> aiming for the highest efficiency.
+>>
+>> If you can weld then the easiest way to make a nice prop is to use
+>> stainless steel flat bar.  I have a procedure for this.
+>>
+>> The Bolly boat prop is OK for an easily driven hull.  Will not be as
+>> good as you can make to suit but still good for most applications.
+>>
+>> Rick
+>>
+>>
+>> Greetings All,
+>>
+>> It's time for me to do a little research on propellers and such.  I was
+>> looking at Rich W's. boat here:
+>> http://www.rickwill.bigpondhosting.com/V11J_Dec_2008.jpg   and I
+>> noticed a
+>> wide and steeply pitched prop.  I'm sure that this is a very efficient
+>> setup, so are there plans/drawings for this prop?  How wide is it,
+>> and at
+>> what pitch?  Are there props for sale?  If I have to make my own, what
+>> materials would I use, wood, fiberglass, or...?
+>>
+>> On a related thread what rpms do these generally run at, and what
+>> cadence is
+>> typical for the pedaling?
+>>
+>> Thanks a lot,
+>>
+>> Ken
+>>
+>>
+>> Rick Willoughby
+>> rickwill at bigpond.net.au
+>> 03 9796 2415
+>> 0419 104 821
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>>
+>> hpv-boats mailing list
+>> mailto:hpv-boats at bikelist.org
+>> http://hupi.org/mailman/listinfo/hpv-boats
+>>
+>>
+>> End of hpv-boats Digest, Vol 55, Issue 2
+>> ****************************************
+>>
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing list,
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>> subscription.
+>
+>
+> --------------------------------------------------------------------------------
+>
+>
+>
+> No virus found in this incoming message.
+> Checked by AVG - www.avg.com
+> Version: 8.5.423 / Virus Database: 270.14.32/2460 - Release Date: 10/26/09
+> 08:10:00
+>
+>
+>
+> ------------------------------
+>
+>
+> hpv-boats mailing list
+> mailto:hpv-boats at bikelist.org
+> http://hupi.org/mailman/listinfo/hpv-boats
+>
+>
+> End of hpv-boats Digest, Vol 58, Issue 3
+> **************************************** 
+
+

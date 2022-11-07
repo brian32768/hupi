@@ -1,0 +1,35 @@
+From christine at typing2000.com.au  Mon Feb 27 05:29:15 2012
+From: christine at typing2000.com.au (Christine and Stephen Nurse)
+Date: Mon, 27 Feb 2012 21:29:15 +1100
+Subject: [hpv] Open Source hpv plans posted
+References: <mailman.1.1329843619.7389.hpv@hupi.org><5246F1B7FEF74C009DDB4113045DEBCC@centrecoe26be8>
+	<CAF20Xn2qNE2wb-9ybLhhVbssWpyjYw9asbOa7FRdEZWeyOarPA@mail.gmail.com>
+Message-ID: <0439ED9D5D2B44CCA19AD0327FCDE75C@centrecoe26be8>
+
+Hi Ph.T (is that your real name?) and everyone.
+
+These bikes work just like any fwd fixed bottom bracket design, that is, the chain comes from somewhere near the steering axis before it goes to the front wheel.  So when the steering twists, the chain twists too, but doesn't actually displace much.  Standard rear derailleurs mash up the chain in a horrible way during gearshifts, so this drive compromise doesn't worry the bike much. You can either have the chain quite close to the steering axis like some front wheel drive bikes with pulleys, or this bevo bike http://www.velovision.com/forum-new/read.php?5,8669 or limit the steering during pedalling in some way.  I have trouser guards or outside catcher rings on the chainring and limit the steering during pedalling by having my knees inside the steering bars and it all works.
+
+I hadn't seen those trikes before I did a google search for open source recumbent. But I quite like them.
+
+Regards
+
+Steve Nurse
+
+
+
+
+----- Original Message ----- 
+  From: Ph.T 
+  To: Christine and Stephen Nurse 
+  Cc: hpv at hupi.org 
+  Sent: Monday, February 27, 2012 9:42 AM
+  Subject: Re: [hpv] Open Source hpv plans posted
+
+
+  I've never seen these trikes before: very inspiring for home builders .
+  http://www.n55.dk/manuals/spaceframevehicles/spaceframevehicles.html
+  . I'm not sure I understand your bike's design;
+  when you steer, does it twist the chain ?
+  and does that tend to derail you sometimes ?
+

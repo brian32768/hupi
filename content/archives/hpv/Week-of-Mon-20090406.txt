@@ -1,0 +1,274 @@
+From JCSnyder.studio at worldnet.att.net  Mon Apr  6 20:38:16 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Mon, 6 Apr 2009 21:38:16 -0600
+Subject: [hpv] Headwind Bicycle and WPV (Wind Powered Vehicle)
+Message-ID: <49DACAA8.7070107@worldnet.att.net>
+
+This past year an organized "race" was held in Holland bring together 
+participants from around Europe. I put quotes around "race" because the 
+vehicles are rather slow as of yet, being powered with wind, stored 
+energy, human muscle, and use electric drive trains and other innovative 
+approaches which list members may find fascinating.
+
+The following web site is fairly extensive. Navigation links appear on 
+the left hand sidebar. A good page to start from is 
+http://www.windenergyevents.com/FachhochschuleFlensburg.html
+
+The level of innovation exhibited is awesome.
+
+Cheers,
+
+John Snyder
+
+From theosch06 at yahoo.de  Tue Apr  7 00:59:35 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Tue, 7 Apr 2009 09:59:35 +0200
+Subject: [hpv] Headwind Bicycle and WPV (Wind Powered Vehicle)
+In-Reply-To: <49DACAA8.7070107@worldnet.att.net>
+References: <49DACAA8.7070107@worldnet.att.net>
+Message-ID: <49DB07E7.4000601@yahoo.de>
+
+John Snyder schrieb:
+> This past year an organized "race" was held in Holland bring together 
+> participants from around Europe. I put quotes around "race" because the 
+> vehicles are rather slow as of yet... 
+ > ...
+A good page to start from is
+> http://www.windenergyevents.com/FachhochschuleFlensburg.html
+
+Thanks for the super link, John! At least the vehicle from Flensburg probably 
+has a pretty sub-optimal turbine (too many blades). Actually the state of the 
+art for land vehicles - at least models - is that it is possible to go downwind 
+faster than the wind by using the rotary airfoil as a propeller, not turbine. On 
+the mailing list of the AYRS (Amateur Yacht Research Society) this subject comes 
+up every few years. So far nobody knows whether it could be achieved with boats. 
+We think so, but nobody has yet built one. The opposite case - the headwind 
+vehicle - is however easily done for both land vehicles and boats.
+
+Theo Schmidt
+
+From JCSnyder.studio at worldnet.att.net  Thu Apr  9 11:07:11 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Thu, 9 Apr 2009 12:07:11 -0600
+Subject: [hpv] Headwind Bicycle and WPV (Wind Powered Vehicle)
+In-Reply-To: <mailman.19.1239130803.41327.hpv@bikelist.org>
+References: <mailman.19.1239130803.41327.hpv@bikelist.org>
+Message-ID: <49DE394F.6020600@worldnet.att.net>
+
+Theo Schmidt wrote:
+> Thanks for the super link, John! At least the vehicle from Flensburg probably 
+> has a pretty sub-optimal turbine (too many blades). Actually the state of the 
+> art for land vehicles - at least models - is that it is possible to go downwind 
+> faster than the wind by using the rotary airfoil as a propeller, not turbine. On 
+> the mailing list of the AYRS (Amateur Yacht Research Society) this subject comes 
+> up every few years. So far nobody knows whether it could be achieved with boats. 
+> We think so, but nobody has yet built one. The opposite case - the headwind 
+> vehicle - is however easily done for both land vehicles and boats.
+>   
+
+Theo,
+
+The faster than tailwind concept is super cool!
+
+Is it plausible to use a single rotary airfoil for both a propeller or a 
+turbine? IOW, the operator would be able to use the same rotor as either 
+a power input or a power output device.
+
+Notice that Kiel University's vehicle employs an electric drive train. 
+That neat arrangement suggests possible design opportunities for 
+assisted HPVs which used natural energy sources exclusively . 
+http://www.baltic-thunder.de/
+
+John Snyder
+
+
+From theosch06 at yahoo.de  Fri Apr 10 00:58:39 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Fri, 10 Apr 2009 09:58:39 +0200
+Subject: [hpv] Headwind Bicycle and WPV (Wind Powered Vehicle)
+In-Reply-To: <49DE394F.6020600@worldnet.att.net>
+References: <mailman.19.1239130803.41327.hpv@bikelist.org>
+	<49DE394F.6020600@worldnet.att.net>
+Message-ID: <49DEFC2F.70907@yahoo.de>
+
+John Snyder wrote:
+...
+> Is it plausible to use a single rotary airfoil for both a propeller or a 
+> turbine? IOW, the operator would be able to use the same rotor as either 
+> a power input or a power output device.
+
+Hi John,
+Yes, you can of course use the same foil for both purposes, but if it is an 
+asymetrical foil, as is usual, one of the applications will be the "wrong way" 
+around, as for example with an airplane flying upside down. You must either 
+design the foil to be primarly for the one or the other purpose - and accept 
+poor performance in the "wrong" mode, or use a symetrical foil section. In this 
+case the achievable coefficient of lift is rather limited, i.e. you need more 
+surface.
+
+
+> Notice that Kiel University's vehicle employs an electric drive train. 
+> That neat arrangement suggests possible design opportunities for 
+> assisted HPVs which used natural energy sources exclusively . 
+> http://www.baltic-thunder.de/
+
+The Amick wind car also used an electrical system even though the foil was a 
+fixed wing like a sail, but unlike this even fixed in attitude. The idea was to 
+sail in favorable winds charging the batteries and using the stored energy for 
+propulsion in unfavorable winds. The Kiel University car is more universal as 
+every wind is favorable. You don't need energy storage except for the case of no 
+wind. The disadvantage is the safety issue of rotary foils on a street vehicle; 
+I'm sure a road licence wouldn't be granted in most countries.
+
+Cheers, Theo
+
+From JCSnyder.studio at worldnet.att.net  Sat Apr 11 12:36:17 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Sat, 11 Apr 2009 13:36:17 -0600
+Subject: [hpv] Headwind Bicycle and WPV (Wind Powered Vehicle)
+In-Reply-To: <mailman.19.1239390004.33109.hpv@bikelist.org>
+References: <mailman.19.1239390004.33109.hpv@bikelist.org>
+Message-ID: <49E0F131.7000908@worldnet.att.net>
+
+Theo Schmidt wrote
+> Yes, you can of course use the same foil for both purposes, but if it is an 
+> asymetrical foil, as is usual, one of the applications will be the "wrong way" 
+> around, as for example with an airplane flying upside down. You must either 
+> design the foil to be primarly for the one or the other purpose - and accept 
+> poor performance in the "wrong" mode, or use a symetrical foil section. In this 
+> case the achievable coefficient of lift is rather limited, i.e. you need more 
+> surface.
+>   
+Excellent analogy, the upside down airplane!
+
+For a human-wind hybrid the choice between prop or turbine performance 
+might be simple, already made for us -- go for the turbine.
+
+Dealing with the headwind condition provides more benefit to a hybrid 
+human-wind powered vehicle when average speed is put to the forefront as 
+contrasted to highest possible speed. In those rare conditions when an 
+out and back round trip happens with the natural wind coming from 0.0 
+deg yaw relative to the road, the vehicle's average speed can never 
+exceed a value twice that of when the vehicle is in a headwind condition 
+(the slowest leg). Poor performance of a propeller when traveling in the 
+downwind condition would have minimal influence on the trip's averages.
+
+The same phenomena occurs when walking up then bicycling down a steep 
+hill, such as a ski slope. No matter how fast the bicycle is able to 
+descend, the entire round trip's speed can never exceed a value more 
+than twice that of the trip's portion devoted to pushing and climbing. 
+Crawl up at 2 mph, blister down at 150 mph, the sums of time and 
+distance covered create an average speed less than 4 mph.
+
+> The Amick wind car also used an electrical system even though the foil was a 
+> fixed wing like a sail, but unlike this even fixed in attitude. 
+
+I had forgotten about the Amick car!!! Thanks for the reminder. Here are 
+some images of the Amick car on the web, which took awhile to locate;. 
+http://home.earthlink.net/~jameslamick/press/images_from_rna/index.htm
+
+This raises the question. For a human-wind hybrid would it be tenable to 
+place a horizontal-aixs turbine which pointed in a fixed azimuth? This 
+HPV design does, but did not incorporate a traction wheel or appear to 
+exploit a natural wind input. Maybe it does.
+http://www.popularmechanics.com/home_journal/workshop/4218427.html
+
+>  The idea was to 
+> sail in favorable winds charging the batteries and using the stored energy for 
+> propulsion in unfavorable winds. The Kiel University car is more universal as 
+> every wind is favorable. 
+I assume (always dangerous)  the only advantage of the Darius rotor is 
+due to universal wind direction -- doesn't matter where the apparent 
+wind is coming from.
+
+When using a sailbike it became obvious that the natural wind is rarely 
+favorable because of availability, and to a lesser extent the apparent 
+wind direction. If wind is ever is to become practical for road 
+transport, wind power must be supplemented with other power sources such 
+as stored energy or human power.
+
+> You don't need energy storage except for the case of no 
+> wind. 
+That no wind case happens frequently even in places characterized as 
+being windy. The availability of a natural wind is intermittent and 
+unpredictable, just as sailboats must deal with the extremes of becalmed 
+or gale force storms. Energy storage would help dole out the available " 
+natural energy income" to match desired "energy spending" rates.
+
+> The disadvantage is the safety issue of rotary foils on a street vehicle; 
+> I'm sure a road licence wouldn't be granted in most countries.
+I agree with you, safety is a very important consideration.
+
+One possible approach for making a design safe in traffic, might be to 
+contain a turbine's blades within a duct or shroud, such as used on jet 
+aircraft.  A tiny example of a shrouded wind powered bike light; 
+http://www.treehugger.com/files/2006/07/a_double_whammy.php
+
+Another approach might be to use non-bladed turbines. Here's a link to 
+an interesting and unusual turbine design with a tongue twisting 
+name;VERTICAL AXIS INVOLUTE SPIRAL DRAG PROPULSION WIND TURBINE 
+http://www.stiltman.com/html/wind_power.html
+
+Cheers,
+
+John Snyder
+
+
+From sstrand at u.washington.edu  Sun Apr 12 12:29:46 2009
+From: sstrand at u.washington.edu (Stuart Strand)
+Date: Sun, 12 Apr 2009 12:29:46 -0700
+Subject: [hpv] Old recumbent newsreels
+In-Reply-To: <49E0F131.7000908@worldnet.att.net>
+References: <mailman.19.1239390004.33109.hpv@bikelist.org>
+	<49E0F131.7000908@worldnet.att.net>
+Message-ID: <0DE3049E0E5D3748A653E1CB1600673E0C960AFA2D@sdc-mbx-01.exchange.washington.edu>
+
+Many of you must already be aware of this footage, but it was the first time I had seen it.
+
+http://www.youtube.com/watch?v=jdlpJqHxLxk
+
+? = Stuart =
+
+Stuart E. Strand
+167 Wilcox Hall, Box 352700, Univ. Washington, Seattle, WA 98195
+voice 206-543-5350, fax 206-685-3836
+skype:  stuartestrand
+http://faculty.washington.edu/sstrand/ 
+
+
+From jw.stephens at gmail.com  Sun Apr 12 13:26:13 2009
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Sun, 12 Apr 2009 13:26:13 -0700
+Subject: [hpv] Old recumbent newsreels
+In-Reply-To: <0DE3049E0E5D3748A653E1CB1600673E0C960AFA2D@sdc-mbx-01.exchange.washington.edu>
+References: <mailman.19.1239390004.33109.hpv@bikelist.org>
+	<49E0F131.7000908@worldnet.att.net>
+	<0DE3049E0E5D3748A653E1CB1600673E0C960AFA2D@sdc-mbx-01.exchange.washington.edu>
+Message-ID: <c74d93000904121326t63248d2akc8b44b4c69b087ea@mail.gmail.com>
+
+Nice! I especially like the bike made out of a brass bed.
+
+On Sun, Apr 12, 2009 at 12:29, Stuart Strand <sstrand at u.washington.edu> wrote:
+> Many of you must already be aware of this footage, but it was the first time I had seen it.
+>
+> http://www.youtube.com/watch?v=jdlpJqHxLxk
+>
+> ? = Stuart =
+>
+> Stuart E. Strand
+> 167 Wilcox Hall, Box 352700, Univ. Washington, Seattle, WA 98195
+> voice 206-543-5350, fax 206-685-3836
+> skype: ?stuartestrand
+> http://faculty.washington.edu/sstrand/
+>
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+>
+
+
+
+-- 
+I just wish I had time for one more bowl of chili
+--Christopher "Kit" Carson, frontiersman, his last words, 1868
+

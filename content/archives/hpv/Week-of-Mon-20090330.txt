@@ -1,0 +1,1166 @@
+From theosch06 at yahoo.de  Mon Mar 30 05:11:37 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Mon, 30 Mar 2009 15:11:37 +0200
+Subject: [hpv] General braking problem with assisted vehicles [was: Re:
+ Phantom Trailer]
+In-Reply-To: <49CFC015.3080906@worldnet.att.net>
+References: <49CFC015.3080906@worldnet.att.net>
+Message-ID: <49D0C509.7070309@yahoo.de>
+
+John Snyder schrieb:
+...
+> Take a look at the chain routes in the Lightfoot Cycles power assist 
+> trailer. The picture is small, and may need to be viewed off line to 
+> catch any detail; http://www.lightfootcycles.com/powerpusher.php  It may 
+> be the case that Rod built a functional differential by using a 
+> jackshaft connected to the engine/motor in the shaft's center and 
+> connected at either end of the shaft to two standard bicycle drive 
+> wheels. This would allow power to both wheels while providing the 
+> independent clutch mechanism for each wheel as Al suggested.
+
+This seems to me to be exactly what Al suggested, John. I guess this is the way 
+to go if you can do without electric braking.
+
+
+> YouTube has several video clips of people who have built single-wheel 
+> power assist trailers, which simplifies matters. 
+
+We still have this problem: if you do require regernerative or at least 
+electrical resistive braking, you cannot use a freewheel. If you don't use a 
+freewheel (or one-way clutch), the motor has to turn all the time. This doesn't 
+matter so much if:
+
+1) the vehicle is mainly a motor vehicle, like the Twike, or
+
+2) the motor is direct and brushless, like some hub motors (Bionx?), so that 
+there is little appreciable resistance from the motor when it is not connected 
+electrically but still being turned.
+
+I have been chewing on this problem for 24 years now. You really need a 
+freewheel which can be locked for braking. I did indeed buy one which was made 
+for fixed-wheel bicycles, i.e. to have the option of fixed wheel or freewheel, 
+but I never actually used it.
+
+Cheers, Theo Schmidt
+
+
+From evsolutions at rogers.com  Mon Mar 30 13:23:24 2009
+From: evsolutions at rogers.com (EVsolutions)
+Date: Mon, 30 Mar 2009 17:23:24 -0400
+Subject: [hpv] hpv Digest, Vol 55, Issue 35
+In-Reply-To: <mailman.15.1238443206.80970.hpv@bikelist.org>
+Message-ID: <8EB336E757964B02A1901C338E1EEBCA@acerc2d0f03b5f>
+
+Good grief all this talk about electric motors on this Group. A few years
+ago it was Blasphemy to mention e-motors here. I like it.
+
+If you want to get a Pusher Trailer designed for a tadpole try this 
+
+www.synthetictransport.com 
+
+joshua goldberg
+evsolutions at rogers.com
+www.evsolutions.net
+http://groups.yahoo.com/groups/e-motor-assist
+ 
+
+-----Original Message-----
+From: hpv-bounces at bikelist.org [mailto:hpv-bounces at bikelist.org] On Behalf
+Of hpv-request at bikelist.org
+Sent: Monday, March 30, 2009 4:00 PM
+To: hpv at bikelist.org
+Subject: hpv Digest, Vol 55, Issue 35
+
+Send hpv mailing list submissions to
+	hpv at bikelist.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://hupi.org/mailman/listinfo/hpv
+or, via email, send a message with subject or body 'help' to
+	hpv-request at bikelist.org
+
+You can reach the person managing the list at
+	hpv-owner at bikelist.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of hpv digest..."
+
+
+Please DO NOT copy the original message in its entirety; it wastes space.
+Either reply without copying, or edit the copied text so that only the
+pertinent
+information is provided. Thanks.
+
+Today's Topics:
+
+   1. Re: LWB and batteries (Fred Ungewitter)
+   2. Re: LWB and batteries (Jeff Wills)
+   3. Re: acceleration 0 to 60 (JOHN TETZ)
+   4. Re: LWB and batteries (JOHN TETZ)
+   5. Re: wind-powered trike (LioNiNoiL)
+   6. General braking problem with assisted vehicles [was: Re:
+      Phantom Trailer] (Theo Schmidt)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Sun, 29 Mar 2009 18:40:13 -0400
+From: Fred Ungewitter <g.u at juno.com>
+Subject: Re: [hpv] LWB and batteries
+To: <hpv at bikelist.org>
+Message-ID: <49CFF8CD.7050604 at juno.com>
+Content-Type: text/plain; charset="ISO-8859-1"; format=flowed
+
+As an owner of an e-assist velomobile, with the motor driving the cranks, I
+can say that it is probably the best method to get either top performance or
+top economy from an electric motor on a bike.  My velomobile was (and is,
+with the new owner) equipped with a Stokemonkey system. It drives the left
+side (via a tandem crank) of the bottom bracket with a freewheel on the
+motor. When the motor runs, the operator must pedal, but the operator may
+pedal and the motor freewheels.  Some people dislike the idea, but it worked
+great for me and allows for continual human assist. Clipless pedals are a
+must, for safety reasons.
+
+Cyclone systems are similar, but drive the right side and have a no-pedal
+freewheel for those inclined to let the motor do the work.
+
+Electric motors are most efficient in a narrow rpm range and most powerful
+in a slightly lower, but no less narrow rpm range. By running through the
+cranks, you can select the best rpm for either your climbs or duration
+requirements. I picked the left side gearing ratio to give me the best
+efficiency rpm at my mid-range to high-range cadence, and it fell into place
+that best power dropped into the same range as my climb cadence.
+
+Some e-bike operators will post figures of 10-15 watt hours per mile, but
+one would suggest that means not quite as much pedaling as the Stokemonkey
+system. I never saw double digit figures and managed to bring in five to
+seven watt hours per mile in my velomobile. Aerodynamics played a big part
+in the low figures, of course.
+
+The Stokemonkey has incredible torque and will buckle frame tubes if not
+well braced. Todd from clevercycles.com may not want to sell a system, for
+other than the Xtracycle for which it is designed, as my velomobile was an
+experiment that went quite well.  It's also pricey, but on a par with the
+BionX in my opinion.
+
+If you have pieces and parts from another system and can engineer a
+Stokemonkey or Cyclone system into your bike, you'll find it rewarding in
+all ways.  You'll likely be able to bias the weight forward on the slippery
+front wheel, but put the traction to the rear where you need it.
+
+I'm not against hub motors, but I believe that a crank-based system has so
+much more going for it.
+
+Keep us updated on your project and progress.
+
+fred
+
+***************************************************************
+Original Message: 4
+Date: Sun, 29 Mar 2009 09:26:58 -0700
+From: Stuart Strand <sstrand at u.washington.edu>
+Subject: [hpv] LWB and batteries
+
+Since I have been diagnosed with tachycardia (occasional bursts of high
+heart rate) I am on beta blockers and can no longer climb the steep hills in
+Seattle  (BTW I highly recommend riding with a heart rate monitor.  That's
+the way I discovered my tachycardia).  I have been thinking about where to
+put an electrical assist on my bike.  I am 6 ft 3 in with big feet, so I
+prefer LWB bikes in order to avoid heel interference problems that I have
+encountered on SWBs.  So I ride an old Infinity USS LWB (Avatar type).
+
+Where to put the electrical assist, such as a BionX.  I could put it on the
+20 in front wheel, with the battery pack up front.  This might help with the
+main drawback of LWBs:  the poor weight distribution and the lightly loaded
+front wheel, which breaks free so easily.  But would I have enough traction
+up there to prevent slipping on a wet uphill climb (when I need it most)?
+
+Alternatively I was thinking of building a USS LWB frame around a pedelec
+unit salvaged from a Giant LaFree Lite up front assisting my pedaling at the
+crank.  I would also mount the battery up front to help with the
+aforementioned weight distribution problem.  Comments?
+
+http://www.electricvehiclesnw.com/main/lite.htm
+
+************************************************************
+
+
+____________________________________________________________
+Get hooked up! Click here for the trailer hitch you've been looking for!
+http://thirdpartyoffers.juno.com/TGL2141/fc/BLSrjpTD65kCE0JfhkNJcSJrY8x1EcxC
+1YEWGU3j86HzgWrVqXnvy9Zc6IY/
+
+
+------------------------------
+
+Message: 2
+Date: Sun, 29 Mar 2009 23:03:49 +0000
+From: Jeff Wills <jeff_wills at comcast.net>
+Subject: Re: [hpv] LWB and batteries
+To: Fred Ungewitter <g.u at juno.com>
+Cc: hpv at bikelist.org
+Message-ID:
+	
+<233915234.724311238367829249.JavaMail.root at sz0158a.emeryville.ca.mail.comca
+st.net>
+	
+Content-Type: text/plain; charset="utf-8"
+
+Gee, we've been getting into the "power assist" lately, haven't we. I'll add
+to the pile:
+
+The Portland Human Power Challenge (May 23-25) will feature the second
+annual ePower Challenge on Monday, May 25th for human-electric hybrids.
+Here's the info about the event: http://www.ohpv.org/HPC/ePowerEvents.html
+
+
+
+Jeff Wills
+
+------------------------------------------------------------
+Make plans now to attend the 
+Portland Human Power Challenge
+http://www.ohpv.org/HPC/index.html
+and the Recumbent Retreat
+http://www.recumbentretreat.org/
+------------------------------------------------------------
+
+
+
+------------------------------
+
+Message: 3
+Date: Sun, 29 Mar 2009 21:11:29 -0400
+From: JOHN TETZ <jgtetz at msn.com>
+Subject: Re: [hpv] acceleration 0 to 60
+To: <hpv at bikelist.org>, Stuart Strand <sstrand at u.washington.edu>
+Message-ID: <COL102-DS20ED308E491977E627BF94D78D0 at phx.gbl>
+Content-Type: text/plain; charset="iso-8859-1"
+
+Stuart wrote;
+
+>acceleration from stop signs go by without pointing out that rubber might
+do the job.
+....Yes that could be excellent. Model airplanes use it because of the power
+to weigh ration is high.
+
+>Wind it up coming to a stop, then reverse gearing and let it loose to
+accelerate. 
+....several years ago before the sensitivity to energy consumption was in
+our consciousness some HPVers were exploring what they called 
+Energy Accumulators. An excellent title.
+
+John Tetz 
+
+------------------------------
+
+Message: 4
+Date: Sun, 29 Mar 2009 21:29:55 -0400
+From: JOHN TETZ <jgtetz at msn.com>
+Subject: Re: [hpv] LWB and batteries
+To: <hpv at bikelist.org>, Fred Ungewitter <g.u at juno.com>
+Message-ID: <COL102-DS520DBCC9E5794A7A5E1F0D78D0 at phx.gbl>
+Content-Type: text/plain; charset="iso-8859-1"
+
+Hello Fred;
+
+You should post your comments on your system on  the ULEA Ultra Light
+Electric Assist site. 
+
+http://autos.groups.yahoo.com/group/ULEA/<http://autos.groups.yahoo.com/grou
+p/ULEA/>
+
+>The Stokemonkey has incredible torque and will buckle frame tubes if not
+well braced. 
+....They need a current limiter. Without it the battery the gear box, and
+motor are excessively stressed. 
+With the current limiter they could use a lighter gear box, maybe a lighter
+motor, and even a smaller battery. 
+
+John Tetz 
+
+------------------------------
+
+Message: 5
+Date: Sun, 29 Mar 2009 20:29:58 -0700
+From: LioNiNoiL <lioninoil at yahoo.com>
+Subject: Re: [hpv] wind-powered trike
+To: <hpv at bikelist.org>
+Message-ID: <524951.61456.qm at web32707.mail.mud.yahoo.com>
+Content-Type: text/plain; charset="us-ascii"
+
+
+Ron Richings wrote:
+ 
+> The 'Greenbird' clocked 126.1 mph (202.9 km/h) , eclipsing
+> the old record of 116 mph, set in 1999.
+> 
+> More at      http://tinyurl.com/c5lbuv
+ 
+Here is a direct link to the Greenbird website:
+http://www.greenbird.co.uk/
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+northeast of Lake Ivanpah
+
+
+
+      
+
+
+------------------------------
+
+Message: 6
+Date: Mon, 30 Mar 2009 15:11:37 +0200
+From: Theo Schmidt <theosch06 at yahoo.de>
+Subject: [hpv] General braking problem with assisted vehicles [was:
+	Re: Phantom Trailer]
+To: <hpv at bikelist.org>
+Message-ID: <49D0C509.7070309 at yahoo.de>
+Content-Type: text/plain; charset="ISO-8859-1"; format=flowed
+
+John Snyder schrieb:
+...
+> Take a look at the chain routes in the Lightfoot Cycles power assist 
+> trailer. The picture is small, and may need to be viewed off line to 
+> catch any detail; http://www.lightfootcycles.com/powerpusher.php  It may 
+> be the case that Rod built a functional differential by using a 
+> jackshaft connected to the engine/motor in the shaft's center and 
+> connected at either end of the shaft to two standard bicycle drive 
+> wheels. This would allow power to both wheels while providing the 
+> independent clutch mechanism for each wheel as Al suggested.
+
+This seems to me to be exactly what Al suggested, John. I guess this is the
+way 
+to go if you can do without electric braking.
+
+
+> YouTube has several video clips of people who have built single-wheel 
+> power assist trailers, which simplifies matters. 
+
+We still have this problem: if you do require regernerative or at least 
+electrical resistive braking, you cannot use a freewheel. If you don't use a
+
+freewheel (or one-way clutch), the motor has to turn all the time. This
+doesn't 
+matter so much if:
+
+1) the vehicle is mainly a motor vehicle, like the Twike, or
+
+2) the motor is direct and brushless, like some hub motors (Bionx?), so that
+
+there is little appreciable resistance from the motor when it is not
+connected 
+electrically but still being turned.
+
+I have been chewing on this problem for 24 years now. You really need a 
+freewheel which can be locked for braking. I did indeed buy one which was
+made 
+for fixed-wheel bicycles, i.e. to have the option of fixed wheel or
+freewheel, 
+but I never actually used it.
+
+Cheers, Theo Schmidt
+
+
+
+------------------------------
+
+This message digest comes to you via the hpv at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+End of hpv Digest, Vol 55, Issue 35
+***********************************
+No virus found in this incoming message.
+Checked by AVG - www.avg.com 
+Version: 8.0.238 / Virus Database: 270.11.32/2030 - Release Date: 03/30/09
+08:40:00
+
+
+From jw.stephens at gmail.com  Mon Mar 30 13:32:40 2009
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Mon, 30 Mar 2009 14:32:40 -0700
+Subject: [hpv] hpv Digest, Vol 55, Issue 35
+In-Reply-To: <8EB336E757964B02A1901C338E1EEBCA@acerc2d0f03b5f>
+References: <8EB336E757964B02A1901C338E1EEBCA@acerc2d0f03b5f>
+Message-ID: <49D13A78.3050602@gmail.com>
+
+The conversations reflect the times. As a group, we are aging, and 
+looking for that convergence of opportunity and reality.
+
+Please note that Joshua forgot to trim the non-relevant parts of the 
+digest in his posting ...
+
+... and he didn't change the subject line to reflect what his post was 
+about. Two breaches of netiquette ...
+
+"Don't be like Joshua"
+
+EVsolutions wrote:
+> Good grief all this talk about electric motors on this Group. A few years
+> ago it was Blasphemy to mention e-motors here. I like it.
+> 
+> If you want to get a Pusher Trailer designed for a tadpole try this 
+> 
+> www.synthetictransport.com 
+> 
+> joshua goldberg
+> evsolutions at rogers.com
+> www.evsolutions.net
+> http://groups.yahoo.com/groups/e-motor-assist
+>  
+> 
+> -----Original Message-----
+> From: hpv-bounces at bikelist.org [mailto:hpv-bounces at bikelist.org] On Behalf
+> Of hpv-request at bikelist.org
+> Sent: Monday, March 30, 2009 4:00 PM
+> To: hpv at bikelist.org
+
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+From jgtetz at msn.com  Mon Mar 30 15:49:51 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Mon, 30 Mar 2009 19:49:51 -0400
+Subject: [hpv] Energy Accumulators & 0 to 20 (was Re: acceleration 0 to
+	60)
+In-Reply-To: <3424dc900903292308n543f0376y20ee3d224c2ed7f3@mail.gmail.com>
+References: <3424dc900903292308n543f0376y20ee3d224c2ed7f3@mail.gmail.com>
+Message-ID: <COL102-DS2548436CB3F4430873D85FD78D0@phx.gbl>
+
+Tony wrote;
+
+>Ah, yes, but where do we find human-range gearboxes and clutches?
+.........Making a suitable coupling device/transmission  is part of the challenge. 
+
+>Any actual experiments and results you can point us to?
+......Not really. At that time there was so little concern for conservation of energy. 
+
+There was a person by the name of Peter Sharp back in the early 1990s who was a kind of leader on the subject. He wrote about the merits of such systems and tried to get people interested,  to no avail
+
+He even proposed detailed rules for IHPVA races that could include human power derived energy accumulators. 
+But the racers wanted nothing to do with this. 
+
+Had there had been an interest back then by now we probably would have some results to show and talk about. 
+
+My last known address of Peter Sharp is 2786 Bellaire Place, Oakland Ca, 94601. 
+
+John Tetz 
+
+From togo at of.net  Mon Mar 30 16:44:13 2009
+From: togo at of.net (Tony Godshall)
+Date: Mon, 30 Mar 2009 17:44:13 -0700
+Subject: [hpv] Energy Accumulators & 0 to 20 (was Re: acceleration 0 to
+	60)
+In-Reply-To: <COL102-DS2548436CB3F4430873D85FD78D0@phx.gbl>
+References: <3424dc900903292308n543f0376y20ee3d224c2ed7f3@mail.gmail.com>
+	<COL102-DS2548436CB3F4430873D85FD78D0@phx.gbl>
+Message-ID: <3424dc900903301744n2e51d8a1k9ed5577c1d88adc5@mail.gmail.com>
+
+>... My last known address of Peter Sharp is 2786 Bellaire Place, Oakland Ca,
+> 94601.
+
+Right across the moat from me.
+
+I'm in Alameda.
+
+Thanks
+
+From mlibrik at att.net  Mon Mar 30 17:37:54 2009
+From: mlibrik at att.net (Mike Librik)
+Date: Mon, 30 Mar 2009 20:37:54 -0500
+Subject: [hpv] European bike parts wholesalers (kind of OT)
+Message-ID: <49D173F2.5010908@att.net>
+
+I'm posting this to the HPV list since I know it reaches some people in 
+Europe who are into bicycles.  Some might be able to help directly or 
+else make inquiries.
+
+I'm looking for a European bike parts wholesaler (I'm in the US) for 
+occasional purchases.  I'm sure there are plenty of them out there, but 
+they are not easy to find.  If anyone on the list knows contact 
+information for one I'd appreciate it.  I do run a real bike shop.
+
+I've meant for years to find one mainly because SRAM does not support 
+its DualDrive hubs very well here in the US.  Repair parts are available 
+in Europe (so they say), just not in the US.  The 3-speed rotary DD 
+shifter is getting hard to find.  They have just discontinued selling 
+the disk brake version of the DualDrive in the US.  If I want this stuff 
+I'm evidently going to have to import it myself.
+
+-- 
+Mike Librik, LCI #929
+League of Bicycling Voters
+Austin, TX
+(512) 567-4493
+
+Recumbent bikes & trikes
+for Central Texas:
+www.EasyStreetRecumbents.com
+
+From evsolutions at rogers.com  Mon Mar 30 19:55:16 2009
+From: evsolutions at rogers.com (EVsolutions)
+Date: Mon, 30 Mar 2009 23:55:16 -0400
+Subject: [hpv] e-motors
+In-Reply-To: <mailman.14384.1238463477.337.hpv@bikelist.org>
+Message-ID: <05F502D600964DAD8705B84DD63AF096@acerc2d0f03b5f>
+
+Bite me 
+
+I have not posted here in several years and figured ya'll have moved forward
+beyond trimming but I did forgot about subject line changes. I run my own
+Yahoo Group and we ignore such silliness (you refer to as Netiquette)
+because it was only ever done for one guy in Texas on a Dial Up 56K Modem
+and he finally went DSL. So am I to assume there are still Members on this
+Forum still on Dial-Up 56K Modems?
+
+Message: 2
+Date: Mon, 30 Mar 2009 14:32:40 -0700
+From: JW Stephens <jw.stephens at gmail.com>
+Subject: Re: [hpv] hpv Digest, Vol 55, Issue 35
+To: <hpv at bikelist.org>
+Message-ID: <49D13A78.3050602 at gmail.com>
+Content-Type: text/plain; charset="ISO-8859-1"; format=flowed
+
+The conversations reflect the times. As a group, we are aging, and 
+looking for that convergence of opportunity and reality.
+
+Please note that Joshua forgot to trim the non-relevant parts of the 
+digest in his posting ...
+
+... and he didn't change the subject line to reflect what his post was 
+about. Two breaches of netiquette ...
+
+"Don't be like Joshua"
+
+EVsolutions wrote:
+> Good grief all this talk about electric motors on this Group. A few 
+> years ago it was Blasphemy to mention e-motors here. I like it.
+> 
+> If you want to get a Pusher Trailer designed for a tadpole try this
+> 
+> www.synthetictransport.com
+
+
+joshua goldberg
+evsolutions at rogers.com
+www.evsolutions.net
+http://groups.yahoo.com/groups/e-motor-assist
+ 
+
+
+
+
+From JCSnyder.studio at worldnet.att.net  Mon Mar 30 22:16:30 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Tue, 31 Mar 2009 00:16:30 -0600
+Subject: [hpv] General braking problem with assisted vehicles
+Message-ID: <49D1B53E.80200@worldnet.att.net>
+
+Theo,
+
+This first bit is in response to the notion of using a hub motor as a 
+clutch, when without an electric load.
+
+Svend Nielsen of Sweden created a website at 
+http://www.svendus.se/goldenmotor/index.html  His page shows still 
+photos of a two-wheel trailer with the left wheel equipped an electric 
+hub motor. The right wheel has a standard hub which can be seen in the  
+YouTube video; http://www.youtube.com/watch?v=ooTwoJeEVxE  A flat topped 
+cargo-box such as on Svend's pusher trailer looks a natural place to 
+incorporate a solar panel.    It might be a pricey experiment using a 
+similar trailer to compare using one hub motor to using two hub motors 
+for the purpose of regenerative braking. One motor might work for some 
+regen ability, even when asymetric, or not...
+ 
+The Aevon is a single wheeled bike trailer, bigger than a BOB. If I 
+recall correctly, the website hinted that it is possible to use a hub 
+motor wheel to create a pusher trailer. "IIRC" because the URL was 
+active earlier today, but not active at this moment; 
+http://www.aevon.eu/pages/aevon_bicycle_trailers_english.html
+
+
+ > I have been chewing on this problem for 24 years now. You really need a
+ > freewheel which can be locked for braking. I did indeed buy one which 
+was made
+ > for fixed-wheel bicycles, i.e. to have the option of fixed wheel or 
+freewheel,
+ > but I never actually used it.
+
+Yours is likely the solution of brilliance, e.g., least complex and most 
+functional. One might start with the single-speed coaster brake hub, put 
+it on a single-wheel trailer which also carries cargo, then make a chain 
+connection back to the motor/generator. A simple approach could be to 
+start with an Adams Trail-A-Bike, or similar, then modify after  
+removing the saddle, handlebars and drive train .  
+http://www.trail-a-bike.com/product/   Used for its intended purpose, 
+the Trail-A-Bike might be recognized as being an occasional low-power 
+assist.
+
+I wonder though, with a pusher trailer used for regen if there would 
+there be an effective minimum weight requirement?  Too light, implies 
+the trailer's wheel or wheels would skid across the pavement instead of 
+rotate when braking.
+
+Cheers,
+
+John Snyder
+
+
+From JCSnyder.studio at worldnet.att.net  Mon Mar 30 22:57:25 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Tue, 31 Mar 2009 00:57:25 -0600
+Subject: [hpv]  e-motors
+Message-ID: <49D1BED5.9020202@worldnet.att.net>
+
+Joshua asked,
+
+>  So am I to assume there are still Members on this
+> Forum still on Dial-Up 56K Modems?
+>   
+
+Yes, there  is a least 1/2 of a list member who does.   I alternate 
+between dial-up and wifi because of living in a rural area.  There was 
+no harm done with the long quote. It was no big deal.
+
+ I like the notion that everyone -- everyone --  is allowed five free 
+mistakes a day, and that the mistakes roll over and never expire if 
+unused. Trivial itty-bitty things count as one-hundredth of a mistake, 
+AKA a real doozy.  That roll over feature is especially useful. I like 
+the approach mostly because I commit at least two or three real doozies 
+a day without even trying . <clears throat>
+
+Sometimes, not nearly often enough, accidents can become important 
+opportunities,  forces of creation.  If Alexander Flemming hadn't made 
+the mistake of not washing his glass ware before going on vacation, he 
+likely wouldn't have discovered penicillin mold. 
+
+Cheers,
+
+John Snyder
+
+From theosch06 at yahoo.de  Tue Mar 31 01:49:31 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Tue, 31 Mar 2009 11:49:31 +0200
+Subject: [hpv] Netiquette [was: Re:  e-motors]
+In-Reply-To: <05F502D600964DAD8705B84DD63AF096@acerc2d0f03b5f>
+References: <05F502D600964DAD8705B84DD63AF096@acerc2d0f03b5f>
+Message-ID: <49D1E72B.2020803@yahoo.de>
+
+EVsolutions wrote:
+
+> I have not posted here in several years and figured ya'll have moved forward
+> beyond trimming but I did forgot about subject line changes. I run my own
+> Yahoo Group and we ignore such silliness (you refer to as Netiquette)
+> because it was only ever done for one guy in Texas on a Dial Up 56K Modem
+> and he finally went DSL. So am I to assume there are still Members on this
+> Forum still on Dial-Up 56K Modems?
+
+The points are not only 56k Modems but general resource efficiency, usefulness, 
+archiving and searchability.
+
+General resource efficiency:
+Mailing lists live on servers, are stored by members, cached by all sorts of 
+machines, and transferred all over the place. This adds up to a lot of resources 
+used even if videos use a lot more. On a personal level, 20k messages instead of 
+2k messages use up disc space ten times quicker, and discs are often nearly 
+full, no matter how big. The general problem is like with a lot of things, that 
+those people using the resources heavily aren't those who have to pay for them. 
+(see http://en.wikipedia.org/wiki/Tragedy_of_the_commons )
+
+Usefulness:
+Not removing quotes greating reduces readability on mailing lists, especially if 
+subscribed in the digest mode.
+
+Archiving and searchability:
+These messages are archived at lots of places such as 
+http://web.archive.org/web/*/http://hupi.org but also privately. If you have 
+to wade through lots of repetitions to find something, you are less likely to 
+find what you want. Even powerful search engines won't help when the same 
+messages are repeated many times.
+
+For all these reasons, Netiquette is these days *more* and not *less* important 
+than in the early internet days. For just chatting, other media than mailing 
+lists are more appropriate. Or, at least set up the mailing list to be private, 
+i.e. only visible to members. But I guess this is not what most of us here want.
+
+Best, Theo Schmidt
+
+From list at moz.geek.nz  Tue Mar 31 20:38:37 2009
+From: list at moz.geek.nz (Moz)
+Date: Tue, 31 Mar 2009 21:38:37 -0700
+Subject: [hpv] Netiquette [was: Re:  e-motors]
+In-Reply-To: <49D1E72B.2020803@yahoo.de>
+References: <05F502D600964DAD8705B84DD63AF096@acerc2d0f03b5f>
+	<49D1E72B.2020803@yahoo.de>
+Message-ID: <857451115.20090331213837@moz.geek.nz>
+
+Theo said:
+> The points are not only 56k Modems but general resource efficiency,
+
+Specifically, the attention of users is limited and valuable. Your ten
+seconds spent ensuring an appropriate subject line, proof reading,
+tidying quotes and making sure your message is easy to read means that
+every single list member saves a few seconds when considering your
+message. Multiply that by 500-odd list members and you're saving the
+rest of us a combined 30 minutes for your ten seconds work. Not to
+mention that you're much more likely to get an answer to any
+questions you might ask since people will grow to associate your
+address with readable messages.
+
+Or to put it another way, every rude or lazy so-and-so who can't be
+bothered doing so costs the group a lot more time than they save
+themselves.
+
+Also consider those of us not on the digest who have filters to
+automatically delete any message with "Digest" in the subject... if
+you can't be bothered with your own message, why should I?
+
+Moz
+
+
+From franzen at enneagram.com  Tue Mar 31 12:30:34 2009
+From: franzen at enneagram.com (Dave Franzen)
+Date: Tue, 31 Mar 2009 13:30:34 -0700
+Subject: [hpv] E-assist for the Anthrotech
+Message-ID: <49D27D6A.2040109@enneagram.com>
+
+There is a nice assist solution for the Anthrotech trike.
+
+http://www.anthrotech.de/ZubehoerBilder/Lohmeyer.jpg
+
+The unit is a bit pricey, maybe 1,700 Euros.  I'd like one, but not just 
+now.  ;-)  I suspect that the pedals go around when the unit is working.
+
+Regards,
+
+Dave Franzen
+Eugene, Oregon
+
+From evsolutions at rogers.com  Tue Mar 31 13:25:03 2009
+From: evsolutions at rogers.com (EVsolutions)
+Date: Tue, 31 Mar 2009 17:25:03 -0400
+Subject: [hpv] Netiquette
+In-Reply-To: <mailman.13.1238529604.99455.hpv@bikelist.org>
+Message-ID: <086F911FEB7E4AF5ADCB03DBA8CCE554@acerc2d0f03b5f>
+
+Please DO NOT copy the original message in its entirety; it wastes space.
+Either reply without copying, or edit the copied text so that only the
+pertinent information is provided. Thanks.
+
+FWIW I read this (edit) message after I posted and had I read it before I
+posted it is unlikely I would have ignored the (edit) request. I blew it,
+messed up. According to my wife I am only a horses ass some of the time, the
+rest of the time I'm sleeping.
+
+joshua goldberg
+evsolutions at rogers.com
+www.evsolutions.net
+http://groups.yahoo.com/groups/e-motor-assist
+ 
+
+
+
+
+From jgtetz at msn.com  Tue Mar 31 16:50:22 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Tue, 31 Mar 2009 20:50:22 -0400
+Subject: [hpv] Netiquette [was: Re:  e-motors]
+In-Reply-To: <05F502D600964DAD8705B84DD63AF096@acerc2d0f03b5f>
+	<49D1E72B.2020803@yahoo.de>
+References: <05F502D600964DAD8705B84DD63AF096@acerc2d0f03b5f>
+	<49D1E72B.2020803@yahoo.de>
+Message-ID: <COL102-DS24E7575D65391D2D53CFD0D78B0@phx.gbl>
+
+>For all these reasons, Netiquette is these days *more* and not *less* important 
+than in the early internet days. 
+
+.............Good points Theo. 
+
+John Tetz 
+
+From lioninoil at yahoo.com  Tue Mar 31 17:12:35 2009
+From: lioninoil at yahoo.com (LioNiNoiL)
+Date: Tue, 31 Mar 2009 18:12:35 -0700
+Subject: [hpv] e-motors
+Message-ID: <834745.37423.qm@web32704.mail.mud.yahoo.com>
+
+
+Joshua Goldberg wrote:
+ 
+> Bite me 
+ 
+Okay, if that's the way you want it, Goldberg.
+Be sure to let me know the next time you're in Vegas.
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+
+      
+
+From JCSnyder.studio at worldnet.att.net  Wed Apr  1 05:26:31 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Wed, 1 Apr 2009 07:26:31 -0600
+Subject: [hpv] Netiquette
+Message-ID: <49D36B87.6010402@worldnet.att.net>
+
+Did Sam Clemens write a book on this very topic? "The Netiquette Yank on 
+Keying Author's Quirk."
+
+From garrie at recumbents.com  Wed Apr  1 05:29:19 2009
+From: garrie at recumbents.com (Garrie Hill)
+Date: Wed, 1 Apr 2009 09:29:19 -0400
+Subject: [hpv] netiquette
+Message-ID: <DEC474A8-E152-45C2-BF11-3507C457ABE1@recumbents.com>
+
+"Did Sam Clemens write a book on this very topic? "The Netiquette Yank  
+on Keying Author's Quirk."
+
+
+Nyuk, nyuk, nyuk!!  Good one!!
+
+
+Garrie "Carbon Based Lifeform" Hill
+for pics of Garrie's current time sucking hobbies goto:
+http://garriehill.winkflash.com/
+            and
+http://s58.photobucket.com/albums/g277/cfbb/
+
+
+
+
+
+From jw.stephens at gmail.com  Wed Apr  1 09:58:54 2009
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Wed, 1 Apr 2009 10:58:54 -0700
+Subject: [hpv] Noodles for phat brake wires?
+Message-ID: <c74d93000904011058l4252576dt61994a060e65f6fa@mail.gmail.com>
+
+2.0mm 49-strand brake cables in moto-sized housing were standard when
+the MtB industry got going. Noodles, OTOH, are a recent answer to
+cable routing problems. Does anyone know if there exists noodles for
+these old-skool MtB wires? The collar for seating the housing would
+have about 6mm ID. Thanks.
+
+Elrey in Orange County, California, USA
+
+-- 
+Your children are not your children.
+They are the sons and daughters of Life's longing for itself.
+--The Prophet (1923) by Khalil Gibran
+
+From theosch06 at yahoo.de  Wed Apr  1 10:15:12 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Wed, 1 Apr 2009 20:15:12 +0200
+Subject: [hpv] General braking problem with assisted vehicles
+In-Reply-To: <49D1B53E.80200@worldnet.att.net>
+References: <49D1B53E.80200@worldnet.att.net>
+Message-ID: <49D3AF30.3090302@yahoo.de>
+
+John and all,
+
+Thanks for all the inputs and links WRT trailers. I didn't know so much was 
+going on.
+...
+> I wonder though, with a pusher trailer used for regen if there would 
+> there be an effective minimum weight requirement?  Too light, implies 
+> the trailer's wheel or wheels would skid across the pavement instead of 
+> rotate when braking.
+
+In the phantom-trailer concept it just has to brake its own weight, not that of 
+the steering vehicle. I'm more worried about the heavily-laden end, in fact I 
+would have an application right now: a neighbour uphill from me has some oak 
+wood for me, very heavy. No way I can use my trailer downhill with my bike, it's 
+just too steep laden with 100 kg or so; I can only just manage on foot and it's 
+dicey. If it had an effective brake (evenly on both wheels) - whether mechanical 
+or electric, I could use the bike. Hmm, maybe a Segway could be turned into a 
+phantom trailer...
+
+Cheers, Theo
+
+From timallard at msn.com  Wed Apr  1 12:25:53 2009
+From: timallard at msn.com (tomm)
+Date: Wed, 1 Apr 2009 13:25:53 -0700
+Subject: [hpv] General braking problem with assisted vehicles
+In-Reply-To: <49D3AF30.3090302@yahoo.de>
+References: <49D1B53E.80200@worldnet.att.net> <49D3AF30.3090302@yahoo.de>
+Message-ID: <003001c9b308$0e7f16d0$2b7d4470$@com>
+
+Slap on a couple of beefy BMX brakes on the trailer, set up the cable so
+that it can be removed (tandem cables may be long enough), find a brake
+handle where the clamp opens up to make it easy on/off.
+
+The worry is cable stretch, to be practical for really heavy loads it may
+take using hydraulics to get the pull back to where it's split by cables to
+the two sides. Still worth the trouble but the brake handle with an opening
+clamp may be harder to find.
+
+hth,
+
+Tom Mallard
+
+-----Original Message-----
+From: hpv-bounces at bikelist.org [mailto:hpv-bounces at bikelist.org] On Behalf
+Of Theo Schmidt
+Sent: Wednesday, April 01, 2009 11:15 AM
+To: John Snyder
+Cc: hpv at bikelist.org
+Subject: Re: [hpv] General braking problem with assisted vehicles
+
+John and all,
+
+Thanks for all the inputs and links WRT trailers. I didn't know so much was 
+going on.
+..
+> I wonder though, with a pusher trailer used for regen if there would 
+> there be an effective minimum weight requirement?  Too light, implies 
+> the trailer's wheel or wheels would skid across the pavement instead of 
+> rotate when braking.
+
+In the phantom-trailer concept it just has to brake its own weight, not that
+of 
+the steering vehicle. I'm more worried about the heavily-laden end, in fact
+I 
+would have an application right now: a neighbour uphill from me has some oak
+
+wood for me, very heavy. No way I can use my trailer downhill with my bike,
+it's 
+just too steep laden with 100 kg or so; I can only just manage on foot and
+it's 
+dicey. If it had an effective brake (evenly on both wheels) - whether
+mechanical 
+or electric, I could use the bike. Hmm, maybe a Segway could be turned into
+a 
+phantom trailer...
+
+Cheers, Theo
+--
+This message comes to you via the hpv at bikelist.org mailing list, sponsored
+by http://www.hupi.org/
+Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+From dw-mail at warnock.me.uk  Wed Apr  1 14:02:54 2009
+From: dw-mail at warnock.me.uk (David Warnock)
+Date: Wed, 1 Apr 2009 23:02:54 +0100
+Subject: [hpv] General braking problem with assisted vehicles
+In-Reply-To: <49D3AF30.3090302@yahoo.de>
+References: <49D1B53E.80200@worldnet.att.net> <49D3AF30.3090302@yahoo.de>
+Message-ID: <2a89b59e0904011502i6c9e7adbjf853d5cb0a718240@mail.gmail.com>
+
+Theo,
+
+> I'm more worried about the heavily-laden end, in
+> fact I would have an application right now: a neighbour uphill from me has
+> some oak wood for me, very heavy. No way I can use my trailer downhill with
+> my bike, it's just too steep laden with 100 kg or so; I can only just manage
+> on foot and it's dicey. If it had an effective brake (evenly on both wheels)
+> - whether mechanical or electric, I could use the bike. Hmm, maybe a Segway
+> could be turned into a phantom trailer...
+
+Strap the load on so that it rubs against the wheels to act as a brake
+for this short trip. Have someone with you who can slip a bar in front
+of the trailer wheels whenever you want to stop.
+
+Dave
+-- 
+Dave Warnock: http://42.blogs.warnock.me.uk
+
+From JCSnyder.studio at worldnet.att.net  Wed Apr  1 16:49:41 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Wed, 1 Apr 2009 18:49:41 -0600
+Subject: [hpv] General braking problem with assisted vehicles
+In-Reply-To: <49D3AF30.3090302@yahoo.de>
+References: <49D1B53E.80200@worldnet.att.net> <49D3AF30.3090302@yahoo.de>
+Message-ID: <49D40BA5.9090004@worldnet.att.net>
+
+Theo Schmidt wrote:
+>
+> In the phantom-trailer concept it just has to brake its own weight, 
+> not that of the steering vehicle. I'm more worried about the 
+> heavily-laden end, in fact I would have an application right now: a 
+> neighbour uphill from me has some oak wood for me, very heavy. No way 
+> I can use my trailer downhill with my bike, it's just too steep laden 
+> with 100 kg or so; I can only just manage on foot and it's dicey. If 
+> it had an effective brake (evenly on both wheels) - whether mechanical 
+> or electric, I could use the bike. Hmm, maybe a Segway could be turned 
+> into a phantom trailer... 
+
+
+Sticking with the topic at hand, here's a YouTube video from a gentleman
+who has been exploring Phantom Trailers since 1985.
+http://www.youtube.com/watch?v=R-DwQ5AAO9o&NR=1
+
+Given this one specific task to bring home the oak wood, may I suggest
+using human power only, but calling on some concepts from regen braking,
+power assist, and the elegance of walking?  (Dang, Theo that sounds like
+a fun problem to tackle.)
+
+At zero speed there is zero watt needed for braking. There is also zero
+watt of mechanical braking power when a wheeled vehicle is allowed to
+accelerate to terminal velocity. In between these two speed extremes
+there exists another specific speed which results in maximum braking
+power. When plotting this concept out as speed by power, accounting for
+slope, mass and other drag,  a bell-like curve appears. The peak of the
+curve is that point where a heavily-ladened tandem's tires can explode
+from rim-heating or a regen system would be producing its maximum output.
+
+The actual values are not so important right now only the recognition
+that at descent rates slightly greater than  0 m/s  and slightly less
+than terminal velocity require minimal amounts of braking power in order
+to sustain a constant rate of descent. Motion occurs when braking power
+against gravity on a slope becomes greater than 0 watt, even by a few
+"drops".
+
+To apply this observation in practice, means going down a steep slope
+with a  >100 kg cargo at the low end of the speed range, as near to
+walking speed as possible, e.g., on the order of 1 m/s or even less. By
+"steep", I tend to visualize slopes between 8% and 15%.
+
+If one's descent speed seems to be increasing (a cycle computer might
+not be of much help to monitor a crawling rate) the rider, pulls on the
+brakes, or drags a foot, long before a run away could occur -- and
+always keeping one eye alert for places and features on the side of the
+road to intensionally run into in order to stop. Using lowest possible
+braking power means the bike's brakes alone can be fully sufficient.
+
+The super slow approach can also be applied to a hand cart without
+mechanical brakes. It's a technique I use when doing
+legend-in-my-own-mind Manly Man trailering chores. <smile>  If a person
+want to try the technique, it's like a good idea to practice with modest
+loads in the beginning.
+
+Cheers,
+
+John Snyder
+
+
+
+
+From mlibrik at att.net  Wed Apr  1 17:23:30 2009
+From: mlibrik at att.net (Mike Librik)
+Date: Wed, 1 Apr 2009 20:23:30 -0500
+Subject: [hpv] Noodles for phat brake wires?
+In-Reply-To: <c74d93000904011058l4252576dt61994a060e65f6fa@mail.gmail.com>
+References: <c74d93000904011058l4252576dt61994a060e65f6fa@mail.gmail.com>
+Message-ID: <49D41392.2070808@att.net>
+
+JW Stephens wrote:
+> Does anyone know if there exists noodles for
+> these old-skool MtB wires? 
+
+Off the cuff, you might look into brake systems designed for BMX.
+
+-- 
+Mike Librik, LCI #929
+League of Bicycling Voters
+Austin, TX
+(512) 567-4493
+
+Recumbent bikes & trikes
+for Central Texas:
+www.EasyStreetRecumbents.com
+
+From mlibrik at att.net  Wed Apr  1 17:34:28 2009
+From: mlibrik at att.net (Mike Librik)
+Date: Wed, 1 Apr 2009 20:34:28 -0500
+Subject: [hpv] General braking problem with assisted vehicles
+In-Reply-To: <49D3AF30.3090302@yahoo.de>
+References: <49D1B53E.80200@worldnet.att.net> <49D3AF30.3090302@yahoo.de>
+Message-ID: <49D41624.1000201@att.net>
+
+Theo Schmidt wrote:
+
+> in fact I would have an application right now: a neighbour uphill 
+> from me has some oak wood for me, very heavy. 
+
+Perhaps you can rig a mechanical drag brake on each wheel of the 
+trailer.  When engaged, it would take some work on the cyclist's part to 
+accelerate the load, even downhill.  When you get to the bottom, or at 
+least past the worst of the decent, you could disengage the brakes and 
+ride as usual.
+
+-- 
+Mike Librik, LCI #929
+League of Bicycling Voters
+Austin, TX
+(512) 567-4493
+
+Recumbent bikes & trikes
+for Central Texas:
+www.EasyStreetRecumbents.com
+
+From JCSnyder.studio at worldnet.att.net  Wed Apr  1 22:10:50 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Thu, 2 Apr 2009 00:10:50 -0600
+Subject: [hpv] [correction]  braking {cproblem with assisted vehicles
+In-Reply-To: <49D40BA5.9090004@worldnet.att.net>
+References: <49D1B53E.80200@worldnet.att.net> <49D3AF30.3090302@yahoo.de>
+	<49D40BA5.9090004@worldnet.att.net>
+Message-ID: <49D456EA.8050307@worldnet.att.net>
+
+
+> ... since 1985.
+ 1995 per ref
+
+
+From list at moz.geek.nz  Thu Apr  2 19:59:01 2009
+From: list at moz.geek.nz (Moz)
+Date: Thu, 2 Apr 2009 20:59:01 -0700
+Subject: [hpv] General braking problem with assisted vehicles
+In-Reply-To: <49D3AF30.3090302@yahoo.de>
+References: <49D1B53E.80200@worldnet.att.net> <49D3AF30.3090302@yahoo.de>
+Message-ID: <1733835385.20090402205901@moz.geek.nz>
+
+Theo said:
+> I'm more worried about the heavily-laden end, in fact I would have
+> an application right now: a neighbour uphill from me has some oak
+> wood for me, very heavy... If it had an effective brake (evenly on
+> both wheels)
+
+I have a newly built heavy duty trailer with inertia brakes on it.
+It's not rocket science... well, except the "don't use cheap caliper
+brakes" part. But since it's four wheeled I am not particularly
+concerned about balancing the brakes, so I have not bothered at all.
+Conceptually it's fairly easy to do that though, it just adds
+slightly to the mechanical complexity.
+
+I've taken photos, I just don't have a web page for it yet.
+
+The idea is that the trailer hitch telescopes, and as it compresses
+that movement tensions two brake cables that run to brakes on the
+trailer. The minor complication is turning that compression into
+tension, which means running a post along the hitch from one part to
+hold the cables.
+
+In side view mine looks like this:
+
+
+                 bar /------------------(2)
+--------------------------    // (1)
+<- to trailer        ==========================> bike
+--------------------------
+
+(1) cable outer ends attach to bike part here, run left to brakes on
+trailer
+(2) ends of brake cables attach to trailer here.
+
+In plan view the bar is a T, for me that's welded solid but you could
+get some brake balancing by making that pivot.
+
+Much better braking can be got using cable operated disk brakes, but
+that adds $400 to the $200 trailer... I'll do that if I really need
+to, but right now I'm in the process of attaching V brakes instead of
+caliper ones (the ones that came with the 16" front forks I'm using)
+
+HTH
+Moz
+
+

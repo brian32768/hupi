@@ -1,0 +1,859 @@
+From mark at bikesmithdesign.com  Mon Dec 23 20:55:16 2013
+From: mark at bikesmithdesign.com (Mark Stonich)
+Date: Mon, 23 Dec 2013 19:55:16 -0600
+Subject: [hpv] 2WD Deltas
+Message-ID: <09155525-115A-4893-8D00-78725B69C196@bikesmithdesign.com>
+
+In a different thread - On Dec 22, 2013, at 8:51 PM, John Tetz wrote:
+> I'm working on a Delta trike design and would like to incorporate a two 
+> wheel drive.
+
+My winter trike has a 2WD system where the outer shell of an 8/9 speed freehub body is rigidly attached to the middle of a jackshaft. BMX freewheels on the ends of the shaft transmit power to the rear wheels. When turning, the freewheel driving the outer wheel freewheels. when one wheel slips, the other gets the power.  
+
+Due to the lightly loaded front wheel, (20-40-40 weight distribution) and the fact that the inside wheel gets the drive in turns, I expected the front wheel to plow in tight, low speed turns. It does so on clean lake ice or a rink but street ice is never as slick. The reason it grips so well I attribute to the 54 degree head angle, which causes the tire to be banked into the turn. A bike tire leaning into a turn will always grip better than one that's perpendicular to the surface.   
+
+I was on a tight budget at the time so built it almost entirely of stuff I had lying around. Wheels are just conventional MTB wheels with rim brakes. So I had to support both sides.   
+
+If I were doing another winter trike I'd use 700 - 32 rear tires to better cut through the snow, either cyclocross or studded. The jackshaft would be much shorter and single sided wheels mounted on half shafts with inboard disk brakes.  Frame could be much simpler and lighter.  For a summer trike, smaller, right wheel drive and 20"x2.35" Big Apples at 30 PSI
+
+http://bikesmithdesign.com/MyBikes/2wdTrike/jackshaft3.jpg  Half size
+
+http://bikesmithdesign.com/MyBikes/2wdTrike/jackshaft2.jpg ull size
+
+
+Freewheels mount on fittings I bought from Lightfoot Cycles. Just bolted through holes drilled in the 3/4" x 0.120 jackshaft. Lightfoot must have liked the idea because they came out with 2WD a year later.  Right wheel has a single cog mounted on a cassette body that had been locked with a bit of welding.  There is a 3rd bearing behind the cassette.
+
+http://bikesmithdesign.com/MyBikes/2wdTrike/fairingside.jpg
+
+66" wheelbase is to limit weight transfer off the front wheel and to get it out in front of the fairing.  54deg. head angle and 5-3/4" of rake gives 3/4" of trail. I would never have that much trail on a 2 wheel 'bent, but I wanted feedback to let me know how much grip I have. Front tire is a 20"-1-1/8" knobby.
+
+Inner skirts on the fenders keep salty snow off the secondary chains.
+
+ Mark Stonich;    BikeSmith Design & Fabrication
+   5349 Elliot Ave S. Minneapolis, MN 55417 USA
+      Ph. (612) 824-2372   http://bikesmithdesign.com
+
+
+
+
+From jgtetz at msn.com  Tue Dec 24 18:12:04 2013
+From: jgtetz at msn.com (JOHN)
+Date: Tue, 24 Dec 2013 18:12:04 -0500
+Subject: [hpv] 2 wheel drive Delta.
+Message-ID: <BAY173-DS91EECFEE85D5C7D6D198FD7C00@phx.gbl>
+
+   Thanks Mark for sharing your 2 wheel drive Delta. 
+
+ 
+
+Rich Saddler is working with me on our Delta and has a very similar system . He however keeps the freewheels on the wheels. 
+
+This means the right chain will be outside the shell on the vehicle though.
+
+ 
+
+Do you think the wheels driving the chains will affect coast down resistance?
+
+ 
+
+Also;  How do you set the toe on your vehicle ? 
+
+ 
+
+>The jackshaft would be much shorter and single sided wheels mounted on half shafts with inboard disk brakes.  Frame could be much simpler and lighter.
+
+.......Not sure as to how this can be done given the discs on the wheels have to insert in the caliper unless a removable axel is used. 
+
+ 
+
+How is your Cog set attached to the jack shaft?
+
+ 
+
+John Tetz 
+
+From timallard at msn.com  Tue Dec 24 19:05:09 2013
+From: timallard at msn.com (Tom Mallard)
+Date: Tue, 24 Dec 2013 17:05:09 -0700
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <BAY173-DS91EECFEE85D5C7D6D198FD7C00@phx.gbl>
+References: <BAY173-DS91EECFEE85D5C7D6D198FD7C00@phx.gbl>
+Message-ID: <SNT149-W7122EA5B7365E97187CEB0A3C30@phx.gbl>
+
+Just to mention that there are left-side hubs & freewheels available, at least in single-speed have seen them. Then found this on converting one:  http://www.recumbents.com/mars/pages/proj/tetz/VFS/projtetzVFS02lefthanddrive.html
+
+tom mallard
+  
+   .net web applications
+    
+      consumer product design
+
+> From: jgtetz at msn.com
+> To: hpv at hupi.org; mark at bikesmithdesign.com
+> Date: Tue, 24 Dec 2013 18:12:04 -0500
+> Subject: [hpv] 2 wheel drive Delta.
+> 
+>    Thanks Mark for sharing your 2 wheel drive Delta. 
+> 
+>  
+> 
+> Rich Saddler is working with me on our Delta and has a very similar system . He however keeps the freewheels on the wheels. 
+> 
+> This means the right chain will be outside the shell on the vehicle though.
+> 
+>  
+> 
+> Do you think the wheels driving the chains will affect coast down resistance?
+> 
+>  
+> 
+> Also;  How do you set the toe on your vehicle ? 
+> 
+>  
+> 
+> >The jackshaft would be much shorter and single sided wheels mounted on half shafts with inboard disk brakes.  Frame could be much simpler and lighter.
+> 
+> .......Not sure as to how this can be done given the discs on the wheels have to insert in the caliper unless a removable axel is used. 
+> 
+>  
+> 
+> How is your Cog set attached to the jack shaft?
+> 
+>  
+> 
+> John Tetz 
+> --
+> This message comes to you via the hpv at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+ 		 	   		  
+
+From jgtetz at msn.com  Tue Dec 24 20:27:05 2013
+From: jgtetz at msn.com (JOHN)
+Date: Tue, 24 Dec 2013 20:27:05 -0500
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <BAY173-DS91EECFEE85D5C7D6D198FD7C00@phx.gbl>
+ <SNT149-W7122EA5B7365E97187CEB0A3C30@phx.gbl>
+References: <BAY173-DS91EECFEE85D5C7D6D198FD7C00@phx.gbl>
+ <SNT149-W7122EA5B7365E97187CEB0A3C30@phx.gbl>
+Message-ID: <BAY173-DS19A47395DEBEA03F7340FBD7C30@phx.gbl>
+
+Tom Mallard wrote
+
+>Just to mention that there are left-side hubs & freewheels available, at 
+>least in single-speed have seen them. Then found this on converting one: 
+>http://www.recumbents.com/mars/pages/proj/tetz/VFS/projtetzVFS02lefthanddrive.html
+
+Tom that's kind of funny because I wrote that article on modifying a 
+Freewheel for left hand drive many years ago.
+That was for my Low FWD bike that I have used for many many years. It still 
+has the left hand freewheel on it.
+
+It's a bit too much work to modify them.
+
+John Tetz 
+
+
+From list at moz.geek.nz  Tue Dec 24 22:15:09 2013
+From: list at moz.geek.nz (Moz)
+Date: Wed, 25 Dec 2013 14:15:09 +1100
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <BAY173-DS91EECFEE85D5C7D6D198FD7C00@phx.gbl>
+References: <BAY173-DS91EECFEE85D5C7D6D198FD7C00@phx.gbl>
+Message-ID: <899699478.20131225141509@moz.geek.nz>
+
+JOHN said:
+> .......Not sure as to how this can be done given the discs on the
+> wheels have to insert in the caliper unless a removable axle is used.
+
+Unless you weld the calipers on to the frame you can remove whichever
+is easier. For my quad removing a rear wheel means removing the
+caliper, or at least one bolt on the mount so I can pivot the caliper
+up to let the rotor move out. It's easy enough and IMO not worth the
+hassle of coming up with a better system (I have seen some gems at
+AIPP events, built by people with CNC machines and too much time on
+their hands).
+
+Moz
+
+
+From jeff_wills at comcast.net  Wed Dec 25 00:39:39 2013
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Wed, 25 Dec 2013 05:39:39 +0000 (UTC)
+Subject: [hpv] HPA trifecta
+In-Reply-To: <mailman.1.1387904405.7351.hpv@hupi.org>
+References: <mailman.1.1387904405.7351.hpv@hupi.org>
+Message-ID: <1744699600.2973158.1387949979828.JavaMail.root@comcast.net>
+
+I was in Washington D.C. last weekend to visit my wife, who just started a new career as a patent examiner. Since she's working full time (no time off yet), I looked around the Smithsonian, among other places. In the process, I visited a collection of significant human-powered airplanes.
+
+The Gossamer Condor is at the Air & Space Museum on the Mall:
+http://airandspace.si.edu/explore-and-learn/multimedia/detail.cfm?id=939
+It's looking a little worn and wrinkled and in need of a good dusting.
+
+The Gossamer Albatross is at the Udvar-Hazy Center near Dulles Airport:
+http://airandspace.si.edu/collections/artifact.cfm?id=A19810428000
+It's in better shape, or perhaps the lighting hides the wrinkles better.
+
+The Daedalus 87 is hanging at Dulles Airport, in Concourse B:
+http://en.wikipedia.org/wiki/File:Daedalus_87_Dulles_Terminal_B.jpg
+http://en.wikipedia.org/wiki/MIT_Daedalus 
+The display is well done, with one wingtip within a few feet of the escalator. 
+
+
+Jeff Wills
+------------------------------------------------------------
+Make plans now to attend the 
+Portland Human Power Challenge
+http://www.ohpv.org/HPC/index.html
+and the Recumbent Retreat
+http://www.recumbentretreat.org/
+------------------------------------------------------------
+
+From charlie at atoc.com  Wed Dec 25 09:36:11 2013
+From: charlie at atoc.com (Charlie Buchalter)
+Date: Wed, 25 Dec 2013 06:36:11 -0800
+Subject: [hpv] HPA trifecta
+In-Reply-To: <1744699600.2973158.1387949979828.JavaMail.root@comcast.net>
+References: <mailman.1.1387904405.7351.hpv@hupi.org>
+ <1744699600.2973158.1387949979828.JavaMail.root@comcast.net>
+Message-ID: <002301cf017e$a8950800$f9bf1800$@com>
+
+The Gossamer Condor "B" backup plane is hanging in the Museum Of Flight in
+Seattle, complete with a mannequin inside.
+
+Happy holidays to all!
+Charlie Buchalter
+Atoc Inc.
+www.Atoc.com
+www.TopperRacks.com
+www.Draftmaster.com
+
+
+
+> -----Original Message-----
+> From: hpv [mailto:hpv-bounces at hupi.org] On Behalf Of Jeff Wills
+> Sent: Tuesday, December 24, 2013 9:40 PM
+> To: hpv at hupi.org
+> Subject: [hpv] HPA trifecta
+> 
+> I was in Washington D.C. last weekend to visit my wife, who just
+> started a new career as a patent examiner. Since she's working full
+> time (no time off yet), I looked around the Smithsonian, among other
+> places. In the process, I visited a collection of significant human-
+> powered airplanes.
+> 
+> The Gossamer Condor is at the Air & Space Museum on the Mall:
+> http://airandspace.si.edu/explore-and-
+> learn/multimedia/detail.cfm?id=939
+> It's looking a little worn and wrinkled and in need of a good dusting.
+> 
+> The Gossamer Albatross is at the Udvar-Hazy Center near Dulles Airport:
+> http://airandspace.si.edu/collections/artifact.cfm?id=A19810428000
+> It's in better shape, or perhaps the lighting hides the wrinkles
+> better.
+> 
+> The Daedalus 87 is hanging at Dulles Airport, in Concourse B:
+> http://en.wikipedia.org/wiki/File:Daedalus_87_Dulles_Terminal_B.jpg
+> http://en.wikipedia.org/wiki/MIT_Daedalus
+> The display is well done, with one wingtip within a few feet of the
+> escalator.
+> 
+> 
+> Jeff Wills
+> ------------------------------------------------------------
+> Make plans now to attend the
+> Portland Human Power Challenge
+> http://www.ohpv.org/HPC/index.html
+> and the Recumbent Retreat
+> http://www.recumbentretreat.org/
+> ------------------------------------------------------------
+> --
+> This message comes to you via the hpv at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+From jeff_wills at comcast.net  Wed Dec 25 12:20:12 2013
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Wed, 25 Dec 2013 17:20:12 +0000 (UTC)
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <mailman.1.1387990803.12274.hpv@hupi.org>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+Message-ID: <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+
+
+Moz said:
+(I have seen some gems at
+> AIPP events, built by people with CNC machines and too much time on
+> their hands).
+> 
+> Moz
+> 
+
+One of these is the Contes Engineering quad BMX/mountain bike: http://contesengineering.com/ . I've seen a couple in person, and there's lots and lots of custom parts involved.
+
+It uses a Samagaga differential in the rear, which is apparently commercially available. It certainly looks easier to implement than a multiple-chain system, plus it gives true differential power to the rear wheels and a mount for a disk brake: http://www.samagaga.com/Default.aspx 
+
+Jeff Wills
+------------------------------------------------------------
+Make plans now to attend the 
+Portland Human Power Challenge
+http://www.ohpv.org/HPC/index.html
+and the Recumbent Retreat
+http://www.recumbentretreat.org/
+------------------------------------------------------------
+
+
+From cesnur at iimetro.com.au  Wed Dec 25 14:53:58 2013
+From: cesnur at iimetro.com.au (cesnur at iimetro.com.au)
+Date: Thu, 26 Dec 2013 03:53:58 +0800
+Subject: [hpv] Leaning Delta Trikes / iLean Trikes
+Message-ID: <4caf5b7fd9ac4f3e25bda6bf91eb71aee7aa1f95@webmail.iinet.net.au>
+
+Hi
+
+After working on a leaning delta trike for several months, an article
+about it and similar trikes has been published on the Hupi Website.
+(Jump off from http://www.hupi.org/HPeJ/index.htm) Thanks to Theo
+Schmidt for helping with the publication. The trikes uses a standard
+crank mechanism to mount the rear wheels? Vi voung pioneered this
+construction and there have been a few trike builds using this
+technique (see also http://en.openbike.org/wiki/~iLean)
+
+Best Wishes, Regards
+
+Steve Nurse
+
+Melbourne Australia
+
+modularbikes.com.au
+
+
+From list at moz.geek.nz  Wed Dec 25 21:01:19 2013
+From: list at moz.geek.nz (Moz)
+Date: Thu, 26 Dec 2013 13:01:19 +1100
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+Message-ID: <515081428.20131226130119@moz.geek.nz>
+
+Jeff Wills said:
+> It uses a Samagaga differential in the rear, which is apparently
+> commercially available. It certainly looks easier to implement than
+> a multiple-chain system, plus it gives true differential power to
+> the rear wheels and a mount for a disk brake:
+> http://www.samagaga.com/Default.aspx
+
+Don't you want two disk brakes? Or do you not like differential braking?
+
+The advantage of a differential is that if one wheel loses traction
+you grind to a complete halt. That's why I wanted not to have a
+differential. Differentials solve a problem that for the most part
+HPVs don't have - enough power that unbalanced drive makes the vehicle
+unstable.
+
+Tf you go to downloads there's a PDF
+http://www.samagaga.com/Download/DG72N_Torsion_Test.pdf that says it
+will take 1100 kgf-cm, which I interpret as kilogram-force-equivalent
+centimetres, so we multiply by 9.81 to get Newtons then divide by 100
+to get metres, or 108Nm. Or multiply by the size of Obamas hand then
+divide by the square of a horse and add the weight of three barleycorns
+to get 84 and 17/48ths grossweigles per eigenstate for those using
+imperial units.
+
+When I ran the numbers after breaking some shit I got this: 100kg at
+165mm is 981N*0.165 = 162Nm at the bottom bracket. with a 24T chainring
+and 34T rear sprocket that's 229Nm at the rear axle.
+
+That's only twice what the device is tested to, so it might work. I'd
+ask about warranties, and I wouldn't let Moz ride it.
+
+Moz
+
+
+From johnriley1 at rogers.com  Thu Dec 26 09:27:09 2013
+From: johnriley1 at rogers.com (John Riley)
+Date: Thu, 26 Dec 2013 06:27:09 -0800
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <515081428.20131226130119@moz.geek.nz>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+Message-ID: <065CE77C-8DAE-44E2-903E-A1E10C239C03@rogers.com>
+
+
+On Dec 25, 2013, at 6:01 PM, Moz wrote:
+
+> Jeff Wills said:
+>> It uses a Samagaga differential in the rear, which is apparently
+>> commercially available. It certainly looks easier to implement than
+>> a multiple-chain system, plus it gives true differential power to
+>> the rear wheels and a mount for a disk brake:
+>> http://www.samagaga.com/Default.aspx
+...
+> 
+> When I ran the numbers after breaking some shit I got this: 100kg at
+> 165mm is 981N*0.165 = 162Nm at the bottom bracket. with a 24T chainring
+> and 34T rear sprocket that's 229Nm at the rear axle.
+> 
+> That's only twice what the device is tested to, so it might work. I'd
+> ask about warranties, and I wouldn't let Moz ride it.
+
+Interesting. AFAIK the Greenspeed Anura uses a Samaga differential. 
+
+From list at moz.geek.nz  Thu Dec 26 17:51:11 2013
+From: list at moz.geek.nz (Moz)
+Date: Fri, 27 Dec 2013 09:51:11 +1100
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <065CE77C-8DAE-44E2-903E-A1E10C239C03@rogers.com>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+ <065CE77C-8DAE-44E2-903E-A1E10C239C03@rogers.com>
+Message-ID: <25314537.20131227095111@moz.geek.nz>
+
+John Riley said:
+>>> http://www.samagaga.com/Default.aspx
+>> That's only twice what the device is tested to, so it might work.
+
+> Interesting. AFAIK the Greenspeed Anura uses a Samaga differential. 
+
+In that case I've seen it, and it looks about as substantial as a soft
+drink can. Which is fine for the intended market (old people), but not
+for a load carrying vehicle.
+
+It's possibly also protected by the design, in that the peak load on a
+dual freewheel system occurs when one wheel slips, but with a
+differential in that situation there's very little load because all
+drive goes to the slipping wheel.
+
+The freewheels in my quad are significantly larger diameter and made
+of steel.
+
+Moz
+
+
+From jgtetz at msn.com  Thu Dec 26 18:08:23 2013
+From: jgtetz at msn.com (JOHN)
+Date: Thu, 26 Dec 2013 18:08:23 -0500
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+ <065CE77C-8DAE-44E2-903E-A1E10C239C03@rogers.com>
+ <25314537.20131227095111@moz.geek.nz>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+ <065CE77C-8DAE-44E2-903E-A1E10C239C03@rogers.com>
+ <25314537.20131227095111@moz.geek.nz>
+Message-ID: <BAY173-DS176E02BBEA73D44441A6E7D7C20@phx.gbl>
+
+MOZ wrote
+
+>In that case I've seen it, and it looks about as substantial as a soft
+ drink can. Which is fine for the intended market (old people), but not
+ for a load carrying vehicle.
+.....Be careful here - I'm one of those "Old people" at 81 Ha. 
+
+John Tetz
+ 
+
+From list at moz.geek.nz  Thu Dec 26 18:51:41 2013
+From: list at moz.geek.nz (Moz)
+Date: Fri, 27 Dec 2013 10:51:41 +1100
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <BAY173-DS176E02BBEA73D44441A6E7D7C20@phx.gbl>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+ <065CE77C-8DAE-44E2-903E-A1E10C239C03@rogers.com>
+ <25314537.20131227095111@moz.geek.nz>
+ <BAY173-DS176E02BBEA73D44441A6E7D7C20@phx.gbl>
+Message-ID: <1733574145.20131227105141@moz.geek.nz>
+
+JOHN said:
+> MOZ wrote
+
+>>In that case I've seen it, and it looks about as substantial as a soft
+>  drink can. Which is fine for the intended market (old people), but not
+>  for a load carrying vehicle.
+> .....Be careful here - I'm one of those "Old people" at 81 Ha. 
+
+I know. I'm not as young and fit as I was, myself. But by all means,
+if you want to ride a load-carrying trike with a hundred kilos of
+stuff in the bin, be my guest.
+
+Moz
+
+
+From ark at vaxxine.com  Fri Dec 27 05:52:50 2013
+From: ark at vaxxine.com (ark at vaxxine.com)
+Date: Fri, 27 Dec 2013 05:52:50 -0500
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <515081428.20131226130119@moz.geek.nz>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+Message-ID: <1388141570.52bd5c024706f@web.vaxxine.com>
+
+>Gentlemen:
+In the development of the StormyWeather  velomobile the delta configuration
+proved to be the simplest to execute.
+Attempts were executed in driving the  left rear wheel, the right  rear wheel
+and a complicated freewheel differential on an owner completed Stormy.
+One was completed with a FWD  geared hub. Two Stormy velos were built with
+delailler FWD and later converted to  RWD left wheel.
+      The most recent builds  drive the left rear wheel.
+Every solution is some sort of compromise.
+   I admit that the differential addresses a theoretical problem that doesn't
+really come up on a practical delta.
+   The other solution to this perceived problem is to put two wheels infront.
+This is referred to as a backward trike or tadpole. The popularity of this
+design I struggle to comprehend.
+    This opinion is age related.   Not as old as John Tetz , but close.
+
+                                                                       Reg
+Rodaro
+
+
+
+
+
+
+
+
+
+From mark at bikesmithdesign.com  Fri Dec 27 12:16:01 2013
+From: mark at bikesmithdesign.com (Mark Stonich)
+Date: Fri, 27 Dec 2013 11:16:01 -0600
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <1388141570.52bd5c024706f@web.vaxxine.com>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+ <1388141570.52bd5c024706f@web.vaxxine.com>
+Message-ID: <0604535E-C342-4AB1-AE28-BDC34E068E93@bikesmithdesign.com>
+
+
+On Dec 27, 2013, at 4:52 AM, ark at vaxxine.com wrote:
+
+>> Gentlemen:
+> In the development of the StormyWeather  velomobile the delta configuration
+> proved to be the simplest to execute.
+> Attempts were executed in driving the  left rear wheel, the right  rear wheel
+> and a complicated freewheel differential on an owner completed Stormy.
+> One was completed with a FWD  geared hub. Two Stormy velos were built with
+> delailler FWD and later converted to  RWD left wheel.
+>      The most recent builds  drive the left rear wheel.
+
+If I build any non-winter trikes they will be right wheel drive to counteract road crown. But if trail isn't excessive, ie. over 3/4", left wheel drive works just fine. Penninger and Lightfoot are two where you couldn't tell which wheel dives without looking.
+
+> Every solution is some sort of compromise.
+>   I admit that the differential addresses a theoretical problem that doesn't
+> really come up on a practical delta.
+
+On the Kettwiesel it may be worthwhile, at least with a large rider. I've heard people complain that on steep hills the front wheel can become so lightly loaded at the strongest part of the pedal stroke that 1WD can push the front wheel sideways. The advantage of a Delta is that you can put more weight on the paired wheels, moving the CoG further from the rollover axes. With a delta as short as the Kett, if you lead up the rear wheels the CoG isn't that far ahead of the rear wheels. Given a rider with a tall CoG weight transfer can be an issue. A little longer wheelbase adds little weight and eliminates this issue.
+
+>   The other solution to this perceived problem is to put two wheels infront.
+> This is referred to as a backward trike or tadpole. The popularity of this
+> design I struggle to comprehend.
+
+AFAIK No one has produced a high performance delta so people are unaware of it's advantages for a sporty trike. I ride a delta because with 80% of the weight on the rear wheels your CoG is so far inboard of the rollover axes that even with a 19" seat height it's almost un-tippable.  I rode a tadpole with a 19" seat height. It had no front brakes as using them would have put the chainrings on the pavement, yet it was hard to take a corner without lifting the inside wheel. 
+
+You have to be down on the ground for a tadpole to make sense but I'd rather be up where drivers can see me.  At least the ones who aren't texting :-(
+
+>    This opinion is age related.   Not as old as John Tetz , but close.
+
+Ever watch one of us geezers trying to get up off of a low tadpole? Hilarious!
+> 
+>                                                                       Reg Rodaro
+
+ Mark Stonich;    BikeSmith Design & Fabrication
+   5349 Elliot Ave S. Minneapolis, MN 55417 USA
+      Ph. (612) 824-2372   http://bikesmithdesign.com
+
+
+
+
+From mark at bikesmithdesign.com  Fri Dec 27 13:01:26 2013
+From: mark at bikesmithdesign.com (Mark Stonich)
+Date: Fri, 27 Dec 2013 12:01:26 -0600
+Subject: [hpv] 8, 9 & 10 speed freewheels.
+Message-ID: <67B3B9E4-9526-42AB-B671-B0BB02C29DAD@bikesmithdesign.com>
+
+I'm a big fan of freehubs and cassettes. I've broken or bent too many axles on FW hubs. And don't get me started about removing freewheels on tandems.
+
+With conventional 10mm axles, 7 speeds seems to be the practical limit in most applications. More makes the unsupported length of the axle too long
+
+But for some HPV situations, in my case I'm looking at a delta drivetrain, the new crop of freewheels from SunRace and DNP has potential. You can even get an 11-36 10 speed from SunRace.  The DNP Epoch FWs look quite nice.  In some cases the cog selections make more sense than Shimano's cassettes.
+
+DNPs 11-34 is odd, but maybe brilliant. 
+11,13,15,17,18,19,21,24,28,34 they just dropped an 18 into the middle of their 9 speed. giving a wide range, but with ultra close ratios right where I do most of my riding.  
+
+I can't imagine many people wanting these, but QBP has them in significant numbers.
+
+ Mark Stonich;    BikeSmith Design & Fabrication
+   5349 Elliot Ave S. Minneapolis, MN 55417 USA
+      Ph. (612) 824-2372   http://bikesmithdesign.com
+
+
+
+
+From service at easystreetrecumbents.com  Fri Dec 27 13:36:08 2013
+From: service at easystreetrecumbents.com (Easy Street)
+Date: Fri, 27 Dec 2013 12:36:08 -0600
+Subject: [hpv] 8, 9 & 10 speed freewheels.
+In-Reply-To: <67B3B9E4-9526-42AB-B671-B0BB02C29DAD@bikesmithdesign.com>
+References: <67B3B9E4-9526-42AB-B671-B0BB02C29DAD@bikesmithdesign.com>
+Message-ID: <52BDC898.7060309@easystreetrecumbents.com>
+
+I've bought these for use with Bionx motor wheels.  I'm glad that I can 
+get these in 9 and 10 speed designs so we can do conversions on modern 
+bikes without replacing the whole drivetrain and transmission.
+
+On 12/27/2013 12:01 PM, Mark Stonich wrote:
+> But for some HPV situations, in my case I'm looking at a delta drivetrain, the new crop of freewheels from SunRace and DNP has potential. You can even get an 11-36 10 speed from SunRace.  The DNP Epoch FWs look quite nice.  In some cases the cog selections make more sense than Shimano's cassettes.
+>
+> DNPs 11-34 is odd, but maybe brilliant.
+> 11,13,15,17,18,19,21,24,28,34 they just dropped an 18 into the middle of their 9 speed. giving a wide range, but with ultra close ratios right where I do most of my riding.
+>
+> I can't imagine many people wanting these, but QBP has them in significant numbers.
+
+-- 
+Mike Librik - Owner
+Easy Street Recumbents
+www.easystreetrecumbents.com, (512) 453-0438
+We open at 11AM.  We're closed Tues. & Wed.
+5555 N. Lamar Blvd, #C105, Austin, TX 78751
+SE corner of Koenig & Lamar, Behind the hair salon that faces Koenig
+
+
+From johnriley1 at rogers.com  Sat Dec 28 09:45:53 2013
+From: johnriley1 at rogers.com (John Riley)
+Date: Sat, 28 Dec 2013 06:45:53 -0800
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <0604535E-C342-4AB1-AE28-BDC34E068E93@bikesmithdesign.com>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+ <1388141570.52bd5c024706f@web.vaxxine.com>
+ <0604535E-C342-4AB1-AE28-BDC34E068E93@bikesmithdesign.com>
+Message-ID: <7FDA9E4C-E338-4A63-A42F-7CC6F38C773C@rogers.com>
+
+
+On Dec 27, 2013, at 9:16 AM, Mark Stonich wrote:
+...
+> 
+> AFAIK No one has produced a high performance delta so people are unaware of it's advantages for a sporty trike. ...
+
+The Rans Trizard was in this direction, but it had some refinement issues, and was not on the market long.
+
+From pngracey at mac.com  Sat Dec 28 13:02:59 2013
+From: pngracey at mac.com (Paul Gracey)
+Date: Sat, 28 Dec 2013 10:02:59 -0800
+Subject: [hpv] low trikes
+In-Reply-To: <mailman.1.1388250004.31787.hpv@hupi.org>
+References: <mailman.1.1388250004.31787.hpv@hupi.org>
+Message-ID: <0BB42CA8-5BA1-4100-9241-60F35529C369@mac.com>
+
+Why I Don't Ride a Trike.
+
+You makers and partakers of trikes have this argument about once every decade. Delta v Tadpole, utility v  road handling. No one seems to be able to address both issues at once, or wants to , it would seem. 
+A very long time ago, I proposed to a trike builder that the solution might be to make a Tadpole which would arch upward shortening its wheelbase as it came to a stop. This would entail some serious engineering to put the stop limits and locking mechanisms at the right height for safe operation but could make such a machine both efficient and user friendly.  It would partly solve the vision problem of low trikes at intersections. The differential release of the front and rear brakes could then be used to enable the stored energy of the rider's height to push off once again, saving a gear shift or two. 
+I suppose if this old geezer wants to see such a thing before final check-out I had better get busy designing it.
+
+On Dec 28, 2013, at 9:00 AM, hpv-request at hupi.org wrote:
+
+> Ever watch one of us geezers trying to get up off of a low tadpole? Hilarious!
+>> 
+>>                                                                      Reg Rodaro
+
+
+From jw.stephens at gmail.com  Sat Dec 28 14:10:30 2013
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Sat, 28 Dec 2013 12:10:30 -0700
+Subject: [hpv] low trikes
+In-Reply-To: <0BB42CA8-5BA1-4100-9241-60F35529C369@mac.com>
+References: <mailman.1.1388250004.31787.hpv@hupi.org>
+ <0BB42CA8-5BA1-4100-9241-60F35529C369@mac.com>
+Message-ID: <CABk_z1+FebHUP_pNhOdydNdCkcjt-fV4x+tjqprTxaOFEDcUkg@mail.gmail.com>
+
+Au contraire Reg. It is exceptionally easy to arise from a low tadpole. You
+use momentum before stopping to propel you upward. Sounds difficult, really
+easy in action. YMMV of course.
+
+Elrey in Colorado
+
+
+On Sat, Dec 28, 2013 at 11:02 AM, Paul Gracey <pngracey at mac.com> wrote:
+
+> Why I Don't Ride a Trike.
+>
+> You makers and partakers of trikes have this argument about once every
+> decade. Delta v Tadpole, utility v  road handling. No one seems to be able
+> to address both issues at once, or wants to , it would seem.
+> A very long time ago, I proposed to a trike builder that the solution
+> might be to make a Tadpole which would arch upward shortening its wheelbase
+> as it came to a stop. This would entail some serious engineering to put the
+> stop limits and locking mechanisms at the right height for safe operation
+> but could make such a machine both efficient and user friendly.  It would
+> partly solve the vision problem of low trikes at intersections. The
+> differential release of the front and rear brakes could then be used to
+> enable the stored energy of the rider's height to push off once again,
+> saving a gear shift or two.
+> I suppose if this old geezer wants to see such a thing before final
+> check-out I had better get busy designing it.
+>
+> On Dec 28, 2013, at 9:00 AM, hpv-request at hupi.org wrote:
+>
+> > Ever watch one of us geezers trying to get up off of a low tadpole?
+> Hilarious!
+> >>
+> >>
+>  Reg Rodaro
+>
+> --
+> This message comes to you via the hpv at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+>
+
+
+
+-- 
+
+With this agreement, Congress has exhausted nearly all of the easy choices
+available. That leaves only tough choices for future deficit reduction or
+sequester replacement, which are critically necessary to keep entitlement
+programs affordable and the economy vibrant.
+
+--Erskine Bowles and Alan Simpson
+
+From tim.taylor at usu.edu  Sat Dec 28 14:32:44 2013
+From: tim.taylor at usu.edu (Timothy Taylor)
+Date: Sat, 28 Dec 2013 19:32:44 +0000
+Subject: [hpv] low trikes
+In-Reply-To: <0BB42CA8-5BA1-4100-9241-60F35529C369@mac.com>
+References: <mailman.1.1388250004.31787.hpv@hupi.org>,
+ <0BB42CA8-5BA1-4100-9241-60F35529C369@mac.com>
+Message-ID: <8D53781B2BBDBA46A5BF0F8B98691C80A93E3FC7@mb01.aggies.usu.edu>
+
+Actually the best solution I have seen was Wayne SooHoo's leaning trike.  It allowed a narrower track and a higher seat height.  Too bad it has never gone in to some form of production or at least sell the locking mechanism with plans for a kit.
+
+
+
+________________________________________
+From: hpv [hpv-bounces at hupi.org] on behalf of Paul Gracey [pngracey at mac.com]
+Sent: Saturday, December 28, 2013 11:02 AM
+To: hpv at hupi.org
+Subject: Re: [hpv] low trikes
+
+Why I Don't Ride a Trike.
+
+You makers and partakers of trikes have this argument about once every decade. Delta v Tadpole, utility v  road handling. No one seems to be able to address both issues at once, or wants to , it would seem.
+A very long time ago, I proposed to a trike builder that the solution might be to make a Tadpole which would arch upward shortening its wheelbase as it came to a stop. This would entail some serious engineering to put the stop limits and locking mechanisms at the right height for safe operation but could make such a machine both efficient and user friendly.  It would partly solve the vision problem of low trikes at intersections. The differential release of the front and rear brakes could then be used to enable the stored energy of the rider's height to push off once again, saving a gear shift or two.
+I suppose if this old geezer wants to see such a thing before final check-out I had better get busy designing it.
+
+On Dec 28, 2013, at 9:00 AM, hpv-request at hupi.org wrote:
+
+> Ever watch one of us geezers trying to get up off of a low tadpole? Hilarious!
+>>
+>>                                                                      Reg Rodaro
+
+--
+This message comes to you via the hpv at hupi.org mailing list.
+Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+From jgtetz at msn.com  Sat Dec 28 19:33:17 2013
+From: jgtetz at msn.com (JOHN)
+Date: Sat, 28 Dec 2013 19:33:17 -0500
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+ <1388141570.52bd5c024706f@web.vaxxine.com>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+ <1388141570.52bd5c024706f@web.vaxxine.com>
+Message-ID: <BAY173-DS185058E9360A259C5CBEAED7CF0@phx.gbl>
+
+Reg wrote
+>Ever watch one of us geezers trying to get up off of a low tadpole? 
+>Hilarious!
+
+Gee I easily qualify as an old geezer, but I have no problem getting up off 
+a seat that is 7 inches off the ground. But then I have a above seat 
+handlebar system on my tadpole.
+
+Back 9 years ago I wrote up my trike design philosophy, which started with 
+the issues of getting in/out of a shelled vehicle. It all centered around 
+the above seat T shaped handlebar system.
+
+To get up off a low seat I grab a brake so the vehicle wont move, grab the 
+center of the handlebar and pull myself up, and step out of the vehicle. 
+Easily - no struggle.
+I also use the same system to lower myself with ease down on the seat.
+
+I also use the handlebar to push and steer the vehicle as I walk along side 
+it to move it from one place to another. I do this a lot when shopping and 
+running errands and parking the vehicle at home.
+
+I also grab the handlebar for stability as I get in/out of my  vehicle. 
+Because I don't need to put any of my weight on the shell it allows the use 
+of very light shell materials.
+
+I also grab the handlebar and back of the seat to lift the vehicle. It helps 
+that it only weighs 45 pounds (that's trike with shell - shell is around 7 
+pounds).
+
+When I have run without the shell my trike out coasts other trikes because 
+they have side stick steering (more frontal area - my arms are more in line 
+with the airflow).
+
+This handlebar allow smaller lighter canopies.
+
+Yet to my amazement, in all these years essentially no one is using above 
+seat handlebars.
+
+I have recently did a write up on details of this system. I call it
+T Bar. T for its shape and T because that's the letter of my last name.
+
+   John Tetz    Old Geezer
+
+ 
+
+
+From list at moz.geek.nz  Sat Dec 28 22:36:18 2013
+From: list at moz.geek.nz (Moz)
+Date: Sun, 29 Dec 2013 14:36:18 +1100
+Subject: [hpv] 2 wheel drive Delta.
+In-Reply-To: <0604535E-C342-4AB1-AE28-BDC34E068E93@bikesmithdesign.com>
+References: <mailman.1.1387990803.12274.hpv@hupi.org>
+ <1407421066.3168899.1387992012407.JavaMail.root@comcast.net>
+ <515081428.20131226130119@moz.geek.nz>
+ <1388141570.52bd5c024706f@web.vaxxine.com>
+ <0604535E-C342-4AB1-AE28-BDC34E068E93@bikesmithdesign.com>
+Message-ID: <399534537.20131229143618@moz.geek.nz>
+
+Mark Stonich said:
+> AFAIK No one has produced a high performance delta so people are
+> unaware of it's advantages for a sporty trike.
+
+Paul Sims of Greenspeed built and raced one at a couple of AIPP events
+without noticeable success. The trike was fast but not remarkably so,
+and it was more complex than perhaps strictly necessary (leaning). But
+perhaps Paul just has no idea how to design a fast delta trike, since
+(like everyone else) he seems to have failed.
+
+I suggest that those talking about how good a fast delta would be
+actually build one and win some events. Battle Mountain, Murray
+Bridge, an IHPVA world championship, whatever you like. But right now
+all the trike races I've seem are dominated by tadpoles (in the "OMG,
+look, a delta!" sense) and the fastest trike at Battle Mountain has
+been a tadpole for some time now. The trike 6, 12 and 24 hour speed
+records are also held by tadpoles.
+
+Moz
+
+

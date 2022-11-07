@@ -1,0 +1,731 @@
+From damemorder at gmail.com  Mon Jul 27 05:38:40 2009
+From: damemorder at gmail.com (damemorder)
+Date: Mon, 27 Jul 2009 07:38:40 -0500
+Subject: [trikes] DELTA VS TADPOLE for speed
+In-Reply-To: <74F8C70E72574CDB821F1981FE61100B@E2200>
+References: <mailman.13.1244833202.65540.trikes@bikelist.org>
+	<74F8C70E72574CDB821F1981FE61100B@E2200>
+Message-ID: <1248698320.6978.49.camel@desktop>
+
+Mr Sims:
+It's not an apples to oranges comparison, both designs are easily run
+through most major analytical dynamics packages. Since that package will
+output the same parameters for both designs they're easy to compare on
+the same merits. You know that. Saying that it's "apples to oranges"
+only confuses the consumers and further hampers the industry. I'd like
+if you stopped doing that. Also, Rider comfort is a function of the
+seat, not the bike. When comparing two designs you place them on equal
+footing, meaning you remove the rider from the equation in this
+instance.
+
+Fran:
+Delta trikes tend to have a high CoG, combined with having less traction
+up front this means they handle like an American SUV. Tadpole trikes
+have a lower CoG, more traction for turning, and a better steering
+geometry. Surely your race course has a turn in it?
+
+Or maybe you'd notice that tadpole designs tend to be more recumbent,
+reducing frontal area and improving Cd, which helps both top speed and
+cruising calorie burn.
+
+Hey, while I'm listing things, How about the fact that the dual front
+brakes on a tadpole get the brake bias to a realistic area for safe use.
+
+If you already own a delta, current technology may not have improved
+enough since your last purchase to warrant the expenditure for a new
+bike, However if it's been a few years I would definitely direct you to
+a tadpole model, as delta models have no place in trike racing.
+
+--bunny019
+
+On Mon, 2009-06-15 at 10:23 +1000, Ian Sims wrote:
+> I have designed and ridden both, plus I've ridden fair number of the
+> different designs and makes.
+> 
+> I think it is really like asking which is faster, the orange or the apple.
+> 
+> There are a number of things which govern the speed of a trike,
+> roughly in this order.
+> 
+> 1. Fitness of the rider.
+> 2. Aerodynamics (drag co-efficient x frontal area)
+> 3. Weight
+> 4. Rolling resistance (mainly tyre design and performance)
+> 5. Ease of control.
+> 6. Rider comfort.
+> 7. Mechanical efficiency.
+> 
+> Of course it will depend on what order of magnitude we are looking at
+> in the range of variables, but this is an indication of the range of each
+> variable, and its effect on performance that I have noticed....
+> 
+> The main point is that the layout is not the main feature of the trike.
+> 
+> Regards, Ian
+> 
+> Ian Sims, Director
+> Greenspeed Pty., Ltd.,
+> 69 Mountain Gate Drive,
+> Ferntree Gully VIC 3156
+> AUSTRALIA
+> Phone +61 3 9758 5541 Fax +61 3 9752 4115
+> Email ian at greenspeed.com.au
+> Web www.greenspeed.com.au
+> 
+> Message: 1
+> Date: Fri, 12 Jun 2009 12:29:45 -0400
+> From: <mgta4 at aol.com>
+> Subject: [trikes] DELTA VS TADPOLE for speed
+> To: <trikes at bikelist.org>
+> Message-ID: <8CBB99221CBFD06-1650-310 at WEBMAIL-DZ09.sysops.aol.com>
+> Content-Type: text/plain; charset="us-ascii"
+> 
+> Does anyone have any experience riding both trikes? Is there a difference in speed that could be noticed?? 
+> Would one be much faster for touring then the other??
+> 
+> Thanks Fran
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From g.edgar at bigpond.com  Mon Jul 27 13:48:44 2009
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Tue, 28 Jul 2009 06:48:44 +1000
+Subject: [trikes] DELTA VS TADPOLE for speed
+In-Reply-To: <1248698320.6978.49.camel@desktop>
+References: <mailman.13.1244833202.65540.trikes@bikelist.org>	<74F8C70E72574CDB821F1981FE61100B@E2200>
+	<1248698320.6978.49.camel@desktop>
+Message-ID: <001701ca0efb$a1f83960$e5e8ac20$@edgar@bigpond.com>
+
+" Rider comfort is a function of the seat, not the bike"
+
+Only in machines without suspension
+
+
+
+
+Regards,
+
+Julian Edgar
+
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of damemorder
+Sent: Monday, 27 July 2009 10:39 PM
+To: trikes at bikelist.org
+Subject: Re: [trikes] DELTA VS TADPOLE for speed
+
+Mr Sims:
+It's not an apples to oranges comparison, both designs are easily run
+through most major analytical dynamics packages. Since that package will
+output the same parameters for both designs they're easy to compare on
+the same merits. You know that. Saying that it's "apples to oranges"
+only confuses the consumers and further hampers the industry. I'd like
+if you stopped doing that. Also, Rider comfort is a function of the
+seat, not the bike. When comparing two designs you place them on equal
+footing, meaning you remove the rider from the equation in this
+instance.
+
+Fran:
+Delta trikes tend to have a high CoG, combined with having less traction
+up front this means they handle like an American SUV. Tadpole trikes
+have a lower CoG, more traction for turning, and a better steering
+geometry. Surely your race course has a turn in it?
+
+Or maybe you'd notice that tadpole designs tend to be more recumbent,
+reducing frontal area and improving Cd, which helps both top speed and
+cruising calorie burn.
+
+Hey, while I'm listing things, How about the fact that the dual front
+brakes on a tadpole get the brake bias to a realistic area for safe use.
+
+If you already own a delta, current technology may not have improved
+enough since your last purchase to warrant the expenditure for a new
+bike, However if it's been a few years I would definitely direct you to
+a tadpole model, as delta models have no place in trike racing.
+
+--bunny019
+
+On Mon, 2009-06-15 at 10:23 +1000, Ian Sims wrote:
+> I have designed and ridden both, plus I've ridden fair number of the
+> different designs and makes.
+> 
+> I think it is really like asking which is faster, the orange or the apple.
+> 
+> There are a number of things which govern the speed of a trike,
+> roughly in this order.
+> 
+> 1. Fitness of the rider.
+> 2. Aerodynamics (drag co-efficient x frontal area)
+> 3. Weight
+> 4. Rolling resistance (mainly tyre design and performance)
+> 5. Ease of control.
+> 6. Rider comfort.
+> 7. Mechanical efficiency.
+> 
+> Of course it will depend on what order of magnitude we are looking at
+> in the range of variables, but this is an indication of the range of each
+> variable, and its effect on performance that I have noticed....
+> 
+> The main point is that the layout is not the main feature of the trike.
+> 
+> Regards, Ian
+> 
+> Ian Sims, Director
+> Greenspeed Pty., Ltd.,
+> 69 Mountain Gate Drive,
+> Ferntree Gully VIC 3156
+> AUSTRALIA
+> Phone +61 3 9758 5541 Fax +61 3 9752 4115
+> Email ian at greenspeed.com.au
+> Web www.greenspeed.com.au
+> 
+> Message: 1
+> Date: Fri, 12 Jun 2009 12:29:45 -0400
+> From: <mgta4 at aol.com>
+> Subject: [trikes] DELTA VS TADPOLE for speed
+> To: <trikes at bikelist.org>
+> Message-ID: <8CBB99221CBFD06-1650-310 at WEBMAIL-DZ09.sysops.aol.com>
+> Content-Type: text/plain; charset="us-ascii"
+> 
+> Does anyone have any experience riding both trikes? Is there a difference
+in speed that could be noticed?? 
+> Would one be much faster for touring then the other??
+> 
+> Thanks Fran
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+
+From dcech at lansmash.com  Mon Jul 27 14:02:12 2009
+From: dcech at lansmash.com (Dan Cech)
+Date: Mon, 27 Jul 2009 17:02:12 -0400
+Subject: [trikes] DELTA VS TADPOLE for speed
+In-Reply-To: <001701ca0efb$a1f83960$e5e8ac20$@edgar@bigpond.com>
+References: <mailman.13.1244833202.65540.trikes@bikelist.org>	<74F8C70E72574CDB821F1981FE61100B@E2200>	<1248698320.6978.49.camel@desktop>
+	<001701ca0efb$a1f83960$e5e8ac20$@edgar@bigpond.com>
+Message-ID: <4A6E15D4.60704@lansmash.com>
+
+Julian Edgar wrote:
+> " Rider comfort is a function of the seat, not the bike"
+> 
+> Only in machines without suspension
+
+I think you could argue that in machines without suspension wheel size &
+tire pressure both have significant effects on ride quality (more so
+even than on suspended machines).
+
+Of course, if you're riding on a smooth flat surface (it's nice to
+dream) then it all comes down to the ergonomics of the seat and more
+generally the seating position including crank height, control
+positioning, etc.
+
+Dan
+
+From be_dal at yahoo.se  Mon Jul 27 14:13:30 2009
+From: be_dal at yahoo.se (B D)
+Date: Mon, 27 Jul 2009 21:13:30 +0000
+Subject: [trikes] DELTA VS TADPOLE for speed
+In-Reply-To: <001701ca0efb$a1f83960$e5e8ac20$@edgar@bigpond.com>
+Message-ID: <540897.63996.qm@web27008.mail.ukl.yahoo.com>
+
+
+--- Den m?n 2009-07-27 skrev Julian Edgar <g.edgar at bigpond.com>:
+> " Rider comfort is a function of the
+> seat, not the bike"
+> 
+> Only in machines without suspension
+
+Both assumptions seems a bit simplistic to me.
+
+/Bruno
+
+
+      ___________________________________________________
+S?k efter k?rleken!
+Hitta din tvillingsj?l p? Yahoo! Dejting: http://ad.doubleclick.net/clk;185753627;24584539;x?http://se.meetic.yahoo.net/index.php?mtcmk=148783
+
+From be_dal at yahoo.se  Mon Jul 27 14:15:20 2009
+From: be_dal at yahoo.se (B D)
+Date: Mon, 27 Jul 2009 21:15:20 +0000
+Subject: [trikes] DELTA VS TADPOLE for speed
+In-Reply-To: <001701ca0efb$a1f83960$e5e8ac20$@edgar@bigpond.com>
+Message-ID: <132210.61909.qm@web27007.mail.ukl.yahoo.com>
+
+
+--- Den m?n 2009-07-27 skrev Julian Edgar <g.edgar at bigpond.com>:
+> " Rider comfort is a function of the
+> seat, not the bike"
+> 
+> Only in machines without suspension
+
+Both assumptions seem a bit simplistic to me.
+
+/Bruno
+
+
+      __________________________________________________________
+L?na pengar utan s?kerhet. J?mf?r vilkor online hos Kelkoo.
+http://www.kelkoo.se/c-100390123-lan-utan-sakerhet.html?partnerId=96915014
+
+From SerxnerLa at aol.com  Mon Jul 27 16:23:33 2009
+From: SerxnerLa at aol.com (SerxnerLa at aol.com)
+Date: Mon, 27 Jul 2009 19:23:33 -0400
+Subject: [trikes] Delta v tadpole
+Message-ID: <d4b.4b864f75.379f90f5@aol.com>
+
+A tadpole will be more stable in a high speed or sharp turn.  The  presence 
+of a wheel in the vector of the original path accounts for  it.
+**************A Good Credit Score is 700 or Above. See yours in just 2 easy 
+steps! 
+(http://pr.atwola.com/promoclk/100126575x1221823322x1201398723/aol?redir=http://www.freecreditreport.com/pm/default.aspx?sc=668072&hmpgID=115&bcd
+=JulystepsfooterNO115)
+
+From john.lewis at internode.on.net  Mon Jul 27 20:19:58 2009
+From: john.lewis at internode.on.net (John Lewis)
+Date: Mon, 27 Jul 2009 23:19:58 -0400
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <d4b.4b864f75.379f90f5@aol.com>
+References: <d4b.4b864f75.379f90f5@aol.com>
+Message-ID: <4A6E6E5E.5080405@internode.on.net>
+
+SerxnerLa at aol.com wrote:
+> A tadpole will be more stable in a high speed or sharp turn.  
+>   
+Then to confuse the issue further we have the leaning deltas of the 
+likes of 25hz and Ian Sims  which are by all accounts both fast and 
+stable. As to comfort I can't say.
+
+Regards,
+
+John Lewis
+
+
+From g.edgar at bigpond.com  Mon Jul 27 20:28:08 2009
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Tue, 28 Jul 2009 13:28:08 +1000
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <4A6E6E5E.5080405@internode.on.net>
+References: <d4b.4b864f75.379f90f5@aol.com> <4A6E6E5E.5080405@internode.on.net>
+Message-ID: <004a01ca0f33$6e06f960$4a14ec20$@edgar@bigpond.com>
+
+In terms of max cornering power, there is no need for any confusion at all.
+A simple skidpan test reveals all, and quantifies it too! 
+
+http://www.speedpedal.com.au/cms/A_108490/title_Measuring-Maximum-HPV-Corner
+ing-/article.html
+
+
+
+Regards,
+
+Julian Edgar
+
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of John Lewis
+Sent: Tuesday, 28 July 2009 1:20 PM
+To: trikes at bikelist.org
+Subject: Re: [trikes] Delta v tadpole
+
+SerxnerLa at aol.com wrote:
+> A tadpole will be more stable in a high speed or sharp turn.  
+>   
+Then to confuse the issue further we have the leaning deltas of the 
+likes of 25hz and Ian Sims  which are by all accounts both fast and 
+stable. As to comfort I can't say.
+
+Regards,
+
+John Lewis
+
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+
+From 25hz at rogers.com  Tue Jul 28 19:10:53 2009
+From: 25hz at rogers.com (25hz)
+Date: Tue, 28 Jul 2009 22:10:53 -0400
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <d4b.4b864f75.379f90f5@aol.com>
+References: <d4b.4b864f75.379f90f5@aol.com>
+Message-ID: <B8BA27CC301C405680459B020F6C711E@25hzPC>
+
+Well, in theory that might be the case, but with the revival of some of the 
+tilting delta designs, that is pretty much no longer the case.  I made a 
+narrow track FWD tilting delta and it's teh fastest trike I've ever ridden 
+or raced, by far.  The tilting deltas corner like a 2 wheeler with none of 
+the loss associated with hard cornering on a tadpole.  They also have none 
+of the stability concerns of standard deltas, and finally, with a 25? seat 
+angle and the rear wheels tucked in behind the seat for maximum aero 
+benefit, they have a better aero profile than any conventional delta or 
+tadpole out there.
+My Max with a 17" track:
+http://fleettrikes.com/black%20max%20moorseville%2009.jpg
+
+Dennis Grelk took his FWD lowracer and made a bolt on tilting rear end for 
+it.  His is very fast too.
+http://www.wisil.recumbents.com/wisil/racing2009/northbrook-kenosha/cortez/DSCF5679.jpg
+His first bolt on rear end (just slips into the dropouts) a little smaller 
+and simpler than the bolt-on I made for my python.
+http://www.wisil.recumbents.com/wisil/racing2009/northbrook-kenosha/glatch/TrikeTiltMech.jpg
+Then he made a smaller, neater one still with a 10.25" track
+http://picasaweb.google.com/neverest1979/FordHumanPoweredSpeedChallenge09#5360713850352116658
+
+Bram Smit of Fast FWD NL fame took his Munzo FWD lowracer and added a 
+tilting rear end to it and it'll be another slick new addition to the HPRA 
+races starting Manchester, hopefully.
+http://www.fastfwd.nl/index.php?id=57
+
+There's also the Jetrike but I don't know if he's further developed it or 
+was looking at performance aspects, but there's no reason for it not to 
+handle as well as the others.
+www.jetrike.com
+
+Finally, there's Jensen from Southern Ontario with another style of titler 
+with a very simple tilting rear end mechnism.
+http://tinyurl.com/mc55fq
+
+All three lined up for the mass start 1 hour at the Ford event in MI.
+http://tinyurl.com/mpl4dx
+
+The Kiwi Aaron Tate's tilter, with a mechanism like Bram's or the Jetrike.
+http://www.geocities.com/khpv_lsc/pix/hpc_2008_13_1000.jpg
+
+The Aussie Timbo with a Greenspeed style tilter
+http://photos1.blogger.com/x/blogger/4463/2579/1600/593254/DSCF0039.jpg
+
+There's also Rob Gillions from the BHPC with another Greenspeed style 
+tilter.
+http://www.bhpc.org.uk/forum/forum_posts.asp?TID=2814&PN=1&SID=568zdf6z6ede612f9fz85czza8765234
+
+Thanks to Paul Sims for his inspiration with the original design from 8 or 9 
+years ago.  It's an awaesome design that removes most of the negative 
+aspects of tapoles and deltas and moves their speed almost to that of a two 
+wheeled lowracer and makes them stick in the corners better than a bike.  I 
+think if Greenspeed started making them for people, especially the trike 
+races in Australia, they'd tear up the track.
+
+
+>A tadpole will be more stable in a high speed or sharp turn.  The  presence
+> of a wheel in the vector of the original path accounts for  it. 
+
+
+From 25hz at rogers.com  Wed Jul 29 20:07:08 2009
+From: 25hz at rogers.com (25hz)
+Date: Wed, 29 Jul 2009 23:07:08 -0400
+Subject: [trikes] DELTA VS TADPOLE for speed
+In-Reply-To: <1248698320.6978.49.camel@desktop>
+References: <mailman.13.1244833202.65540.trikes@bikelist.org><74F8C70E72574CDB821F1981FE61100B@E2200>
+	<1248698320.6978.49.camel@desktop>
+Message-ID: <036F23C1857145D59E514B2FAEC26B91@25hzPC>
+
+You obviously need to stay on top of news (actually it's old news now) about 
+the two new delta trikes from GS and RANs.  They are nothing like the 
+previous versions of commercial deltas.  All your "advice" amounts to is 
+just bad advice and an obvious prejudice against deltas based on outdated 
+information for both performance AND braking.
+
+
+
+> Mr Sims:
+> It's not an apples to oranges comparison, both designs are easily run
+> through most major analytical dynamics packages. Since that package will
+> output the same parameters for both designs they're easy to compare on
+> the same merits. You know that. Saying that it's "apples to oranges"
+> only confuses the consumers and further hampers the industry. I'd like
+> if you stopped doing that. Also, Rider comfort is a function of the
+> seat, not the bike. When comparing two designs you place them on equal
+> footing, meaning you remove the rider from the equation in this
+> instance.
+>
+> Fran:
+> Delta trikes tend to have a high CoG, combined with having less traction
+> up front this means they handle like an American SUV. Tadpole trikes
+> have a lower CoG, more traction for turning, and a better steering
+> geometry. Surely your race course has a turn in it?
+>
+> Or maybe you'd notice that tadpole designs tend to be more recumbent,
+> reducing frontal area and improving Cd, which helps both top speed and
+> cruising calorie burn.
+>
+> Hey, while I'm listing things, How about the fact that the dual front
+> brakes on a tadpole get the brake bias to a realistic area for safe use.
+>
+> If you already own a delta, current technology may not have improved
+> enough since your last purchase to warrant the expenditure for a new
+> bike, However if it's been a few years I would definitely direct you to
+> a tadpole model, as delta models have no place in trike racing.
+>
+> --bunny019
+>
+> On Mon, 2009-06-15 at 10:23 +1000, Ian Sims wrote:
+>> I have designed and ridden both, plus I've ridden fair number of the
+>> different designs and makes.
+>>
+>> I think it is really like asking which is faster, the orange or the 
+>> apple.
+>>
+>> There are a number of things which govern the speed of a trike,
+>> roughly in this order.
+>>
+>> 1. Fitness of the rider.
+>> 2. Aerodynamics (drag co-efficient x frontal area)
+>> 3. Weight
+>> 4. Rolling resistance (mainly tyre design and performance)
+>> 5. Ease of control.
+>> 6. Rider comfort.
+>> 7. Mechanical efficiency.
+>>
+>> Of course it will depend on what order of magnitude we are looking at
+>> in the range of variables, but this is an indication of the range of each
+>> variable, and its effect on performance that I have noticed....
+>>
+>> The main point is that the layout is not the main feature of the trike.
+>>
+>> Regards, Ian
+>>
+>> Ian Sims, Director
+>> Greenspeed Pty., Ltd.,
+>> 69 Mountain Gate Drive,
+>> Ferntree Gully VIC 3156
+>> AUSTRALIA
+>> Phone +61 3 9758 5541 Fax +61 3 9752 4115
+>> Email ian at greenspeed.com.au
+>> Web www.greenspeed.com.au
+>>
+>> Message: 1
+>> Date: Fri, 12 Jun 2009 12:29:45 -0400
+>> From: <mgta4 at aol.com>
+>> Subject: [trikes] DELTA VS TADPOLE for speed
+>> To: <trikes at bikelist.org>
+>> Message-ID: <8CBB99221CBFD06-1650-310 at WEBMAIL-DZ09.sysops.aol.com>
+>> Content-Type: text/plain; charset="us-ascii"
+>>
+>> Does anyone have any experience riding both trikes? Is there a difference 
+>> in speed that could be noticed??
+>> Would one be much faster for touring then the other??
+>>
+>> Thanks Fran
+>>
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list, 
+>> sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+>> subscription.
+>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+> subscription. 
+
+
+From blackotter at juno.com  Wed Jul 29 22:24:52 2009
+From: blackotter at juno.com (blackotter at juno.com)
+Date: Thu, 30 Jul 2009 05:24:52 +0000
+Subject: [trikes] deltas
+Message-ID: <20090729.222452.24145.0@webmail15.vgs.untd.com>
+
+sorry to break someone's bubble but deltas are meant for racing.  that is the right delta.  i have been riding a delta who's design is over 15 years old.  it races just fine; and ian know what it is.  a lot of diamond frames and two wheel bents have seen it in their rear view mirrors and then found themselves suddenly trying to follow it down the road.  i think we are hearing from some of the bentrider on line folks.  the ones who specialize in dwr; drive way racing!!
+
+jim
+
+____________________________________________________________
+Looking for insurance?  Click to compare and save big.
+http://thirdpartyoffers.juno.com/TGL2131/fc/BLSrjnsHF6xoQIedvPzHOWTTNgO1thhhOVy9ZpGKsHwyVr9eamcDElvfFdO/
+
+From dragonwoods at earthlink.net  Thu Jul 30 13:10:52 2009
+From: dragonwoods at earthlink.net (Donald Eugene Leas)
+Date: Thu, 30 Jul 2009 16:10:52 -0400
+Subject: [trikes] deltas
+Message-ID: <25807688.1248984652526.JavaMail.root@elwamui-little.atl.sa.earthlink.net>
+
+Jim,
+you ride a delta that is designed to race?? And what make and model is it? I would love to see some pictures  of it.
+Happy Triking
+Don L
+
+-----Original Message-----
+>From: "blackotter at juno.com" <blackotter at juno.com>
+>Sent: Jul 30, 2009 1:24 AM
+>To: trikes at bikelist.org
+>Subject: [trikes] deltas
+>
+>sorry to break someone's bubble but deltas are meant for racing.  that is the right delta.  i have been riding a delta who's design is over 15 years old.  it races just fine; and ian know what it is.  a lot of diamond frames and two wheel bents have seen it in their rear view mirrors and then found themselves suddenly trying to follow it down the road.  i think we are hearing from some of the bentrider on line folks.  the ones who specialize in dwr; drive way racing!!
+>
+>jim
+>
+>____________________________________________________________
+>Looking for insurance?  Click to compare and save big.
+>http://thirdpartyoffers.juno.com/TGL2131/fc/BLSrjnsHF6xoQIedvPzHOWTTNgO1thhhOVy9ZpGKsHwyVr9eamcDElvfFdO/
+>--
+>This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+
+From cyclinglemur at gmail.com  Thu Jul 30 14:31:13 2009
+From: cyclinglemur at gmail.com (Joao de Souza)
+Date: Thu, 30 Jul 2009 17:31:13 -0400
+Subject: [trikes] deltas
+In-Reply-To: <20090729.222452.24145.0@webmail15.vgs.untd.com>
+References: <20090729.222452.24145.0@webmail15.vgs.untd.com>
+Message-ID: <7a17c1df0907301431haba3561q7e70a1a8193f019f@mail.gmail.com>
+
+Quick!  Someone post that picture of the "Aw jeez, not this shit again" guy!
+
+
+
+On Thu, Jul 30, 2009 at 1:24 AM, blackotter at juno.com <blackotter at juno.com>wrote:
+
+> sorry to break someone's bubble but deltas are meant for racing.  that is
+> the right delta.  i have been riding a delta who's design is over 15 years
+> old.  it races just fine; and ian know what it is.  a lot of diamond frames
+> and two wheel bents have seen it in their rear view mirrors and then found
+> themselves suddenly trying to follow it down the road.  i think we are
+> hearing from some of the bentrider on line folks.  the ones who specialize
+> in dwr; drive way racing!!
+>
+
+From ccbroome at charter.net  Thu Jul 30 14:35:51 2009
+From: ccbroome at charter.net (Chris Broome)
+Date: Thu, 30 Jul 2009 14:35:51 -0700
+Subject: [trikes] deltas
+In-Reply-To: <25807688.1248984652526.JavaMail.root@elwamui-little.atl.sa.earthlink.net>
+References: <25807688.1248984652526.JavaMail.root@elwamui-little.atl.sa.earthlink.net>
+Message-ID: <4A721237.9030702@charter.net>
+
+Possibly a Baccura ?
+
+-- Chris Broome
+
+
+Donald Eugene Leas wrote:
+> Jim,
+> you ride a delta that is designed to race?? And what make and model is it? I would love to see some pictures  of it.
+> Happy Triking
+> Don L
+> 
+> -----Original Message-----
+>> From: "blackotter at juno.com" <blackotter at juno.com>
+>> Sent: Jul 30, 2009 1:24 AM
+>> To: trikes at bikelist.org
+>> Subject: [trikes] deltas
+>>
+>> sorry to break someone's bubble but deltas are meant for racing.  that is the right delta.  i have been riding a delta who's design is over 15 years old.  it races just fine; and ian know what it is.  a lot of diamond frames and two wheel bents have seen it in their rear view mirrors and then found themselves suddenly trying to follow it down the road.  i think we are hearing from some of the bentrider on line folks.  the ones who specialize in dwr; drive way racing!!
+>>
+>> jim
+
+
+From be_dal at yahoo.se  Fri Jul 31 04:55:29 2009
+From: be_dal at yahoo.se (B D)
+Date: Fri, 31 Jul 2009 11:55:29 +0000
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <B8BA27CC301C405680459B020F6C711E@25hzPC>
+Message-ID: <666097.74473.qm@web27007.mail.ukl.yahoo.com>
+
+
+Thanks for all links about leaning deltas. However they seem more suitable for racing than for everyday use or as "touring truck". My main concern is an every day vehicle that is practical but at the same time not too slow or heavy and that is not too heavy to pedal on soft ground. It is really hard to beat an ordinary upright bike in that respect.
+
+How is the riding qualities? Does it tip over when you are standing still, or how do you control the tilting? If it behaves like a two-wheeler, what is the benefit of a tilting delta? Isn't riding a two-wheeler just the same but with lower weight?
+
+/Bruno
+
+
+      ___________________________________________________
+S?k efter k?rleken!
+Hitta din tvillingsj?l p? Yahoo! Dejting: http://ad.doubleclick.net/clk;185753627;24584539;x?http://se.meetic.yahoo.net/index.php?mtcmk=148783
+
+From 25hz at rogers.com  Fri Jul 31 11:51:30 2009
+From: 25hz at rogers.com (25hz)
+Date: Fri, 31 Jul 2009 14:51:30 -0400
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <666097.74473.qm@web27007.mail.ukl.yahoo.com>
+References: <666097.74473.qm@web27007.mail.ukl.yahoo.com>
+Message-ID: <33271468457C4035BE83B9587C294854@25hzPC>
+
+They might seem like they are more suitable for racing, but that's only for 
+people who have never ridden them.  I race, commute, do casual rides, 
+charity events and ultra rides on it.  The only thing I haven't tried is 
+off-road.  With a tilt lock, the trike stays upright on it's own and andhas 
+better performance in pretty much every area than any other delta or tadpole 
+I've ever ridden.
+
+
+----- Original Message ----- 
+From: "B D" <be_dal at yahoo.se>
+To: <trikes at bikelist.org>; "25hz" <25hz at rogers.com>
+Sent: Friday, July 31, 2009 7:55 AM
+Subject: Re: [trikes] Delta v tadpole
+
+
+
+Thanks for all links about leaning deltas. However they seem more suitable 
+for racing than for everyday use or as "touring truck". My main concern is 
+an every day vehicle that is practical but at the same time not too slow or 
+heavy and that is not too heavy to pedal on soft ground. It is really hard 
+to beat an ordinary upright bike in that respect.
+
+How is the riding qualities? Does it tip over when you are standing still, 
+or how do you control the tilting? If it behaves like a two-wheeler, what is 
+the benefit of a tilting delta? Isn't riding a two-wheeler just the same but 
+with lower weight?
+
+/Bruno
+
+
+From gilesp at iinet.net.au  Fri Jul 31 17:36:25 2009
+From: gilesp at iinet.net.au (Giles Puckett)
+Date: Sat, 1 Aug 2009 10:36:25 +1000
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <666097.74473.qm@web27007.mail.ukl.yahoo.com>
+References: <666097.74473.qm@web27007.mail.ukl.yahoo.com>
+Message-ID: <4A738E09.20701@iinet.net.au>
+
+B D wrote:
+> Thanks for all links about leaning deltas. However they seem more suitable for racing than for everyday use or as "touring truck". My main concern is an every day vehicle that is practical but at the same time not too slow or heavy and that is not too heavy to pedal on soft ground. It is really hard to beat an ordinary upright bike in that respect.
+> 
+> How is the riding qualities? Does it tip over when you are standing still, or how do you control the tilting? If it behaves like a two-wheeler, what is the benefit of a tilting delta? Isn't riding a two-wheeler just the same but with lower weight?
+
+I've seen them with just a parallelogram linkage, which makes them 
+handle just like a bike when unlocked. The advantage over a bike is that 
+you can lock it when riding slowly - some have a brake disc that lets 
+you lock it in any position for cambered roads etc.
+
+But you can also make a "rising" linkage, which means the trike falls 
+towards the centre and tends to stay upright. Too much rise is bad 
+though because you have to force it into a corner by leaning strongly 
+and/or countersteering. I have a teacher friend here in Qld who has had 
+his school build a rising leaning delta for Pedal Prix, and he has 
+reported it handles very nicely (I've not ridden it yet). It rises for 
+the first few degrees of lean from the vertical, and then falls in the 
+normal parallelogram fashion. It's a glass monocoque, and faired quite 
+tightly so there's no real ability to lean it by moving your body weight.
+
+So many interesting things to build, so little time (I've invested a lot 
+of time in a conventional tad with fairing now - funny to describe it as 
+conventional :-)
+
+G.
+

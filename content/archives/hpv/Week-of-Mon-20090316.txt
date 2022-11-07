@@ -1,0 +1,1881 @@
+From JCSnyder.studio at worldnet.att.net  Mon Mar 16 04:32:16 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Mon, 16 Mar 2009 06:32:16 -0600
+Subject: [hpv] stop sign density
+In-Reply-To: <mailman.19.1237147203.18912.hpv@bikelist.org>
+References: <mailman.19.1237147203.18912.hpv@bikelist.org>
+Message-ID: <49BE46D0.5030600@worldnet.att.net>
+
+>
+> Alan Lawrence wrote:
+>
+> Hmmm. I wonder, how much would regenerative braking help?
+>   
+
+The bad news. Braking lasts for only seconds at a time, in stop and go 
+traffic, but batteries need long charging times.
+
+The good news. Researchers at MIT have been working on a new 
+rapid-charge battery technology.
+
+See; http://web.mit.edu/newsoffice/2009/battery-material-0311.html
+
+
+From mlibrik at att.net  Mon Mar 16 06:42:37 2009
+From: mlibrik at att.net (Mike Librik)
+Date: Mon, 16 Mar 2009 09:42:37 -0500
+Subject: [hpv] SR^3
+Message-ID: <49BE655D.4040307@att.net>
+
+Just to clarify some history, the phrase "Same roads..." was originally 
+quoined by Jack Taylor of the Southern (USA) Bicycle League sometime in 
+the mid-1990's.  This was reported to me by Fred Meredith, editor of 
+Austin's Southwest Cycling News and an LAB boardmember, who met Mr. 
+Taylor at an LCI seminar in Atlanta in 1996.  Mr. Meredith began to 
+popularize the phrase here in Texas.  The elements of the phrase get 
+rearranged quite a bit, but it all points to the same goal.
+
+Speaking as someone who supports the notion, I'll admit that it is 
+possible to juxtapose the obvious differences (between an HPV and 
+gasoline engine powered vehicle) with the concept of "same" and produce 
+some absurdities.  Let me suggest that "same" in this case is more of a 
+shorthand for "greater equality," which is meant, practically, as a 
+counterweight against outright discrimination and restriction.  That is 
+the background and context against which the SR^3 slogan needs to be 
+understood.
+
+A similar argument can be made for equality of the sexes in the 
+workplace and society.  Yes, there are obvious differences between men 
+and women, but the plodding business of social evolution and legal 
+precedent is better directed by assuming "sameness" until some 
+intractable difference gets in the way.
+
+Diversity of traffic laws among cities and states (in the USA) makes a 
+mockery of "same rules."  And lingering bigotry in the minds of those 
+who enforce the laws makes a mockery of "same rights."  And "same roads" 
+is a fairly depressing notion when you can picture how nice it would be 
+to get away from the deadly stink-mobiles and their incompetent 
+operators.  When the time comes that cyclists have the numbers to 
+command a suitable chunk of infrastructure spending then we'll have 
+space built to our standards, and we'll even have it without the design 
+compromises that currently turn good facility designs into clumsy, 
+ambiguous facility realities.  But the truth is that we are having to 
+make the best of a bad situation, and that means being provisionally 
+happy with something "less bad," while recognizing that it is not really 
+as "good" as what our visionaries can describe.
+
+Keep a steady cadence...
+
+-- 
+Mike Librik, LCI #929
+"Same tights, same toads, same tools!"
+League of Bicycling Voters
+Austin, TX
+(512) 567-4493
+
+Recumbent bikes & trikes
+for Central Texas:
+www.EasyStreetRecumbents.com
+
+From hpvray at sccoast.net  Mon Mar 16 06:52:40 2009
+From: hpvray at sccoast.net (Raymond Brick)
+Date: Mon, 16 Mar 2009 10:52:40 -0400
+Subject: [hpv] stop sign density
+References: <mailman.19.1237147203.18912.hpv@bikelist.org>
+	<49BE46D0.5030600@worldnet.att.net>
+Message-ID: <BEEA9F4F6A0A443990C27E6A0317CF72@Den>
+
+
+> >
+>> Alan Lawrence wrote:
+>>
+>> Hmmm. I wonder, how much would regenerative braking help?
+>>
+>
+> The bad news. Braking lasts for only seconds at a time, in stop and go 
+> traffic, but batteries need long charging times.
+>
+I have tought about a system using compressed air with the frame as the 
+storage vessel.
+
+Or, using a capacitor for storage in an electical system. A capacitor would 
+charge as fast as power could be generated.  Again, the capacitor could be 
+integal with the frame tubing.
+The bad news is that the energy losses involved  in these schemes does not 
+justify the extra weight.
+
+Raymond Brick
+   Longs, South Carolina
+      www.velogenesis.com
+         Custom recumbent bikes 
+
+
+
+From JCSnyder.studio at worldnet.att.net  Mon Mar 16 21:27:50 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Mon, 16 Mar 2009 23:27:50 -0600
+Subject: [hpv] hpv] SR3
+In-Reply-To: <mailman.13.1237233602.39338.hpv@bikelist.org>
+References: <mailman.13.1237233602.39338.hpv@bikelist.org>
+Message-ID: <49BF34D6.4000107@worldnet.att.net>
+
+Thank you Mike for the background and explanation of the meaning of SR3.
+
+SR3 seems  possibly an opposite of another slogan "Copenhagenize".
+ 
+In Copenhagen Denmark the city planners created a multi-tier 
+transportation infrastructure, separate lanes and facilities for 
+automobiles, bicycles, pedestrians, and rail trains. One result of this 
+approach  is that now well over 30% of all personal trips in the city 
+are accomplished via bike.
+
+The average speed of the massive fleet of bikes is rather laid back, and 
+easy going -- happy. Helmets seem to be something worn on the noggins of 
+little kids, not adults.
+
+"Slow bicycling is a lifestyle in Copenhagen, where 500,000 people cycle 
+each day to work or school. Interestingly, the average speed of this 
+mass of two-wheeled humanity is 15.3 km/h. That's not decided by 
+consensus or by implementation of speed limits. That is simply the 
+organic speed that half a million people settle upon when given the 
+chance." -- quoted from  http://theslowbicycle.blogspot.com/
+
+The blog Copenhagen Cycle Chic provides a delightful eye opening peek at 
+how cycling serves as a positive part of many people's lives . 
+http://www.copenhagencyclechic.com/
+
+And as the cherry on top, here is the link to the Danish government's 
+explanation of bicycling in Copenhagen,
+http://www.denmark.dk/en/servicemenu/news/focuson/copenhagens-take-on-bicycles.htm
+
+Use "bicycling in Copenhagen" as search terms in Google to turn up a 
+basket load of other fascinating web pages.
+
+Cheers,
+
+John Snyder
+
+
+
+
+
+
+From theosch06 at yahoo.de  Tue Mar 17 02:18:19 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Tue, 17 Mar 2009 11:18:19 +0100
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <BEEA9F4F6A0A443990C27E6A0317CF72@Den>
+References: <mailman.19.1237147203.18912.hpv@bikelist.org>	<49BE46D0.5030600@worldnet.att.net>
+	<BEEA9F4F6A0A443990C27E6A0317CF72@Den>
+Message-ID: <49BF78EB.2050502@yahoo.de>
+
+Raymond Brick schrieb:
+...
+>> The bad news. Braking lasts for only seconds at a time, in stop and go 
+>> traffic, but batteries need long charging times.
+
+Yes, but they also accept charging at high rates if not already "full". Unless
+you start your electric bike trip at the top of a hill, there is no problem.
+
+Most electric bikes don't have regen braking purely for cost reasons. The BionX
+drive however does, and it works well. It cuts in before the mechanical brake
+(you set this yourself with the placement of a magnetic sensor near one of the
+brake levers) and you can also choose 4 different levels of braking from the
+push-button control for longer descents (and program the controller in all sorts 
+of ways).
+
+People have reported up to 40% better range, but the main benefit would be due
+to less wear on the mechanical brakes (and rims if applicable).
+
+As people like to accelerate, they presumably would also like to brake for stop
+signs - if they know that it is a well working regenerative thing - as they then
+get to accelerate again.
+
+...
+> Or, using a capacitor for storage in an electical system. A capacitor would
+> charge as fast as power could be generated.  Again, the capacitor could be
+> integal with the frame tubing. 
+
+The capacitor could absorb and supply a great deal of power for a few seconds, 
+allowing very high acceleration. I don't think it would help for braking much, 
+as braking power is limited by mechanical constaints (friction, center of mass).
+
+
+> The bad news is that the energy losses
+> involved  in these schemes does not justify the extra weight.
+
+It does if you have an electric bike in the first place. The energy density of 
+batteries is higher than that of humans. The weight is however as you say 
+probably not justified purely on the grounds of regeneration.
+
+Theo Schmidt
+
+From mlibrik at att.net  Tue Mar 17 06:31:38 2009
+From: mlibrik at att.net (Mike Librik)
+Date: Tue, 17 Mar 2009 09:31:38 -0500
+Subject: [hpv] civility in riding > HPV competition
+In-Reply-To: <f6438a320903120714q66a831eey1b0f6e59297eae12@mail.gmail.com>
+References: <2C74BED7-7180-4FA2-A84C-066A3F7EC92F@gmail.com>	<49B90DF2.90908@att.net>
+	<f6438a320903120714q66a831eey1b0f6e59297eae12@mail.gmail.com>
+Message-ID: <49BFB44A.7090303@att.net>
+
+Alan Lawrence wrote:
+
+> ISTR that there is *are* alternatives classes/races at some HPV events
+> which encourage non-"racing" bikes: yes, fastest time to get round a
+> course, but the "course" includes tests of manoeuverability,
+> loading/unloading shopping, parking, etc. 
+
+I've never seen an IHPVA practical vehicle competition, but it does seem
+like a step in the right direction.  My impression is that it compares
+load carrying capability and stability in difficult low-speed 
+situations.  That is useful stuff, but it isn't a measure of how the 
+vehicle facilitates comfortable interaction with other drivers.
+
+> Perhaps this kind of thing needs to be more common, and/or be expanded to include more
+> starts/stops (without dismounting), mirror use, etc.? (not sure how to
+> do the last both competitively and fairly...but maybe brighter minds
+> can come up with something? :)).
+
+Having thought about it myself, I have an idea, though it could use some 
+improvement.  We face a paradox since we are using competition between 
+the cyclists to hone development, but what they are being developed for 
+is a cooperative enterprise.
+
+Two or more teams of ordinary practical commuter cyclists are equipped 
+by sponsors with bikes and/or gear designed for use in traffic.  The 
+teams would carry the logos of their sponsors around for all to see, of 
+course, and they would be clearly marked as a competitor in the event. 
+The event takes place in some city, and all the sponsors contribute to 
+an advertising campaign that announces that the competition will take 
+place on the public streets for the next couple of months.  The teams go 
+out and pursue their daily lives, and the public is encouraged to call 
+in with compliments or complaints about any participating cyclist they 
+encounter.  A panel of judges reviews all feedback, and awards points 
+accordingly.
+
+This makes scoring a subjective matter, much like the way a speech 
+tournament is scored, which isn't good but it is the only way I've 
+though of so far.  It relies on public input, and there would need to be 
+some effort to curb interested parties from making false claims.  But 
+this method is appropriate because the reactions of other drivers are, 
+to a great degree, what good driving is about.  Of course, a complaint 
+wouldn't necessarily mean bad driving, since there are cases, like a 
+narrow lane, where the safest and most predictable practice will likely 
+inconvenience a motorist, but that is more a matter of what expectations 
+the complainer had and how realistic they are.  That is why the judges 
+review feedback and assign the points.
+
+The main effect of such a competition would be increased public 
+awareness of cycling safety as a technique executed by the cyclist. 
+This isn't the only facet of cycling safety (motorist behavior and 
+facilities design are other factors) but it is a frequently overlooked 
+one (with the non-productive exception of grouching about /really bad/ 
+bicycle driving, red-light-runners, et.al., while overlooking the more 
+subtle business of interacting smoothly).  It would also focus 
+discussion among cyclists about what is the "best way" to deal with 
+situations, and more detailed analysis of the situations, to avoid the 
+ambiguities that cloud discussions of best practices.
+
+-- 
+Mike Librik, LCI #929
+League of Bicycling Voters
+Austin, TX
+(512) 567-4493
+
+Recumbent bikes & trikes
+for Central Texas:
+www.EasyStreetRecumbents.com
+
+
+From bushnell at sonic.net  Tue Mar 17 09:32:36 2009
+From: bushnell at sonic.net (Bill Bushnell)
+Date: Tue, 17 Mar 2009 09:32:36 -0800
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <49BF78EB.2050502@yahoo.de>
+References: <mailman.19.1237147203.18912.hpv@bikelist.org>
+	<49BE46D0.5030600@worldnet.att.net>
+	<BEEA9F4F6A0A443990C27E6A0317CF72@Den> <49BF78EB.2050502@yahoo.de>
+Message-ID: <Pine.LNX.4.58.0903170921220.2378@bolt.sonic.net>
+
+On Tue, 17 Mar 2009, Theo Schmidt wrote:
+> People have reported up to 40% better range, but the main benefit would be due
+> to less wear on the mechanical brakes (and rims if applicable).
+
+40% is highly optimistic for an ebike.  For a typical trip expect to
+recover more like 5-15%, depending on hilliness, number of stops and
+starts and controller sophistication or user skill in modulating regen
+current.
+
+For more information from two different perspectives, see:
+
+http://tinyurl.com/cjau3x
+http://tinyurl.com/dj6u9t
+
+Bill Bushnell
+http://pobox.com/~bushnell/
+
+From theosch06 at yahoo.de  Tue Mar 17 10:25:17 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Tue, 17 Mar 2009 19:25:17 +0100
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <Pine.LNX.4.58.0903170921220.2378@bolt.sonic.net>
+References: <mailman.19.1237147203.18912.hpv@bikelist.org>	<49BE46D0.5030600@worldnet.att.net>	<BEEA9F4F6A0A443990C27E6A0317CF72@Den>
+	<49BF78EB.2050502@yahoo.de>
+	<Pine.LNX.4.58.0903170921220.2378@bolt.sonic.net>
+Message-ID: <49BFEB0D.5070608@yahoo.de>
+
+Bill Bushnell schrieb:
+...
+> 40% is highly optimistic for an ebike.  For a typical trip expect to
+> recover more like 5-15%, depending on hilliness, number of stops and
+> starts and controller sophistication or user skill in modulating regen
+> current.
+> 
+> For more information from two different perspectives, see:
+> 
+> http://tinyurl.com/cjau3x
+> http://tinyurl.com/dj6u9t
+...
+
+The 40% figure was from Frederik van der Walle here:
+http://waw-bionx.blogspot.com/
+
+Disscussion about this:
+http://osdir.com/ml/culture.transportation.humanpowered.velomobile/2005-10/threads.html#00013
+
+It depends of course on your speed. In ideal conditions you would be travelling 
+uphill and downhill at a speed where air and rolling resistances are slight. If 
+the total efficiency of your drive and battery is 70%, you would get almost 50% 
+back in these conditions.
+
+Cheers, Theo
+
+From bushnell at sonic.net  Tue Mar 17 11:36:04 2009
+From: bushnell at sonic.net (Bill Bushnell)
+Date: Tue, 17 Mar 2009 11:36:04 -0800
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <49BFEB0D.5070608@yahoo.de>
+References: <mailman.19.1237147203.18912.hpv@bikelist.org>
+	<49BE46D0.5030600@worldnet.att.net>
+	<BEEA9F4F6A0A443990C27E6A0317CF72@Den> <49BF78EB.2050502@yahoo.de>
+	<Pine.LNX.4.58.0903170921220.2378@bolt.sonic.net>
+	<49BFEB0D.5070608@yahoo.de>
+Message-ID: <Pine.LNX.4.58.0903171109120.2378@bolt.sonic.net>
+
+On Tue, 17 Mar 2009, Theo Schmidt wrote:
+
+> Bill Bushnell schrieb:
+> ...
+> > 40% is highly optimistic for an ebike.  For a typical trip expect to
+> > recover more like 5-15%, depending on hilliness, number of stops and
+> > starts and controller sophistication or user skill in modulating regen
+> > current.
+> >
+> > For more information from two different perspectives, see:
+> >
+> > http://tinyurl.com/cjau3x
+> > http://tinyurl.com/dj6u9t
+> ...
+>
+> The 40% figure was from Frederik van der Walle here:
+> http://waw-bionx.blogspot.com/
+>
+> Disscussion about this:
+> http://osdir.com/ml/culture.transportation.humanpowered.velomobile/2005-10/threads.html#00013
+>
+> It depends of course on your speed. In ideal conditions you would be travelling
+> uphill and downhill at a speed where air and rolling resistances are slight. If
+> the total efficiency of your drive and battery is 70%, you would get almost 50%
+> back in these conditions.
+
+Frederick's observations were made on an aerodynamic vehicle ridden
+repeatedly up and down a 1.5km hill at moderate speed, a test contrived to
+maximize the effect of regenerative braking.  Most trips are not like this
+and will not see this much energy recovery.
+
+Bill Bushnell
+http://pobox.com/~bushnell/
+
+From michael.graff at pobox.com  Tue Mar 17 12:02:47 2009
+From: michael.graff at pobox.com (Michael Graff)
+Date: Tue, 17 Mar 2009 13:02:47 -0700
+Subject: [hpv] hpv] SR3
+In-Reply-To: <49BF34D6.4000107@worldnet.att.net>
+References: <mailman.13.1237233602.39338.hpv@bikelist.org>
+	<49BF34D6.4000107@worldnet.att.net>
+Message-ID: <a964c00903171302i108d2d6ep683d88210e89ae1@mail.gmail.com>
+
+On Mon, Mar 16, 2009 at 22:27, John Snyder
+<JCSnyder.studio at worldnet.att.net> wrote:
+
+> SR3 seems  possibly an opposite of another slogan "Copenhagenize".
+
+They're different, but not mutually exclusive.  It's possible to
+accommodate the full range of cycling preferences if we choose to:
+
+http://www.cyclistview.com/inclusivepdintro/index.htm
+
+And while we tend to talk about roads, rules, rights, and bikeways in
+isolation, all transportation is intertwined with land use.
+
+From william.volk at gmail.com  Tue Mar 17 12:43:54 2009
+From: william.volk at gmail.com (William D. Volk)
+Date: Tue, 17 Mar 2009 13:43:54 -0700
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <mailman.10.1237320002.55982.hpv@bikelist.org>
+References: <mailman.10.1237320002.55982.hpv@bikelist.org>
+Message-ID: <8B4B8E7F-59E4-448B-BDB8-7800E3BCFB20@gmail.com>
+
+There's a recent breakthrough on LiPo batteries, enabling a battery to  
+accept a massive amount of current and deliver the same.
+
+http://arstechnica.com/science/news/2009/03/lithium-breakthrough-could-charge-batteries-in-10-seconds.ars
+
+Lithium breakthrough could charge (or discharge) batteries in 10 seconds
+
+A new version of lithium battery technology can either provide a  
+higher storage density than current batteries, or can charge and  
+discharge as fast as a supercapacitor, emptying its entire charge in  
+under 10 seconds. ...
+
+The new work involves well-understood technology, relying on lithium  
+ions as charge carriers within the battery. But the lithium resides in  
+a material that was designed specifically to allow it to move through  
+the battery quickly, which means charges can be shifted in and out of  
+storage much more rapidly than in traditional formulations of lithium  
+batteries. The net result is a battery that, given the proper  
+electrodes, can perform a complete discharge in under 10 seconds?the  
+sort of performance previously confined to the realm of  
+supercapacitors. ....
+
+For an eBike that just was used as an assist on hills or when starting  
+out, you could use a smaller capacity (LIGHTER!) battery and have it  
+accept a great deal of energy from braking.  You could also draw out a  
+greater amount of current for hills.
+
+I think this would be quite applicable to Velomobiles, with their  
+great weight and lower Cd.
+
+
+From william.volk at gmail.com  Tue Mar 17 13:34:18 2009
+From: william.volk at gmail.com (William D. Volk)
+Date: Tue, 17 Mar 2009 14:34:18 -0700
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <1237324118.49c011565f142@webmail.sil.at>
+References: <mailman.10.1237320002.55982.hpv@bikelist.org>
+	<8B4B8E7F-59E4-448B-BDB8-7800E3BCFB20@gmail.com>
+	<1237324118.49c011565f142@webmail.sil.at>
+Message-ID: <7B22B61F-870A-4B61-88ED-F9D8254DD82E@gmail.com>
+
+Oh yeah, you'll NEVER charge up an electric car in 10 seconds.  The  
+best solution to that is what "Better Place" is doing.  Robotic swap  
+of battery pack in a few minutes.
+
+However, you will be able to pretty much do ALL your braking via Regen  
+and nothing I mean NOTHING will ever match the acceleration of an  
+electric car with these sort of batteries.  A Tesla does 0-60 in 3.9  
+seconds with a bank of A123 batteries.  You could accelerate at the  
+limit of adhesion  and with electric drive it is very easy to design  
+control systems that will prevent you from engaging wheel spin.
+
+FYI: DeWalt has a 48v portable power tool system on A123's ... charges  
+up in 5 min.
+
+As to these new batteries, my point was you could use a smaller setup  
+and still absorb the energy from regen.
+
+On Mar 17, 2009, at 2:08 PM, luifri at thatsart.org wrote:
+
+> Zitat von "William D. Volk" <william.volk at gmail.com>:
+>
+>> There's a recent breakthrough on LiPo batteries, enabling a battery  
+>> to
+>> accept a massive amount of current and deliver the same.
+>>
+>>
+> http://arstechnica.com/science/news/2009/03/lithium-breakthrough-could-charge-batteries-in-10-seconds.ars
+>>
+>> Lithium breakthrough could charge (or discharge) batteries in 10  
+>> seconds
+>>
+>> A new version of lithium battery technology can either provide a
+>> higher storage density than current batteries, or can charge and
+>> discharge as fast as a supercapacitor, emptying its entire charge in
+>> under 10 seconds. ...
+>
+> Sounds nice, but this is for very small amounts of energy up to laptop
+> batteries.
+> Thinks whats amount of energy has to go to an e- vehicle like cars  
+> and you will
+> see that no household plug can do. If some 100 cars do a quickload  
+> at the same
+> time there will be a nice short glow in the dark, the dark, the dark..
+>
+> Lui
+
+
+From timallard at msn.com  Tue Mar 17 14:33:57 2009
+From: timallard at msn.com (tomm)
+Date: Tue, 17 Mar 2009 15:33:57 -0700
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <Pine.LNX.4.58.0903171109120.2378@bolt.sonic.net>
+References: <mailman.19.1237147203.18912.hpv@bikelist.org>	<49BE46D0.5030600@worldnet.att.net>	<BEEA9F4F6A0A443990C27E6A0317CF72@Den>
+	<49BF78EB.2050502@yahoo.de>	<Pine.LNX.4.58.0903170921220.2378@bolt.sonic.net>	<49BFEB0D.5070608@yahoo.de>
+	<Pine.LNX.4.58.0903171109120.2378@bolt.sonic.net>
+Message-ID: <000001c9a750$75f543c0$61dfcb40$@com>
+
+The new lithiums may help this with their very fast recharge times by
+allowing much higher rates of capacity to be filled before the bottom of the
+hill or the end of the stop.
+
+The success of the new hybrid cars rests on this new battery material, it's
+passed the crash test without igniting so is moving through certification
+for cars. 
+
+For a regen to work I think you still need a decent capacitor bank to store
+the current spike, then use that before it leaks out to charge this new
+material. This seems feasible so far. Without it in braking I personally
+don't think you'll have enough time to get enough of spike even with the new
+material to matter much.
+
+Read of a new combo that fully charges in 10-20 seconds, but that's much
+farther from production than what I'm referring to but probably needs the
+same idea with capacitors to be practical for braking but obviously way less
+time to hold it before leaking out.
+
+hth,
+
+Tom Mallard
+Software Design - Architecture
+Consumer Product Design
+
+-----Original Message-----
+From: hpv-bounces at bikelist.org [mailto:hpv-bounces at bikelist.org] On Behalf
+Of Bill Bushnell
+Sent: Tuesday, March 17, 2009 12:36 PM
+To: Theo Schmidt
+Cc: hpv at bikelist.org
+Subject: Re: [hpv] stop sign density [regen braking for electric bikes]
+
+On Tue, 17 Mar 2009, Theo Schmidt wrote:
+
+> Bill Bushnell schrieb:
+> ...
+> > 40% is highly optimistic for an ebike.  For a typical trip expect to
+> > recover more like 5-15%, depending on hilliness, number of stops and
+> > starts and controller sophistication or user skill in modulating regen
+> > current.
+> >
+> > For more information from two different perspectives, see:
+> >
+> > http://tinyurl.com/cjau3x
+> > http://tinyurl.com/dj6u9t
+> ...
+>
+> The 40% figure was from Frederik van der Walle here:
+> http://waw-bionx.blogspot.com/
+>
+> Disscussion about this:
+>
+http://osdir.com/ml/culture.transportation.humanpowered.velomobile/2005-10/t
+hreads.html#00013
+>
+> It depends of course on your speed. In ideal conditions you would be
+travelling
+> uphill and downhill at a speed where air and rolling resistances are
+slight. If
+> the total efficiency of your drive and battery is 70%, you would get
+almost 50%
+> back in these conditions.
+
+Frederick's observations were made on an aerodynamic vehicle ridden
+repeatedly up and down a 1.5km hill at moderate speed, a test contrived to
+maximize the effect of regenerative braking.  Most trips are not like this
+and will not see this much energy recovery.
+
+Bill Bushnell
+http://pobox.com/~bushnell/
+--
+This message comes to you via the hpv at bikelist.org mailing list, sponsored
+by http://www.hupi.org/
+Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+From list at moz.geek.nz  Wed Mar 18 09:07:57 2009
+From: list at moz.geek.nz (Moz)
+Date: Wed, 18 Mar 2009 10:07:57 -0700
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <7B22B61F-870A-4B61-88ED-F9D8254DD82E@gmail.com>
+References: <mailman.10.1237320002.55982.hpv@bikelist.org>
+	<8B4B8E7F-59E4-448B-BDB8-7800E3BCFB20@gmail.com>
+	<1237324118.49c011565f142@webmail.sil.at>
+	<7B22B61F-870A-4B61-88ED-F9D8254DD82E@gmail.com>
+Message-ID: <712271229.20090318100757@moz.geek.nz>
+
+William said:
+> Oh yeah, you'll NEVER charge up an electric car in 10 seconds.
+
+I'm more interested in what it says about the charge efficiency of
+the cells. Currently losses in NiMH are a major limitation on charge
+rates - because you lose 20% or so of the delivered power as heat,
+charging too fast melts the battery. RC models use forced air or
+water bath cooling for their fast charge systems, but that's not
+going to work outside those specialised environments.
+
+So if the new cells suck up charge that fast they can't be losing
+energy as heat during the process or they'd explode. It's all very
+well going from 300K to 330K in a one hour charge, but if your charge
+cycle is 10 seconds for the same input you'd be getting hot enough to
+melt plastic (and thermal expansion alone would make cell design
+tricky). So I'm guessing that means an efficiency closer to 99% than
+80%. Which is great news.
+
+Moz
+
+
+From list at moz.geek.nz  Wed Mar 18 13:52:36 2009
+From: list at moz.geek.nz (Moz)
+Date: Wed, 18 Mar 2009 14:52:36 -0700
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <49C06C16.3070700@comcast.net>
+References: <mailman.10.1237320002.55982.hpv@bikelist.org>
+	<8B4B8E7F-59E4-448B-BDB8-7800E3BCFB20@gmail.com>
+	<1237324118.49c011565f142@webmail.sil.at>
+	<7B22B61F-870A-4B61-88ED-F9D8254DD82E@gmail.com>
+	<712271229.20090318100757@moz.geek.nz>
+	<49C06C16.3070700@comcast.net>
+Message-ID: <8810646338.20090318145236@moz.geek.nz>
+
+Scott said:
+>> William said:
+>>> Oh yeah, you'll NEVER charge up an electric car in 10 seconds.
+> And man will never go to the moon... anything is possible, it's just a
+
+Scott, rough numbers for you:
+
+A Prius uses about 13kWh/100km and goes about 50km on batteries
+alone, so has a battery capacity of about 6500Wh. Assuming 100%
+charging efficiency that's 6500WH * 3600 seconds/hour / 10 seconds,
+or about 2.3MW. Your house probably has 220V AC electricity available,
+so 2.3MW means about 11kA at 220V (assuming a 90% efficient charger).
+
+Can you get 11,000 amps out of your 220V outlet?
+
+Now, my welder can do 200A for a 10% duty cycle and the copper part of
+the cables there are about 5mm diameter. 11kA is more than 50 times
+that, so the cables would need to have roughly 35mm diameter copper in
+them. That's 35mm diameter from the street, through your house and
+into the charger for your car. A lot of copper - thousands of dollars
+worth.
+
+I know you replied to me, but I can't see anything in what you wrote
+that's a response to my message. Could you clarify why you included
+my message?
+
+Moz
+
+
+
+
+From JCSnyder.studio at worldnet.att.net  Tue Mar 17 23:32:14 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Wed, 18 Mar 2009 01:32:14 -0600
+Subject: [hpv] hpv] SR3
+In-Reply-To: <a964c00903171302i108d2d6ep683d88210e89ae1@mail.gmail.com>
+References: <mailman.13.1237233602.39338.hpv@bikelist.org>	
+	<49BF34D6.4000107@worldnet.att.net>
+	<a964c00903171302i108d2d6ep683d88210e89ae1@mail.gmail.com>
+Message-ID: <49C0A37E.1020406@worldnet.att.net>
+
+Your observations and the interesting link suggest a slight amendment.
+
+"All transportation is intertwined with" how we share public space.
+
+This suggested change comes from experiencing, while aboard a  kayak, 
+how a single motor boat operator who ignores or is unaware of no-wake 
+zones can take over a public space (e.g.,a water way). This matter of 
+maintaining civility between humans who use motors and those humans who 
+use muscles for propulsion magnifies when on the water.
+
+Sometimes I think we humans, and the birds too, are just plain lucky 
+that swarms of flying cars (motorized or human powered) don't exist, yet.
+
+John Snyder
+
+Michael Graff wrote:
+> On Mon, Mar 16, 2009 at 22:27, John Snyder
+> <JCSnyder.studio at worldnet.att.net> wrote:
+>
+>   
+>> SR3 seems  possibly an opposite of another slogan "Copenhagenize".
+>>     
+>
+> They're different, but not mutually exclusive.  It's possible to
+> accommodate the full range of cycling preferences if we choose to:
+>
+> http://www.cyclistview.com/inclusivepdintro/index.htm
+>
+> And while we tend to talk about roads, rules, rights, and bikeways in
+> isolation, all transportation is intertwined with land use.
+>
+>   
+
+
+
+From legs_larry at yahoo.com  Wed Mar 18 01:17:55 2009
+From: legs_larry at yahoo.com (Dave Larrington)
+Date: Wed, 18 Mar 2009 09:17:55 +0000
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+Message-ID: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+
+William D. Volk wrote;
+
+> A Tesla does 0-60 in 3.9 seconds with a bank of A123 batteries.
+
+(Mutters sotto voce about innate uselessness of entire Tesla concept).
+
+-- 
+Dave Larrington
+<http://www.legslarry.beerdrinkers.co.uk>
+May the Lord have mercy on Stringy Bob.
+
+
+
+From mlibrik at att.net  Wed Mar 18 03:46:10 2009
+From: mlibrik at att.net (Mike Librik)
+Date: Wed, 18 Mar 2009 06:46:10 -0500
+Subject: [hpv] ...and the Virtual Edge concept as well... (was: regen
+ braking for electric bikes)
+In-Reply-To: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+Message-ID: <49C0DF02.7090408@att.net>
+
+Dave Larrington wrote:
+> William D. Volk wrote;
+>> A Tesla does 0-60 in 3.9 seconds with a bank of A123 batteries.
+> 
+> (Mutters sotto voce about innate uselessness of entire Tesla concept).
+> 
+
+A pricey speed machine isn't really what the world needs, but I expect 
+that it has its place in development.
+
+Keeping it relevant to the list, one could reasonably ask why the world 
+needs racing HPVs that require a crew to get it underway.  Because it 
+isn't the final product, only a necessary stage of development that has 
+innate interest to those willing to invest in them.
+
+In Tesla's case, it is a chance to fund more practical, lower 
+profit-per-unit items.  Their next model, an ordinary sedan, is on the 
+drawing board, but won't likely appear until business loan money comes 
+back.
+
+If you only have a small factory it makes more sense to produce a 
+Ferrari than a Kia.  Small bike makers don't exactly focus on affordable 
+bikes either.
+
+-- 
+Mike Librik, LCI #929
+(Reads the Electric Auto news but wouldn't actually buy one)
+League of Bicycling Voters
+Austin, TX
+(512) 567-4493
+
+Recumbent bikes & trikes
+for Central Texas:
+www.EasyStreetRecumbents.com
+
+From michael.graff at pobox.com  Wed Mar 18 07:29:18 2009
+From: michael.graff at pobox.com (Michael Graff)
+Date: Wed, 18 Mar 2009 08:29:18 -0700
+Subject: [hpv] hpv] SR3
+In-Reply-To: <49C0A37E.1020406@worldnet.att.net>
+References: <mailman.13.1237233602.39338.hpv@bikelist.org>
+	<49BF34D6.4000107@worldnet.att.net>
+	<a964c00903171302i108d2d6ep683d88210e89ae1@mail.gmail.com>
+	<49C0A37E.1020406@worldnet.att.net>
+Message-ID: <a964c00903180829m78ee0585i4c0e65c9ef2cb1dd@mail.gmail.com>
+
+On Wed, Mar 18, 2009 at 00:32, John Snyder
+<JCSnyder.studio at worldnet.att.net> wrote:
+
+> This matter of maintaining civility between humans who use motors and those humans who use muscles
+
+Exactly.  Here's one take on that concept:
+
+http://commuteorlando.com/wordpress/2009/03/17/strategy-for-a-cyclist-friendly-community/
+
+From g.u at juno.com  Wed Mar 18 12:24:29 2009
+From: g.u at juno.com (Fred Ungewitter)
+Date: Wed, 18 Mar 2009 16:24:29 -0400
+Subject: [hpv] maintaining civility between humans
+In-Reply-To: <mailman.17.1237406402.72279.hpv@bikelist.org>
+References: <mailman.17.1237406402.72279.hpv@bikelist.org>
+Message-ID: <49C1587D.3030704@juno.com>
+
+John, I can only agree that we don't need any more forms of enclosed, 
+dehumanizing transportation.  I believe that our bicycles encompass all 
+that is right with humanity, especially because it means we can more 
+easily communicate with others. It's all the more unfortunate that too 
+many of the road users are enclosed and isolated.
+
+There's a television commerical lately, showing humans launching into 
+the air, powered by "jet packs" of oatmeal breakfast cereal. At least 
+these humans are fully exposed, un-enclosed, but it would still be crazy!
+
+fred
+> From: John Snyder <JCSnyder.studio at worldnet.att.net>
+>
+> Your observations and the interesting link suggest a slight amendment.
+>
+> "All transportation is intertwined with" how we share public space.
+>
+> This suggested change comes from experiencing, while aboard a  kayak, 
+> how a single motor boat operator who ignores or is unaware of no-wake 
+> zones can take over a public space (e.g.,a water way). This matter of 
+> maintaining civility between humans who use motors and those humans who 
+> use muscles for propulsion magnifies when on the water.
+>
+> Sometimes I think we humans, and the birds too, are just plain lucky 
+> that swarms of flying cars (motorized or human powered) don't exist, yet.
+>
+> John Snyder
+>   
+>
+
+____________________________________________________________
+Free information on Digital Photography. Click Now!
+http://thirdpartyoffers.juno.com/TGL2141/fc/BLSrjpTDvmT7jqbQ3rrIYkciduM2rg3wqHkwcoxn183LULlAK5hcZ3M77X6/
+
+From jgtetz at msn.com  Wed Mar 18 16:49:09 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Wed, 18 Mar 2009 20:49:09 -0400
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+In-Reply-To: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+Message-ID: <COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+
+>> A Tesla does 0-60 in 3.9 seconds with a bank of A123 batteries.
+
+(Mutters sotto voce about innate uselessness of entire Tesla concept).
+
+Dave Larrington I couldn't agree with you more !!!! And he gets all kinds of media attention.
+Ever hear his lame philosophy? He thinks the Toyota Prius engine and motor are way too weak. 
+
+John Tetz  
+
+From jgtetz at msn.com  Wed Mar 18 20:37:53 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Thu, 19 Mar 2009 00:37:53 -0400
+Subject: [hpv] ...and the Virtual Edge concept as well... (was: regen
+	braking for electric bikes)
+In-Reply-To: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+	<49C0DF02.7090408@att.net>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+	<49C0DF02.7090408@att.net>
+Message-ID: <COL102-DS5F1980F7DB3833DB8BD91D7960@phx.gbl>
+
+>In Tesla's case, it is a chance to fund more practical, lower 
+profit-per-unit items.  ......Mike you make a good point. Kind of sad though that we still have to go this route. 
+
+>Their next model, an ordinary sedan, is on the drawing board 
+.........As for Tesla's sedan he stresses performance, (he disliked the lack of performance of the Prius). That destructive zero to sixty kind of attitude, to me shows a lack of a serious concern for efficiency and the environment. 
+
+John Tetz 
+
+From theosch06 at yahoo.de  Thu Mar 19 00:52:24 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Thu, 19 Mar 2009 09:52:24 +0100
+Subject: [hpv] acceleration [was: regen braking for electric bikes]
+In-Reply-To: <COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+	<COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+Message-ID: <49C207C8.7000207@yahoo.de>
+
+JOHN TETZ schrieb:
+>>> A Tesla does 0-60 in 3.9 seconds with a bank of A123 batteries.
+> 
+> (Mutters sotto voce about innate uselessness of entire Tesla concept).
+> 
+> Dave Larrington I couldn't agree with you more !!!! And he gets all kinds of media attention.
+> Ever hear his lame philosophy? He thinks the Toyota Prius engine and motor are way too weak. 
+
+(By the way, Tesla is an "it", not a "he". Nikola Tesla 
+http://en.wikipedia.org/wiki/Nikola_Tesla, the famous inventor from whom Tesla 
+Motors http://en.wikipedia.org/wiki/Tesla_Motors borrowed the name, is long dead 
+and has nothing to do with the Tesla cars, other than that they use AC 
+(alternating current) motors rather than the DC (direct current) motors favoured 
+by his rival Edison.)
+
+But let's get away from cars and just think about acceleration. Whether bikes, 
+motorcycles, cars or "non-vehicular" sports like skiing, there is no doubt that 
+people *like* to accelerate and are prepared to pay ridiculous amounts of money 
+for the priviledge.
+
+Acceleration is available force divided by total mass (a=F/m) and available 
+force is available power divided by the speed at this instant (F=P/v). Therefore 
+a=P/(m*v). Examining this equation, we see that in the first instant when 
+accererating from zero, very high accerations are possible with little power. It 
+also helps if the mass is low and for the intitial acceleration you must have a 
+great deal of force available. Now human bodies and also electric motors are 
+very good at applying large forces briefly, whereas internal combustion engines 
+are poor at this. For this reason, i.c. engines are always overpowered by a 
+great deal, at least a factor of ten. The alternative, a quickly-acting 
+wide-range CVT (continuously variable transmission) is expensive and rarely 
+strong enough at the low speed end.
+
+For the reasons above, cycles, especially very light ones, can initially 
+accelerate more quickly than motor vehicles. It is this feeling which motivates 
+people to spend a lot for lightweight constructions in carbon, titanium and 
+magnesium. Presumably fixed-gear bikes are also gaining in popularity because 
+this feeling is even more direct. Ordinary cycles suffer from having to change 
+gears while accelerating just like cars. (Side note: in my opinion recumbents 
+aren't as popular as racing bikes because the acceleration is the wrong way 
+around: you have to push *against* the direction of motion; with a racing bike 
+the direction is at least at approximately right angles; a supine vehicle would 
+have it right, but is otherwise less practical.)
+
+Electric vehicles can however get away with no mechnical gearing and electric 
+motors are more powerful than either humans or combustion motors. Therefore if 
+the batteries weren't so heavy, they would offer more acceleration than the 
+others - and also regenerative deceleration. With advanced batteries and careful 
+optimisation it is possible to get high acceleration anyway. This is probably 
+what the Tesla car concept is about - a toy to compete with the other toys.
+
+Getting back to bikes, we have several electric bikes and an electric 
+motorcycle. This Peugeot ScootElec is very enjoyable to ride in urban 
+conditions; it initially accelerates more quickly than similar petrol scooters 
+and is better in most other respects other than range. However they don't sell 
+well at all because the manufacturers prefer to advertise their petrol models 
+which give them higher profits.
+
+The vehicle I enjoy riding most is my Velocity Dolphin ebike because it combines 
+all the best points described above. The moderately powered (250W) motor is 
+geared through a planetary differential with the pedals in a pseudo-CVT setup 
+which allows accelerating from zero to speed without changing gear. Even better, 
+the pedal sensor gives a servo-feeling, so you think you are accelerating 
+yourself. In effect, you are getting the performance of an athlete without being 
+one and without frequent gear changes. The Dolphin unfortuantely doesn't offer 
+regen braking like my wife's recumbent BionX. This also has a totally different 
+pedal feeling to it. Both feelings aren't optimal, but I gather the present top 
+models of Swiss ebikes (both the Dolphin successor whatever it's called and the 
+Flyer) have got it about right - unfortunately without regen braking.
+
+Theo Schmidt
+
+From theosch06 at yahoo.de  Thu Mar 19 01:00:51 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Thu, 19 Mar 2009 10:00:51 +0100
+Subject: [hpv] deceleration [was: regen braking for electric bikes]
+In-Reply-To: <COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+	<COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+Message-ID: <49C209C3.8000309@yahoo.de>
+
+Following from my last message, we really want something which offers almost 
+instant acceleration like in computer games, and so that we may enjoy this over 
+and over, near instant deceleration and lots of stop signs!
+
+Thus there is some rational for designing the best possible regenerative braking 
+setup even though it is purely about feelings and not practical transportation. 
+I believe if such vehicles could be built at affordable prices, they could 
+displace quite a few car trips.
+
+I also believe that such performance, especially when coupled to pedals, would 
+allow "kicks" at lower speed levels and might reduce the many deaths caused by 
+boy racer types with their cars.
+
+Theo Schmidt
+
+From list at moz.geek.nz  Thu Mar 19 19:06:59 2009
+From: list at moz.geek.nz (Moz)
+Date: Thu, 19 Mar 2009 20:06:59 -0700
+Subject: [hpv] deceleration [was: regen braking for electric bikes]
+In-Reply-To: <49C209C3.8000309@yahoo.de>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+	<COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+	<49C209C3.8000309@yahoo.de>
+Message-ID: <326606570.20090319200659@moz.geek.nz>
+
+Theo said:
+> Following from my last message, we really want something which offers almost
+> instant acceleration ... best possible regenerative braking
+
+This is where the extremely fast charging high efficiency batteries
+would be really useful. Ideally you'd have a battery just big enough
+to get you from whoa to go a couple of times and a very light
+motor/generator. That way you could regen into stop signs then power
+out of them, obeying the law and not suffering too much of a penalty.
+
+Moz
+
+
+From theosch06 at yahoo.de  Thu Mar 19 01:41:20 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Thu, 19 Mar 2009 10:41:20 +0100
+Subject: [hpv] hpv] SR3
+In-Reply-To: <49C0A37E.1020406@worldnet.att.net>
+References: <mailman.13.1237233602.39338.hpv@bikelist.org>		<49BF34D6.4000107@worldnet.att.net>	<a964c00903171302i108d2d6ep683d88210e89ae1@mail.gmail.com>
+	<49C0A37E.1020406@worldnet.att.net>
+Message-ID: <49C21340.5010506@yahoo.de>
+
+John Snyder schrieb:
+
+> "All transportation is intertwined with" how we share public space.
+> ...
+> ...This matter of 
+> maintaining civility between humans who use motors and those humans who 
+> use muscles for propulsion magnifies when on the water.
+
+I think aqatic motorists are worse than land motorists. However the conflicts 
+are less because in general there is much more space.
+
+Regarding cycling, the problem is that vehicles can have different roles 
+depending on their environment and speed. A fast confident cyclist is definately 
+a "road vehicle" while the same person can easily mingle with the pedistrians in 
+a pedestrian zone by adopting a lower speed and different attitude. Non-cyclists 
+don't understand this very well. They also don't understand the great 
+superiority of cycles in traffic awareness and control, which allows manoeuvres 
+which to non-cyclists or even casual cyclists seem foolhardy.
+
+But of course cyclists aren't better people than motorists and don't really 
+behave any better. Indeed, perhaps not having any training and less likely to 
+"get caught" they will often behave worse. But what motorists and traffic 
+planners have got to realise is that it is different if you endanger yourself 
+than to if you endanger others. Cycles are much less likely to endanger others 
+even when breaking various traffic laws than cars are even when obeying them.
+
+Theo Schmidt
+
+
+From cbroome at calpoly.edu  Thu Mar 19 09:06:04 2009
+From: cbroome at calpoly.edu (Chris Broome)
+Date: Thu, 19 Mar 2009 10:06:04 -0700
+Subject: [hpv] deceleration [was: regen braking for electric bikes]
+In-Reply-To: <326606570.20090319200659@moz.geek.nz>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>	<COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>	<49C209C3.8000309@yahoo.de>
+	<326606570.20090319200659@moz.geek.nz>
+Message-ID: <49C27B7C.6000802@calpoly.edu>
+
+I've been skimming the regen thread, but must confess that I haven't 
+read every message.
+
+But this leads to a simple question:
+
+Has anyone performed actual real-life testing of regenerative braking 
+and do they have quantitative results?
+
+- such as riding a specific route  with regen off, measuring the results 
+and then repeating the test with regen on ?
+
+I'm curious because my personal experience of  riding my non-electrified 
+recumbent through moderate hills and suburban environments is that I 
+just don't use the brakes much at all, so if I were electrified, regen 
+wouldn't provide any practical benefit.
+
+The theory and postulation are very interesting, but does anyone have 
+real-life numbers ?
+
+-- Chris Broome
+
+
+From william.volk at gmail.com  Thu Mar 19 09:19:20 2009
+From: william.volk at gmail.com (William D. Volk)
+Date: Thu, 19 Mar 2009 10:19:20 -0700
+Subject: [hpv] stop sign density [regen braking for electric bikes]
+	(JOHN TETZ)
+Message-ID: <C6F279C0-FE2E-4D32-BC3C-C8ED9D5CA4C4@gmail.com>
+
+I agree that Tesla Motors has taken a "gear-head" approach, but as  
+with HPV's .... if you lack scale of production the best bet is to aim  
+for the highest end of the marketplace.
+
+A local company has taken a more sensible approach, in some ways  
+taking advantage of the learning that has occurred in HPV and Mileage  
+competitions.
+
+You can see this here:
+
+http://aptera.com/
+
+A very aero tadpole trike.  I've seen it on the roads around here.
+
+Bill Volk
+Carlsbad, CA
+
+
+From patf at terracycle.com  Thu Mar 19 09:33:45 2009
+From: patf at terracycle.com (Pat Franz)
+Date: Thu, 19 Mar 2009 10:33:45 -0700
+Subject: [hpv] Acceleration Fun
+References: <mailman.8358.1237482365.337.hpv@bikelist.org>
+Message-ID: <95D60304C7C34E96A89D1C1C12EF8618@DellPatsDesk>
+
+Theo Schmidt wrote:
+
+> Following from my last message, we really want something which offers 
+> almost
+> instant acceleration like in computer games, and so that we may enjoy this 
+> over
+> and over, near instant deceleration and lots of stop signs!
+
+I was thinking the same thing. Much more efficient to accelerate the human 
+and their seat than the entire car. Some kind of virtual reality setup, with 
+a little bit of possible "real world sport" improvements for marketing 
+purposes, would be much more efficient. Link it to what is really happening 
+with the car, but exaggerate it. I can see being able to download programs 
+for all kinds of race cars and fighter planes and things like that.
+
+Not sure I want a lot more drivers "in their own little world", though. 
+Seems like there is a lot of that going on already...
+
+--Pat Franz
+
+TerraCycle, Inc.
+3450 SE Alder, Portland OR 97214 USA
+1-800-371-5871 (N. America)
+503-231-9798 (US Pacific Coast, GMT-8)
+www.terracycle.com
+EU Distribution and Sales: www.icletta.com
+
+
+From bushnell at sonic.net  Thu Mar 19 10:21:56 2009
+From: bushnell at sonic.net (Bill Bushnell)
+Date: Thu, 19 Mar 2009 10:21:56 -0800
+Subject: [hpv] deceleration [was: regen braking for electric bikes]
+In-Reply-To: <49C27B7C.6000802@calpoly.edu>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+	<COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+	<49C209C3.8000309@yahoo.de>
+	<326606570.20090319200659@moz.geek.nz> <49C27B7C.6000802@calpoly.edu>
+Message-ID: <Pine.LNX.4.58.0903190950560.31882@bolt.sonic.net>
+
+On Thu, 19 Mar 2009, Chris Broome wrote:
+
+> I've been skimming the regen thread, but must confess that I haven't
+> read every message.
+>
+> But this leads to a simple question:
+>
+> Has anyone performed actual real-life testing of regenerative braking
+> and do they have quantitative results?
+>
+> - such as riding a specific route  with regen off, measuring the results
+> and then repeating the test with regen on ?
+>
+> I'm curious because my personal experience of  riding my non-electrified
+> recumbent through moderate hills and suburban environments is that I
+> just don't use the brakes much at all, so if I were electrified, regen
+> wouldn't provide any practical benefit.
+>
+> The theory and postulation are very interesting, but does anyone have
+> real-life numbers ?
+
+Chris:
+
+You must have missed the first messages in this discussion.  Theo Schmidt
+and I posted URL links to accounts of regenerative braking tests conducted
+by different people, using different bikes on different courses, both
+anecdotal.  I've reposted this at the botttom.
+
+In summary, the effect of regen. braking varies from zero to something in
+the mid-40 percent range, depending on circumstances.  Most people who
+have tried this on a typical course get something between 5 and 15%
+recovery when riding normally but using the motor as a brake/generator
+instead of a friction brake.
+
+One needs to ask if increasing the mechanical complexity of the motor
+system with a clutch or restricting oneself to the use of a non-geared hub
+motor and of adapting one's riding style when descending hills and/or
+dealing with urban traffic to minimize energy lost to air
+resistance--keeping speed moderate (e.g. 15mph) so that energy can be
+recaptured by the battery is a worthwhile alternative to using a similarly
+larger battery?
+
+Descending a hill at terminal velocity, braking only where necessary to
+negotiate turns and other obstacles is the payback for climbing the hill
+and closest one gets to (controlled) flying on a bicycle.  Efficient use
+of regenerative braking would give up most of this enjoyment.
+
+Bill Bushnell
+http://pobox.com/~bushnell/
+
+--------------------------------------------------------------------
+
+From: Bill Bushnell
+Sent: Tuesday, March 17, 2009 12:36 PM
+To: Theo Schmidt
+Cc: hpv at bikelist.org
+Subject: Re: [hpv] stop sign density [regen braking for electric bikes]
+
+On Tue, 17 Mar 2009, Theo Schmidt wrote:
+
+> Bill Bushnell schrieb:
+> ...
+> > 40% is highly optimistic for an ebike.  For a typical trip expect to
+> > recover more like 5-15%, depending on hilliness, number of stops and
+> > starts and controller sophistication or user skill in modulating regen
+> > current.
+> >
+> > For more information from two different perspectives, see:
+> >
+> > http://tinyurl.com/cjau3x
+> > http://tinyurl.com/dj6u9t
+> ...
+>
+> The 40% figure was from Frederik van der Walle here:
+> http://waw-bionx.blogspot.com/
+>
+> Disscussion about this:
+>
+http://osdir.com/ml/culture.transportation.humanpowered.velomobile/2005-10/t
+hreads.html#00013
+>
+> It depends of course on your speed. In ideal conditions you would be
+travelling
+> uphill and downhill at a speed where air and rolling resistances are
+slight. If
+> the total efficiency of your drive and battery is 70%, you would get
+almost 50%
+> back in these conditions.
+
+Frederick's observations were made on an aerodynamic vehicle ridden
+repeatedly up and down a 1.5km hill at moderate speed, a test contrived to
+maximize the effect of regenerative braking.  Most trips are not like this
+and will not see this much energy recovery.
+
+Bill Bushnell
+http://pobox.com/~bushnell/
+
+
+From dwight at dtovey.net  Thu Mar 19 10:22:27 2009
+From: dwight at dtovey.net (Dwight Tovey)
+Date: Thu, 19 Mar 2009 12:22:27 -0600
+Subject: [hpv] Acceleration Fun
+Message-ID: <53015.15.219.153.73.1237486947.squirrel@www.dtovey.net>
+
+
+I always find it interesting how much effort people will put into saving
+energy....
+
+(and I should talk, considering how much work I did to xerescape my yard
+so that I won't have to mow it)  :)
+    /dwight
+
+-- 
+Dwight Tovey
+dwight at dtovey.net
+http://www.dtovey.net
+----------
+If at first you don't succeed, destroy all evidence that you tried.
+
+
+From timallard at msn.com  Thu Mar 19 11:33:23 2009
+From: timallard at msn.com (tomm)
+Date: Thu, 19 Mar 2009 12:33:23 -0700
+Subject: [hpv] deceleration [was: regen braking for electric bikes]
+In-Reply-To: <Pine.LNX.4.58.0903190950560.31882@bolt.sonic.net>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>	<COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>	<49C209C3.8000309@yahoo.de>	<326606570.20090319200659@moz.geek.nz>
+	<49C27B7C.6000802@calpoly.edu>
+	<Pine.LNX.4.58.0903190950560.31882@bolt.sonic.net>
+Message-ID: <000801c9a8c9$912df1d0$b389d570$@com>
+
+The new lithium compounds are very close to what we're talking about, but
+still not even close without capacitors, and probably needs too many of them
+to be practical. 
+
+A more recent advance is getting charge times down to 10-20 seconds but that
+isn't the current formulation and is a manufacturing advance due to a better
+understanding of how charging takes place. This advance is what's needed,
+but you'll still need capacitors.
+
+With the 10-20 second range you can take what's captured by the capacitors
+that charge almost instantly and feed it to the batteries before it's leaked
+out to give an overall system efficiency way better than 15%-20%.
+
+If you can't capture the current spike from braking hard to a stop ... 
+
+The power loss from the cap's over time is the problem, they don't hold a
+charge worth beans, 10-20 seconds is in the ballpark but that's only with
+the new mfg technique, 3-4 years down the line or so.
+
+Tom Mallard
+Software Design - Architecture
+Consumer Product Design
+
+
+-----Original Message-----
+From: hpv-bounces at bikelist.org [mailto:hpv-bounces at bikelist.org] On Behalf
+Of Bill Bushnell
+Sent: Thursday, March 19, 2009 11:22 AM
+To: hpv at bikelist.org
+Subject: Re: [hpv] deceleration [was: regen braking for electric bikes]
+
+On Thu, 19 Mar 2009, Chris Broome wrote:
+
+> I've been skimming the regen thread, but must confess that I haven't
+> read every message.
+>
+> But this leads to a simple question:
+>
+> Has anyone performed actual real-life testing of regenerative braking
+> and do they have quantitative results?
+>
+> - such as riding a specific route  with regen off, measuring the results
+> and then repeating the test with regen on ?
+>
+> I'm curious because my personal experience of  riding my non-electrified
+> recumbent through moderate hills and suburban environments is that I
+> just don't use the brakes much at all, so if I were electrified, regen
+> wouldn't provide any practical benefit.
+>
+> The theory and postulation are very interesting, but does anyone have
+> real-life numbers ?
+
+Chris:
+
+You must have missed the first messages in this discussion.  Theo Schmidt
+and I posted URL links to accounts of regenerative braking tests conducted
+by different people, using different bikes on different courses, both
+anecdotal.  I've reposted this at the botttom.
+
+In summary, the effect of regen. braking varies from zero to something in
+the mid-40 percent range, depending on circumstances.  Most people who
+have tried this on a typical course get something between 5 and 15%
+recovery when riding normally but using the motor as a brake/generator
+instead of a friction brake.
+
+One needs to ask if increasing the mechanical complexity of the motor
+system with a clutch or restricting oneself to the use of a non-geared hub
+motor and of adapting one's riding style when descending hills and/or
+dealing with urban traffic to minimize energy lost to air
+resistance--keeping speed moderate (e.g. 15mph) so that energy can be
+recaptured by the battery is a worthwhile alternative to using a similarly
+larger battery?
+
+Descending a hill at terminal velocity, braking only where necessary to
+negotiate turns and other obstacles is the payback for climbing the hill
+and closest one gets to (controlled) flying on a bicycle.  Efficient use
+of regenerative braking would give up most of this enjoyment.
+
+Bill Bushnell
+http://pobox.com/~bushnell/
+
+--------------------------------------------------------------------
+
+From: Bill Bushnell
+Sent: Tuesday, March 17, 2009 12:36 PM
+To: Theo Schmidt
+Cc: hpv at bikelist.org
+Subject: Re: [hpv] stop sign density [regen braking for electric bikes]
+
+On Tue, 17 Mar 2009, Theo Schmidt wrote:
+
+> Bill Bushnell schrieb:
+> ...
+> > 40% is highly optimistic for an ebike.  For a typical trip expect to
+> > recover more like 5-15%, depending on hilliness, number of stops and
+> > starts and controller sophistication or user skill in modulating regen
+> > current.
+> >
+> > For more information from two different perspectives, see:
+> >
+> > http://tinyurl.com/cjau3x
+> > http://tinyurl.com/dj6u9t
+> ...
+>
+> The 40% figure was from Frederik van der Walle here:
+> http://waw-bionx.blogspot.com/
+>
+> Disscussion about this:
+>
+http://osdir.com/ml/culture.transportation.humanpowered.velomobile/2005-10/t
+hreads.html#00013
+>
+> It depends of course on your speed. In ideal conditions you would be
+travelling
+> uphill and downhill at a speed where air and rolling resistances are
+slight. If
+> the total efficiency of your drive and battery is 70%, you would get
+almost 50%
+> back in these conditions.
+
+Frederick's observations were made on an aerodynamic vehicle ridden
+repeatedly up and down a 1.5km hill at moderate speed, a test contrived to
+maximize the effect of regenerative braking.  Most trips are not like this
+and will not see this much energy recovery.
+
+Bill Bushnell
+http://pobox.com/~bushnell/
+
+--
+This message comes to you via the hpv at bikelist.org mailing list, sponsored
+by http://www.hupi.org/
+Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+From list at moz.geek.nz  Fri Mar 20 07:03:58 2009
+From: list at moz.geek.nz (Moz)
+Date: Fri, 20 Mar 2009 08:03:58 -0700
+Subject: [hpv] deceleration [was: regen braking for electric bikes]
+In-Reply-To: <49C27B7C.6000802@calpoly.edu>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM>
+	<COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+	<49C209C3.8000309@yahoo.de> <326606570.20090319200659@moz.geek.nz>
+	<49C27B7C.6000802@calpoly.edu>
+Message-ID: <1164062932.20090320080358@moz.geek.nz>
+
+Chris said:
+> Has anyone performed actual real-life testing of regenerative braking
+> and do they have quantitative results?
+
+Yes, but to see it you'll need to buy the relevant back issue of A to
+B. I expect that any review of the BionX will mention it, but whether
+they do a decent test is anyone's guess.
+
+http://www.atob.org.uk/Electric_Buyers%27_Guide.html
+
+BionX  ***
+Estimated kit price ?845
+The BionX is available either as a kit for fitting to a normal bike, or as a complete machine. It's the first regenerative system to become widely available, but STILL not launched in the UK, despite numerous promises, allegedly because the French Canadian manufacturer is difficult to deal with. The bike not only supplies power, but can 'recycle' it on descents and when slowing down. It relies on complex electronics to do this (which always makes us nervous), but it has many good features - near silent operation, reasonable range and reduced brake wear (the motor does most of the braking). On the negative side, range can be limited if you don't 'drive' the system carefully, and hill-climbing is not very good.
+We carried out a full review of the BionX system in A to B 45, see A to B Back Numbers
+
+
+Moz
+
+
+From JCSnyder.studio at worldnet.att.net  Thu Mar 19 13:11:42 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Thu, 19 Mar 2009 15:11:42 -0600
+Subject: [hpv] acceleration numbers
+In-Reply-To: <mailman.19.1237492801.90400.hpv@bikelist.org>
+References: <mailman.19.1237492801.90400.hpv@bikelist.org>
+Message-ID: <49C2B50E.4000800@worldnet.att.net>
+
+http://home.att.net/~jcsnyder.studio/distribution_of_force.jpg
+
+The above links to a graph I made in Oct 2006 of an upright bicycle, 
+using an iBike data logger and spreadsheet program for the post-ride 
+analysis.
+
+The graph's primary purpose is to depict how the Force due to 
+acceleration (F accel) varies in response to changes in road slope and 
+natural wind speed.  It's useful to regard Fa as a vector with direction 
+relative to forward motion indicated by  a positive or negative sign. 
+Thus the force due to acceleration serves as either a propulsive force 
+or as an additional source of drag.  In this particular example, IIRC 
+there had been no active use of the brakes.
+
+John Snyder
+.
+
+From togo at of.net  Thu Mar 19 16:59:26 2009
+From: togo at of.net (Tony Godshall)
+Date: Thu, 19 Mar 2009 17:59:26 -0700
+Subject: [hpv] dealing with stop signs: high power regen and acceleration
+	[was Re: deceleration [was: regen braking for electric bikes]]
+Message-ID: <3424dc900903191759r7a325f9epebee6355d12fdd3d@mail.gmail.com>
+
+On Thu, Mar 19, 2009 at 8:06 PM, Moz <list at moz.geek.nz> wrote:
+> Theo said:
+>> Following from my last message, we really want something which offers almost
+>> instant acceleration ... best possible regenerative braking
+>
+> This is where the extremely fast charging high efficiency batteries
+> would be really useful. Ideally you'd have a battery just big enough
+> to get you from whoa to go a couple of times and a very light
+> motor/generator.
+
+You probably know this, but...
+
+That's where capacitors differ from batteries.  Capacitors can be
+charged and discharged at much higher rates but have lower
+capacities (per weight and per volume).
+
+Ultracapacitors are commonly referenced in electric car design
+papers- they can have larger charge/discharge rates than batteries
+and better store more power per weight and volume than capacitors.
+
+> That way you could regen into stop signs then power
+> out of them, obeying the law and not suffering too much of a penalty.
+
+I'd like that.
+
+And if you can do that at a stop sign, you can probably to it at a
+red-light or a small hill.
+
+This guy built a 4000watt assist:
+
+  http://www.wisil.recumbents.com/wisil/shumaker/default.htm
+
+Discussion here:
+
+  http://tech.groups.yahoo.com/group/power-assist/message/72313
+
+Obviously this design is not directly good for our discussion since
+it has such high gearing (i.e. poor regen) but it does demonstrate
+that there it is possible to produce high power in a small package
+at a low duty cycle.
+
+Personally, I want a clutch mechanism on my as yet hypothetical
+velomobile so I can pedal into the regen braking mechanism
+while waiting at the red light and bank up enough energy so I can
+be back at cruise speed quickly when the light goes green.
+
+-- 
+Best Regards.
+Please keep in touch.
+This is unedited.
+P-)
+
+From jmleibman at msn.com  Thu Mar 19 22:13:18 2009
+From: jmleibman at msn.com (John and Pat Leibman)
+Date: Fri, 20 Mar 2009 00:13:18 -0600
+Subject: [hpv] deceleration [was: regen braking for electric
+In-Reply-To: <mailman.8358.1237482365.337.hpv@bikelist.org>
+References: <mailman.8358.1237482365.337.hpv@bikelist.org>
+Message-ID: <COL105-DS17AC73AD40D3F63D799E32A2970@phx.gbl>
+
+Chris,
+
+I've performed real world tests with my 250 Watt Bionx with Lithium Ion batteries, but I do not have precise quantitative results.  If I only use the lowest level of assist and only on the last mile of my 6.7 mile ride to work and then use the regen setting of 2 or higher for the 4+ miles of downhill on the way home, I can ride every day without ever having to charge the battery.  In this mode, I only save about 5 minutes from my total commute time, but I am much more likely to ride knowing that I do not have to supply all the power to climb the 457 feet in the final mile to work.  Coming out of work, I can go 30 mph or better with the full regen braking on the big hill right by where I work.  On the other hills I can set the regen level to 2 and go better than 15 mph.  I do not know how the numbers in the diagnostic mode on the system correspond to standard units.  When it says my regen level is "20" or "40", I think it is just a number on a scale that Bionx set up.  The settings on the Bionx systems can vary.  My max regen is set to "45".  It can be set higher.  This is useless in flatter settings and might be overload on the system with my long 10% grade hill.  My system serves me well, but I live close to the foothills South West of Denver and ride up into the foothills to go to work.  I have a gross elevation gain of 1000 feet between home and work (a net elevation gain of 700 ft.).  For my situation, the regen works well.  I don't think it would work as well in flatter areas, but there you could go a lot further on a single charge anyway.
+
+John
+
+  Message: 8
+  Date: Thu, 19 Mar 2009 10:06:04 -0700
+  From: Chris Broome <cbroome at calpoly.edu<mailto:cbroome at calpoly.edu>>
+  Subject: Re: [hpv] deceleration [was: regen braking for electric
+  bikes]
+  To: <hpv at bikelist.org<mailto:hpv at bikelist.org>>
+  Message-ID: <49C27B7C.6000802 at calpoly.edu<mailto:49C27B7C.6000802 at calpoly.edu>>
+  Content-Type: text/plain; charset="ISO-8859-1"; format=flowed
+
+  I've been skimming the regen thread, but must confess that I haven't 
+  read every message.
+
+  But this leads to a simple question:
+
+  Has anyone performed actual real-life testing of regenerative braking 
+  and do they have quantitative results?
+
+  - such as riding a specific route  with regen off, measuring the results 
+  and then repeating the test with regen on ?
+
+  I'm curious because my personal experience of  riding my non-electrified 
+  recumbent through moderate hills and suburban environments is that I 
+  just don't use the brakes much at all, so if I were electrified, regen 
+  wouldn't provide any practical benefit.
+
+  The theory and postulation are very interesting, but does anyone have 
+  real-life numbers ?
+
+  -- Chris Broome
+
+
+
+  ------------------------------
+
+  This message digest comes to you via the hpv at bikelist.org<mailto:hpv at bikelist.org> mailing list, sponsored by http://www.HuPI.org/<http://www.hupi.org/>
+  Visit http://hupi.org/mailman/listinfo/hpv<http://bikelist.org/mailman/listinfo/hpv> to manage your subscription.
+
+  End of hpv Digest, Vol 55, Issue 20
+  ***********************************
+
+From legs_larry at yahoo.com  Fri Mar 20 00:47:54 2009
+From: legs_larry at yahoo.com (Dave Larrington)
+Date: Fri, 20 Mar 2009 08:47:54 +0000
+Subject: [hpv] ...and the Virtual Edge concept as well... (was: regen
+	braking for electric bikes)
+Message-ID: <06f701c9a938$d8467a50$8078400a@PCROOT.COM>
+
+John Tetz wrote:
+
+> As for Tesla's sedan he stresses performance, (he disliked the lack of 
+> performance of the Prius).
+
+Curiously, every time I encounter a Pious on the motorway, it is invariably 
+being driven in a manner which would suggest that the driver's trousers are 
+on fire.
+
+-- 
+Dave Larrington
+<http://www.legslarry.beerdrinkers.co.uk>
+The sixth student said, "I ride my bicycle because I want people
+to look up to me and say 'Wow! He looks really good up there!'
+The teacher replied: 'Go away, Fabrizio!'"
+
+
+
+From lioninoil at yahoo.com  Fri Mar 20 18:07:28 2009
+From: lioninoil at yahoo.com (LioNiNoiL)
+Date: Fri, 20 Mar 2009 19:07:28 -0700
+Subject: [hpv] dealing with stop signs: high power regen and acceleration
+Message-ID: <914693.21797.qm@web32703.mail.mud.yahoo.com>
+
+
+Tony Godshall wrote:
+ 
+> This guy built a 4000watt assist:
+> http://www.wisil.recumbents.com/wisil/shumaker/default.htm
+ 
+Four kilowatts! Yowza!
+(that's over five horsepower to you bloody Yanks)
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+"There's no tellin' where the money went"
+-- Robert Palmer, "Simply Irresistible" (1988)
+
+
+
+      
+
+From jgtetz at msn.com  Fri Mar 20 20:43:24 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Sat, 21 Mar 2009 00:43:24 -0400
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <004701c9a7ad$277faf70$8078400a@PCROOT.COM><COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+	<49C207C8.7000207@yahoo.de>
+References: <004701c9a7ad$277faf70$8078400a@PCROOT.COM><COL102-DS20BF9468E41C7E286982DED7960@phx.gbl>
+	<49C207C8.7000207@yahoo.de>
+Message-ID: <COL102-DS23CEA2D92140B21B700D2FD7940@phx.gbl>
+
+Theo wrote;
+
+>(By the way, Tesla is an "it", not a "he".  
+....Of course I know that. I just don't remember the designers name and don't care to. 
+
+>there is no doubt that people *like* to accelerate and are prepared to pay ridiculous amounts of money 
+for the privilege.
+....yes that has been true in the past but we need to get out of that old excessive 19th and 20th century thinking. 
+It's not what an individual can afford,  but what the Earth can afford. 
+
+>With advanced batteries and careful 
+optimisation it is possible to get high acceleration anyway. 
+.........Slow down that 0 to 60 in 6 seconds mentality to something like 18 seconds or higher and automatically the batteries could be smaller, the motor smaller, drive train lighter, the whole vehicle lighter, efficiency higher - now we are talking sensibly. We have adequate technology now!!!!. 
+
+I often use my 5 pound 2.3 kg ultra light E assist on my ultra light Velomobile (47 lbs, 21kg) for "adequate" acceleration up to cruising speed 20 mph 32 kph. An ideal speed for HPV type vehicles.  
+However when I'm using the vehicle for running local errands I often limit assist use because my bodies health depends on getting enough daily exercise. When your old you need to maintain a certain level of exercise. So using an assist for too much acceleration or in a more continuous fashion can be detrimental in many ways. We have a lot of overweight and in poor health people here in the states. 
+
+I'm talking about local travel because here because we don't have the infrastructure for longer distance commuting. 
+
+>because the acceleration is the wrong way 
+around: you have to push *against* the direction of motion; 
+....I often eat up-rights on acceleration from a stop to 15 mph, 24kph on my unfaired FWD recumbent.  After 15 they can put out more and longer term power. 
+
+John Tetz 
+
+
+ 
+
+From JCSnyder.studio at worldnet.att.net  Sat Mar 21 09:59:42 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Sat, 21 Mar 2009 11:59:42 -0600
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.19.1237579213.7620.hpv@bikelist.org>
+References: <mailman.19.1237579213.7620.hpv@bikelist.org>
+Message-ID: <49C52B0E.1040107@worldnet.att.net>
+
+John Tetz wrote:
+
+> Slow down that 0 to 60 in 6 seconds mentality to something like 18 
+> seconds or higher and automatically the batteries could be smaller, 
+> the motor smaller, drive train lighter, the whole vehicle lighter, 
+> efficiency higher - now we are talking sensibly. We have adequate 
+> technology now!!!!.
+John your observation is supported by the formula for Energy.  Energy 
+can be depicted most simply by Energy (E) being a Force (F) moved 
+through a distance (s);
+
+E = F * s
+
+By reintroducing the basic depictions  for Force and acceleration ( 
+F=m*a, and  a = dV/t) the Energy formula can be rewritten as;
+
+E = m * dV/t  * s
+
+Thus, from your example of increasing time (t) by a factor of 3, the 
+amount of Energy used would be decreased to a third of what it had been. 
+The value of dV in the formula need not change, hence the achieved 
+maximum velocity can remain the same.
+
+> I often limit assist use because my bodies health depends on getting 
+> enough daily exercise.
+
+Good for you, John!!! 
+
+Our physical and cognitive well-being depend on getting sufficient 
+physical exercise.  Bicycling is not enough by itself to supply the 
+needed weight bearing exercise to promote good bone density. Pedestrian 
+travel supplies the most accessible weight bearing activity for most 
+people and can be included as part of cycling. This can be done by 
+choosing on purpose to travel over hilly routes or other otherwise 
+challenging situations that will include pushing the bicycle. One can 
+even consider forgoing the bike for some trips or chores.
+
+Here are a few links about bone density and bicycling:
+
+http://www.sciencedaily.com/releases/2007/10/071016135440.htm
+http://www.latimes.com/features/health/la-he-cycling16-2009feb16,0,1785648.story
+
+Cheers,
+
+John Snyder
+
+
+,
+
+
+
+
+From recumbo at roadrunner.com  Sat Mar 21 12:10:55 2009
+From: recumbo at roadrunner.com (Ethan Davis)
+Date: Sat, 21 Mar 2009 16:10:55 -0400
+Subject: [hpv] '09 NE HPV Rally - May 9
+Message-ID: <49C549CF.2040108@roadrunner.com>
+
+Hi Folks,
+
+It's time to shake off the Winter doldrums and celebrate Human Power 
+(and the Spring!!!)
+
+The '09 New England HPV Rally will be held on Saturday, May 9, 2009 in 
+Portsmouth, New Hampshire in conjunction with the Portsmouth 
+Sustainability Fair.  Details can be found on the events page at 
+www.wildfirehpv.com
+
+If previous events are any guide, we should have a good range of 
+different human powered vehicles, including commercially built and 
+homebuilt velomobiles, human/electric hybrids (past events included a 
+solar powered upright built mostly from junk!) and a wide range of 
+different recumbents.
+
+Last years Sustainability Fair was a pretty big draw (1400 attendees) 
+with lots of interesting things to see and do, and this years fair 
+promises to be even bigger and better. 
+
+So it should be a great time and well worth it.
+
+Hope to see you there!
+
+Best,
+-Ethan
+
+
+From jeff_wills at comcast.net  Sat Mar 21 20:48:37 2009
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Sun, 22 Mar 2009 04:48:37 +0000
+Subject: [hpv] Pacific Northwesters: Come to Portland in May,
+ was  Re:  '09 NE HPV Rally - May 9
+In-Reply-To: <49C549CF.2040108@roadrunner.com>
+Message-ID: <1886440266.11531221237697317575.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+
+If Ethan can announce his event here, I can too!
+
+The 10th annual Human Power Challenge will be happening May 23rd through 25th at Portland International Raceway. See http://www.ohpv.org/HPC/Intro.html for complete details and registration.
+
+Featured events:
+
+
+Individual Time Trial 
+1/8 Mile Drag Race 
+Auto Cross Speed & Agility Course 
+200 Meter All Out Speed Test 
+Mass Start Road Race 
+
+Also featuring: 
+
+
+ePower Challenge for electric/human hybrids
+the Left Coast Velomobile Gathering 
+Electrathon racing
+
+
+Jeff Wills
+
+-----------------------------------------------------------
+Make plans now to attend the 
+ Recumbent Retreat
+http://www.recumbentretreat.org/
+------------------------------------------------------------
+
+
+
+From jgtetz at msn.com  Sat Mar 21 21:02:02 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Sun, 22 Mar 2009 01:02:02 -0400
+Subject: [hpv] Bone density
+In-Reply-To: <mailman.19.1237579213.7620.hpv@bikelist.org>
+	<49C52B0E.1040107@worldnet.att.net>
+References: <mailman.19.1237579213.7620.hpv@bikelist.org>
+	<49C52B0E.1040107@worldnet.att.net>
+Message-ID: <COL102-DS15A1BDA75699359662E8D5D7950@phx.gbl>
+
+> Bicycling is not enough by itself to supply the 
+needed weight bearing exercise to promote good bone density.
+.....Thanks John for the URLs. 
+
+I do walk quite a bit, and do a range of other exercise such as shoveling snow, raking leaves, digging in the garden, and cutting wood for my stove all with hand tools. 
+
+John Tetz 
+
+From wilson at afn.org  Sun Mar 22 08:45:46 2009
+From: wilson at afn.org (Jim Wilson)
+Date: Sun, 22 Mar 2009 12:45:46 -0400
+Subject: [hpv] acceleration 0 to 60
+Message-ID: <49C66B3A.6050702@afn.org>
+
+John Snyder asserted:
+
+> a = dV/t
+
+Methinks you forgot a d: a = dV/dt.
+
+Easier might be, E = 0.5*m*v*v.  Notice we don't need no steenkin 't'.
+
+Else I smell a perpetual motion machine!  Further symbol manipulation in
+support of this breakthrough is LTTR.
+
+Jim Wilson
+Gainesville, FL
+
+From JCSnyder.studio at worldnet.att.net  Sun Mar 22 22:37:50 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Mon, 23 Mar 2009 00:37:50 -0600
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.17.1237752003.39108.hpv@bikelist.org>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>
+Message-ID: <49C72E3E.3040409@worldnet.att.net>
+
+The formula for Kinetic Energy (KE = 0.5 * m * v *v) says the same as E 
+= Fs when Vo = 0.0 m/s..
+
+Little "t" was the center of attention. John Tetz suggested an example 
+of looking at an eBike's change of velocity lasting  6 seconds (t') 
+compared to 18 seconds (t").  The moves and pieces  were; F = m*a, a = 
+(Vf - Vo)/t , dV = (Vf-Vo), and E = F*s which together allow showing 
+time in the formula for Energy, as E = m * dV/t  * s.   Using the 
+inputs; m' = m", s' = s", dV' = dV", t' = 6 seconds and t" = 18 seconds 
+will give the result  E' = 3*E".  (see ref)
+
+This perspective gives support to the following statement made by Tetz;
+
+> Slow down that 0 to 60 in 6 seconds mentality to something like 18 
+> seconds or higher and automatically the batteries could be smaller, 
+> the motor smaller, drive train lighter, the whole vehicle lighter, 
+> efficiency higher - now we are talking sensibly. We have adequate 
+> technology now!!!!
+No new technologies involved, just an application of patience and 
+regarding one's Joules as valuable . <wink>
+
+Cheers,
+
+John Snyder
+
+
+ref : Joseph Kelleher and Robert Abbott. 1968,  Mechanics. COWLES VOLUME 
+LIBRARY. NYC. pp 1873 -1880.
+
+

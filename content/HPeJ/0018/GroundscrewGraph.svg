@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN"
+   "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd">
+<svg  width="630" height="434" style="stroke-linecap:round">
+<g transform="scale(0.1)" style="font-family:Helvetica">
+   <rect x="0" y="0" width="6298" height="4330" style="fill:white; stroke:rgb(224,224,224); stroke-width:1"/>
+   <rect x="984" y="394" width="4527" height="3148" style="fill:white; stroke:white; stroke-width:1"/>
+   <line x1="984" y1="3543" x2="5512" y2="3543" style="stroke:black; stroke-width:8"/>
+   <text x="3248" y="4051" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:142; text-anchor:middle ">Depth [cm]</text>
+   <line x1="984" y1="3543" x2="984" y2="3621" style="stroke:black; stroke-width:8"/>
+   <text x="984" y="3794" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:middle ">0</text>
+   <line x1="1890" y1="3543" x2="1890" y2="3621" style="stroke:black; stroke-width:8"/>
+   <text x="1890" y="3794" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:middle ">20</text>
+   <line x1="2795" y1="3543" x2="2795" y2="3621" style="stroke:black; stroke-width:8"/>
+   <text x="2795" y="3794" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:middle ">40</text>
+   <line x1="3701" y1="3543" x2="3701" y2="3621" style="stroke:black; stroke-width:8"/>
+   <text x="3701" y="3794" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:middle ">60</text>
+   <line x1="4606" y1="3543" x2="4606" y2="3621" style="stroke:black; stroke-width:8"/>
+   <text x="4606" y="3794" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:middle ">80</text>
+   <line x1="5512" y1="3543" x2="5512" y2="3621" style="stroke:black; stroke-width:8"/>
+   <text x="5512" y="3794" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:middle ">100</text>
+   <line x1="984" y1="394" x2="984" y2="3543" style="stroke:black; stroke-width:8"/>
+   <text x="394" y="1969" dy="0" transform="rotate(-90,394,1969)" style="font-family:Helvetica;
+    fill:black; stroke:black; font-size:142; text-anchor:middle ">Torque [Nm]</text>
+   <line x1="984" y1="3543" x2="905" y2="3543" style="stroke:black; stroke-width:8"/>
+   <text x="828" y="3582" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:end ">0</text>
+   <line x1="984" y1="2756" x2="905" y2="2756" style="stroke:black; stroke-width:8"/>
+   <text x="828" y="2795" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:end ">100</text>
+   <line x1="984" y1="1969" x2="905" y2="1969" style="stroke:black; stroke-width:8"/>
+   <text x="828" y="2008" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:end ">200</text>
+   <line x1="984" y1="1181" x2="905" y2="1181" style="stroke:black; stroke-width:8"/>
+   <text x="828" y="1220" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:end ">300</text>
+   <line x1="984" y1="394" x2="905" y2="394" style="stroke:black; stroke-width:8"/>
+   <text x="828" y="433" dy="0" style="font-family:Helvetica; fill:black; stroke:black; 
+   font-size:118; text-anchor:end ">400</text>
+   <line x1="984" y1="394" x2="5512" y2="394" style="stroke:black; stroke-width:8"/>
+   <line x1="5512" y1="394" x2="5512" y2="3543" style="stroke:black; stroke-width:8"/>
+   <polyline points="984 3543 1890 3449 2252 3346 2433 3268 2614 3189 2795 3071 3067 2559 3157 2362 
+      3339 1969 3588 1575 3950 1378 4335 1181 4742 1102 5195 787" style = "fill:none; stroke:black; 
+      stroke-width:16"/>
+   <circle cx="984" cy="3543" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="1890" cy="3449" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="2252" cy="3346" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="2433" cy="3268" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="2614" cy="3189" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="2795" cy="3071" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="3067" cy="2559" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="3157" cy="2362" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="3339" cy="1969" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="3588" cy="1575" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="3950" cy="1378" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="4335" cy="1181" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="4742" cy="1102" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+   <circle cx="5195" cy="787" r="59" style="fill:white; stroke:black; stroke-width:8"/>
+</g>
+</svg>

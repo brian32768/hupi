@@ -1,0 +1,990 @@
+From michael.e.ross at gmail.com  Tue May  7 23:51:28 2013
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Tue, 7 May 2013 23:51:28 -0400
+Subject: [trikes] New electric assist trike nearing first production
+In-Reply-To: <CANNQeoJqV8Gxrqkwx4gcM24M7npKxoiA436kkDFr48bPbAJNDA@mail.gmail.com>
+References: <CANNQeoJX+9XAZnGSXYQ0XjpVKycmc1X1AfWC10WurKQPT22LuQ@mail.gmail.com>
+	<D61F7494-1EAF-49EC-9484-856E6256B3A7@sasktel.net>
+	<CANNQeoKjRhnbWB=EOT5PnRaj8mKu-02pPsCx_4R0GCpLHtpz8w@mail.gmail.com>
+	<B0A7AA70-8DE2-4B86-B68F-BB747F908BFD@sasktel.net>
+	<CANNQeo+O42Gx6qecXByo=RnuJQ41jiif+uqM8W1w-1X4x2ysQA@mail.gmail.com>
+	<885E8C4D-FC5D-4698-B9D9-C327F67BA44B@sasktel.net>
+	<CANNQeoJqV8Gxrqkwx4gcM24M7npKxoiA436kkDFr48bPbAJNDA@mail.gmail.com>
+Message-ID: <CANNQeo+6137YXu5kOq7KsgxuE241f41=8Xkh_4LUX5vXX6eq0w@mail.gmail.com>
+
+No replies this time, that is odd.
+
+I have a couple hundred miles on the ELF now.   I can do my commute and it
+isn't bad at all.  I can average about 21.5mph for the 24 mile trip.  This
+is with my husbanding resources, both mine and the batteries.  I get 14
+miles from one allegedly 9Ah battery.  I believe with more fitness I will
+be able to average 23mph. Part of it will be learning how to use the
+batteries best.  I have some power to spare, but I am making sure I don't
+run out.  It is much too heavy for unassisted pedaling on inclines.
+
+I really do want some shorter cranks, I just can't spin 175mm ones as well
+as I like.
+
+I like it, I can get where I need to go quickly enough, it takes off at
+lights and crest hills so much better than I can do on a non-assisted
+xxcycle.  The exercise is at a really good level.  I can maintain a good
+level of work and I don't blow up on hills.  I am more liable to over
+extend on slight downhills where I turn the transmission all the way up and
+work as hard as I can for the cadence.  But, I can rest and use the motor,
+then work some more.
+
+I am pretty happy with it.  It does what they say. If you are hearty you
+can do more.
+
+There are some fragility issues with bodywork, but any HPV has to work at
+the edge of durability to keep weight down.
+
+Mike
+
+I have ridden at night, and the wind screen was to reflective of the
+interior and ground and I have a hard time seeing the road.  But I made a
+dash board that does the trick.  I have already started depending on it for
+towels, a hat, a flashlight, and a water bottle.
+
+
+On Sun, Apr 14, 2013 at 10:47 PM, Michael Ross <michael.e.ross at gmail.com>wrote:
+
+> HI all,
+>
+>
+>  I finally have my ELF and some time to mess with it.  I thought y'all
+> might like to hear a little about it.  I can't be to revealing because I
+> signed an NDA and got a deal to do beta testing (log comments essentially).
+>
+> I said some things that were probably based on old information from a
+> website that needed cleaning up, and from comments by people who probably
+> should have been more circumspect or silent.
+>
+> here's  what I said at first:
+>
+> "I think I can really make good use of one.  My commute is 23.5 miles each
+> way.  More than I can do even if I was fast - it just takes too much time.
+>
+> This thing will go a full 30 miles without pedaling, I am not sure if that
+> is at full, electric only, speed.  But, it should be fine with a legs and
+> battery power.   It has a solar panel, and can be charged from wall current
+> in two hours.  So I can easily get to work and back.  It will go a lot
+> faster than 20mph with leg power.  I might maintain 25mph or more for the
+> trip, double what my legs alone can do on a good day with a lighter trike.
+>  It will exceed 40mph if you can spin well.  I don't know if it is geared
+> for higher."
+>
+> I still think I will be able to make the commute, but I will have to
+> regain some fitness.  Yesterday I went shopping and to a brewery for a
+> beer.  The first leg I averaged 21.7mph, hit 34.4mph on one hill, then I
+> moseyed around for a little while socializing, bought a gallon of juice,
+> and 4 lb of popcorn, and headed home.  Final average speed was 19mph.  14
+> miles total.  Seemed like I worked pretty hard.  The trike weighs 120lb and
+> I am currently just under 260. I had an extra battery I did not use
+> (13.4lb), and jug of water.  I have made some other shorter ride, one at
+> night.
+>
+> The comment about 30 miles without pedaling, is not something I can get.
+>  Maybe a small person in flat country, a best case scenario.  I see claims
+> like that are completely absent t from  the website now.  I can't see
+> anything they are saying that I would disagree with now.  I think it is all
+> the claim it is.  But less than I was claiming.  I heard I would recharge
+> in 2 hours, but the charger they gave me took twice that.  I am not sure of
+> the state of charge after my ride.  I believe it is a 10Ah battery LiFePO4.
+>
+> It is stoutly made and not light. So far I think it seems like a very good
+> first attempt.  It rides quite nicely and felt very confident at 30+mph.
+> Some times it cuts off hard (going down as fast as possible), one time I
+> was cruising at 25mph and still getting some help, I think because the
+> acceleration was low?  It won't give much help unless I gear it differently
+> or hack something.  I have had to revise my hopes for a 30mph commute down
+> a lot., BUt maybe I can average 22 fairly soon.
+>
+>
+> Earlier Bob Stuart made some comments back channel and I thought you all
+> might be interested in them and how I find the ELF in that regard.
+>
+> BS:
+> Why do you think it will go faster with leg power?  The booster cuts out,
+> leaving you on your own over 20 MPH, and probably unable to maintain 21.
+>  You'd need a major downhill to see 40.
+>
+> MR:Right on the money.  But I think I can keep it up above 21.
+>
+> BS:
+> I see seven videos to choose from, and no contrary claims for speed.  If
+> it is fast, they'd brag, not hint.  These things are usually very hackable.
+>  The 20 MPH limit is sometimes imposed by a jumper wire that can be moved
+> according to market.  As long as you are visibly pedaling, the police
+> usually have something else to worry about.
+>
+> MR: I think it can be done with  a PC.  (Kelly Controls)
+>
+>  My guess would be that without a booster, you would not be able to
+> maintain the speed you get from a plain bicycle.  Given how easy
+> streamlining is, I'd expect to get at least a third more speed from any
+> rainproof enclosure, so to me, adding power is like throwing hardware at a
+> software problem.  Legally, it is the only way to cruise over 20.  However,
+> the first thing I'd want to change is the motor control.  A separate switch
+> makes a pedelec feel like a woefully underpowered regular vehicle.  A
+> pedal-force multiplier, OTOH, can use the same power that makes you a
+> frustrated motorist and make you feel like a superman on pedals.  At these
+> power levels, that gets more important, as your own contribution otherwise
+> feels insignificant, and you don't even get your exercise motivation.
+>
+> MR:I am doing OK with the thumb accelerator, but the idea of a pedal
+> switch is interesting.  I would need an override for it.
+>
+> You don't want to feel as if you are riding an exercycle on display in an
+> awkward little cart, disrupting traffic.  All the green points available to
+> man don't make that look cool.
+>
+> MR: Well, it is an exercycle to me...but I am not cool.  This isn't an
+> awkward cart though, it is a pretty good trike.  I have a good route, low
+> density, 45mph limit.
+>
+> BS: At these price levels, you also want to check on durability and
+> serviceability,
+>
+> MR: So far I am pretty happy with it.  It is well built.  Maybe some trim
+> component issues.
+>
+> BS: and ask yourself if you will be able to put up with the drum-like road
+> noise amplification over the long haul.  Try to get a decibel reading, and
+> ponder the enormous health and productivity gains realized by efforts to
+> quiet down offices.  Would you be safe with noise-canceling headphones on?
+>
+> MR: It isn't noisy enough that I can remember except on rough pavement.
+>  IT is doorless and that seems like a goo compromise.  The breeze is OK for
+> moderate temps that I have seen, side winds aren't an issue so far, and it
+> doesn't sound like being in a barrel or anything.
+>
+> BS:
+> Your numbers don't add up.  The power required at 30 mph is double to
+> triple what you need at 20.
+>
+> MS: I am in total agreement, now.  Maybe with some hot rodding and shorter
+> cranks... The ride is half down hill, half uphill, so maybe I can make up
+> some time on the downsides.
+>
+> Bob also brought up lighting controls, ELF has an OK handle bar switch for
+> headlamps, turns,LEDs, and a horn relay so these switches see little power.
+>  May be OK wait and see.  Brake lights from a disc brake mounted switch
+> (have not looked close at that)  I think I want a dash to reduce reflection
+> from below.  Some black fabric can do that. And, I just like more forward
+> light so will do more there.
+>
+> That's all for now.  I just wanted to correct some things I said that were
+> incorrect or dated.
+>
+> Thanks for all past and future comments.
+>
+> Mike
+>
+> --
+> Put this question to yourself: should I use everyone else to attain
+> happiness, or should I help others gain happiness?
+> *Dalai Lama *
+>
+> To invent, you need a good imagination and a pile of junk.
+> Thomas A. Edison<http://www.brainyquote.com/quotes/quotes/t/thomasaed125362.html>
+>
+> A public-opinion poll is no substitute for thought.
+> *Warren Buffet*
+>
+> Michael E. Ross
+> (919) 550-2430 Land
+> (919) 576-0824 <https://www.google.com/voice/b/0?pli=1#phones> Google
+> Phone
+> (919) 631-1451 Cell
+> (919) 513-0418 Desk
+>
+> michael.e.ross at gmail.com
+>  <michael.e.ross at gmail.com>
+>
+>
+>
+
+
+-- 
+Put this question to yourself: should I use everyone else to attain
+happiness, or should I help others gain happiness?
+*Dalai Lama *
+
+To invent, you need a good imagination and a pile of junk.
+Thomas A. Edison<http://www.brainyquote.com/quotes/quotes/t/thomasaed125362.html>
+
+A public-opinion poll is no substitute for thought.
+*Warren Buffet*
+
+Michael E. Ross
+(919) 550-2430 Land
+(919) 576-0824 <https://www.google.com/voice/b/0?pli=1#phones> Google Phone
+(919) 631-1451 Cell
+(919) 513-0418 Desk
+
+michael.e.ross at gmail.com
+<michael.e.ross at gmail.com>
+
+From derryl.cocks at gmail.com  Thu May  9 12:07:59 2013
+From: derryl.cocks at gmail.com (Derryl Cocks)
+Date: Thu, 9 May 2013 12:07:59 -0400
+Subject: [trikes] New electric assist trike nearing first production
+Message-ID: <CADdebfdAMgYV4WLBPOdofmh6b5E5tUQGMEpxHVXyvGekxjHO5w@mail.gmail.com>
+
+Hi Mike
+
+What is the ELF like in rain? Are you keeping dry enough with the open
+design of the body?
+
+Does the front screen keep clear enough to see or do you need some sort of
+wiper?
+
+Thanks
+
+Derryl
+
+
+I have a couple hundred miles on the ELF now.   I can do my commute and it
+> isn't bad at all....
+
+From dr.addn at gmail.com  Thu May  9 17:53:05 2013
+From: dr.addn at gmail.com (Ph.T)
+Date: Thu, 9 May 2013 14:53:05 -0700
+Subject: [trikes] New electric assist trike nearing first production
+In-Reply-To: <CANNQeo+6137YXu5kOq7KsgxuE241f41=8Xkh_4LUX5vXX6eq0w@mail.gmail.com>
+References: <CANNQeoJX+9XAZnGSXYQ0XjpVKycmc1X1AfWC10WurKQPT22LuQ@mail.gmail.com>
+	<D61F7494-1EAF-49EC-9484-856E6256B3A7@sasktel.net>
+	<CANNQeoKjRhnbWB=EOT5PnRaj8mKu-02pPsCx_4R0GCpLHtpz8w@mail.gmail.com>
+	<B0A7AA70-8DE2-4B86-B68F-BB747F908BFD@sasktel.net>
+	<CANNQeo+O42Gx6qecXByo=RnuJQ41jiif+uqM8W1w-1X4x2ysQA@mail.gmail.com>
+	<885E8C4D-FC5D-4698-B9D9-C327F67BA44B@sasktel.net>
+	<CANNQeoJqV8Gxrqkwx4gcM24M7npKxoiA436kkDFr48bPbAJNDA@mail.gmail.com>
+	<CANNQeo+6137YXu5kOq7KsgxuE241f41=8Xkh_4LUX5vXX6eq0w@mail.gmail.com>
+Message-ID: <CAF20Xn1PHnuAT1UVf2XhUTpvh-VJRHXMuiwc5VG9iJ2zarqauA@mail.gmail.com>
+
+for shorter cranks for my trike I got
+http://www.amazon.com/Ride2-Crank-Arm-Shorteners-43mm/dp/B002N2KJ7W
+
+
+
+On Tue, May 7, 2013 at 8:51 PM, Michael Ross <michael.e.ross at gmail.com>wrote:
+
+> No replies this time, that is odd.
+>
+> I have a couple hundred miles on the ELF now.   I can do my commute and it
+> isn't bad at all.  I can average about 21.5mph for the 24 mile trip.  This
+> is with my husbanding resources, both mine and the batteries.  I get 14
+> miles from one allegedly 9Ah battery.  I believe with more fitness I will
+> be able to average 23mph. Part of it will be learning how to use the
+> batteries best.  I have some power to spare, but I am making sure I don't
+> run out.  It is much too heavy for unassisted pedaling on inclines.
+>
+> I really do want some shorter cranks, I just can't spin 175mm ones as well
+> as I like.
+>
+> I like it, I can get where I need to go quickly enough, it takes off at
+> lights and crest hills so much better than I can do on a non-assisted
+> xxcycle.  The exercise is at a really good level.  I can maintain a good
+> level of work and I don't blow up on hills.  I am more liable to over
+> extend on slight downhills where I turn the transmission all the way up and
+> work as hard as I can for the cadence.  But, I can rest and use the motor,
+> then work some more.
+>
+> I am pretty happy with it.  It does what they say. If you are hearty you
+> can do more.
+>
+> There are some fragility issues with bodywork, but any HPV has to work at
+> the edge of durability to keep weight down.
+>
+> Mike
+>
+> I have ridden at night, and the wind screen was to reflective of the
+> interior and ground and I have a hard time seeing the road.  But I made a
+> dash board that does the trick.  I have already started depending on it for
+> towels, a hat, a flashlight, and a water bottle.
+>
+>
+> On Sun, Apr 14, 2013 at 10:47 PM, Michael Ross <michael.e.ross at gmail.com
+> >wrote:
+>
+> > HI all,
+> >
+> >
+> >  I finally have my ELF and some time to mess with it.  I thought y'all
+> > might like to hear a little about it.  I can't be to revealing because I
+> > signed an NDA and got a deal to do beta testing (log comments
+> essentially).
+> >
+> > I said some things that were probably based on old information from a
+> > website that needed cleaning up, and from comments by people who probably
+> > should have been more circumspect or silent.
+> >
+> > here's  what I said at first:
+> >
+> > "I think I can really make good use of one.  My commute is 23.5 miles
+> each
+> > way.  More than I can do even if I was fast - it just takes too much
+> time.
+> >
+> > This thing will go a full 30 miles without pedaling, I am not sure if
+> that
+> > is at full, electric only, speed.  But, it should be fine with a legs and
+> > battery power.   It has a solar panel, and can be charged from wall
+> current
+> > in two hours.  So I can easily get to work and back.  It will go a lot
+> > faster than 20mph with leg power.  I might maintain 25mph or more for the
+> > trip, double what my legs alone can do on a good day with a lighter
+> trike.
+> >  It will exceed 40mph if you can spin well.  I don't know if it is geared
+> > for higher."
+> >
+> > I still think I will be able to make the commute, but I will have to
+> > regain some fitness.  Yesterday I went shopping and to a brewery for a
+> > beer.  The first leg I averaged 21.7mph, hit 34.4mph on one hill, then I
+> > moseyed around for a little while socializing, bought a gallon of juice,
+> > and 4 lb of popcorn, and headed home.  Final average speed was 19mph.  14
+> > miles total.  Seemed like I worked pretty hard.  The trike weighs 120lb
+> and
+> > I am currently just under 260. I had an extra battery I did not use
+> > (13.4lb), and jug of water.  I have made some other shorter ride, one at
+> > night.
+> >
+> > The comment about 30 miles without pedaling, is not something I can get.
+> >  Maybe a small person in flat country, a best case scenario.  I see
+> claims
+> > like that are completely absent t from  the website now.  I can't see
+> > anything they are saying that I would disagree with now.  I think it is
+> all
+> > the claim it is.  But less than I was claiming.  I heard I would recharge
+> > in 2 hours, but the charger they gave me took twice that.  I am not sure
+> of
+> > the state of charge after my ride.  I believe it is a 10Ah battery
+> LiFePO4.
+> >
+> > It is stoutly made and not light. So far I think it seems like a very
+> good
+> > first attempt.  It rides quite nicely and felt very confident at 30+mph.
+> > Some times it cuts off hard (going down as fast as possible), one time I
+> > was cruising at 25mph and still getting some help, I think because the
+> > acceleration was low?  It won't give much help unless I gear it
+> differently
+> > or hack something.  I have had to revise my hopes for a 30mph commute
+> down
+> > a lot., BUt maybe I can average 22 fairly soon.
+> >
+> >
+> > Earlier Bob Stuart made some comments back channel and I thought you all
+> > might be interested in them and how I find the ELF in that regard.
+> >
+> > BS:
+> > Why do you think it will go faster with leg power?  The booster cuts out,
+> > leaving you on your own over 20 MPH, and probably unable to maintain 21.
+> >  You'd need a major downhill to see 40.
+> >
+> > MR:Right on the money.  But I think I can keep it up above 21.
+> >
+> > BS:
+> > I see seven videos to choose from, and no contrary claims for speed.  If
+> > it is fast, they'd brag, not hint.  These things are usually very
+> hackable.
+> >  The 20 MPH limit is sometimes imposed by a jumper wire that can be moved
+> > according to market.  As long as you are visibly pedaling, the police
+> > usually have something else to worry about.
+> >
+> > MR: I think it can be done with  a PC.  (Kelly Controls)
+> >
+> >  My guess would be that without a booster, you would not be able to
+> > maintain the speed you get from a plain bicycle.  Given how easy
+> > streamlining is, I'd expect to get at least a third more speed from any
+> > rainproof enclosure, so to me, adding power is like throwing hardware at
+> a
+> > software problem.  Legally, it is the only way to cruise over 20.
+>  However,
+> > the first thing I'd want to change is the motor control.  A separate
+> switch
+> > makes a pedelec feel like a woefully underpowered regular vehicle.  A
+> > pedal-force multiplier, OTOH, can use the same power that makes you a
+> > frustrated motorist and make you feel like a superman on pedals.  At
+> these
+> > power levels, that gets more important, as your own contribution
+> otherwise
+> > feels insignificant, and you don't even get your exercise motivation.
+> >
+> > MR:I am doing OK with the thumb accelerator, but the idea of a pedal
+> > switch is interesting.  I would need an override for it.
+> >
+> > You don't want to feel as if you are riding an exercycle on display in an
+> > awkward little cart, disrupting traffic.  All the green points available
+> to
+> > man don't make that look cool.
+> >
+> > MR: Well, it is an exercycle to me...but I am not cool.  This isn't an
+> > awkward cart though, it is a pretty good trike.  I have a good route, low
+> > density, 45mph limit.
+> >
+> > BS: At these price levels, you also want to check on durability and
+> > serviceability,
+> >
+> > MR: So far I am pretty happy with it.  It is well built.  Maybe some trim
+> > component issues.
+> >
+> > BS: and ask yourself if you will be able to put up with the drum-like
+> road
+> > noise amplification over the long haul.  Try to get a decibel reading,
+> and
+> > ponder the enormous health and productivity gains realized by efforts to
+> > quiet down offices.  Would you be safe with noise-canceling headphones
+> on?
+> >
+> > MR: It isn't noisy enough that I can remember except on rough pavement.
+> >  IT is doorless and that seems like a goo compromise.  The breeze is OK
+> for
+> > moderate temps that I have seen, side winds aren't an issue so far, and
+> it
+> > doesn't sound like being in a barrel or anything.
+> >
+> > BS:
+> > Your numbers don't add up.  The power required at 30 mph is double to
+> > triple what you need at 20.
+> >
+> > MS: I am in total agreement, now.  Maybe with some hot rodding and
+> shorter
+> > cranks... The ride is half down hill, half uphill, so maybe I can make up
+> > some time on the downsides.
+> >
+> > Bob also brought up lighting controls, ELF has an OK handle bar switch
+> for
+> > headlamps, turns,LEDs, and a horn relay so these switches see little
+> power.
+> >  May be OK wait and see.  Brake lights from a disc brake mounted switch
+> > (have not looked close at that)  I think I want a dash to reduce
+> reflection
+> > from below.  Some black fabric can do that. And, I just like more forward
+> > light so will do more there.
+> >
+> > That's all for now.  I just wanted to correct some things I said that
+> were
+> > incorrect or dated.
+> >
+> > Thanks for all past and future comments.
+> >
+> > Mike
+> >
+> > --
+> > Put this question to yourself: should I use everyone else to attain
+> > happiness, or should I help others gain happiness?
+> > *Dalai Lama *
+> >
+> > To invent, you need a good imagination and a pile of junk.
+> > Thomas A. Edison<
+> http://www.brainyquote.com/quotes/quotes/t/thomasaed125362.html>
+> >
+> > A public-opinion poll is no substitute for thought.
+> > *Warren Buffet*
+> >
+> > Michael E. Ross
+> > (919) 550-2430 Land
+> > (919) 576-0824 <https://www.google.com/voice/b/0?pli=1#phones> Google
+> > Phone
+> > (919) 631-1451 Cell
+> > (919) 513-0418 Desk
+> >
+> > michael.e.ross at gmail.com
+> >  <michael.e.ross at gmail.com>
+> >
+> >
+> >
+>
+>
+> --
+> Put this question to yourself: should I use everyone else to attain
+> happiness, or should I help others gain happiness?
+> *Dalai Lama *
+>
+> To invent, you need a good imagination and a pile of junk.
+> Thomas A. Edison<
+> http://www.brainyquote.com/quotes/quotes/t/thomasaed125362.html>
+>
+> A public-opinion poll is no substitute for thought.
+> *Warren Buffet*
+>
+> Michael E. Ross
+> (919) 550-2430 Land
+> (919) 576-0824 <https://www.google.com/voice/b/0?pli=1#phones> Google
+> Phone
+> (919) 631-1451 Cell
+> (919) 513-0418 Desk
+>
+> michael.e.ross at gmail.com
+> <michael.e.ross at gmail.com>
+> --
+> This message comes to you via the trikes at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+
+
+
+-- 
+Americium Dream Documents
+"(real opportunity starts with real documentation)
+
+From familien1 at wavecable.com  Sat May 11 12:16:48 2013
+From: familien1 at wavecable.com (Sharon O'Hara)
+Date: Sat, 11 May 2013 09:16:48 -0700
+Subject: [trikes] trikes Digest, Vol 88, Issue 2
+In-Reply-To: <mailman.1.1368288001.8309.trikes@hupi.org>
+References: <mailman.1.1368288001.8309.trikes@hupi.org>
+Message-ID: <B131A4C3-D605-41FF-91AC-7B92687DD41D@wavecable.com>
+
+Hi - I am getting a second battery to help me up and over the hills - what is the steepest grade you've done in the ELF?
+
+Thanks!
+
+
+Sent from my iPad
+
+On May 11, 2013, at 9:00, trikes-request at hupi.org wrote:
+
+> Send trikes mailing list submissions to
+>    trikes at hupi.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+>    http://hupi.org/cgi-bin/mailman/listinfo/trikes
+> or, via email, send a message with subject or body 'help' to
+>    trikes-request at hupi.org
+> 
+> You can reach the person managing the list at
+>    trikes-owner at hupi.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of trikes digest..."
+> 
+> 
+> Today's Topics:
+> 
+>   1. Re: New electric assist trike nearing first production
+>      (Derryl Cocks)
+>   2. Re: New electric assist trike nearing first production (Ph.T)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Thu, 9 May 2013 12:07:59 -0400
+> From: Derryl Cocks <derryl.cocks at gmail.com>
+> To: trikes at hupi.org
+> Subject: Re: [trikes] New electric assist trike nearing first
+>    production
+> Message-ID:
+>    <CADdebfdAMgYV4WLBPOdofmh6b5E5tUQGMEpxHVXyvGekxjHO5w at mail.gmail.com>
+> Content-Type: text/plain; charset=ISO-8859-1
+> 
+> Hi Mike
+> 
+> What is the ELF like in rain? Are you keeping dry enough with the open
+> design of the body?
+> 
+> Does the front screen keep clear enough to see or do you need some sort of
+> wiper?
+> 
+> Thanks
+> 
+> Derryl
+> 
+> 
+> I have a couple hundred miles on the ELF now.   I can do my commute and it
+>> isn't bad at all....
+> 
+> 
+> ------------------------------
+> 
+> Message: 2
+> Date: Thu, 9 May 2013 14:53:05 -0700
+> From: "Ph.T" <dr.addn at gmail.com>
+> To: Michael Ross <michael.e.ross at gmail.com>
+> Cc: Trikes List <trikes at hupi.org>
+> Subject: Re: [trikes] New electric assist trike nearing first
+>    production
+> Message-ID:
+>    <CAF20Xn1PHnuAT1UVf2XhUTpvh-VJRHXMuiwc5VG9iJ2zarqauA at mail.gmail.com>
+> Content-Type: text/plain; charset=ISO-8859-1
+> 
+> for shorter cranks for my trike I got
+> http://www.amazon.com/Ride2-Crank-Arm-Shorteners-43mm/dp/B002N2KJ7W
+> 
+> 
+> 
+> On Tue, May 7, 2013 at 8:51 PM, Michael Ross <michael.e.ross at gmail.com>wrote:
+> 
+>> No replies this time, that is odd.
+>> 
+>> I have a couple hundred miles on the ELF now.   I can do my commute and it
+>> isn't bad at all.  I can average about 21.5mph for the 24 mile trip.  This
+>> is with my husbanding resources, both mine and the batteries.  I get 14
+>> miles from one allegedly 9Ah battery.  I believe with more fitness I will
+>> be able to average 23mph. Part of it will be learning how to use the
+>> batteries best.  I have some power to spare, but I am making sure I don't
+>> run out.  It is much too heavy for unassisted pedaling on inclines.
+>> 
+>> I really do want some shorter cranks, I just can't spin 175mm ones as well
+>> as I like.
+>> 
+>> I like it, I can get where I need to go quickly enough, it takes off at
+>> lights and crest hills so much better than I can do on a non-assisted
+>> xxcycle.  The exercise is at a really good level.  I can maintain a good
+>> level of work and I don't blow up on hills.  I am more liable to over
+>> extend on slight downhills where I turn the transmission all the way up and
+>> work as hard as I can for the cadence.  But, I can rest and use the motor,
+>> then work some more.
+>> 
+>> I am pretty happy with it.  It does what they say. If you are hearty you
+>> can do more.
+>> 
+>> There are some fragility issues with bodywork, but any HPV has to work at
+>> the edge of durability to keep weight down.
+>> 
+>> Mike
+>> 
+>> I have ridden at night, and the wind screen was to reflective of the
+>> interior and ground and I have a hard time seeing the road.  But I made a
+>> dash board that does the trick.  I have already started depending on it for
+>> towels, a hat, a flashlight, and a water bottle.
+>> 
+>> 
+>> On Sun, Apr 14, 2013 at 10:47 PM, Michael Ross <michael.e.ross at gmail.com
+>>> wrote:
+>> 
+>>> HI all,
+>>> 
+>>> 
+>>> I finally have my ELF and some time to mess with it.  I thought y'all
+>>> might like to hear a little about it.  I can't be to revealing because I
+>>> signed an NDA and got a deal to do beta testing (log comments
+>> essentially).
+>>> 
+>>> I said some things that were probably based on old information from a
+>>> website that needed cleaning up, and from comments by people who probably
+>>> should have been more circumspect or silent.
+>>> 
+>>> here's  what I said at first:
+>>> 
+>>> "I think I can really make good use of one.  My commute is 23.5 miles
+>> each
+>>> way.  More than I can do even if I was fast - it just takes too much
+>> time.
+>>> 
+>>> This thing will go a full 30 miles without pedaling, I am not sure if
+>> that
+>>> is at full, electric only, speed.  But, it should be fine with a legs and
+>>> battery power.   It has a solar panel, and can be charged from wall
+>> current
+>>> in two hours.  So I can easily get to work and back.  It will go a lot
+>>> faster than 20mph with leg power.  I might maintain 25mph or more for the
+>>> trip, double what my legs alone can do on a good day with a lighter
+>> trike.
+>>> It will exceed 40mph if you can spin well.  I don't know if it is geared
+>>> for higher."
+>>> 
+>>> I still think I will be able to make the commute, but I will have to
+>>> regain some fitness.  Yesterday I went shopping and to a brewery for a
+>>> beer.  The first leg I averaged 21.7mph, hit 34.4mph on one hill, then I
+>>> moseyed around for a little while socializing, bought a gallon of juice,
+>>> and 4 lb of popcorn, and headed home.  Final average speed was 19mph.  14
+>>> miles total.  Seemed like I worked pretty hard.  The trike weighs 120lb
+>> and
+>>> I am currently just under 260. I had an extra battery I did not use
+>>> (13.4lb), and jug of water.  I have made some other shorter ride, one at
+>>> night.
+>>> 
+>>> The comment about 30 miles without pedaling, is not something I can get.
+>>> Maybe a small person in flat country, a best case scenario.  I see
+>> claims
+>>> like that are completely absent t from  the website now.  I can't see
+>>> anything they are saying that I would disagree with now.  I think it is
+>> all
+>>> the claim it is.  But less than I was claiming.  I heard I would recharge
+>>> in 2 hours, but the charger they gave me took twice that.  I am not sure
+>> of
+>>> the state of charge after my ride.  I believe it is a 10Ah battery
+>> LiFePO4.
+>>> 
+>>> It is stoutly made and not light. So far I think it seems like a very
+>> good
+>>> first attempt.  It rides quite nicely and felt very confident at 30+mph.
+>>> Some times it cuts off hard (going down as fast as possible), one time I
+>>> was cruising at 25mph and still getting some help, I think because the
+>>> acceleration was low?  It won't give much help unless I gear it
+>> differently
+>>> or hack something.  I have had to revise my hopes for a 30mph commute
+>> down
+>>> a lot., BUt maybe I can average 22 fairly soon.
+>>> 
+>>> 
+>>> Earlier Bob Stuart made some comments back channel and I thought you all
+>>> might be interested in them and how I find the ELF in that regard.
+>>> 
+>>> BS:
+>>> Why do you think it will go faster with leg power?  The booster cuts out,
+>>> leaving you on your own over 20 MPH, and probably unable to maintain 21.
+>>> You'd need a major downhill to see 40.
+>>> 
+>>> MR:Right on the money.  But I think I can keep it up above 21.
+>>> 
+>>> BS:
+>>> I see seven videos to choose from, and no contrary claims for speed.  If
+>>> it is fast, they'd brag, not hint.  These things are usually very
+>> hackable.
+>>> The 20 MPH limit is sometimes imposed by a jumper wire that can be moved
+>>> according to market.  As long as you are visibly pedaling, the police
+>>> usually have something else to worry about.
+>>> 
+>>> MR: I think it can be done with  a PC.  (Kelly Controls)
+>>> 
+>>> My guess would be that without a booster, you would not be able to
+>>> maintain the speed you get from a plain bicycle.  Given how easy
+>>> streamlining is, I'd expect to get at least a third more speed from any
+>>> rainproof enclosure, so to me, adding power is like throwing hardware at
+>> a
+>>> software problem.  Legally, it is the only way to cruise over 20.
+>> However,
+>>> the first thing I'd want to change is the motor control.  A separate
+>> switch
+>>> makes a pedelec feel like a woefully underpowered regular vehicle.  A
+>>> pedal-force multiplier, OTOH, can use the same power that makes you a
+>>> frustrated motorist and make you feel like a superman on pedals.  At
+>> these
+>>> power levels, that gets more important, as your own contribution
+>> otherwise
+>>> feels insignificant, and you don't even get your exercise motivation.
+>>> 
+>>> MR:I am doing OK with the thumb accelerator, but the idea of a pedal
+>>> switch is interesting.  I would need an override for it.
+>>> 
+>>> You don't want to feel as if you are riding an exercycle on display in an
+>>> awkward little cart, disrupting traffic.  All the green points available
+>> to
+>>> man don't make that look cool.
+>>> 
+>>> MR: Well, it is an exercycle to me...but I am not cool.  This isn't an
+>>> awkward cart though, it is a pretty good trike.  I have a good route, low
+>>> density, 45mph limit.
+>>> 
+>>> BS: At these price levels, you also want to check on durability and
+>>> serviceability,
+>>> 
+>>> MR: So far I am pretty happy with it.  It is well built.  Maybe some trim
+>>> component issues.
+>>> 
+>>> BS: and ask yourself if you will be able to put up with the drum-like
+>> road
+>>> noise amplification over the long haul.  Try to get a decibel reading,
+>> and
+>>> ponder the enormous health and productivity gains realized by efforts to
+>>> quiet down offices.  Would you be safe with noise-canceling headphones
+>> on?
+>>> 
+>>> MR: It isn't noisy enough that I can remember except on rough pavement.
+>>> IT is doorless and that seems like a goo compromise.  The breeze is OK
+>> for
+>>> moderate temps that I have seen, side winds aren't an issue so far, and
+>> it
+>>> doesn't sound like being in a barrel or anything.
+>>> 
+>>> BS:
+>>> Your numbers don't add up.  The power required at 30 mph is double to
+>>> triple what you need at 20.
+>>> 
+>>> MS: I am in total agreement, now.  Maybe with some hot rodding and
+>> shorter
+>>> cranks... The ride is half down hill, half uphill, so maybe I can make up
+>>> some time on the downsides.
+>>> 
+>>> Bob also brought up lighting controls, ELF has an OK handle bar switch
+>> for
+>>> headlamps, turns,LEDs, and a horn relay so these switches see little
+>> power.
+>>> May be OK wait and see.  Brake lights from a disc brake mounted switch
+>>> (have not looked close at that)  I think I want a dash to reduce
+>> reflection
+>>> from below.  Some black fabric can do that. And, I just like more forward
+>>> light so will do more there.
+>>> 
+>>> That's all for now.  I just wanted to correct some things I said that
+>> were
+>>> incorrect or dated.
+>>> 
+>>> Thanks for all past and future comments.
+>>> 
+>>> Mike
+>>> 
+>>> --
+>>> Put this question to yourself: should I use everyone else to attain
+>>> happiness, or should I help others gain happiness?
+>>> *Dalai Lama *
+>>> 
+>>> To invent, you need a good imagination and a pile of junk.
+>>> Thomas A. Edison<
+>> http://www.brainyquote.com/quotes/quotes/t/thomasaed125362.html>
+>>> 
+>>> A public-opinion poll is no substitute for thought.
+>>> *Warren Buffet*
+>>> 
+>>> Michael E. Ross
+>>> (919) 550-2430 Land
+>>> (919) 576-0824 <https://www.google.com/voice/b/0?pli=1#phones> Google
+>>> Phone
+>>> (919) 631-1451 Cell
+>>> (919) 513-0418 Desk
+>>> 
+>>> michael.e.ross at gmail.com
+>>> <michael.e.ross at gmail.com>
+>>> 
+>>> 
+>>> 
+>> 
+>> 
+>> --
+>> Put this question to yourself: should I use everyone else to attain
+>> happiness, or should I help others gain happiness?
+>> *Dalai Lama *
+>> 
+>> To invent, you need a good imagination and a pile of junk.
+>> Thomas A. Edison<
+>> http://www.brainyquote.com/quotes/quotes/t/thomasaed125362.html>
+>> 
+>> A public-opinion poll is no substitute for thought.
+>> *Warren Buffet*
+>> 
+>> Michael E. Ross
+>> (919) 550-2430 Land
+>> (919) 576-0824 <https://www.google.com/voice/b/0?pli=1#phones> Google
+>> Phone
+>> (919) 631-1451 Cell
+>> (919) 513-0418 Desk
+>> 
+>> michael.e.ross at gmail.com
+>> <michael.e.ross at gmail.com>
+>> --
+>> This message comes to you via the trikes at hupi.org mailing list.
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>> 
+> 
+> 
+> 
+> -- 
+> Americium Dream Documents
+> "(real opportunity starts with real documentation)
+> 
+> 
+> ------------------------------
+> 
+> --
+> This message digest comes to you via the trikes at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+> 
+> End of trikes Digest, Vol 88, Issue 2
+> *************************************
+
+From michael.e.ross at gmail.com  Sat May 11 23:20:55 2013
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Sat, 11 May 2013 23:20:55 -0400
+Subject: [trikes] trikes Digest, Vol 88, Issue 2
+In-Reply-To: <B131A4C3-D605-41FF-91AC-7B92687DD41D@wavecable.com>
+References: <mailman.1.1368288001.8309.trikes@hupi.org>
+	<B131A4C3-D605-41FF-91AC-7B92687DD41D@wavecable.com>
+Message-ID: <CANNQeo+=FMztNtFRvJCUWz3SxKk_5XP3RGsbkFn6yywWsdAJEA@mail.gmail.com>
+
+Hi Sharon,
+
+I don't have any way to answer that with accuracy.  Here, in Raleigh and
+eastward to where I live are hills, that in my current state of fitness I
+would not go up them more than 5 mph.  I seem to be able to go 17 or 18 mph
+over the steepest ones I have seen in my limited travels.  I don't consider
+these hills to be worthy of referencing with a percent grade designation;
+however, it is not what I would call flat here either.  Geologically it is
+the eastern piedmont, and it truly flat eastward from where I live.   IMO
+we do not have very steep hills here.  What hills I have on my commute I
+can top them at 20 mph or more.
+
+I want to get longer battery milage so I do work at a sustainable hard
+pace.  I am also overweight at 6 feet tall and 255 lb (and dropping), and
+carry a fair amount of gear 20 lb? And 27 lb of batteries.
+
+You can't tell how your own use will compare given all the variables that
+are likely different.
+
+Tell me where you live, how far you want to go, how fast, and how much you
+and your gear weigh, and probably most important, your level of fitness,
+past cycling experience, and willingness to work hard on your ride.  Then,
+I might be able to hypothesize about what you can do.
+
+It appears that we can get larger batteries online for considerably less
+that the ones the ELF was built for - batteries that fit into the battery
+tray or storage box in the back.  The suppliers are all Chinese (including
+those that OT is using).  There is some risk in buying from these folks.
+Their webpages are often poorly translated, not very clear, and with
+some conflicting information.  For instance, the battery I have ordered is
+listed as 9kg in one place and 12kg in another.
+
+I think since my current 10 and 9 Amp hour batteries are 6 kg, that a 12 kg
+battery  is more likely to be the quoted 20 Amp hours rather than the 9 kg
+one.  I don't have a clear idea how any of these batteries are measured, if
+at all.  I am prepared to find out I really have a 15 AMp hour battery
+coming, it is still less expensive.
+
+I have heard that beta testers who do not  contribute much, or no work at
+all to the ELF can get about 6 miles between charges from a 9 AMp hour
+battery.  I have gotten 18 miles at an average speed of 18 to 20 mph.  If I
+go faster I sacrifice distance per charge.  If I go 23 mph on average, I
+get maybe 12 miles.   I am working as hard as I am able.  On a regular
+bicycle I might  be able to average 11 or 12 mph on these routes.
+
+I think this is a very practical range of mileage and speed, but you must
+not over do what you have battery power to cover or you will be stuck.
+ Take you cell phone, and know someone with a truck, or be conservative.
+
+I get more from the 10 Amp hour battery I have which is apparently
+significantly more expensive for the function it provides than the 9 Amp
+hour ones.
+
+We should all be sharing notes on battery prices and suppliers, as this is
+the main contributor to the utility of the ELF.  On any kind of incline it
+is much too heavy for unassisted pedalling.
+
+I don't know if we should keep using the trikes list, as some people don't
+like to here about electric assist.  On the other hand, there is no other
+conversation here, so I am not sure why anyone would care.  There are
+probably better lists and forums to join.
+
+ Started this thread in this list because there are people here whose
+opinions I really respect and trust.
+
+Mike
+
+On Sat, May 11, 2013 at 12:16 PM, Sharon O'Hara <familien1 at wavecable.com>wrote:
+
+> Hi - I am getting a second battery to help me up and over the hills - what
+> is the steepest grade you've done in the ELF?
+>
+>
+-- 
+Put this question to yourself: should I use everyone else to attain
+happiness, or should I help others gain happiness?
+*Dalai Lama *
+
+To invent, you need a good imagination and a pile of junk.
+Thomas A. Edison<http://www.brainyquote.com/quotes/quotes/t/thomasaed125362.html>
+
+A public-opinion poll is no substitute for thought.
+*Warren Buffet*
+
+Michael E. Ross
+(919) 550-2430 Land
+(919) 576-0824 <https://www.google.com/voice/b/0?pli=1#phones> Google Phone
+(919) 631-1451 Cell
+(919) 513-0418 Desk
+
+michael.e.ross at gmail.com
+<michael.e.ross at gmail.com>
+

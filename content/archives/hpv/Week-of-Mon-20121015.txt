@@ -1,0 +1,55 @@
+From charlie at atoc.com  Mon Oct 15 09:10:12 2012
+From: charlie at atoc.com (Charlie Buchalter)
+Date: Mon, 15 Oct 2012 06:10:12 -0700
+Subject: [hpv] human-powered helicopters and the Sikorsky Prize
+In-Reply-To: <COL102-DS20698FA58FD012CEBAD628D7710@phx.gbl>
+References: <87r4p07vvb.fsf@pobox.com>
+	<COL102-DS20698FA58FD012CEBAD628D7710@phx.gbl>
+Message-ID: <002e01cdaad6$69c1e350$3d45a9f0$@com>
+
+The drift issue is about imperfections in the construction of the vehicle
+and side winds blowing on it. Even assuming that the design of their
+helicopter is perfectly balanced in theory, the reality is the balance of
+the actual vehicle will never be truly perfect. If there is even a teensy
+mismatch between the center of gravity and center of lift of the helicopter,
+or a teensy side wind due to the building's ventilation system or eddies
+from the rotor down draft, the result will be that the helicopter drifts to
+the side. 
+
+BTW, there is no "if" the main arms or any other frame pieces will sag, i.e.
+flex. They will. The question is how much they flex and how to allow or
+compensate for this in the design. That's structural mechanics and
+aeroelasticity.
+
+These students have done impressive work. I hope they grab the Sikorsky
+Prize, but even if they don't they've shown that it is within reach. Igor
+would be proud! 
+
+Charlie Buchalter
+Atoc Inc.
+www.Atoc.com
+www.TopperRacks.com
+www.Draftmaster.com
+
+
+> -----Original Message-----
+> From: hpv-bounces at hupi.org [mailto:hpv-bounces at hupi.org] On Behalf Of JOHN
+> TETZ
+> Sent: Sunday, October 14, 2012 7:25 PM
+> To: hpv at hupi.org
+> Subject: Re: [hpv] human-powered helicopters and the Sikorsky Prize
+> 
+> Thanks Tom for the URL.
+> 
+> Pretty damn good performances.
+> 
+> I wonder what to drift issue is all about. Sagging main arms ?
+> 
+> John Tetz
+> 
+> --
+> This message comes to you via the hpv at hupi.org mailing list.
+> Visit http://bikelist.org/mailman/listinfo/hpv to manage your
+subscription.
+
+

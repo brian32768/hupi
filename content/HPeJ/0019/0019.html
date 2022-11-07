@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/1.1-latest/MathJax.js?config=default"></script>
+    <title>HPeJ article 19, issue 7</title>
+  </head>
+  <body>
+    <p align="center"> <img src="HPeJ-sml.gif" alt="Human Power eJournal" border="0"
+        height="50" width="400"> <br>
+      <a href="http://www.hupi.org/HPeJ/index.htm">Contents</a> | <a href="http://www.hupi.org/HPeJ/about.htm">About</a>
+      | <a href="http://www.hupi.org/HPeJ/contact.htm">Contact</a> </p>
+    <p align="center"> article 19, issue 07 <br>
+      <br>
+    </p>
+    <blockquote> <font size="5">Closed-form Method to Evaluate Bike Braking
+        Performance</font>
+      <p>Junghsen Lieh<br>
+        December 24, 2012 and April 24, 2013<br>
+      </p>
+      <p>&nbsp;</p>
+      <p align="center"><b><i>Abstract</i></b> </p>
+      <p style="text-align: left;"><i>The brake is an important safety device
+          for all types of vehicles. Traditionally in calculations, aerodynamic
+          and tire rolling resistant effects are neglected and thus the braking
+          distance and stop time may be estimated by simplified equations. To
+          obtain a more accurate result, the inclusion of all resistant forces
+          is necessary. In this paper, low CG (center of gravity) vehicles such
+          as recumbent bikes with no tip-over assumed are studied. It starts
+          with the use of dynamic equilibrium to formulate a nonlinear dynamic
+          equation. The coefficients representing full-brake, front-brake and
+          rear-brake cases are then obtained. The closed-form solution for the
+          velocity, stop time, and braking distance is then derived. Results for
+          various cases are presented, as well as a file which can be used with
+          programs such as Matlab in order to study&nbsp;the effect of the air
+          drag coefficient, frontal area, rolling resistance, road gradient, and
+          power consumption.</i></p>
+    </blockquote>
+    <blockquote>
+      <div style="margin-left: 80px; margin-right: 80px;">
+        <p> <small>[Editor's note: The following presentation is a shortened
+            version of the <a target="_blank" href="Closed-form-braking-bike-2.pdf">full
+              paper in PDF format</a> [400 kB] which includes the derivations of
+            all equations, references and a sample script.&nbsp; </small><small>Here,
+            some of the equations in TeX notation will only be rendered if
+            Javascript is enabled and MathJax available.</small><small> The
+            paper is an advancement on his <a href="../0010/0010.htm">HPeJ
+              Article&nbsp;10</a>, where similar equations are presented but
+            only for the simpler unbraked case.</small><small> See also: <a href="notes.html">additional
+              scripts and discussion</a>.]</small><small></small> </p>
+      </div>
+      <h3></h3>
+      <p></p>
+      <br>
+      <p></p>
+      <h3>Braking and Resistant Force Equilibrium</h3>
+      As shown in Figure 1, the major external forces acting on a vehicle during
+      braking are
+      <p></p>
+      <div style="margin-left: 40px;"> <i>F<sub>a</sub></i> aerodynamic force
+        (drag; lift not considered)<br>
+        <i>F<sub>b</sub></i> tire braking force, front and rear (= <span style="font-style: italic;">F</span><sub
+          style="font-style: italic;">bf</sub><span style="font-style: italic;">
+          + F</span><sub style="font-style: italic;">br</sub>)<br>
+        <i>F<sub>r</sub></i> tire rolling resistance, front and rear (= <span style="font-style: italic;">F</span><sub
+          style="font-style: italic;">rf</sub><span style="font-style: italic;">
+          + F</span><sub style="font-style: italic;">rr</sub>)<br>
+        <i>F<sub>i</sub></i> inertia force (linear; wheel inertia not
+        considered)<br>
+        <span style="font-style: italic;">F</span><sub style="font-style: italic;">g</sub><i></i><sub></sub><i>
+        </i>gravitational force<br>
+      </div>
+      <p> The dynamic equilibrium of the system along the longitudinal (x)
+        direction during braking can be written as<br>
+      </p>
+      <div style="margin-left: 40px;">&nbsp; <i>F<sub>i</sub> = F<sub>a</sub> +
+          F<sub>b</sub> + F<sub>r</sub> + F<sub>g&nbsp;</sub></i> </div>
+      <p> Defining <i>m</i> as the mass of bicycle plus the rider,&nbsp;<i>ρ</i>
+        as the air density, <i>C<sub><dub>D</dub></sub></i> as the frontal air
+        drag coefficient, <i>A<sub>f</sub></i> as the frontal area, <i>v</i>
+        as the forward velocity, <i>Θ</i> as the grade angle, <i>g</i> as the
+        gravitational acceleration, and <i>f</i><sub>0</sub> and <i>f<sub>1</sub></i>
+        as the rolling resistance coefficients (<i>f<sub>1</sub></i> is usually
+        very small but is included here for completeness), the inertia, air
+        drag, rolling resistance, and gravitational forces can be expressed in
+        the following form:</p>
+      <div style="margin-left: 40px;">
+        <p> <i>F<sub>i</sub> = -m dv/dt</i></p>
+        <p><i>F<sub>a</sub> = </i><i>(ρ/2) C<sub>D</sub> A<sub>f</sub> v<sup>2</sup></i>
+        </p>
+        <p> <i>F<sub>r</sub> = (f</i><sub>o</sub><i> + f</i><sub>1</sub> v<sup><small>2</small></sup>)
+          W cos(<i>Θ</i>) &nbsp; </p>
+        <p><i>F<sub>g</sub> = W sin(Θ) &nbsp; </i>where<i>&nbsp; W = mg</i></p>
+      </div>
+      <p>Defining the distances L<sub>a</sub>, L<sub>b</sub>, h and h<sub>a</sub>
+        as shown in figure 1 and summing the moments about the front wheel
+        contact line (point A), the normal load on the rear wheel is<span style="font-style: italic;"></span><sub
+          style="font-style: italic;"></sub> <br>
+      </p>
+      <p>\(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W_r = {WL_a cos(\Theta) +
+        F_ah_a + mh \dot{v} + Wh sin(\Theta) \over L} \) </p>
+      <p> </p>
+      <p>where \( \dot{v}=dv/dt \) . Similarly, <i></i><i></i>summing the
+        moments about the point B, the normal load on the front wheel is<br>
+      </p>
+      <p>\(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W_f = {WL_b cos(\Theta) -
+        F_ah_a - mh \dot{v} - Wh sin(\Theta) \over L} \)<br>
+        <br>
+      </p>
+      <p></p>
+      <p style="text-align: left; margin-left: 40px;"> <img alt="Fig. 1" src="01.jpg">
+      </p>
+      <p style="text-align: left; margin-left: 80px;"><small>Figure 1: Force
+          balance of a low CG tricycle during braking. Here there are two front
+          wheels with the forces given for one. For other wheel configurations
+          the same principle holds, but longitudinally asymmetrical designs are
+          not considered.</small><br>
+      </p>
+      <p>Define <i>μ<sub></sub></i> as the peak coefficient of tire/road
+        friction and <span style="font-style: italic;">W<sub>f</sub> </span>and<span
+          style="font-style: italic;"> W<sub>r</sub></span><i><sub></sub></i> as
+        the normal loads on the front and rear wheel axes.&nbsp;For the current
+        study, it is assumed that the braking force is near its peak value such
+        that the maximum braking effect may be obtained, i.e. </p>
+      <p> </p>
+      <div style="margin-left: 40px;"> <i>F<sub>bf</sub> = μW<sub>f</sub>&nbsp;
+        </i>and&nbsp;<i> </i><i>F<sub>br</sub> = μW<sub>r<br>
+            <br>
+          </sub></i></div>
+      <small>[Editor's note: This implies that all brakes are operated in an
+        optimal manner, i.e. with the maximal force permissible before locking
+        their respective wheels.] </small><br>
+      <br>
+      <p></p>
+      <p></p>
+      <h3> Differential Equation for Braking</h3>
+      Rearranging the above equations, a nonlinear equation describing the
+      dynamic equilibrium can be written in the following form:<br>
+      <br>
+      <div style="margin-left: 40px;"><span style="font-style: italic;">- S</span><sub
+          style="font-style: italic;">1 </sub><span style="font-style: italic;">dv/dt
+          = S</span><sub style="font-style: italic;">2</sub><span style="font-style: italic;">
+          + S</span><sub style="font-style: italic;">3</sub><span style="font-style: italic;">
+          v</span><sup style="font-style: italic;">2</sup><br>
+        <br>
+      </div>
+      where S<sub>1</sub>, S<sub>2</sub> and S<sub>3</sub> are functions of
+      vehicle parameters, and are different for full-brake, front-brake, and
+      rear-brake cases. <br>
+      <br>
+      If only the front brake is applied, they are: <br>
+      <br>
+      \(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_1 = m \Big (1+ \mu {h \over
+      L } \Big ) \)<br>
+      <br>
+      \(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_2 = W \left \{ \mu \left [
+      {L_b \over L} cos(\Theta) - {h \over L} sin(\Theta) \right ] - f_0
+      cos(\Theta) - sin(\Theta) \right \} \)<br>
+      <br>
+      \(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_3 = {\rho \over 2} (1 + \mu
+      {h_a \over L}) C_D A_f + f_1 W cos(\Theta) \)<br>
+      <br>
+      If only the rear brake is applied, they are:<br>
+      <br>
+      \(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_1 = m \Big (1- \mu {h \over
+      L } \Big ) \)<br>
+      <br>
+      \(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_2 = W \left \{ \mu \left [
+      {L_a \over L} cos(\Theta) + {h \over L} sin(\Theta) \right ] - f_0
+      cos(\Theta) - sin(\Theta) \right \} \)<br>
+      <br>
+      \(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_3 = {\rho \over 2} (1 - \mu
+      {h_a \over L}) C_D A_f + f_1 W cos(\Theta) \)<br>
+      <br>
+      For the normal condition the full-brake case (with both front and rear
+      brakes) is applied, and the functions simplify to:<br>
+      <br>
+      \(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_1 = m \)<br>
+      <br>
+      \(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_2 = W \left [ \mu
+      cos(\Theta) - f_0 cos(\Theta) - sin(\Theta) \right ] \)<br>
+      <br>
+      \(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_3 = {\rho \over 2} C_D A_f
+      + f_1 W cos(\Theta) \)<br>
+      <br>
+      <h3>Closed-form Solution<br>
+      </h3>
+      <p>The nonlinear equations can be integrated to give the velocity-time
+        relation during braking: <br>
+      </p>
+      <p>\(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v = \sqrt {S_2 \over S_3}
+        tan \Bigg [ tan^{-1} \Bigg ( \sqrt{{S_3 \over S_2}} v_0 \Bigg ) -
+        {{\sqrt {S_2 S_3} \over S_1} t&nbsp; \Bigg ]} \)</p>
+      <p>The stop time (ts) is obtained by setting the final velocity V = 0:</p>
+      <p>\(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; t_s = {S_1 \over \sqrt
+        {S_2 S_3}} tan^{-1} \Bigg (\sqrt{S_3 \over S_2} v_0 \Bigg )&nbsp; \)<br>
+        <br>
+        The braking distance (Sd) can be derived to be: <br>
+      </p>
+      <p>\(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S_d = { S_1 \over S_3 }
+        \left \{ log_e \left \vert {cos(tan^{-1} (\sqrt{S_3 \over S_2} v_0) }
+        -&nbsp;{{\sqrt {S_2 S_3} \over S_1} t) } \over {cos(tan^{-1} (\sqrt{S_3
+        \over S_2} v_0) } \right \vert \right \} \)</p>
+      <p></p>
+      <div style="margin-left: 40px;"> </div>
+      <p> </p>
+      <h3></h3>
+      <h3></h3>
+      <h3></h3>
+      <h3><br>
+        Simulation Results and Summary<br>
+      </h3>
+      <p>With these closed-form solutions, the estimation of braking performance
+        with various vehicle parameters for full-brake, front-brake and
+        rear-brake cases becomes very straightforward and can be done with
+        pocket calculators or simple spreadsheet files. Here the simulation is
+        conducted in Matlab and a sample program is attached in the appendix
+        (see <a target="_blank" href="Closed-form-braking-bike-2.pdf">full
+          paper</a>). Unaltered, it produces the following graphs:<br>
+      </p>
+      <p>Figure 2 shows the braking performance of the bike with initial
+        velocity v<sub>o</sub> = 60 km/hr and tire-road coefficient of friction
+        <i>μ </i>= 0.8 for the full-brake, front-brake and rear-brake cases. It
+        can be seen that the velocities decrease almost linearly due to the fact
+        that the decelerations are nearly constants. The nonlinearity in the
+        decelerations is due to the air drag and tire rolling resistance at high
+        speeds; however the nonlinearity becomes weaker as the vehicle speed
+        decreases.&nbsp;</p>
+      <p>Figure 3 shows the braking performance of the vehicle with various
+        initial velocities.</p>
+      <p> Figure 4 shows the braking performance of the vehicle with various
+        tire-road coefficients of friction and an initial velocity of 60 km/hr.
+        Again it can be seen that the decelerations and braking efficiencies are
+        affected by the vehicle speed and rolling resistance.</p>
+      <p>From the values of decelerations, stop times, braking distances, and
+        braking efficiencies, it is shown that with these vehicle parameters
+        maximum braking is only reached by using both front and rear brakes. <small><br>
+        </small></p>
+      <p><small>[Editor's note: See <a href="notes.html">additional discussion
+            and files</a>.]<br>
+        </small></p>
+      <p style="margin-left: 40px;"> <small><img alt="figure 2" src="02.png"><br>
+        </small></p>
+      <div style="margin-left: 40px;"><small>Figure 2: Braking performance of
+          the bike with initial velocity v<sub>o</sub> = 60 km/hr and tire-road
+          coefficient of friction μ = 0.8 for full-brake, front-brake and
+          rear-brake cases (note: efficiency (η = a/μg).<br>
+        </small>
+        <div style="margin-left: 40px;"><br>
+        </div>
+        <small> </small></div>
+      <p style="margin-left: 40px;"><img alt="figure 3" src="03.png"></p>
+      <p> </p>
+      <p style="margin-left: 40px;"><small>Figure 3: Braking performance of
+          various initial velocities for full-brake, front-brake and rear-brake
+          cases.<br>
+          <br>
+        </small></p>
+      <p style="margin-left: 40px;"><img alt="figure 4" src="04.png"><br>
+        <small></small></p>
+      <p style="margin-left: 40px;"><small>Figure 4: Braking performance of
+          various tire-road coefficients of friction for full-brake, front-brake
+          and rear-brake cases.</small></p>
+      <p> </p>
+      <h3></h3>
+      <h3><br>
+        References:</h3>
+      <p>see <a target="_blank" href="Closed-form-braking-bike-2.pdf">full
+          paper</a></p>
+      <a href="Closed-form-Vmax-bike.pdf"></a>
+      <p><a href="Closed-form-Vmax-bike.pdf"> </a> </p>
+      <h3>About the author:</h3>
+      <p>Junghsen Lieh, PhD<br>
+        is Professor for Mechanical &amp; Materials Engineering <br>
+        at Wright State University, Dayton Ohio 45435 USA<br>
+      </p>
+      He is the adviser for the university's ASME HPV student group and has been
+      involved with electric and solar racing. His research interests include
+      hybrid electric unmanned aerial vehicles (UAV), intelligent control
+      systems, multibody nonlinear dynamics, vehicle engineering, biomechanics,
+      finite element analysis, and metal forming. He is currently working on the
+      prototype and commercialization of push-pull wheelchairs, human-powered
+      lawnmowers, and all-limb assisted electric bike based on a ratchet
+      transmission.
+      <p>Contact:<br>
+        (937) 775-5040 (ph); (937) 775-5009 (fax)<br>
+        junghsen.lieh AT wright.edu&nbsp;</p>
+      <p>Homepage:<br>
+        <a target="_blank" href="http://www.cs.wright.edu/node/224">http://www.cs.wright.edu/node/224</a><a
+          target="_blank" href="http://www.cs.wright.edu/node/224"><span style="text-decoration: underline;"></span></a><br>
+      </p>
+      <p style="text-align: center;"> <a href="http://www.hupi.org/HPeJ/index.htm">Contents</a>
+        | <a href="http://www.hupi.org/HPeJ/about.htm">About</a> | <a href="http://www.hupi.org/HPeJ/contact.htm">Contact</a>
+        <br>
+      </p>
+      <p style="text-align: center; font-weight: bold;">Human Power eJournal<!-- empty paragraph allows References to be at top of page when accessed via hyperlink --></p>
+    </blockquote>
+  </body>
+</html>

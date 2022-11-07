@@ -1,0 +1,1777 @@
+From jzalon at zalonoffice.com  Sat Jan  2 08:48:34 2010
+From: jzalon at zalonoffice.com (Jules D. Zalon)
+Date: Sat, 2 Jan 2010 11:48:34 -0500
+Subject: [trikes] Freezing Cables?
+Message-ID: <4B3F78E2.6030606@zalonoffice.com>
+
+I have a Greenspeed  GTO, and every time the temperature dips below 30? 
+(F!), my cables freeze. First, the d?railleurs get cranky (Oh, I didn't 
+intend to be funny!), and then slowly stop working at all. Then, the 
+brakes refuse to release. Bummer when I'm a distance from home.
+
+Does anyone have any great ideas about how to resolve the problem?
+
+Thanks and Happy New Year!
+
+Jules
+
+From granpita at gmail.com  Sat Jan  2 09:16:34 2010
+From: granpita at gmail.com (Philip Donahue)
+Date: Sat, 2 Jan 2010 12:16:34 -0500
+Subject: [trikes] Freezing Cables?
+In-Reply-To: <4B3F78E2.6030606@zalonoffice.com>
+References: <4B3F78E2.6030606@zalonoffice.com>
+Message-ID: <7AB6E568-5AEF-4C25-A013-B22378C6A620@gmail.com>
+
+I think you should probably disassemble and clean/lube them. There are other options but I expect when you take them apart, you're going to find they,re rusty/corroded.
+
+Phil Donahue
+Kennersley Point Marina
+410.490.0810
+
+On Jan 2, 2010, at 11:48 AM, Jules D. Zalon wrote:
+
+> I have a Greenspeed  GTO, and every time the temperature dips below 30? (F!), my cables freeze. First, the d?railleurs get cranky (Oh, I didn't intend to be funny!), and then slowly stop working at all. Then, the brakes refuse to release. Bummer when I'm a distance from home.
+> 
+> Does anyone have any great ideas about how to resolve the problem?
+> 
+> Thanks and Happy New Year!
+> 
+> Jules
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From rob at wrhpv.com  Sat Jan  2 09:20:24 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Sat, 2 Jan 2010 17:20:24 +0000
+Subject: [trikes] Freezing Cables?
+In-Reply-To: <4B3F78E2.6030606@zalonoffice.com>
+References: <4B3F78E2.6030606@zalonoffice.com>
+Message-ID: <3D262202-D98A-42C0-AD27-DC1B53D020E1@wrhpv.com>
+
+Hi Jules,
+
+I found good quality cables with continuous PTFE liners fixed this problem - this keeps out the moisture which can then freeze.
+Gore Ride-On are maybe the leading brand but at the highest price. I have successfully used Nokon and SRAM Flak Jacket. 
+Look in the mountain bike section of your preferred bike shop/web site.
+
+And, at least here in the UK where temps only drop a few degrees below freezing, hydraulic disc brakes do not seem to suffer from this problem - I'm assured they're good to at least -10C.
+
+The no-cost solution is to ensure the trike is kept in a damp and condensation free environment - but this isn't always practical if it is your daily commuter!!!
+
+Rob
+-- 
+Westcountry Recumbents - Derbyshire, England
+Email: rob at wrhpv.com     Web: http://www.wrhpv.com
+Have you visited http://mullimages.com yet?
+
+On 2 Jan 2010, at 16:48, Jules D. Zalon wrote:
+
+> I have a Greenspeed  GTO, and every time the temperature dips below 30? (F!), my cables freeze. First, the d?railleurs get cranky (Oh, I didn't intend to be funny!), and then slowly stop working at all. Then, the brakes refuse to release. Bummer when I'm a distance from home.
+> 
+> Does anyone have any great ideas about how to resolve the problem?
+> 
+> Thanks and Happy New Year!
+> 
+> Jules
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From michael.e.ross at gmail.com  Sat Jan  2 15:21:53 2010
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Sat, 2 Jan 2010 18:21:53 -0500
+Subject: [trikes] Freezing Cables?
+In-Reply-To: <4B3F78E2.6030606@zalonoffice.com>
+References: <4B3F78E2.6030606@zalonoffice.com>
+Message-ID: <67c62c9e1001021521x789b47fdid401c2a6aa30dff1@mail.gmail.com>
+
+Jules,
+
+Most likely there is a low spot in your cable where some water has collected
+a little at a time.  Upright bikes usually have less complicated cable
+routing that starts high and ends low - so they rarely collect water- that
+is why it is a surprise to most people when it happens.  Knowing this you
+can probably guess where the cables have frozen and brake it up by flexing.
+Best of all just dissemble them, wipe the cable, and blow compressed air
+through the housing.  It is unlikely you will have a quick recurrence unless
+you ride in a downpour.
+
+Rob is right on as always recommending the PTFE lined housings.  I prefer
+the rolled or drawn flat cables like SLIK.  This type of cable have the
+strands flattened so there is more surface contact for less contact
+pressure, lower wear, and smoother movement.  I also like to grease my cable
+with a PTFE containting grease.  It is almost a slick as an oil lube and it
+doesn't migrate around so it takes up space that water could infiltrate (or
+so I imagine).
+
+Mike
+
+On Sat, Jan 2, 2010 at 11:48 AM, Jules D. Zalon <jzalon at zalonoffice.com>wrote:
+
+> I have a Greenspeed  GTO, and every time the temperature dips below 30?
+> (F!), my cables freeze. First, the d?railleurs get cranky (Oh, I didn't
+> intend to be funny!), and then slowly stop working at all. Then, the brakes
+> refuse to release. Bummer when I'm a distance from home.
+>
+> Does anyone have any great ideas about how to resolve the problem?
+>
+> Thanks and Happy New Year!
+>
+> Jules
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+                 (919) 585-5118
+           michael_ross at ncsu.edu
+         michael.e.ross at gmail.com
+  =============================
+
+From g.edgar at bigpond.com  Fri Jan  1 19:01:34 2010
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Sat, 2 Jan 2010 13:01:34 +1000
+Subject: [trikes] more suspension trike touring and testing
+In-Reply-To: <0B50D8C7-3890-482A-9CBE-D2CEDC8E76E3@sasktel.net>
+References: <001601ca81b5$5d106660$17313320$%edgar@bigpond.com>
+	<549155.7983.qm@web54405.mail.re2.yahoo.com>
+	<002a01ca8aae$23119d60$6934d820$%edgar@bigpond.com>
+	<91CBE21F-3F80-414E-96A4-3D2FE9BD84BF@sasktel.net>
+	<002e01ca8ab4$f3805260$da80f720$%edgar@bigpond.com>
+	<0B50D8C7-3890-482A-9CBE-D2CEDC8E76E3@sasktel.net>
+Message-ID: <000901ca8b57$e4d57350$ae8059f0$@edgar@bigpond.com>
+
+Hi Bob,
+ 
+Following your advice, I have been testing with plastic soft drink bottles.
+They are working fabulously - the lack of a rubber internal dividing
+membrane seems to make no difference. 
+ 
+The damping is better able to be adjusted, as the opening into the soft
+drink bottle is larger than the openings into the pressure accumulator I was
+using. And of course, the bottles cost nothing and are 1/10th the weight of
+the accumulators! Also, the lack of a need to bleed the system, use two
+filling points, etc, is excellent. 
+ 
+The 'wooshing squishes' of water shooting in and out of the bottles is
+interesting, but that occurs audibly only on the largest of bumps. 
+ 
+At least I now have a system I can extensively test. 
+ 
+Thank you.
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+From: Bob Stuart [mailto:bobstuart at sasktel.net] 
+Sent: Friday, 1 January 2010 5:50 PM
+To: editor at autospeed.com
+Subject: Re: [trikes] more suspension trike touring and testing
+ 
+The rubber is to prevent slow loss of air through the flowing water.
+Presumably, one could bubble air up into a bottle, and let the water in the
+system reach saturation.  A bleed valve could probably be installed at the
+top end of the tank for convenience, but the savings would be ounces against
+hours, I guess. 
+
+Bob Stuart
+ 
+
+
+
+
+ 
+On 1-Jan-10, at 1:35 AM, Julian Edgar wrote:
+
+
+
+Yes that's so, Bob. Trouble is, the accumulators need a rubber membrane
+mid-point within the bottle, and fittings both sides of the membrane.
+ 
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+From: Bob Stuart [mailto:bobstuart at sasktel.net] 
+Sent: Friday, 1 January 2010 5:07 PM
+To: editor at autospeed.com
+Subject: Re: [trikes] more suspension trike touring and testing
+ 
+FWIW, I have tested common carbonated beverage containers to 140 PSI and
+deliberately dinged them with gravel-like impacts with no problem. 
+ 
+Best,
+Bob Stuart
+Your  cheap damper expert.  :-)
+
+
+
+
+
+ 
+On 1-Jan-10, at 12:46 AM, Julian Edgar wrote:
+
+
+
+
+ 
+I am using commercially available accumulators, normally used on boat
+pressurised water systems. In my machine the max air pressure is only 30
+psi; the accumulators are rated to 120 psi. Each accumulator weighs about
+400g; including water the total weight of the suspension springing/damping
+system is about 3kg. 
+ 
+No virus found in this incoming message.
+Checked by AVG - www.avg.com
+Version: 9.0.725 / Virus Database: 270.14.123/2594 - Release Date: 12/31/09
+18:52:00
+ 
+No virus found in this incoming message.
+Checked by AVG - www.avg.com
+Version: 9.0.725 / Virus Database: 270.14.123/2594 - Release Date: 12/31/09
+18:52:00
+
+From rob at wrhpv.com  Sat Jan  2 10:10:05 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Sat, 2 Jan 2010 18:10:05 +0000
+Subject: [trikes] Freezing Cables?
+In-Reply-To: <4B3F84ED.1060503@zalonoffice.com>
+References: <4B3F78E2.6030606@zalonoffice.com>
+	<3D262202-D98A-42C0-AD27-DC1B53D020E1@wrhpv.com>
+	<4B3F84ED.1060503@zalonoffice.com>
+Message-ID: <76C4E0DE-69B5-4C77-B4A4-DCA537D07DDB@wrhpv.com>
+
+Hi Jules,
+If your wrench isn't used to recumbents he might not have seen the problem before - it is usually a problem of water collecting at the low point of a cable loop - either from rain, road spray or condensation. Stick bikes cable runs tend not to have these loops at the lowest point for moisture to accumulate and so they drain naturally. 
+Sealed cables, either as Phil suggest using lube, or as I mentioned using PTFE liners, fixes the problem.
+
+If you are going to the expense of the work I'd strongly recommend the lined cables but I suspect the tech used by each cable brand is pretty much the same... I think I paid GBP20 (US$30?) for my last set of Flak Jacket gear cables and GBP10 (US$15) for Nokon (a very special offer - they seem to be 4x dearer now) both of which I've been happy with.
+
+Good luck!
+Rob
+
+
+On 2 Jan 2010, at 17:39, Jules D. Zalon wrote:
+
+> Thanks, Rob. My local wrench doesn't think that's the problem . . . but honestly I do. So I'm going to bring it in and have then totally change over the cables and housing. Worst case: it won't get any better, but I'll have upgraded my ride.
+> 
+> Happy New Year!
+> 
+> Jules
+> 
+> - - - - -
+> 
+> Rob Hague wrote:
+>> Hi Jules,
+>> 
+>> I found good quality cables with continuous PTFE liners fixed this problem - this keeps out the moisture which can then freeze.
+>> Gore Ride-On are maybe the leading brand but at the highest price. I have successfully used Nokon and SRAM Flak Jacket. Look in the mountain bike section of your preferred bike shop/web site.
+>> 
+>> And, at least here in the UK where temps only drop a few degrees below freezing, hydraulic disc brakes do not seem to suffer from this problem - I'm assured they're good to at least -10C.
+>> 
+>> The no-cost solution is to ensure the trike is kept in a damp and condensation free environment - but this isn't always practical if it is your daily commuter!!!
+>> 
+>> Rob
+>>  
+
+
+From heffel at gmail.com  Thu Jan 14 08:09:50 2010
+From: heffel at gmail.com (Chris Heffel)
+Date: Thu, 14 Jan 2010 10:09:50 -0600
+Subject: [trikes] Greenspeed Seat Fabric
+In-Reply-To: <67c62c9e1001021521x789b47fdid401c2a6aa30dff1@mail.gmail.com>
+References: <4B3F78E2.6030606@zalonoffice.com>
+	<67c62c9e1001021521x789b47fdid401c2a6aa30dff1@mail.gmail.com>
+Message-ID: <4B4F41CE.9000806@gmail.com>
+
+Hey guys,
+
+I guess I am hard up for cycling time.........I decided to re-string my 
+seat fabric on my Greenspeed GTR.  It needs to be tightened, 
+straightened, and I need something to do.
+
+I have been VERY happy with my Greenspeed overall, but I was 
+disappointed in how the seat fabric was attached.  The metal grommets 
+hit the horizontal seat frame pieces, and have ground gouges into the 
+paint/metal.  I noticed online that other GTR's have the fabric sliced 
+so that the grommets do not touch the metal frame.  This probably also 
+helps against the fabric sliding and slipping over time.
+
+I cleaned and touched up the gouges last night with some of the touchup 
+paint that came with the trike (sweet) and am going to restring the seat.
+
+How far is the fabric cut on your seat mesh?
+
+Also, there are some small bumps and rough texture under the paint on 
+the horizontal seat frame pieces.  Is it starting to rust or is it just 
+not finished as smoothly as the rest of the trike?  I can send links to 
+pics if needed.
+
+Thanks,
+Chris
+benthub.com
+
+
+
+From gilesp at iinet.net.au  Thu Jan 14 12:44:14 2010
+From: gilesp at iinet.net.au (Giles Puckett)
+Date: Fri, 15 Jan 2010 07:44:14 +1100
+Subject: [trikes] Greenspeed Seat Fabric
+In-Reply-To: <4B4F41CE.9000806@gmail.com>
+References: <4B3F78E2.6030606@zalonoffice.com>	<67c62c9e1001021521x789b47fdid401c2a6aa30dff1@mail.gmail.com>
+	<4B4F41CE.9000806@gmail.com>
+Message-ID: <4B4F821E.6090803@iinet.net.au>
+
+Chris Heffel wrote:
+> Hey guys,
+> 
+> I guess I am hard up for cycling time.........I decided to re-string my 
+> seat fabric on my Greenspeed GTR.  It needs to be tightened, 
+> straightened, and I need something to do.
+> 
+> I have been VERY happy with my Greenspeed overall, but I was 
+> disappointed in how the seat fabric was attached.  The metal grommets 
+> hit the horizontal seat frame pieces, and have ground gouges into the 
+> paint/metal.  I noticed online that other GTR's have the fabric sliced 
+> so that the grommets do not touch the metal frame.  This probably also 
+> helps against the fabric sliding and slipping over time.
+> 
+> I cleaned and touched up the gouges last night with some of the touchup 
+> paint that came with the trike (sweet) and am going to restring the seat.
+> 
+> How far is the fabric cut on your seat mesh?
+
+Sounds like your seat is too small - there should be plenty of overlap 
+and the brass grommets should be nowhere near any steel. You could whip 
+up a new one on a sewing machine, or else slip in a bit of fabric to 
+keep the metal bits apart.
+
+More overlap means a stiffer seat, as there is less bungy cord to 
+stretch. that way it won't fret on the paint as much.
+
+> 
+> Also, there are some small bumps and rough texture under the paint on 
+> the horizontal seat frame pieces.  Is it starting to rust or is it just 
+> not finished as smoothly as the rest of the trike?  I can send links to 
+> pics if needed.
+> 
+> Thanks,
+> Chris
+> benthub.com
+> 
+> 
+> -- 
+> This message comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+> subscription.
+> 
+> 
+> ------------------------------------------------------------------------
+> 
+> 
+> No virus found in this incoming message.
+> Checked by AVG - www.avg.com 
+> Version: 9.0.725 / Virus Database: 270.14.140/2621 - Release Date: 01/14/10 23:39:00
+> 
+
+
+From heffel at gmail.com  Thu Jan 14 14:09:01 2010
+From: heffel at gmail.com (Chris Heffel)
+Date: Thu, 14 Jan 2010 16:09:01 -0600
+Subject: [trikes] Greenspeed Seat Fabric
+In-Reply-To: <4B4F821E.6090803@iinet.net.au>
+References: <4B3F78E2.6030606@zalonoffice.com>	<67c62c9e1001021521x789b47fdid401c2a6aa30dff1@mail.gmail.com>
+	<4B4F41CE.9000806@gmail.com> <4B4F821E.6090803@iinet.net.au>
+Message-ID: <4B4F95FD.30905@gmail.com>
+
+Thanks Giles,
+
+I cut the fabric, and the grommets are mostly not touching steel now.  A 
+couple are close.  I could make them further but I didn't want to cut 
+the fabric past the hem until seeing if others are cut past the hem.
+
+At $100+ for new fabric, I don't want to cut it too far.
+
+Notice this persons picture shows a gap in the seat fabric where the 
+horizontal supports go?
+
+http://grothserver.princeton.edu/~groth/random_pics/bikerides/trike_20050620/TRIKE_20050620_17.htmlx
+
+There were not gabs in mine and the grommets really ground into the 
+frame.  The other GTR's I have seen all had gaps or cuts to go around 
+the seat frame.  I have been very happy with my dealer and the service, 
+but a few items on assembly were not quite done with the care of others 
+I have seen.
+
+You have a good point though, my fabric has an 8.5 inch gab on the back 
+side......others look to be closer to 5-6 inches.  Maybe the fabric is a 
+bit too small.
+
+http://grothserver.princeton.edu/~groth/random_pics/bikerides/trike_20050620/TRIKE_20050620_18.htmlx
+
+Those pictures are not of mine, just the first pics I found on google of 
+greenspeed seats from the underside.
+
+Thanks for the input,
+Chris
+
+
+
+On 1/14/2010 2:44 PM, Giles Puckett wrote:
+> Chris Heffel wrote:
+>> Hey guys,
+>>
+>> I guess I am hard up for cycling time.........I decided to re-string 
+>> my seat fabric on my Greenspeed GTR.  It needs to be tightened, 
+>> straightened, and I need something to do.
+>>
+>> I have been VERY happy with my Greenspeed overall, but I was 
+>> disappointed in how the seat fabric was attached.  The metal grommets 
+>> hit the horizontal seat frame pieces, and have ground gouges into the 
+>> paint/metal.  I noticed online that other GTR's have the fabric 
+>> sliced so that the grommets do not touch the metal frame.  This 
+>> probably also helps against the fabric sliding and slipping over time.
+>>
+>> I cleaned and touched up the gouges last night with some of the 
+>> touchup paint that came with the trike (sweet) and am going to 
+>> restring the seat.
+>>
+>> How far is the fabric cut on your seat mesh?
+>
+> Sounds like your seat is too small - there should be plenty of overlap 
+> and the brass grommets should be nowhere near any steel. You could 
+> whip up a new one on a sewing machine, or else slip in a bit of fabric 
+> to keep the metal bits apart.
+>
+> More overlap means a stiffer seat, as there is less bungy cord to 
+> stretch. that way it won't fret on the paint as much.
+>
+>>
+>> Also, there are some small bumps and rough texture under the paint on 
+>> the horizontal seat frame pieces.  Is it starting to rust or is it 
+>> just not finished as smoothly as the rest of the trike?  I can send 
+>> links to pics if needed.
+>>
+>> Thanks,
+>> Chris
+>> benthub.com
+>>
+>>
+>> -- 
+>> This message comes to you via the trikes at bikelist.org mailing list, 
+>> sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+>> subscription.
+>>
+>>
+>> ------------------------------------------------------------------------
+>>
+>>
+>> No virus found in this incoming message.
+>> Checked by AVG - www.avg.com Version: 9.0.725 / Virus Database: 
+>> 270.14.140/2621 - Release Date: 01/14/10 23:39:00
+>>
+>
+>
+
+From ian at greenspeed.com.au  Thu Jan 14 15:56:16 2010
+From: ian at greenspeed.com.au (Ian Sims)
+Date: Fri, 15 Jan 2010 10:56:16 +1100
+Subject: [trikes] Greenspeed Seat Fabric (Chris Heffel)
+References: <mailman.17.1263499200.80593.trikes@bikelist.org>
+Message-ID: <A8915C394E0F4FDB9C3EF842180B094A@E2200>
+
+Hi Chris,
+               The eyelets should NOT touch the seat frame. How this
+has occured I don't know. Maybe you could send me some photos
+so I could see why this has occured and we can prevent it from
+happening again.
+
+The latter GTOs which have the Ergo seats have the fabric slit so that
+ the fabric follows the contours of the seat rails, whereas on the earlier
+GTOs with the flat seat backs, it was not slit so that you got some
+lumber support from where the seat brace was not gathering the material.
+
+You could possibly slit the material, and when you re-lace the seat you
+could cut the shock cord into a number of pieces to adjust the tension
+in the cords to suit the shape of your back.
+
+Regards, Ian
+
+Ian Sims, Director
+Greenspeed Pty., Ltd.,
+69 Mountain Gate Drive,
+Ferntree Gully VIC 3156
+AUSTRALIA
+Phone +61 3 9758 5541 Fax +61 3 9752 4115
+Email ian at greenspeed.com.au
+Web www.greenspeed.com.au
+
+
+
+>
+> Message: 1
+> Date: Thu, 14 Jan 2010 10:09:50 -0600
+> From: Chris Heffel <heffel at gmail.com>
+> Subject: [trikes] Greenspeed Seat Fabric
+> Cc: <trikes at bikelist.org>
+> Message-ID: <4B4F41CE.9000806 at gmail.com>
+> Content-Type: text/plain; charset="ISO-8859-1"; format=flowed
+>
+> Hey guys,
+>
+> I guess I am hard up for cycling time.........I decided to re-string my
+> seat fabric on my Greenspeed GTR.  It needs to be tightened,
+> straightened, and I need something to do.
+>
+> I have been VERY happy with my Greenspeed overall, but I was
+> disappointed in how the seat fabric was attached.  The metal grommets
+> hit the horizontal seat frame pieces, and have ground gouges into the
+> paint/metal.  I noticed online that other GTR's have the fabric sliced
+> so that the grommets do not touch the metal frame.  This probably also
+> helps against the fabric sliding and slipping over time.
+>
+> I cleaned and touched up the gouges last night with some of the touchup
+> paint that came with the trike (sweet) and am going to restring the seat.
+>
+> How far is the fabric cut on your seat mesh?
+>
+> Also, there are some small bumps and rough texture under the paint on
+> the horizontal seat frame pieces.  Is it starting to rust or is it just
+> not finished as smoothly as the rest of the trike?  I can send links to
+> pics if needed.
+>
+> Thanks,
+> Chris
+> benthub.com
+>
+>
+>
+>
+> ------------------------------
+>
+> This message digest comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+> End of trikes Digest, Vol 66, Issue 5
+> ************************************* 
+
+
+From sk8ski2004 at yahoo.ca  Thu Jan 14 16:33:57 2010
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Thu, 14 Jan 2010 16:33:57 -0800
+Subject: [trikes] Greenspeed Seat Fabric
+In-Reply-To: <4B4F95FD.30905@gmail.com>
+References: <4B3F78E2.6030606@zalonoffice.com>
+	<67c62c9e1001021521x789b47fdid401c2a6aa30dff1@mail.gmail.com>
+	<4B4F41CE.9000806@gmail.com> <4B4F821E.6090803@iinet.net.au>
+	<4B4F95FD.30905@gmail.com>
+Message-ID: <943347.27745.qm@web54410.mail.re2.yahoo.com>
+
+I`m using trampoline fabric, from a local manufacturer, for seats.  It`s much cheaper.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Chris Heffel <heffel at gmail.com>
+To: Giles Puckett <gilesp at iinet.net.au>
+Cc: trikes at bikelist.org
+Sent: Thu, January 14, 2010 2:09:01 PM
+Subject: Re: [trikes] Greenspeed Seat Fabric
+
+Thanks Giles,
+
+I cut the fabric, and the grommets are mostly not touching steel now.  A couple are close.  I could make them further but I didn't want to cut the fabric past the hem until seeing if others are cut past the hem.
+
+At $100+ for new fabric, I don't want to cut it too far.
+
+Notice this persons picture shows a gap in the seat fabric where the horizontal supports go?
+
+http://grothserver.princeton.edu/~groth/random_pics/bikerides/trike_20050620/TRIKE_20050620_17.htmlx
+
+There were not gabs in mine and the grommets really ground into the frame.  The other GTR's I have seen all had gaps or cuts to go around the seat frame.  I have been very happy with my dealer and the service, but a few items on assembly were not quite done with the care of others I have seen.
+
+You have a good point though, my fabric has an 8.5 inch gab on the back side......others look to be closer to 5-6 inches.  Maybe the fabric is a bit too small.
+
+http://grothserver.princeton.edu/~groth/random_pics/bikerides/trike_20050620/TRIKE_20050620_18.htmlx
+
+Those pictures are not of mine, just the first pics I found on google of greenspeed seats from the underside.
+
+Thanks for the input,
+Chris
+
+
+
+On 1/14/2010 2:44 PM, Giles Puckett wrote:
+> Chris Heffel wrote:
+>> Hey guys,
+>> 
+>> I guess I am hard up for cycling time.........I decided to re-string my seat fabric on my Greenspeed GTR.  It needs to be tightened, straightened, and I need something to do.
+>> 
+>> I have been VERY happy with my Greenspeed overall, but I was disappointed in how the seat fabric was attached.  The metal grommets hit the horizontal seat frame pieces, and have ground gouges into the paint/metal.  I noticed online that other GTR's have the fabric sliced so that the grommets do not touch the metal frame.  This probably also helps against the fabric sliding and slipping over time.
+>> 
+>> I cleaned and touched up the gouges last night with some of the touchup paint that came with the trike (sweet) and am going to restring the seat.
+>> 
+>> How far is the fabric cut on your seat mesh?
+> 
+> Sounds like your seat is too small - there should be plenty of overlap and the brass grommets should be nowhere near any steel. You could whip up a new one on a sewing machine, or else slip in a bit of fabric to keep the metal bits apart.
+> 
+> More overlap means a stiffer seat, as there is less bungy cord to stretch. that way it won't fret on the paint as much.
+> 
+>> 
+>> Also, there are some small bumps and rough texture under the paint on the horizontal seat frame pieces.  Is it starting to rust or is it just not finished as smoothly as the rest of the trike?  I can send links to pics if needed.
+>> 
+>> Thanks,
+>> Chris
+>> benthub.com
+>> 
+>> 
+>> -- This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>> 
+>> 
+>> ------------------------------------------------------------------------
+>> 
+>> 
+>> No virus found in this incoming message.
+>> Checked by AVG - www.avg.com Version: 9.0.725 / Virus Database: 270.14.140/2621 - Release Date: 01/14/10 23:39:00
+>> 
+> 
+> 
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+      __________________________________________________________________
+The new Internet Explorer? 8 - Faster, safer, easier.  Optimized for Yahoo!  Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+
+From gegrat at aol.com  Thu Jan 14 17:39:28 2010
+From: gegrat at aol.com (gegrat at aol.com)
+Date: Thu, 14 Jan 2010 20:39:28 -0500
+Subject: [trikes] Seat material
+Message-ID: <1532d.676654d9.38812150@aol.com>
+
+ 
+_http://www.northerntool.com/webapp/wcs/stores/servlet/category_6970_224712+
+224714+771493_ 
+(http://www.northerntool.com/webapp/wcs/stores/servlet/category_6970_224712+224714+771493) 
+ 
+I used this 'PVC Mesh Tarp' from Northern Tool to replace my  Greenspeed 
+seat. I see they now have Nylon mesh as well. I did not use brass  eyes, just 
+sewed hems on both sides and cut slits to form "loops" to run the  bungy 
+cord to pull the material taunt. It has held up for several years, but not  as 
+well as the original seat material. I interlaced heavy shoe string over the  
+bungy cord in some areas to keep the seat more firm.
+ 
+Gordon
+
+From heffel at gmail.com  Thu Jan 14 19:29:15 2010
+From: heffel at gmail.com (Chris Heffel)
+Date: Thu, 14 Jan 2010 21:29:15 -0600
+Subject: [trikes] Seat material
+In-Reply-To: <1532d.676654d9.38812150@aol.com>
+References: <1532d.676654d9.38812150@aol.com>
+Message-ID: <4B4FE10B.2040002@gmail.com>
+
+Colin and Gordon (or others),
+
+Where did your old seat fabric eventually fail?  Did the bungee fail 
+before the fabric, or were they about the same time.
+
+Chris
+
+
+
+On 1/14/2010 7:39 PM, gegrat at aol.com wrote:
+>
+> _http://www.northerntool.com/webapp/wcs/stores/servlet/category_6970_224712+
+> 224714+771493_
+> (http://www.northerntool.com/webapp/wcs/stores/servlet/category_6970_224712+224714+771493)
+>
+> I used this 'PVC Mesh Tarp' from Northern Tool to replace my  Greenspeed
+> seat. I see they now have Nylon mesh as well. I did not use brass  eyes, just
+> sewed hems on both sides and cut slits to form "loops" to run the  bungy
+> cord to pull the material taunt. It has held up for several years, but not  as
+> well as the original seat material. I interlaced heavy shoe string over the
+> bungy cord in some areas to keep the seat more firm.
+>
+> Gordon
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+>    
+
+From michael.e.ross at gmail.com  Thu Jan 14 20:09:31 2010
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Thu, 14 Jan 2010 23:09:31 -0500
+Subject: [trikes] Seat material
+In-Reply-To: <4B4FE10B.2040002@gmail.com>
+References: <1532d.676654d9.38812150@aol.com> <4B4FE10B.2040002@gmail.com>
+Message-ID: <67c62c9e1001142009y29213b12qe988b4cc0a429028@mail.gmail.com>
+
+I get it about being frugal and all that.  But I would ask Greenspeed to fix
+me up with the right stuff.  You could not ask for better people to deal
+with.  They will charge a fair price and no more.  They will sell you an
+effective product.  They will stand behind it.  At least ask them how much
+for the correct seat cover and bungee.  You will get tens of thousands of
+miles from it.
+
+On Thu, Jan 14, 2010 at 10:29 PM, Chris Heffel <heffel at gmail.com> wrote:
+
+> Colin and Gordon (or others),
+>
+> Where did your old seat fabric eventually fail?  Did the bungee fail before
+> the fabric, or were they about the same time.
+>
+> Chris
+>
+>
+>
+>
+> On 1/14/2010 7:39 PM, gegrat at aol.com wrote:
+>
+>>
+>> _
+>> http://www.northerntool.com/webapp/wcs/stores/servlet/category_6970_224712+
+>> 224714+771493_
+>> (
+>> http://www.northerntool.com/webapp/wcs/stores/servlet/category_6970_224712+224714+771493
+>> )
+>>
+>> I used this 'PVC Mesh Tarp' from Northern Tool to replace my  Greenspeed
+>> seat. I see they now have Nylon mesh as well. I did not use brass  eyes,
+>> just
+>> sewed hems on both sides and cut slits to form "loops" to run the  bungy
+>> cord to pull the material taunt. It has held up for several years, but not
+>>  as
+>> well as the original seat material. I interlaced heavy shoe string over
+>> the
+>> bungy cord in some areas to keep the seat more firm.
+>>
+>> Gordon
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list,
+>> sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+>> subscription.
+>>
+>>
+>>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+             (919) 513-0418 desk
+              (919) 585-5118 etc
+          michael_ross at ncsu.edu
+        michael.e.ross at gmail.com
+  =============================
+
+From sk8ski2004 at yahoo.ca  Fri Jan 15 06:56:06 2010
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Fri, 15 Jan 2010 06:56:06 -0800
+Subject: [trikes] Seat material
+In-Reply-To: <4B4FE10B.2040002@gmail.com>
+References: <1532d.676654d9.38812150@aol.com> <4B4FE10B.2040002@gmail.com>
+Message-ID: <242105.43082.qm@web54410.mail.re2.yahoo.com>
+
+I'm building my own bents and haven't had to replace seat fabric yet.  I use nylon straps and plastic tensioner, like a backpack.  I did wear a small hole in the bottom of the fabric, once, due to it being too close to the USS handlebar clamp.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Chris Heffel <heffel at gmail.com>
+To: gegrat at aol.com; trikes at bikelist.org; sk8ski2004 at yahoo.ca
+Sent: Thu, January 14, 2010 7:29:15 PM
+Subject: Re: [trikes] Seat material
+
+Colin and Gordon (or others),
+
+Where did your old seat fabric eventually fail?  Did the bungee fail 
+before the fabric, or were they about the same time.
+
+Chris
+
+
+
+On 1/14/2010 7:39 PM, gegrat at aol.com wrote:
+>
+> _http://www.northerntool.com/webapp/wcs/stores/servlet/category_6970_224712+
+> 224714+771493_
+> (http://www.northerntool.com/webapp/wcs/stores/servlet/category_6970_224712+224714+771493)
+>
+> I used this 'PVC Mesh Tarp' from Northern Tool to replace my  Greenspeed
+> seat. I see they now have Nylon mesh as well. I did not use brass  eyes, just
+> sewed hems on both sides and cut slits to form "loops" to run the  bungy
+> cord to pull the material taunt. It has held up for several years, but not  as
+> well as the original seat material. I interlaced heavy shoe string over the
+> bungy cord in some areas to keep the seat more firm.
+>
+> Gordon
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+>    
+
+
+
+      __________________________________________________________________
+Connect with friends from any web browser - no download required. Try the new Yahoo! Canada Messenger for the Web BETA at http://ca.messenger.yahoo.com/webmessengerpromo.php
+
+From gegrat at aol.com  Fri Jan 15 07:23:18 2010
+From: gegrat at aol.com (gegrat at aol.com)
+Date: Fri, 15 Jan 2010 10:23:18 -0500
+Subject: [trikes] seat material
+Message-ID: <20788.6e409c7b.3881e266@aol.com>
+
+The seat material wears on the lower bar. It moves as the  bungy gives over 
+road bump. I noticed it at about 12000 miles or so. The powder  coating on 
+the tubing begins to fade as well. I think I installed new bungy long  
+before the seat material failed.
+ 
+Gordon
+
+From gegrat at aol.com  Fri Jan 15 07:32:10 2010
+From: gegrat at aol.com (gegrat at aol.com)
+Date: Fri, 15 Jan 2010 10:32:10 -0500
+Subject: [trikes] seat material
+Message-ID: <20bc3.2d56ecd9.3881e47a@aol.com>
+
+Yes, Greenspeed has good service, but they are 12000  miles away, and it is 
+a very simple job.
+ 
+Gordon
+
+From michael.e.ross at gmail.com  Fri Jan 15 11:15:37 2010
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Fri, 15 Jan 2010 14:15:37 -0500
+Subject: [trikes] seat material
+In-Reply-To: <20bc3.2d56ecd9.3881e47a@aol.com>
+References: <20bc3.2d56ecd9.3881e47a@aol.com>
+Message-ID: <67c62c9e1001151115k178caea2q1fc44cdb321cb949@mail.gmail.com>
+
+There are plenty of US dealers.  Getting it from GS relieves one of getting
+it wrong, because if you give them a chance they will get it right. No
+rubbing grommets, no puny bungee material, and so on.
+
+Plus you get to support one of the top tier trike design and manufacturing
+companies.   It is not as if they are getting rich.  It is hard work selling
+hand built anything.
+
+Mike
+
+On Fri, Jan 15, 2010 at 10:32 AM, <gegrat at aol.com> wrote:
+
+> Yes, Greenspeed has good service, but they are 12000  miles away, and it is
+> a very simple job.
+>
+> Gordon
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+             (919) 513-0418 desk
+              (919) 585-5118 etc
+          michael_ross at ncsu.edu
+        michael.e.ross at gmail.com
+  =============================
+
+From jzalon at zalonoffice.com  Fri Jan 15 12:31:01 2010
+From: jzalon at zalonoffice.com (Jules D. Zalon)
+Date: Fri, 15 Jan 2010 15:31:01 -0500
+Subject: [trikes] Dealing with Greenspeed
+In-Reply-To: <mailman.17.1263585600.96946.trikes@bikelist.org>
+References: <mailman.17.1263585600.96946.trikes@bikelist.org>
+Message-ID: <4B50D085.6020008@zalonoffice.com>
+
+I second Mike Ross' comments about dealing with Greenspeed. They are 
+simply superb. A few years ago, the SRAM Dual Drive hub on my GTO  
+failed, after less than 4,000 miles. I called SRAM and they blamed it on 
+the trike, which made no sense at all. When I told this to Paul Sims, he 
+immediately sent me a replacement hub and even though I offered to pay 
+for it -- after all, it wasn't Greenspeed's fault -- he would not accept 
+payment for it. AND I HAD PURCHASED THE GTO USED!
+
+So not only do I love my trike, I love the company that made it too.
+
+Jules
+
+- - - - -
+
+> Message: 1
+> Date: Thu, 14 Jan 2010 23:09:31 -0500
+> From: Michael Ross <michael.e.ross at gmail.com>
+> Subject: Re: [trikes] Seat material
+> To: Chris Heffel <heffel at gmail.com>
+> Cc: trikes at bikelist.org
+> Message-ID:
+> 	<67c62c9e1001142009y29213b12qe988b4cc0a429028 at mail.gmail.com>
+> Content-Type: text/plain; charset="ISO-8859-1"
+>
+> I get it about being frugal and all that.  But I would ask Greenspeed to fix
+> me up with the right stuff.  You could not ask for better people to deal
+> with.  They will charge a fair price and no more.  They will sell you an
+> effective product.  They will stand behind it.  At least ask them how much
+> for the correct seat cover and bungee.  You will get tens of thousands of
+> miles from it.
+>
+
+From gilesp at iinet.net.au  Fri Jan 15 13:59:02 2010
+From: gilesp at iinet.net.au (Giles Puckett)
+Date: Sat, 16 Jan 2010 08:59:02 +1100
+Subject: [trikes] Seat material
+In-Reply-To: <242105.43082.qm@web54410.mail.re2.yahoo.com>
+References: <1532d.676654d9.38812150@aol.com> <4B4FE10B.2040002@gmail.com>
+	<242105.43082.qm@web54410.mail.re2.yahoo.com>
+Message-ID: <4B50E526.5040502@iinet.net.au>
+
+I find seat fabric wears pretty well too, I use the stuff that outdoor 
+furniture is made from, and brass grommets. The seat is usually a simple 
+rectangle. Cutting slots out for tubes, etc. in my experience leads to 
+weakness.
+
+One tip I've found - brass grommets have a smooth side and a rough side 
+when they're installed. Resist the temptation to put the smooth side out 
+where it can be seen - then the rough side rubs up against the 
+overlapping fabric on the seat, and eventually cuts through it.
+
+G.
+
+Colin Bryant wrote:
+> I'm building my own bents and haven't had to replace seat fabric yet.  I use nylon straps and plastic tensioner, like a backpack.  I did wear a small hole in the bottom of the fabric, once, due to it being too close to the USS handlebar clamp.
+
+From g.edgar at bigpond.com  Thu Jan 21 17:33:46 2010
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Fri, 22 Jan 2010 11:33:46 +1000
+Subject: [trikes] measuring ride comfort
+Message-ID: <002101ca9b02$f0f490c0$d2ddb240$@edgar@bigpond.com>
+
+Hi Folks,
+ 
+If you have an iPhone or iTouch you can buy ($6) very good software that
+allows direct comparisons of ride comfort of different machines. The
+software is called 'Vibration'. It measures actual  accelerations
+vertically, and in pitch and roll. I take the measurements at my head. 
+ 
+I have been comparing the ride comfort of my pneumatic / hydraulic suspended
+trike ("Chalky")  against a Brompton folding bike (16 inch wheels, sprung
+seat, small-travel rear suspension) and a Gazelle Medeo Plus (high quality
+commuting bike, 28 inch wheels, sprung seat post, sprung front forks).
+Chalky has 16 inch wheels. 
+The tests were conducted at a fairly slow pace over a bumpy grass-and-dirt
+surface.
+http://i638.photobucket.com/albums/uu102/JulianEdgar/accelerationscompared.j
+pg graphs the RMS values for accelerations in X, Y and Z planes of the three
+machines over the test course.
+http://i638.photobucket.com/albums/uu102/JulianEdgar/RRGazChal.jpg - shows
+the actual traces for the measurements. 
+I found the software very good, especially when attempting to gain best
+compromises between conflicting requirements - eg reducing body roll by the
+use of a stiffer anti-roll bar versus the resulting increase in the wheel
+rates in one-wheel bumps. Spring rates, suspension interconnection and
+damping rates were all also developed using the data.
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+
+From michael.e.ross at gmail.com  Thu Jan 21 18:10:08 2010
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Thu, 21 Jan 2010 21:10:08 -0500
+Subject: [trikes] measuring ride comfort
+In-Reply-To: <427791694035848895@unknownmsgid>
+References: <427791694035848895@unknownmsgid>
+Message-ID: <67c62c9e1001211810m545cb940re8f93df299b72c83@mail.gmail.com>
+
+Differentiate the data to report the correct measurand for comfort, or its
+lack - "jerk" is the term of art for the time rate of change of
+acceleration.  Acceleration is not always an informative measurand for
+comfort.  Acceleration can be quite comfortable - lying in bed for instance
+has 1G; more than anything you have measured with your iPhoney or iTouchy.
+ But the jerk is very small in bed, as opposed to on the trike.
+
+Acceleration is a good measure of the instantaneous force on a vibrating
+component. (F=ma)  Acceleration might tell you the magnitude of stress and
+strain and allow you to estimate whether a part will break and help you to
+optimize it.  But it is only indirectly, and in certain circumstances, an
+analog for comfort.
+
+It is the jerk that makes you bit your tongue.  (In more ways than one.)
+
+Mike
+
+written with my iFingers
+
+On Thu, Jan 21, 2010 at 8:33 PM, Julian Edgar <g.edgar at bigpond.com> wrote:
+
+> Hi Folks,
+>
+> If you have an iPhone or iTouch you can buy ($6) very good software that
+> allows direct comparisons of ride comfort of different machines. The
+> software is called 'Vibration'. It measures actual  accelerations
+> vertically, and in pitch and roll. I take the measurements at my head.
+>
+> I have been comparing the ride comfort of my pneumatic / hydraulic
+> suspended
+> trike ("Chalky")  against a Brompton folding bike (16 inch wheels, sprung
+> seat, small-travel rear suspension) and a Gazelle Medeo Plus (high quality
+> commuting bike, 28 inch wheels, sprung seat post, sprung front forks).
+> Chalky has 16 inch wheels.
+> The tests were conducted at a fairly slow pace over a bumpy grass-and-dirt
+> surface.
+>
+> http://i638.photobucket.com/albums/uu102/JulianEdgar/accelerationscompared.j
+> pg graphs the RMS values for accelerations in X, Y and Z planes of the
+> three
+> machines over the test course.
+> http://i638.photobucket.com/albums/uu102/JulianEdgar/RRGazChal.jpg - shows
+> the actual traces for the measurements.
+> I found the software very good, especially when attempting to gain best
+> compromises between conflicting requirements - eg reducing body roll by the
+> use of a stiffer anti-roll bar versus the resulting increase in the wheel
+> rates in one-wheel bumps. Spring rates, suspension interconnection and
+> damping rates were all also developed using the data.
+>
+> Regards,
+>
+> Julian Edgar
+>
+>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+             (919) 513-0418 desk
+              (919) 585-5118 etc
+          michael_ross at ncsu.edu
+        michael.e.ross at gmail.com
+  =============================
+
+From g.edgar at bigpond.com  Thu Jan 21 18:45:10 2010
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Fri, 22 Jan 2010 12:45:10 +1000
+Subject: [trikes] measuring ride comfort
+In-Reply-To: <67c62c9e1001211810m545cb940re8f93df299b72c83@mail.gmail.com>
+References: <427791694035848895@unknownmsgid>
+	<67c62c9e1001211810m545cb940re8f93df299b72c83@mail.gmail.com>
+Message-ID: <002c01ca9b0c$ea8c5a60$bfa50f20$@edgar@bigpond.com>
+
+Hi Mike,
+ 
+Differentiation data function is available in the software, but I didn't
+want to utterly confuse everyone. 
+ 
+I have separately sent you a spreadsheet of the recorded Chalky data (you
+can email it to yourself from the iPhone). 
+ 
+Also note any DC offset is dialled out of the data. So the static 1g is not
+there.
+ 
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+From: Michael Ross [mailto:michael.e.ross at gmail.com] 
+Sent: Friday, 22 January 2010 12:10 PM
+To: editor at autospeed.com
+Cc: trikes at bikelist.org
+Subject: Re: [trikes] measuring ride comfort
+ 
+Differentiate the data to report the correct measurand for comfort, or its
+lack - "jerk" is the term of art for the time rate of change of
+acceleration.  Acceleration is not always an informative measurand for
+comfort.  Acceleration can be quite comfortable - lying in bed for instance
+has 1G; more than anything you have measured with your iPhoney or iTouchy.
+But the jerk is very small in bed, as opposed to on the trike.
+ 
+Acceleration is a good measure of the instantaneous force on a vibrating
+component. (F=ma)  Acceleration might tell you the magnitude of stress and
+strain and allow you to estimate whether a part will break and help you to
+optimize it.  But it is only indirectly, and in certain circumstances, an
+analog for comfort.
+ 
+It is the jerk that makes you bit your tongue.  (In more ways than one.)
+ 
+Mike
+ 
+written with my iFingers
+On Thu, Jan 21, 2010 at 8:33 PM, Julian Edgar <g.edgar at bigpond.com> wrote:
+Hi Folks,
+
+If you have an iPhone or iTouch you can buy ($6) very good software that
+allows direct comparisons of ride comfort of different machines. The
+software is called 'Vibration'. It measures actual  accelerations
+vertically, and in pitch and roll. I take the measurements at my head.
+
+I have been comparing the ride comfort of my pneumatic / hydraulic suspended
+trike ("Chalky")  against a Brompton folding bike (16 inch wheels, sprung
+seat, small-travel rear suspension) and a Gazelle Medeo Plus (high quality
+commuting bike, 28 inch wheels, sprung seat post, sprung front forks).
+Chalky has 16 inch wheels.
+The tests were conducted at a fairly slow pace over a bumpy grass-and-dirt
+surface.
+http://i638.photobucket.com/albums/uu102/JulianEdgar/accelerationscompared.j
+<http://i638.photobucket.com/albums/uu102/JulianEdgar/accelerationscompared.
+j%0d%0apg> 
+pg graphs the RMS values for accelerations in X, Y and Z planes of the three
+machines over the test course.
+http://i638.photobucket.com/albums/uu102/JulianEdgar/RRGazChal.jpg - shows
+the actual traces for the measurements.
+I found the software very good, especially when attempting to gain best
+compromises between conflicting requirements - eg reducing body roll by the
+use of a stiffer anti-roll bar versus the resulting increase in the wheel
+rates in one-wheel bumps. Spring rates, suspension interconnection and
+damping rates were all also developed using the data.
+
+Regards,
+
+Julian Edgar
+
+
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+             (919) 513-0418 desk
+              (919) 585-5118 etc
+          michael_ross at ncsu.edu
+        michael.e.ross at gmail.com
+  =============================
+No virus found in this incoming message.
+Checked by AVG - www.avg.com
+Version: 9.0.730 / Virus Database: 271.1.1/2635 - Release Date: 01/22/10
+05:34:00
+
+From michael.e.ross at gmail.com  Fri Jan 22 07:18:31 2010
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Fri, 22 Jan 2010 10:18:31 -0500
+Subject: [trikes] measuring ride comfort
+In-Reply-To: <-7507711805927499897@unknownmsgid>
+References: <427791694035848895@unknownmsgid>
+	<67c62c9e1001211810m545cb940re8f93df299b72c83@mail.gmail.com> 
+	<-7507711805927499897@unknownmsgid>
+Message-ID: <67c62c9e1001220718g42eb8724v219a05dfd298ceec@mail.gmail.com>
+
+It isn't too confusing if you just say, "The rate at which acceleration
+changes is most important for comfort.  Here is a graph of that rate of
+change.  Some people call this jerk, it is a good word choice because when
+you feel a jerk that is acceleration changing quickly."  And also, everyone
+likes to learn a new way to use a word.
+
+If you were looking at WHEN the accelerations are greatest that is actually
+when the jerk is at its lowest. And the maxima of jerk are where the
+acceleration curve is steepest, this could very well be when acceleration is
+zero since that is the condition when the direction of acceleration is
+changing direction.
+
+In a way, because it is incorrect to discuss comfort as a direct function
+of acceleration it is even more confusing.  You may be correct that the
+systems that have the highest accelerations also have the highest jerk and
+the least comfort, but it is physically not guaranteed this is so.  I can
+imagine qualities of leverage and damping that make high jerk in low
+acceleration conditions.
+
+I picked this up working on the design of a roller coaster.  The transitions
+from one direction to another could be visually not notable, but the "fee"l
+of the transition would be all about the jerk, not the acceleration.
+
+Mike
+
+On Thu, Jan 21, 2010 at 9:45 PM, Julian Edgar <g.edgar at bigpond.com> wrote:
+
+>  Hi Mike,
+>
+>
+>
+> Differentiation data function is available in the software, but I didn?t
+> want to utterly confuse everyone.
+>
+>
+>
+> I have separately sent you a spreadsheet of the recorded Chalky data (you
+> can email it to yourself from the iPhone).
+>
+>
+>
+> Also note any DC offset is dialled out of the data. So the static 1g is not
+> there.
+>
+>
+>
+>
+>
+> Regards,
+>
+>
+>
+> Julian Edgar
+>
+>
+>
+>
+>
+> *From:* Michael Ross [mailto:michael.e.ross at gmail.com]
+> *Sent:* Friday, 22 January 2010 12:10 PM
+> *To:* editor at autospeed.com
+> *Cc:* trikes at bikelist.org
+> *Subject:* Re: [trikes] measuring ride comfort
+>
+>
+>
+> Differentiate the data to report the correct measurand for comfort, or its
+> lack - "jerk" is the term of art for the time rate of change of
+> acceleration.  Acceleration is not always an informative measurand for
+> comfort.  Acceleration can be quite comfortable - lying in bed for instance
+> has 1G; more than anything you have measured with your iPhoney or iTouchy.
+>  But the jerk is very small in bed, as opposed to on the trike.
+>
+>
+>
+> Acceleration is a good measure of the instantaneous force on a vibrating
+> component. (F=ma)  Acceleration might tell you the magnitude of stress and
+> strain and allow you to estimate whether a part will break and help you to
+> optimize it.  But it is only indirectly, and in certain circumstances, an
+> analog for comfort.
+>
+>
+>
+> It is the jerk that makes you bit your tongue.  (In more ways than one.)
+>
+>
+>
+> Mike
+>
+>
+>
+> written with my iFingers
+>
+> On Thu, Jan 21, 2010 at 8:33 PM, Julian Edgar <g.edgar at bigpond.com> wrote:
+>
+> Hi Folks,
+>
+> If you have an iPhone or iTouch you can buy ($6) very good software that
+> allows direct comparisons of ride comfort of different machines. The
+> software is called 'Vibration'. It measures actual  accelerations
+> vertically, and in pitch and roll. I take the measurements at my head.
+>
+> I have been comparing the ride comfort of my pneumatic / hydraulic
+> suspended
+> trike ("Chalky")  against a Brompton folding bike (16 inch wheels, sprung
+> seat, small-travel rear suspension) and a Gazelle Medeo Plus (high quality
+> commuting bike, 28 inch wheels, sprung seat post, sprung front forks).
+> Chalky has 16 inch wheels.
+> The tests were conducted at a fairly slow pace over a bumpy grass-and-dirt
+> surface.
+>
+> http://i638.photobucket.com/albums/uu102/JulianEdgar/accelerationscompared.j
+> pg<http://i638.photobucket.com/albums/uu102/JulianEdgar/accelerationscompared.j%0d%0apg>graphs the RMS values for accelerations in X, Y and Z planes of the three
+> machines over the test course.
+> http://i638.photobucket.com/albums/uu102/JulianEdgar/RRGazChal.jpg - shows
+> the actual traces for the measurements.
+> I found the software very good, especially when attempting to gain best
+> compromises between conflicting requirements - eg reducing body roll by the
+> use of a stiffer anti-roll bar versus the resulting increase in the wheel
+> rates in one-wheel bumps. Spring rates, suspension interconnection and
+> damping rates were all also developed using the data.
+>
+> Regards,
+>
+> Julian Edgar
+>
+>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+>
+>
+>
+> --
+>                    Michael E. Ross
+>      NC Solar Center Test Laboratory
+> =================================
+>              (919) 513-0418 desk
+>               (919) 585-5118 etc
+>           michael_ross at ncsu.edu
+>         michael.e.ross at gmail.com
+>   =============================
+>
+> No virus found in this incoming message.
+> Checked by AVG - www.avg.com
+> Version: 9.0.730 / Virus Database: 271.1.1/2635 - Release Date: 01/22/10
+> 05:34:00
+>
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+             (919) 513-0418 desk
+              (919) 585-5118 etc
+          michael_ross at ncsu.edu
+        michael.e.ross at gmail.com
+  =============================
+
+From blackotter at juno.com  Sat Jan 23 23:57:31 2010
+From: blackotter at juno.com (blackotter at juno.com)
+Date: Sun, 24 Jan 2010 07:57:31 +0000
+Subject: [trikes] bryan
+Message-ID: <20100123.235731.28957.0@webmail07.vgs.untd.com>
+
+i thought i'd seen it all until i dropped on to the bentrider site.  bryan with tin cup begging folks to buy him a new "ride".  bryan, there's always the employment line. buy one like the rest of us have to.  i want to think that at age 34 you still have a few good years of work in your body.*  
+
+and his reviewing the rans trizard he said finally he found a delta that could hang with a tadpole.  if he wouldn't keep trashing deltas that regularly hang with tadpoles and have been known to lead diamond frame pace lines on the stp he would have seen fast deltas in the past.
+
+jim werner
+
+* well ian i guess you know where your next dollar to charity should go
+
+____________________________________________________________
+Weight Loss Program
+Best Weight Loss Program - Click Here!
+http://thirdpartyoffers.juno.com/TGL2131/c?cp=iKqeXLvVAUGgh7q8m2BQEgAAJz1e1CPRsSPvKdzUAXwwCWngAAYAAAAAAAAAAAAAAAAAAADNAAAAAAAAAAAAAAAAAAAEUgAAAAA=
+
+From twsherman at southslope.net  Sun Jan 24 02:44:01 2010
+From: twsherman at southslope.net (Tom Sherman)
+Date: Sun, 24 Jan 2010 04:44:01 -0600
+Subject: [trikes] bryan
+In-Reply-To: <20100123.235731.28957.0@webmail07.vgs.untd.com>
+References: <20100123.235731.28957.0@webmail07.vgs.untd.com>
+Message-ID: <4B5C2471.3030805@southslope.net>
+
+blackotter at juno.com wrote:
+> i thought i'd seen it all until i dropped on to the bentrider site.  bryan with tin cup begging folks to buy him a new "ride".  bryan, there's always the employment line. buy one like the rest of us have to.  i want to think that at age 34 you still have a few good years of work in your body.* [...]
+Well, more than 10% of people that want to work are begging for jobs and 
+not getting them. And many of those that have jobs are looking at 
+possible layoffs in the near future.
+
+-- 
+Tom Sherman - 42.435731,-83.985007
+Blue Earth Cycles Dragonflyer?
+
+From g.edgar at bigpond.com  Thu Jan 28 13:51:57 2010
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Fri, 29 Jan 2010 07:51:57 +1000
+Subject: [trikes] short cage derailluer
+Message-ID: <002401caa064$1d36b9e0$57a42da0$@edgar@bigpond.com>
+
+As previously mentioned I have had problems with my derailleur dragging on
+the ground when passing over rocks and through holes. (16 inch wheels.) 
+ 
+Ian Sims of Greenspeed suggested fitting a short cage derailleur and a
+Schlumf front drive, the latter reducing the necessity to take up so much
+chain slack when running on the small front cog. 
+ 
+I fitted a short cage derailleur but kept the front triple chainrings - and
+found what perhaps lots of people already know... if you're careful in your
+gear selection, you can use a 9 speed rear cluster and a three front
+chainrings with a short derailleur. I just make sure that when I am on the
+largest front ring, I don't change down much on the rear cogs before
+dropping down a front ratio.  It's pretty easy to remember, especially when
+the front cogs are right in front of you. 
+ 
+All combinations of the smaller two front chain rings work with all
+combinations of the rear gears - it's only when on the large front ring that
+you need to take care. 
+ 
+The shorter cage also seems to keep high speed gears tracking better -
+perhaps the previous long cage derailleur was flexing sideways a bit with
+the length of slack chain in front of it swinging from side to side?
+ 
+I have improved the derailleur ground clearance by about 30mm.
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+
+From ian at greenspeed.com.au  Thu Jan 28 16:13:29 2010
+From: ian at greenspeed.com.au (Ian Sims)
+Date: Fri, 29 Jan 2010 11:13:29 +1100
+Subject: [trikes] short cage derailluer
+References: <002401caa064$1d36b9e0$57a42da0$@edgar@bigpond.com>
+Message-ID: <DEA4A0D1E14C4D159A1A98CEBD652DC7@E2200>
+
+Well Julian,
+                  You are doing a lot better than me! I can NEVER remember 
+NOT to use certain gear combinations. However I have found it possible
+to set the chain up to reach large to large, and then all that happens if
+I'm stupid enough to use small to small, is the chain drags on the ground.
+Rather than not having enough chain to go large to large and then
+wrecking the R/D, as I have done :-(
+
+The short cage R/D will give a crisper change simply because it is designed
+to be used with close ratio racing or road bike cassette, and the upper 
+pulley should be closer to the cassette, plus with a smaller run of chain
+between the two pulleys, I would expect better control of the chain.
+
+And like you say, the swinging chain will have less leverage over the upper
+R/D pivots..........
+
+Regards, Ian
+
+Ian Sims, Director
+Greenspeed Pty., Ltd.,
+69 Mountain Gate Drive,
+Ferntree Gully VIC 3156
+AUSTRALIA
+Phone +61 3 9758 5541 Fax +61 3 9752 4115
+Email ian at greenspeed.com.au
+Web www.greenspeed.com.au
+
+
+
+----- Original Message ----- 
+From: "Julian Edgar" <g.edgar at bigpond.com>
+To: <trikes at bikelist.org>
+Cc: "'Ian Sims'" <ian at greenspeed.com.au>
+Sent: Friday, January 29, 2010 8:51 AM
+Subject: short cage derailluer
+
+
+> As previously mentioned I have had problems with my derailleur dragging on
+> the ground when passing over rocks and through holes. (16 inch wheels.) 
+> 
+> Ian Sims of Greenspeed suggested fitting a short cage derailleur and a
+> Schlumf front drive, the latter reducing the necessity to take up so much
+> chain slack when running on the small front cog. 
+> 
+> I fitted a short cage derailleur but kept the front triple chainrings - and
+> found what perhaps lots of people already know... if you're careful in your
+> gear selection, you can use a 9 speed rear cluster and a three front
+> chainrings with a short derailleur. I just make sure that when I am on the
+> largest front ring, I don't change down much on the rear cogs before
+> dropping down a front ratio.  It's pretty easy to remember, especially when
+> the front cogs are right in front of you. 
+> 
+> All combinations of the smaller two front chain rings work with all
+> combinations of the rear gears - it's only when on the large front ring that
+> you need to take care. 
+> 
+> The shorter cage also seems to keep high speed gears tracking better -
+> perhaps the previous long cage derailleur was flexing sideways a bit with
+> the length of slack chain in front of it swinging from side to side?
+> 
+> I have improved the derailleur ground clearance by about 30mm.
+> 
+> Regards,
+> 
+> Julian Edgar
+> 
+> 
+>
+
+From rob at wrhpv.com  Thu Jan 28 23:23:59 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Fri, 29 Jan 2010 07:23:59 +0000
+Subject: [trikes] short cage derailluer
+In-Reply-To: <DEA4A0D1E14C4D159A1A98CEBD652DC7@E2200>
+References: <002401caa064$1d36b9e0$57a42da0$@edgar@bigpond.com>
+	<DEA4A0D1E14C4D159A1A98CEBD652DC7@E2200>
+Message-ID: <775B11FA-972F-4C12-8B84-18CFEAFE48D0@wrhpv.com>
+
+I just refreshed the old 9sp rear mech on my Greenspeed GTX with a Shimano 105 Super Short. That is a Mountain Drive/9sp 9-30 cassette setup - a couple of teeth beyond the spec of the mech but it works fine and shifting is crisp. Backpedalling in the workshop in the largest ring feels rough as the top jockey is too close but when riding with the chain under load there is no problem.
+
+Hope that helps...
+
+Rob
+-- 
+Westcountry Recumbents - Derbyshire, England
+Email: rob at wrhpv.com     Web: http://www.wrhpv.com
+Have you visited http://mullimages.com yet?
+
+
+
+
+
+On 29 Jan 2010, at 00:13, Ian Sims wrote:
+
+> Well Julian,
+>                 You are doing a lot better than me! I can NEVER remember NOT to use certain gear combinations. However I have found it possible
+> to set the chain up to reach large to large, and then all that happens if
+> I'm stupid enough to use small to small, is the chain drags on the ground.
+> Rather than not having enough chain to go large to large and then
+> wrecking the R/D, as I have done :-(
+> 
+> The short cage R/D will give a crisper change simply because it is designed
+> to be used with close ratio racing or road bike cassette, and the upper pulley should be closer to the cassette, plus with a smaller run of chain
+> between the two pulleys, I would expect better control of the chain.
+> 
+> And like you say, the swinging chain will have less leverage over the upper
+> R/D pivots..........
+> 
+> Regards, Ian
+> 
+> Ian Sims, Director
+> Greenspeed Pty., Ltd.,
+> 69 Mountain Gate Drive,
+> Ferntree Gully VIC 3156
+> AUSTRALIA
+> Phone +61 3 9758 5541 Fax +61 3 9752 4115
+> Email ian at greenspeed.com.au
+> Web www.greenspeed.com.au
+> 
+> 
+> 
+> ----- Original Message ----- From: "Julian Edgar" <g.edgar at bigpond.com>
+> To: <trikes at bikelist.org>
+> Cc: "'Ian Sims'" <ian at greenspeed.com.au>
+> Sent: Friday, January 29, 2010 8:51 AM
+> Subject: short cage derailluer
+> 
+> 
+>> As previously mentioned I have had problems with my derailleur dragging on
+>> the ground when passing over rocks and through holes. (16 inch wheels.) Ian Sims of Greenspeed suggested fitting a short cage derailleur and a
+>> Schlumf front drive, the latter reducing the necessity to take up so much
+>> chain slack when running on the small front cog. I fitted a short cage derailleur but kept the front triple chainrings - and
+>> found what perhaps lots of people already know... if you're careful in your
+>> gear selection, you can use a 9 speed rear cluster and a three front
+>> chainrings with a short derailleur. I just make sure that when I am on the
+>> largest front ring, I don't change down much on the rear cogs before
+>> dropping down a front ratio.  It's pretty easy to remember, especially when
+>> the front cogs are right in front of you. All combinations of the smaller two front chain rings work with all
+>> combinations of the rear gears - it's only when on the large front ring that
+>> you need to take care. The shorter cage also seems to keep high speed gears tracking better -
+>> perhaps the previous long cage derailleur was flexing sideways a bit with
+>> the length of slack chain in front of it swinging from side to side?
+>> I have improved the derailleur ground clearance by about 30mm.
+>> Regards,
+>> Julian Edgar
+>> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From rob at wrhpv.com  Fri Jan 29 06:52:18 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Fri, 29 Jan 2010 14:52:18 +0000
+Subject: [trikes] short cage derailleur
+In-Reply-To: <005e01caa0b4$986ce030$c946a090$@edgar@bigpond.com>
+References: <002401caa064$1d36b9e0$57a42da0$@edgar@bigpond.com>	<DEA4A0D1E14C4D159A1A98CEBD652DC7@E2200>
+	<775B11FA-972F-4C12-8B84-18CFEAFE48D0@wrhpv.com>
+	<005e01caa0b4$986ce030$c946a090$@edgar@bigpond.com>
+Message-ID: <ABD76D20-E685-45D2-B962-5FC826410FF6@wrhpv.com>
+
+Shimano 105 Rear Derailleur 9 Speed 5501 - SS Super Short Cage Silver
+<http://www.chainreactioncycles.com/Models.aspx?ModelID=2654>
+c-to-c distance on rear mech jockey wheels is 55mm... 
+They didn't have the longer GS version in stock when I bought.
+I bought this a couple of weeks ago on sale because it met my needs [1] but it may well be older stock.
+Rob
+
+[1] only marginally dearer than a single new jockey wheel for the original one.
+
+
+
+On 29 Jan 2010, at 07:28, Julian Edgar wrote:
+
+> Hi Rob,
+> 
+> What are the centre-to-centre dimensions of the idler wheels on that
+> derailleur, please?
+> 
+> 
+> Regards,
+> 
+> Julian Edgar
+> 
+> 
+> 
+> -----Original Message-----
+> From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+> Behalf Of Rob Hague
+> Sent: Friday, 29 January 2010 5:24 PM
+> To: trikes at bikelist.org
+> Subject: Re: [trikes] short cage derailluer
+> 
+> I just refreshed the old 9sp rear mech on my Greenspeed GTX with a Shimano
+> 105 Super Short. That is a Mountain Drive/9sp 9-30 cassette setup - a couple
+> of teeth beyond the spec of the mech but it works fine and shifting is
+> crisp. Backpedalling in the workshop in the largest ring feels rough as the
+> top jockey is too close but when riding with the chain under load there is
+> no problem.
+> 
+> Hope that helps...
+> 
+> Rob
+> -- 
+> Westcountry Recumbents - Derbyshire, England
+> Email: rob at wrhpv.com     Web: http://www.wrhpv.com
+> Have you visited http://mullimages.com yet?
+> 
+> 
+> 
+> 
+> 
+> On 29 Jan 2010, at 00:13, Ian Sims wrote:
+> 
+>> Well Julian,
+>>                You are doing a lot better than me! I can NEVER remember
+> NOT to use certain gear combinations. However I have found it possible
+>> to set the chain up to reach large to large, and then all that happens if
+>> I'm stupid enough to use small to small, is the chain drags on the ground.
+>> Rather than not having enough chain to go large to large and then
+>> wrecking the R/D, as I have done :-(
+>> 
+>> The short cage R/D will give a crisper change simply because it is
+> designed
+>> to be used with close ratio racing or road bike cassette, and the upper
+> pulley should be closer to the cassette, plus with a smaller run of chain
+>> between the two pulleys, I would expect better control of the chain.
+>> 
+>> And like you say, the swinging chain will have less leverage over the
+> upper
+>> R/D pivots..........
+>> 
+>> Regards, Ian
+>> 
+>> Ian Sims, Director
+>> Greenspeed Pty., Ltd.,
+>> 69 Mountain Gate Drive,
+>> Ferntree Gully VIC 3156
+>> AUSTRALIA
+>> Phone +61 3 9758 5541 Fax +61 3 9752 4115
+>> Email ian at greenspeed.com.au
+>> Web www.greenspeed.com.au
+>> 
+>> 
+>> 
+>> ----- Original Message ----- From: "Julian Edgar" <g.edgar at bigpond.com>
+>> To: <trikes at bikelist.org>
+>> Cc: "'Ian Sims'" <ian at greenspeed.com.au>
+>> Sent: Friday, January 29, 2010 8:51 AM
+>> Subject: short cage derailluer
+>> 
+>> 
+>>> As previously mentioned I have had problems with my derailleur dragging
+> on
+>>> the ground when passing over rocks and through holes. (16 inch wheels.)
+> Ian Sims of Greenspeed suggested fitting a short cage derailleur and a
+>>> Schlumf front drive, the latter reducing the necessity to take up so much
+>>> chain slack when running on the small front cog. I fitted a short cage
+> derailleur but kept the front triple chainrings - and
+>>> found what perhaps lots of people already know... if you're careful in
+> your
+>>> gear selection, you can use a 9 speed rear cluster and a three front
+>>> chainrings with a short derailleur. I just make sure that when I am on
+> the
+>>> largest front ring, I don't change down much on the rear cogs before
+>>> dropping down a front ratio.  It's pretty easy to remember, especially
+> when
+>>> the front cogs are right in front of you. All combinations of the smaller
+> two front chain rings work with all
+>>> combinations of the rear gears - it's only when on the large front ring
+> that
+>>> you need to take care. The shorter cage also seems to keep high speed
+> gears tracking better -
+>>> perhaps the previous long cage derailleur was flexing sideways a bit with
+>>> the length of slack chain in front of it swinging from side to side?
+>>> I have improved the derailleur ground clearance by about 30mm.
+>>> Regards,
+>>> Julian Edgar
+>>> 
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+> No virus found in this incoming message.
+> Checked by AVG - www.avg.com 
+> Version: 9.0.733 / Virus Database: 271.1.1/2650 - Release Date: 01/29/10
+> 05:36:00
+> 
+
+
+From SerxnerLa at aol.com  Fri Jan 29 12:11:47 2010
+From: SerxnerLa at aol.com (SerxnerLa at aol.com)
+Date: Fri, 29 Jan 2010 15:11:47 -0500
+Subject: [trikes] I agree with Ian
+Message-ID: <10bb5.27cbe0d2.38949b03@aol.com>
+
+Whatever solution works for you is fine, but, like Mr Simms, I find I can  
+avoid dragging by avoiding large front and large rear cogs simultaneously.  
+ 
+Enjoy!  Keith  GTT and GTO
+

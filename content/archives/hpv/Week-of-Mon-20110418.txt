@@ -1,0 +1,470 @@
+From pngracey at mac.com  Mon Apr 18 17:49:37 2011
+From: pngracey at mac.com (Paul Gracey)
+Date: Mon, 18 Apr 2011 14:49:37 -0700
+Subject: [hpv] hpv Digest, Vol 79, Issue 3
+In-Reply-To: <mailman.1.1303056006.11428.hpv@hupi.org>
+References: <mailman.1.1303056006.11428.hpv@hupi.org>
+Message-ID: <FC4CE5D9-DD02-495F-91A5-BE9EA55D051E@mac.com>
+
+
+ From the video they seem to have added a small wheel of the same size  
+rotating in the opposite direction atop each of the ground connected  
+wheels to try and cancel out local gyro forces. I don't think they  
+succeeded as much as they might have wished, as the rim velocity would  
+be the same as a large wheel. Only the mass would be much reduced.  
+They state that they used in effect a reversed caster on the front but  
+they would still have perhaps enough residual gyro forces once things  
+got moving to hold the line of travel within the narrow self  
+correcting range of the entire system including the inertia of their  
+handlebars.
+
+On a somewhat related thought experiment I wrote to an Automotive  
+writer for the LA Times after she, a very skilled high speed  
+motorcyclist, had written of her inability to keep upright when she  
+tried the X-prize winning X-tracer electric Cabin Motorcycle based on  
+the Swiss BMW powered  Monotracer.  That machine has a recumbent  
+riding position, and starts out steering like a car before retracting  
+its 'landing gear' near 18mph  and suddenly behaving like a bike. A  
+rather steep learning curve. . One of the engineers who did the  
+electric conversion told me I might be one of the few he knew who  
+might be able to just get on and ride, but I rather doubt that. In  
+addition to its much greater mass than the 'crotch rockets' she was  
+used to, it had an empty seat  and the mass of the motor and battery  
+pack behind her to try and instantly cope with. I told her about the  
+sort of balancing methods we recumbent riders use, and she thanked me  
+for my input, but was not at all anxious to try it again.
+
+  I believe this exercise in understanding two wheeled stability may  
+have been in search of the self balancing algorythm we will need to  
+get two wheeled vehicles to the state of 'ease of use' that the  
+general public will need in the future. Such vehicles will add  
+immensely to the efficiency of our road systems' carrying capacity.  
+The engineer I mentioned has said that the miles per kwh of the X- 
+tracer is well more than double that of the Nissan Leaf. The EPA  
+computation of eMpg that is used on the window stickers for the Volt  
+and the Leaf is based on calculations for four wheeled vehicles that  
+most often contain just one person.  What the X-tracer needs more than  
+anything else to be anything more than a rich persons plaything(It  
+will cruise at top autobahn speeds with ease and air-conditioned  
+comfort, but with costs commensurate) is an automated balancing system  
+and an easier ingress. Fully  faired HPV's could become more common  
+place with those improvements as well[mandatory HPV content].
+
+
+,Moz wrote:
+
+> I didn't realise they had added a gyro as well - I thought the idea  
+> was to
+> once again show that gyro effects are negligible. But yeah, trying  
+> it with
+> a gyro makes sense, in the hope that the "not convinced by all this
+> science stuff" crowd will see it actually make no difference to a real
+> bike and change their minds. I think someone should write a Snopes  
+> article
+> on this.
+>
+> Moz
+
+Paul Gracey
+pngracey at mac.com
+
+
+
+
+From eldberg2 at gmail.com  Tue Apr 19 13:50:29 2011
+From: eldberg2 at gmail.com (Sara & Warren Eldberg)
+Date: Tue, 19 Apr 2011 13:50:29 -0400
+Subject: [hpv] hpv Digest, Vol 79, Issue 5
+In-Reply-To: <mailman.1.1303228806.9356.hpv@hupi.org>
+References: <mailman.1.1303228806.9356.hpv@hupi.org>
+Message-ID: <BANLkTinBD-rVriGjjAwFxRrQofYfUE0z5A@mail.gmail.com>
+
+Paul,
+
+"The engineer I mentioned has said that the miles per kwh of the X-
+tracer is well more than double that of the Nissan Leaf."
+
+I have lusted after an Ecomobile (the predecessor of the
+Monotracer/E-Tracer) for decades.  Saw one up close at the TTXGP races
+at VIR last summer.  The national rep lives in Richmond.
+
+http://www.21stcenturymotoring.com/
+
+The one that went around the world averaged 113 Wh/mi for 18,600
+miles.  That is way better than the Leaf.
+
+http://www.zero-race.com/
+
+I will never be able to afford an E-Tracer, but this bike is
+definitely on my radar!
+
+http://www.schultzengineering.us/
+
+I hope to see it at the Vetter Economy Challenge in July.
+
+http://www.craigvetter.com/
+
+Supposedly, Randy Schlitter is building an electric streamliner for
+this event too.  Should be a must see event.
+
+http://rowvelo.com/
+
+Warren "big wheels are better" Berger
+
+From jgtetz at msn.com  Tue Apr 19 21:48:15 2011
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Tue, 19 Apr 2011 21:48:15 -0400
+Subject: [hpv] hpv Digest, Vol 79, Issue 3
+In-Reply-To: <mailman.1.1303056006.11428.hpv@hupi.org>
+	<FC4CE5D9-DD02-495F-91A5-BE9EA55D051E@mac.com>
+References: <mailman.1.1303056006.11428.hpv@hupi.org>
+	<FC4CE5D9-DD02-495F-91A5-BE9EA55D051E@mac.com>
+Message-ID: <COL102-DS238808EFCF21F4F0F25CFDD7930@phx.gbl>
+
+Paul Gracy wrote;
+
+>  I believe this exercise in understanding two wheeled stability may  
+have been in search of the self balancing algorythm we will need to  
+get two wheeled vehicles to the state of 'ease of use' that the  
+general public will need in the future. Such vehicles will add  
+immensely to the efficiency of our road systems' carrying capacity. 
+
+........I have been riding my 6 year old trike based Velomobile during the  winter on a almost daily bases and recently got back on a low front wheel drive bike when the weather got warmer. The seat is 7 inches off the ground (so is the trike seat). This 15 year old bike has been one of my favorites because of its aerodynamics but also of its quick but precise handling. It feels like its an extension of my body. 
+
+But after riding a trike for 6 months getting back on this bike I couldn't keep a straight line - I kept wiggling. It took more than an hour before I began to get that comfortable feeling again and could hold a straight line. 
+I have realized that it took energy to balance a bike but hadn't realized how much until this recent trike to bike experience.  
+
+When I first built my trike I began to noticed how relaxing it was to run errands around town and not having to get the feet down at intersections. There was no tension when stopping or when starting at low speeds. No balance requirement. I could spend more of my efforts on sizing up the traffic situations at the intersections. 
+I could also relax in mall parking lots and if a car was backing out of a parking place simply jam on the brakes.  
+
+And during the winter there was always that fear of going down from black ice at night when on a bike/streamliner  (which happened a few times) which is gone on a trike. 
+
+If you want to hot rod around a bike is much more fun than a trike. But for alternate transportation the trike layout shines. 
+
+John Tetz 
+
+
+From johnriley1 at rogers.com  Tue Apr 19 21:56:04 2011
+From: johnriley1 at rogers.com (John Riley)
+Date: Tue, 19 Apr 2011 18:56:04 -0700
+Subject: [hpv] hpv Digest, Vol 79, Issue 3
+In-Reply-To: <COL102-DS238808EFCF21F4F0F25CFDD7930@phx.gbl>
+References: <mailman.1.1303056006.11428.hpv@hupi.org>
+	<FC4CE5D9-DD02-495F-91A5-BE9EA55D051E@mac.com>
+	<COL102-DS238808EFCF21F4F0F25CFDD7930@phx.gbl>
+Message-ID: <3ECF23F3-4417-4C83-BC66-86EDB8FE6C2A@rogers.com>
+
+
+On Apr 19, 2011, at 6:48 PM, JOHN TETZ wrote:
+>
+> But after riding a trike for 6 months getting back on this bike I  
+> couldn't keep a straight line - I kept wiggling.
+
+And I can ride a straight line on a bike, but I pedal steer like crazy  
+on a trike. ;-)   Guess it is all in what you are used to. 
+
+From theosch06 at yahoo.de  Wed Apr 20 04:26:33 2011
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Wed, 20 Apr 2011 10:26:33 +0200
+Subject: [hpv] Trike vs. bike [was: Re:  hpv Digest, Vol 79, Issue 3]
+In-Reply-To: <COL102-DS238808EFCF21F4F0F25CFDD7930@phx.gbl>
+References: <mailman.1.1303056006.11428.hpv@hupi.org>	<FC4CE5D9-DD02-495F-91A5-BE9EA55D051E@mac.com>
+	<COL102-DS238808EFCF21F4F0F25CFDD7930@phx.gbl>
+Message-ID: <4DAE98B9.7080208@yahoo.de>
+
+JOHN TETZ schrieb:
+...
+> When I first built my trike I began to noticed how relaxing it was to run
+> errands around town and not having to get the feet down at intersections.
+> There was no tension when stopping or when starting at low speeds. No balance
+> requirement. 
+
+Yes, this is where trikes really shine.
+
+...
+> If you want to hot rod around a bike is much more fun than a trike. But for
+> alternate transportation the trike layout shines.
+
+I rarely use any of my trikes in town for a simple reason: with a bike you can 
+*always* get through traffic in time, as you can (almost) always overtake 
+stopped traffic on the outside, or quickly dismount and push the bike past an 
+obstruction on the sidewalk. A trike has a fixed minimum width and often there 
+is less space than this. Also pushing on the sidewalk is more awkward.
+
+Therefore I can guarantee timely arrival to the minute on a bike, but for a 
+trike (or bike with trailer) I must allow some extra time in case of stopped 
+traffic.
+
+Cheers, Theo Schmidt
+
+From zakaplan at sonic.net  Wed Apr 20 14:11:03 2011
+From: zakaplan at sonic.net (Zach Kaplan)
+Date: Wed, 20 Apr 2011 11:11:03 -0700
+Subject: [hpv] Trike vs. bike
+In-Reply-To: <mailman.1.1303315206.19785.hpv@hupi.org>
+References: <mailman.1.1303315206.19785.hpv@hupi.org>
+Message-ID: <213E396D-B3BA-46BA-BF39-49853DC95015@sonic.net>
+
+Theo Schmidt <theosch06 at yahoo.de> wrote:
+
+> I rarely use any of my trikes in town for a simple reason: with a bike you can 
+> *always* get through traffic in time, as you can (almost) always overtake 
+> stopped traffic on the outside, or quickly dismount and push the bike past an 
+> obstruction on the sidewalk. A trike has a fixed minimum width and often there 
+> is less space than this. Also pushing on the sidewalk is more awkward.
+> 
+> Therefore I can guarantee timely arrival to the minute on a bike, but for a 
+> trike (or bike with trailer) I must allow some extra time in case of stopped 
+> traffic.
+> 
+> Cheers, Theo Schmidt
+
+Same with me and for the same reasons. I used to commute bike trike but now that I live in Berkeley and have to commute through heavy traffic in Berkeley and Oakland, I commute by bike. Still recumbent though, HP Velotechnik Grasshopper FX to be exact. It is great to be able to _slowly and cautiously_ thread my way through long queues of stationary vehicles not having to sit behind them breathing in fumes at exhaust pipe level.
+
+-------------------------------------------------------------
+Zach Kaplan Cycles
+510-522-BENT (2368)
+zach at zachkaplancycles.com
+http://zachkaplancycles.com
+
+
+From tim.taylor at usu.edu  Wed Apr 20 15:27:23 2011
+From: tim.taylor at usu.edu (Timothy Taylor)
+Date: Wed, 20 Apr 2011 19:27:23 +0000
+Subject: [hpv] Trike vs. bike
+In-Reply-To: <213E396D-B3BA-46BA-BF39-49853DC95015@sonic.net>
+References: <mailman.1.1303315206.19785.hpv@hupi.org>
+	<213E396D-B3BA-46BA-BF39-49853DC95015@sonic.net>
+Message-ID: <8D53781B2BBDBA46A5BF0F8B98691C802899D788@mb01.aggies.usu.edu>
+
+I keep both in my stable for those reasons.  If it is raining, snowing, or icy I use the LEITRA, if the weather is going to be nice I use a two wheeler.  For those that don't live in extreme climates only a bike might work, for those of use with -20 C mornings in the winter a velo is the only way to travel.
+
+Tim
+
+-----Original Message-----
+From: hpv-bounces at hupi.org [mailto:hpv-bounces at hupi.org] On Behalf Of Zach Kaplan
+Sent: Wednesday, April 20, 2011 12:11 PM
+To: hpv at hupi.org
+Subject: Re: [hpv] Trike vs. bike
+
+Theo Schmidt <theosch06 at yahoo.de> wrote:
+
+> I rarely use any of my trikes in town for a simple reason: with a bike you can 
+> *always* get through traffic in time, as you can (almost) always overtake 
+> stopped traffic on the outside, or quickly dismount and push the bike past an 
+> obstruction on the sidewalk. A trike has a fixed minimum width and often there 
+> is less space than this. Also pushing on the sidewalk is more awkward.
+> 
+> Therefore I can guarantee timely arrival to the minute on a bike, but for a 
+> trike (or bike with trailer) I must allow some extra time in case of stopped 
+> traffic.
+> 
+> Cheers, Theo Schmidt
+
+Same with me and for the same reasons. I used to commute bike trike but now that I live in Berkeley and have to commute through heavy traffic in Berkeley and Oakland, I commute by bike. Still recumbent though, HP Velotechnik Grasshopper FX to be exact. It is great to be able to _slowly and cautiously_ thread my way through long queues of stationary vehicles not having to sit behind them breathing in fumes at exhaust pipe level.
+
+-------------------------------------------------------------
+Zach Kaplan Cycles
+510-522-BENT (2368)
+zach at zachkaplancycles.com
+http://zachkaplancycles.com
+
+--
+This message comes to you via the hpv at hupi.org mailing list.
+Visit http://bikelist.org/mailman/listinfo/hpv to manage your subscription.
+
+From lioninoil at yahoo.com  Wed Apr 20 16:11:59 2011
+From: lioninoil at yahoo.com (Cornel.Ormsby)
+Date: Wed, 20 Apr 2011 13:11:59 -0700 (PDT)
+Subject: [hpv] trike-riding
+In-Reply-To: <mailman.1.1303315206.19785.hpv@hupi.org>
+Message-ID: <810302.11432.qm@web113316.mail.gq1.yahoo.com>
+
+John Riley wrote:
+ 
+> JOHN TETZ wrote:
+>>
+>> But after riding a trike for 6 months getting back on
+>> this bike I couldn't keep a straight line - I kept wiggling.
+> 
+> And I can ride a straight line on a bike, but I pedal steer
+> like crazy on a trike. ;-)???Guess it is all in what
+> you are used to. 
+ 
+After nearly 60 years of practise, I can hold my line very well on a bike, but during my one ride on an upright trike, I hit a parked car because I couldn't steer away from it.
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+From jgtetz at msn.com  Thu Apr 21 01:14:07 2011
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Thu, 21 Apr 2011 01:14:07 -0400
+Subject: [hpv] Trike vs. bike
+In-Reply-To: <mailman.1.1303315206.19785.hpv@hupi.org><213E396D-B3BA-46BA-BF39-49853DC95015@sonic.net>
+	<8D53781B2BBDBA46A5BF0F8B98691C802899D788@mb01.aggies.usu.edu>
+References: <mailman.1.1303315206.19785.hpv@hupi.org><213E396D-B3BA-46BA-BF39-49853DC95015@sonic.net>
+	<8D53781B2BBDBA46A5BF0F8B98691C802899D788@mb01.aggies.usu.edu>
+Message-ID: <COL102-DS10CDAFA1FA53634C7D0C4CD7920@phx.gbl>
+
+Thanks to Zach, and Theo for your views on using tikes vs bikes. Good information. 
+
+I have wondered how trikes work out in urban areas where traffic is really dense. 
+
+In the average suburban towns in my area we have enough room for a trike. 
+So I seldom ride a bike anymore. The car drivers treat my VM as a vehicle and often give me room. I can take a lane for a short while. 
+
+I think part of this change in publics behavior comes from them seeing me running errands over the last 6 years in the VM and realizing that this is good for the  environment. They tell me that when they talk to me. 
+People are slowly learning. 
+
+I have the feeling that eventually there could be a market for VMs, not the racy looking type we have now but lighter more practical types set up for average folks. 
+
+John Tetz 
+
+
+
+From lioninoil at yahoo.com  Fri Apr 22 03:36:09 2011
+From: lioninoil at yahoo.com (Cornel.Ormsby)
+Date: Fri, 22 Apr 2011 00:36:09 -0700 (PDT)
+Subject: [hpv] Trike vs. bike
+In-Reply-To: <mailman.3.1303401604.16282.hpv@hupi.org>
+Message-ID: <239101.51410.qm@web113305.mail.gq1.yahoo.com>
+
+John Tetz wrote:
+ 
+> I have wondered how trikes work out in urban areas where
+> traffic is really dense.
+ 
+Lray would have a good response to this, because of his trike experience in Southern California. Here in Las Vegas, I see three trike-riders regularly who seem to fare just fine, one of whom often takes a lane down a busy, shoulderless 45mph avenue I have never dared on a bike.
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+From pngracey at mac.com  Fri Apr 22 12:53:15 2011
+From: pngracey at mac.com (Paul Gracey)
+Date: Fri, 22 Apr 2011 09:53:15 -0700
+Subject: [hpv] trike v bike and other stuff
+In-Reply-To: <mailman.3.1303488007.20080.hpv@hupi.org>
+References: <mailman.3.1303488007.20080.hpv@hupi.org>
+Message-ID: <752F3DD7-7CED-4B4C-B241-437747FF66F5@mac.com>
+
+
+Cornel Ormsby wrote:
+
+> John Tetz wrote:
+>
+>> I have wondered how trikes work out in urban areas where
+>> traffic is really dense.
+>
+> Lray would have a good response to this, because of his trike  
+> experience in Southern California. Here in Las Vegas, I see three  
+> trike-riders regularly who seem to fare just fine, one of whom often  
+> takes a lane down a busy, shoulderless 45mph avenue I have never  
+> dared on a bike.
+
+
+
+Lray is now in Colorado. I think the size and rarity of the trikes  
+gives them a "what the heck is that?" advantage. When they are fully  
+faired the effect is even greater. My modified F-40 has the same  
+effect, even amongst the the thousands of regular cyclists that  
+partook of Los Angeles CycLAvia two weeks ago. That was the event   
+which closed off 7.5 miles( 12km) of downtown city streets on a Sunday  
+so that anyone on any form of no- motorized vehicle could 'take the  
+road' for five hours or so. This was the second such event here, model  
+on the weekly event held in Bogota, Columbia. It is becoming popular  
+and the mayor wants to do it monthly eventually. Las Vegas should  
+consider it too. Happy Earth Day Everyone!
+
+Paul Gracey
+pngracey at mac.com
+
+
+
+
+From johnriley1 at rogers.com  Fri Apr 22 13:05:37 2011
+From: johnriley1 at rogers.com (John Riley)
+Date: Fri, 22 Apr 2011 10:05:37 -0700
+Subject: [hpv] trike v bike and other stuff
+In-Reply-To: <752F3DD7-7CED-4B4C-B241-437747FF66F5@mac.com>
+References: <mailman.3.1303488007.20080.hpv@hupi.org>
+	<752F3DD7-7CED-4B4C-B241-437747FF66F5@mac.com>
+Message-ID: <110EE6F7-13ED-45F7-A0FA-6945906F795B@rogers.com>
+
+
+On Apr 22, 2011, at 9:53 AM, Paul Gracey wrote:
+
+>
+> Cornel Ormsby wrote:
+>
+>> John Tetz wrote:
+>>
+>>> I have wondered how trikes work out in urban areas where
+>>> traffic is really dense.
+>>
+>> Lray would have a good response to this, because of his trike  
+>> experience in Southern California. Here in Las Vegas, I see three  
+>> trike-riders regularly who seem to fare just fine, one of whom  
+>> often takes a lane down a busy, shoulderless 45mph avenue I have  
+>> never dared on a bike.
+
+I test rode a trike at 'Bent Up in his mostly quiet N. Hollywood  
+neighborhood.  I couldn't even enter the road from his back alley  
+without feeling completely blind trying to see around parked cars.   I  
+know any lowish recumbent is going to have this issue to some extent,  
+but it just felt like much more of an issue than on my bike with maybe  
+a 23" high seat.
+
+That said, I think a trike would work on most of the loops I ride in  
+San Francisco. They are mostly parks and roads with bike lanes. 
+
+From jw.stephens at gmail.com  Fri Apr 22 19:57:48 2011
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Fri, 22 Apr 2011 17:57:48 -0600
+Subject: [hpv]
+	=?utf-8?q?Cyclovi=C3=A1_=28was_trike_v_bike_and_other_stuff?=
+	=?utf-8?q?=29?=
+Message-ID: <BANLkTi=3wJTaDQ0B8E15jTur_1JUiQxuZg@mail.gmail.com>
+
+Jobs, jobs, jobs! Cyclovia provides jobs for youngsters who have to
+stop northbound traffic on southbound lanes on divided roads (where
+the signals are on the opposite side of the median).
+
+http://www.twodaysproject.com/portfolio/pare-3939.jpg << Cyclovia en Bogot?.
+
+-- 
+Cyclists expect safe accommodation on public roads.
+Nothing more is expected. ?Nothing less is acceptable.
+
+From kathy at fred.net  Sun Apr 24 18:48:45 2011
+From: kathy at fred.net (Kathy Bilton)
+Date: Sun, 24 Apr 2011 18:48:45 -0400 (EDT)
+Subject: [hpv] ideas re: renting/borrowing/buying recumbent in Vienna, AT
+In-Reply-To: <mailman.1.1303574406.3667.hpv@hupi.org>
+References: <mailman.1.1303574406.3667.hpv@hupi.org>
+Message-ID: <alpine.BSF.2.01.1104241846590.58262@shell.xecu.net>
+
+Hi -
+
+Seeking some ideas regarding getting a hold of a bike, preferably a 
+recumbent for 3 weeks while I plan to be in Austria, arriving there May 2.
+
+I was thinking it might make sense to buy something and then either sell 
+it at the end of the trip or ship it back to the US, as I think renting 
+might be rather pricey.
+
+Anyway, just thought I'd throw this mail out there and see if anyone had 
+any suggestions.
+
+Wish I'd done a better job of planning - as I see what looks to be an 
+interesting event happening in southern Germany next weekend. I think I 
+might have arranged to try to go there first - but I got my ticket to 
+Vienna before I was even aware of it.  (http://www.spezialradmesse.de/)
+
+Thanks.
+
+--Kathy Bilton
+kathy at fred.net
+
+

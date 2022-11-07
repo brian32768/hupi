@@ -1,0 +1,2 @@
+Velocipedio is a program by Edgar Teufel. It simulates vehicles with riders on 3-dimensional
+tracks. It runs on Windows or on Linux with Wine. Download the 14 MB Zip-Archive at https://hupi.org/Velocipedio/SetupVelocipedio.zip.

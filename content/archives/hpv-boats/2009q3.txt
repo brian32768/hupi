@@ -1,0 +1,362 @@
+From patek at peak.org  Wed Jul  1 08:42:52 2009
+From: patek at peak.org (Ken Pate)
+Date: Wed, 1 Jul 2009 08:42:52 -0700
+Subject: [hpv-boats] Propellers
+Message-ID: <5D41736728854BBE972648618674CCFB@KensDell>
+
+Greetings All,
+
+ 
+
+It's time for me to do a little research on propellers and such.  I was
+looking at Rich W's. boat here:
+http://www.rickwill.bigpondhosting.com/V11J_Dec_2008.jpg   and I noticed a
+wide and steeply pitched prop.  I'm sure that this is a very efficient
+setup, so are there plans/drawings for this prop?  How wide is it, and at
+what pitch?  Are there props for sale?  If I have to make my own, what
+materials would I use, wood, fiberglass, or...?
+
+ 
+
+On a related thread what rpms do these generally run at, and what cadence is
+typical for the pedaling?  
+
+ 
+
+Thanks a lot,
+
+Ken
+
+ 
+
+There are three kinds of people in this world,
+
+Those who can count, and those who can't.
+
+ 
+
+
+From rickwill at bigpond.net.au  Sun Jul  5 01:08:56 2009
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 5 Jul 2009 18:08:56 +1000
+Subject: [hpv-boats] Propellers
+Message-ID: <89DFF61F-8C2E-4141-9D4A-49FAADCEF1B8@bigpond.net.au>
+
+Ken
+I have been travelling.  I did email directly but not sure if you got  
+it.
+
+The best prop is designed to suit the application.  You need to know  
+what power you can produce and what speed you will achieve with that  
+power. If you have a hull in mind then the speed v power can be  
+worked out.  The best way to determine your power output is to do a  
+test on a recumbent machine at a gym.
+
+Typical value of cadence is 70rpm and prop speed is 300rpm.  The  
+300rpm works well for a suitable prop.
+
+JavaProp is quite good for designing a prop.  You need to set the  
+Options to suit water and select a suitable foil.  You need to select  
+a foil.  The E193 at Re# 100,000 and 1 degree AoA is OK.   The design  
+process is iterative.  You need to achieve adequate strength while  
+aiming for the highest efficiency.
+
+If you can weld then the easiest way to make a nice prop is to use  
+stainless steel flat bar.  I have a procedure for this.
+
+The Bolly boat prop is OK for an easily driven hull.  Will not be as  
+good as you can make to suit but still good for most applications.
+
+Rick
+
+
+Greetings All,
+
+It's time for me to do a little research on propellers and such.  I was
+looking at Rich W's. boat here:
+http://www.rickwill.bigpondhosting.com/V11J_Dec_2008.jpg   and I  
+noticed a
+wide and steeply pitched prop.  I'm sure that this is a very efficient
+setup, so are there plans/drawings for this prop?  How wide is it,  
+and at
+what pitch?  Are there props for sale?  If I have to make my own, what
+materials would I use, wood, fiberglass, or...?
+
+On a related thread what rpms do these generally run at, and what  
+cadence is
+typical for the pedaling?
+
+Thanks a lot,
+
+Ken
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+
+From FreeEntTec at aol.com  Thu Jul 23 21:22:39 2009
+From: FreeEntTec at aol.com (FreeEntTec at aol.com)
+Date: Fri, 24 Jul 2009 00:22:39 -0400
+Subject: [hpv-boats] Elkhart Event
+Message-ID: <d38.51e4eeb4.379a910f@aol.com>
+
+
+
+ 
+Hey, Boaters
+ 
+ 
+There will be a fun ride on Sunday Meet in front of Bulldog Saloon Elkhart  
+In. Be there by 9:00 AM 26 July. If you want to do times let me know ASAP.  
+Choices include 100 meter trap, and a 3-4 mile (depending on speed of  
+current) trial, or a possible run up wilder waters towards Bristol, or  others.
+ 
+Hope you're having a happy healthy Summer,
+ 
+ 
+jake
+
+**************Dell Deals: Treat yourself to a sweet deal on popular 
+laptops! 
+(http://pr.atwola.com/promoclk/100126575x1223100673x1201716527/aol?redir=http:%2F%2Faltfarm.mediaplex.com%2Fad%2Fck%2F12309%2D81939%2D1629%2D7)
+
+From twoowlz at yahoo.com  Fri Jul 24 09:24:18 2009
+From: twoowlz at yahoo.com (Peter Hentz)
+Date: Fri, 24 Jul 2009 09:24:18 -0700
+Subject: [hpv-boats] Elkhart Event
+In-Reply-To: <d38.51e4eeb4.379a910f@aol.com>
+References: <d38.51e4eeb4.379a910f@aol.com>
+Message-ID: <884719.63379.qm@web110204.mail.gq1.yahoo.com>
+
+Hey, 
+
+??? Sorry I can't make it this year as I am working day shift now Sunday-Wednesday.
+
+??? ??? Have fun!
+
+??? ??? ??? Peter Hentz
+
+??? ??? ??? ??? Hobie Mirage Oasis
+
+?
+
+
+
+________________________________
+From: "FreeEntTec at aol.com" <FreeEntTec at aol.com>
+To: grow.daniel at gmail.com; hpv-boats at bikelist.org
+Sent: Friday, July 24, 2009 12:22:39 AM
+Subject: [hpv-boats] Elkhart Event
+
+
+
+
+Hey, Boaters
+
+
+There will be a fun ride on Sunday Meet in front of Bulldog Saloon Elkhart? 
+In. Be there by 9:00 AM 26 July. If you want to do times let me know ASAP.? 
+Choices include 100 meter trap, and a 3-4 mile (depending on speed of? 
+current) trial, or a possible run up wilder waters towards Bristol, or? others.
+
+Hope you're having a happy healthy Summer,
+
+
+jake
+
+**************Dell Deals: Treat yourself to a sweet deal on popular 
+laptops! 
+(http://pr.atwola.com/promoclk/100126575x1223100673x1201716527/aol?redir=http:%2F%2Faltfarm.mediaplex.com%2Fad%2Fck%2F12309%2D81939%2D1629%2D7)
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+
+
+      
+
+From rickwill at bigpond.net.au  Sun Aug 23 14:48:01 2009
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 24 Aug 2009 07:48:01 +1000
+Subject: [hpv-boats] Folding Prop
+Message-ID: <B33D321F-AD5D-436C-B9DB-EB79AD24665C@bigpond.net.au>
+
+I finally got around to making a folding prop that was suggested  
+earlier in the year.  I tested it on Saturday.  Seems to perform as  
+well as my best rigid prop.  It is nice to be able to stop pedalling  
+and coast.  If I sense weed on the prop then coasting allows the weed  
+to flow off the blades.
+
+A small amount of weed collected on the strut but this can be easily  
+reached to remove.  Most weed is channelled down the shaft to the  
+prop.  Being able to clear it by coasting is far more effective then  
+untangling it by hand while stopped.
+
+I have placed a photos showing the folded and unfolded positions.  If  
+only one blade folds it will go almost in line with the shaft.  When  
+both fold they stop against each other in the position in the photo.
+ttp://www.rickwill.bigpondhosting.com/Folding_Prop.jpg
+
+Rick Willoughby
+
+
+From flareking at talktalk.net  Mon Sep  7 13:14:25 2009
+From: flareking at talktalk.net (dennis)
+Date: Mon, 7 Sep 2009 21:14:25 +0100
+Subject: [hpv-boats] Folding Prop
+References: <B33D321F-AD5D-436C-B9DB-EB79AD24665C@bigpond.net.au>
+Message-ID: <09505943F1A540B68DDBA0C5A14E0029@den>
+
+Hi Rick
+
+Great prop.
+
+I thought that you did not use a strut but let the shaft flex and find its 
+own position.
+
+On the hinge pins are these riveted in or do you use a form of socket cap 
+screw.
+
+Do you think the slots for the blade to fold  generate any drag.
+
+
+Dennis A
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Sunday, August 23, 2009 10:48 PM
+Subject: [hpv-boats] Folding Prop
+
+
+>I finally got around to making a folding prop that was suggested
+> earlier in the year.  I tested it on Saturday.  Seems to perform as
+> well as my best rigid prop.  It is nice to be able to stop pedalling
+> and coast.  If I sense weed on the prop then coasting allows the weed
+> to flow off the blades.
+>
+> A small amount of weed collected on the strut but this can be easily
+> reached to remove.  Most weed is channelled down the shaft to the
+> prop.  Being able to clear it by coasting is far more effective then
+> untangling it by hand while stopped.
+>
+> I have placed a photos showing the folded and unfolded positions.  If
+> only one blade folds it will go almost in line with the shaft.  When
+> both fold they stop against each other in the position in the photo.
+> ttp://www.rickwill.bigpondhosting.com/Folding_Prop.jpg
+>
+> Rick Willoughby
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+
+
+--------------------------------------------------------------------------------
+
+
+
+No virus found in this incoming message.
+Checked by AVG - www.avg.com
+Version: 8.5.409 / Virus Database: 270.13.66/2325 - Release Date: 08/25/09 
+06:08:00
+
+
+From rickwill at bigpond.net.au  Mon Sep  7 20:26:03 2009
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 8 Sep 2009 13:26:03 +1000
+Subject: [hpv-boats] Folding Prop
+Message-ID: <462F930F-8A37-405E-827B-BEAE161C4D36@bigpond.net.au>
+
+Hi Rick
+
+
+Great prop.
+
+I thought that you did not use a strut but let the shaft flex and  
+find its
+own position.
+
+On the hinge pins are these riveted in or do you use a form of socket  
+cap
+screw.
+
+Do you think the slots for the blade to fold  generate any drag.
+
+Dennis A
+
+Dennis
+I have used props strutless but it is not practical for everyday  
+use.  The prop hangs when the boat is carried.  The prop will  
+sometimes hit the hull in a turn if there are waves.  The prop dives  
+when you go in reverse.  I use a light tension strut that can be  
+folded sideways to inspect the prop or to enable the boat to be set  
+evenly on the beach.  Is costs about 2W.
+
+
+I used a 6mm partially threaded bolt for the prop pivot.  The hole on  
+one side of the blade is threaded and the other is a neat 6mm.  I  
+bolted the blades firmly in place with bolt thread and head both  
+exposed. I then cut these exposed bits and filed them flush with the  
+curve of the hub.  It will not be easy to remove the blades.  I would  
+need to mill or drill out the bolts first.
+
+The slot behind the blades will offer no measurable drag.
+
+I continue to be impressed with the prop.  I am still to get some  
+calm weather for best comparison but comparing with data from the  
+last couple years it seems my average speed is a little higher.   
+There are three things that are contributing.  The boat is lighter  
+and optmised for 11kph rather than 12kph so less wetted surface.  I  
+do not need to stop forward progress to clean the prop of weed and am  
+able to do this as soon as I suspect extra drag.  I am currently  
+running a higher gear ratio, which improves biomechanical efficiency  
+however is tough on the legs on windy days.  Not sure if I will stay  
+with this ratio.
+
+I did 25km on Saturday with wind to 50kph at an average of 9.0kph.  
+The previous best in these heavy conditions over that distance was  
+8.7kph.  I expect to get up to average of 10.5kph in calm weather.   
+Time will tell.
+
+The one weakness with the prop is reverse thrust.  I need to spin  
+quite fast to go astern.  Quite different to a fixed bladed prop.
+
+I noticed my previous link to the prop photo was missing a bit.  Here  
+is the full link:
+http://www.rickwill.bigpondhosting.com/folding_Prop.jpg
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+From rickwill at bigpond.net.au  Wed Sep  9 22:54:15 2009
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 10 Sep 2009 15:54:15 +1000
+Subject: [hpv-boats] Greg Ks Ocean Boat
+Message-ID: <5B74BC5C-9399-4459-9382-EBA5E1F9A705@bigpond.net.au>
+
+Greg conducted initial water tests on his new ocean boat last  
+weekend.  He made a video clip of the test:
+http://www.youtube.com/watch?v=OXSZLt_6eFg
+
+There is also a series of photos on the design and build here:
+http://picasaweb.google.com/adventuresofgreg/ExpeditionBoatBuilding#
+
+This is a report on the test:
+http://www.adventuresofgreg.com/HPB/2009_09_07_archive.html
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+

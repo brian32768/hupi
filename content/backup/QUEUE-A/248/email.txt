@@ -1,0 +1,1479 @@
+
+-------- June 11, 2004 ----------
+
+---------------------------- Message 001 ---------------------------- 
+Subject: Number 55, winter 2003-2004
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Fri, June 11, 2004 4:32 pm
+To:      schmidt<at>hupi.org
+         jcsnyder<at>hupi.org
+
+
+Hello,
+
+First, my congratulations to all involved in putting the HP archives  online.  
+I believe that making it accessible will lead to an avalanche  of new interest 
+in the technology of human power.
+
+However startup glitches are, unfortunately, unavoidable, and there is a  
+serious glitch on pages 3 to 10 inclusive in hp55-2004.pdf.
+
+I tried both acrobat reader v4 and acrobat v5. I haven't looked at the  
+other files yet.  Hopefully they are all right.
+
+Later,
+
+Angus Cameron
+
+
+
+
+---------------------------- Message 002 ---------------------------- 
+Subject: Re: Number 55, winter 2003-2004
+From:    jcsnyder<at>hupi.org
+Date:    Sat, June 12, 2004 11:18 am
+To:      angus_cameron<at>shaw.ca
+Cc:      schmidt<at>hupi.org
+
+Hi Angus,
+
+Thank you for the kind comments. I too am hopeful that the information will 
+ultimately open a renewed interest in HPV technology.
+
+The PDF files are all subject to improvement. Thank you for pointing out the 
+glitch!!! If you happen across any other errors please let me know as it will 
+help make the archives more complete and useful.
+
+
+Thank you,
+
+John Snyder
+
+
+
+---------------------------- Message 003 ---------------------------- 
+Subject: Re: Number 55, winter 2003-2004
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Sun, June 13, 2004 11:03 am
+To:      jcsnyder<at>hupi.org
+
+
+John,
+
+I've had more success today.
+
+1.  Laptop with Acrobat 5.0 (full version) now opens it correctly for  
+some reason, but only after a message box pops up with the warning,  
+"This file nay contain newer information than this viewer can support  ...".  
+Yesterday there was no such warning message.
+
+2.  Desktop with Acrobat 4.0 still screws up.  So I downloaded Reader 
+ 6.0 and now it works ok, as it should.
+
+I guess I should have checked for the update first.  But this is the  first file 
+I've encountered that Acrobat 4 has failed to decode  properly.  I've remained 
+with version 4 because it supports 'paper  capture' (ocr) whereas the newer 
+versions don't.  Adobe is getting as  bad as micro$oft for building in 
+obsolescence.
+
+Sorry for ruining your weekend.  ;)
+
+Angus
+
+[quoted text snipped -- jcs]
+
+
+
+---------------------------- Message 004 ---------------------------- 
+Subject: Re: Number 55, winter 2003-2004
+From:    jcsnyder<at>hupi.org
+Date:    Mon, June 14, 2004 7:37 am
+To:      angus_cameron<at>shaw.ca
+Cc:      jcsnyder<at>hupi.org
+
+Hi Angus,
+
+You helped made my weekend good! It is super that you are able now to 
+open the files, and that you were able to upgrade to version 6. Myself, am 
+content to live with Reader v5.1 until I upgrade my operating system.
+
+When opening with Reader version 5 and below, many of the PDFs will 
+return the same error message you saw, but should still be readable.
+
+If you want to, also download issues 41 and 47 where your articles appear.
+
+On the Index html page there is a link to a PDF Index that David Gordon Wilson 
+wrote that can help identify other issues you might find interesting.
+
+Best Wishes,
+
+John Snyder
+
+
+[quoted text snipped -- jcs]
+
+
+---------------------------- Message 005 ---------------------------- 
+Subject: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Sat, June 26, 2004 9:59 am
+To:      jcsnyder<at>hupi.org
+
+
+Hi John,
+
+I see that there are copyright problems.  Does that mean you will have  to contact 
+every individual author for his blessing before the archives  can be remounted?  If 
+you need permission for my two efforts, you have it.
+
+I like the way you wrote up the velocity problem in HPeJ article 1.  Clear and 
+straightforward.  And thanks again for sharing the your  solution a year or so ago.
+
+If you're looking for another short article I could come up with 
+something fairly easily on the theoretical effect of a crosswind on a  cyclist's speed. 
+I have it on paper and on a spreadsheet, but haven't  done the diagrams or html yet.  
+It's a simple vector problem to resolve  the forces on a vertical cylinder, representing 
+an upright cyclist, but  I was hoping to extend it to a horizontal cylinder, representing 
+a  recumbent cyclist.  I vaguely recall seeing the vertical cylinder sol'n  somewhere 
+else, perhaps one of the earlier editions of Bicycling Science, so it certainly isn't 
+original.
+
+On another note, Christian Starkjohann did very nice work in measuring  CdA and 
+Cr using a data logger back in '96 or '97.  It had disappeared  from the web for 
+several years until he recently sent me a copy together  with permission to publish 
+it again.  See http://members.shaw.ca/bicyclescience/starkjohann/index.htm
+Perhaps there is room for it at HPeJ as well.
+
+Angus
+
+
+
+---------------------------- Message 006 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Mon, June 28, 2004 9:55 pm
+To:      angus_cameron<at>shaw.ca
+         schmidt<at>umwelteinsatz.ch
+
+[quote snipped -- jcs]
+
+Hi Angus,
+
+Almost all of the HP authors save one have given permission as you 
+have, though that not the sticky point.
+
+The HPVA board  objected to the web and the CDROM versions of the 
+archives being made open access.  Some of the board members believe 
+it is an infrigment of the HPVA's assertion of ownership. The archives are 
+now off line and distribution of 1,000 CDROMs has been halted until ruffled 
+feathers can be smoothed down.
+
+There has been some recent discussion about this matter on the HPV list.
+
+I applogize to you for taking so long to write this reply. Dipolmatic wrangling 
+has been eating almost all of my time lately that I'd rather spend painting with 
+numbers, and working with the eJournal.
+
+
+>I like the way you wrote up the velocity problem in HPeJ article 1. Clear and 
+>straightforward.  And thanks again for sharing the your solution a year or so ago.
+
+You are welcome and thank you for the compliment. But I had two very talented 
+and tough editors to keep me on the straight and narrow. They made some 
+outstanding suggetions that improved the clarity.
+
+
+> If you're looking for another short article I could come up with something fairly 
+> easily on the theoretical effect of a crosswind on a cyclist's speed.
+
+
+YES!
+
+
+[quote snipped -- jcs]
+
+Two or three years ago Theo and I worked out the trig using the cylinder model 
+with cross winds for a power spreadsheet I was working on. I did some graphics 
+diagrams and a test of the theory using a model railroad car and section of HO 
+track set on a table and a fan. By attaching a lenght of fishing line with a mass 
+on the other end to the model I could produce a constant vector force. Depending 
+on the angle of the constant "wind" the box car would either move forward, backwards, 
+or remain stationary. The kitchen table experiment provided some proof of concept 
+and suggested ways of drawing a vector diagram, but could not validate any 
+calculations.
+
+Nigel Jones uses the vertical cylinder in his shareware program POWERCALC which 
+provides a fairly reasonable, an okay explaination in the program help file. By being 
+inside of a shareware program instead of an html page the information is obscure.
+
+There is a paper I have in hand.  (hang on this ref is long) James C. Martin, Douglas L. 
+Milliken, John E. Cobb, Kevin L. McFadden, and Andrew R. Coggan. 1998. Validation 
+of a Mathematical Model for Road Cycling Power. JOURNAL OF APPLIED 
+BIOMECHANICS. 14, 276-291. In this paper the authors describe wind velocity 
+as being divided to a tangent and a normal component to account for wind direction 
+and the bicycle's direction of travel. No diagrams. The reader is left to figure out the 
+equations.
+
+I haven't looked closely enough in BICYCLE SCIENCE 3rd Edition yet to see what 
+Dave Wilson and Jim Papadopolous did with wind in the chapters on power or 
+aerodynamics. Right at the moment I don't remember seeing any vector diagrams 
+drawn out.
+
+I suspect that Matt Weaver has worked on similar modeling. I don't know for sure.
+
+Those things come to mind as related handlings, but I know that there are more.
+
+And it also is my opinion that there is definately room to clarify the theory behind 
+the cylinder model. I would very much like to see your paper.  The notion of using 
+something other than the vertical orientation is very interesting.
+
+If you have something available to send to me as a doc or text file would be a 
+good place to start.
+
+
+>On another note, Christian Starkjohann did very nice work in measuring CdA and 
+> Cr using a data logger back in '96 or '97.  It had disappeared from the web for 
+>several years until he recently sent me a copy together with permission to publish it 
+>again.  See http://members.shaw.ca/bicyclescience/starkjohann/index.htm
+>Perhaps there is room for it at HPeJ as well.
+
+Oh lord, this one!!!  This offer is a dream come true. IOW there is ample room for it.  
+I've looked at the work often and even referenced it in an HP article. Christian's 
+original version is still accessible from http://www.archive.org though some of the 
+archived graphics are no longer available.
+
+The piece would be edited and reformated to the eJournal's style, my job, then
+ approved by you, Christian if you are still in contact with him, and the senior 
+editors. But the task is exceptionally doable, and very welcome.
+
+What makes me excited about that article is that it has the strong potential of being 
+a launching point for doing some more research/projects that could lead to a series.
+
+To keep life easy, may I suggest taking these two generous offers one at a time. 
+May we start with with your cross wind paper then work on from there? If you would 
+like I will send on any of the reference materials that I have.
+
+I'm sure Theo will chime in here very soon with more words of encouragement.
+
+Thank you Angus!!
+
+Cheers,
+
+John Snyder
+
+
+
+---------------------------- Message 007 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Tue, June 29, 2004 2:19 pm
+To:      jcsnyder<at>hupi.org
+
+
+jcsnyder<at>hupi.org wrote:
+
+> There has been some recent discussion about this matter on the HPV list.
+
+Very interesting, a major tempest in a teapot as they say.
+
+> I haven't looked closely enough in BICYCLE SCIENCE 3rd Edition yet to see 
+what Dave Wilson and Jim Papadopolous did with wind in the chapters on power 
+or aerodynamics. Right at the moment I don't remember seeing any vector 
+diagrams drawn out.
+
+All I see in the 3rd edition is a reference on page 143 to Isvan in Bike  
+Tech 3, "The effects of winds on a bicylist's speed"
+
+Have you got access to it?
+
+BS Volumes 1 and 2 are still available in the library at my old college. 
+  I'll take a look when I get a chance.
+
+> If you have something available to send to me as a doc or text file would 
+> be a good place to start.
+
+I've just finished a first draft.  Try this link:
+http://members.shaw.ca/bicyclescience/CrossWind/crosswind.html
+
+> Oh lord, this one!!!  This offer is a dream come true. IOW there is ample 
+> room for it.  I've looked at the work often and even referenced it in an HP 
+> article. Christian's original version is still accessible from 
+> http://www.archive.org though some of the archived graphics are no 
+> longer available.
+
+Yes broken, that's why I contacted him.  He was keen to keep it 
+available and was happy to have access to some of my web space.
+
+> What makes me excited about that article is that it has the strong potential 
+> of being a launching point for doing some more research/projects that could 
+> lead to a series.
+
+Good idea.  Also perhaps Hans Schreuder would be interested.  Have you  
+seen his very clever low tech approach?
+http://members.home.nl/h.w.schreuder/metingen/measurements.html
+
+Cheers,
+
+Angus
+
+
+
+---------------------------- Message 008 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Tue, June 29, 2004 10:52 pm
+To:      angus_cameron<at>shaw.ca
+         schmidt<at>umwelteinsatz.ch
+
+> All I see in the 3rd edition is a reference on page 143 to Isvan in Bike Tech 3, 
+>"The effects of winds on a bicylist's speed"
+>
+> Have you got access to it?
+
+Not yet. A long term proposal was to also archive BIKE TECH and CYCLING 
+SCIENCE on CD and web. Chet Kyle expressed some interest in doing that.
+
+I'll ask around if someone might have a photocopy or scan of the Bike Tech 3 
+article. Otherwise Rodale Press might be the only source.
+
+
+> I've just finished a first draft.  Try this link:
+> http://members.shaw.ca/bicyclescience/CrossWind/crosswind.html
+
+Good! I like how you explain and show how to solve the problem. What 
+program did you use to write the equations?
+
+One aspect about the cyclinder model that can be expanded is why the 
+different functions are used as they are.
+
+Here are some attempts to draw diagrams (did it awhile back);
+http://www.hupi.org/Testing/HPeJ/0002/vectors1.gif
+
+jones.txt and vectors2.gif go together
+http://www.hupi.org/Testing/HPeJ/0002/jones.txt
+http://www.hupi.org/Testing/HPeJ/0002/vectors2.gif
+
+I live in a windy part of the planet, Montana. Alberta gets the breeze too? There have 
+been a couple of times when riding on gravel my bike has actually skidded sideways 
+because of the wind's force. That first diagram only hints at how that could happen.
+
+Some questions from an eager beaver in the back of the classroom.
+How deep into the problem are you willing go? Would it help clarify the 
+model by including some drawings or photographs?  Have you tried the 
+experiment of riding in a cross wind with a tuff of yarn?  Are there any other 
+hands on demonstrations you might include that might to bring home the 
+concepts to an bright and interested reader?
+
+I really liked your article in HP about how to measure efficiency using simple 
+materials - alot. Could that same sort of tactile teaching be applied here?
+
+
+> Good idea.  Also perhaps Hans Schreuder would be interested.  Have you 
+> seen his very clever low tech approach?
+> http://members.home.nl/h.w.schreuder/metingen/measurements.html
+
+Yes, I have and even assembled one just last March. But I was unable to get 
+their program to read my wav files. Instead I used an open source audio editor 
+program called Audacity to measure the pulses. I manually entered the time 
+values into a spreadsheet to get a few seconds of speed data. Brian Wilson 
+has expressed some interest in writing a newer program.
+
+Here is a pdf of similar project.
+www.phys.ksu.edu/perg/papers/bike/usingaudiotape.pdf
+
+Best Wishes,
+
+John
+
+
+
+
+---------------------------- Message 009 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "angus cameron" <angus_cameron<at>shaw.ca>
+Date:    Wed, June 30, 2004 11:13 am
+To:      jcsnyder<at>hupi.org
+
+
+jcsnyder<at>hupi.org wrote:
+
+>I'll ask around if someone might have a photocopy or scan of the Bike Tech 3 
+> article. Otherwise Rodale Press might be the only source.
+
+Would be appreciated.  I'd like to avoid reinventing the wheel.
+
+>What program did you use to write the equations?
+
+A copy of MathCad 2000 from work that happened to remain on my home  
+computer after I retired.  I like it 'cause it does algebra without  making 
+errors, not like me.
+
+I 'm using Dia for the graphics.
+
+>One aspect about the cyclinder model that can be expanded is why the 
+> different functions are used as they are.
+
+Right
+
+> I live in a windy part of the planet, Montana. Alberta gets the breeze too? 
+>There have been a couple of times when riding on gravel my bike has actually 
+> skidded sideways because of the wind's force. That first diagram only hints at 
+> how that could happen.
+
+The southern bit is much like Montana.  Up here in the north the wind is  much more 
+civilised.  But I know about the 'breeze'.  Once on a tour  through Glacier Park I 
+spent over 2 gruelling hours in my granny to go  about 10 miles. 
+How does gravel even stay on the road ?  Surely it should have all blown  
+away by now.
+
+>How deep into the problem are you willing go? 
+
+
+It's not how far I'm willing to go, it's how far I'm able to go.
+
+The vertical cylinder (VC) is nice to use because it's both symmetrical  and it's 
+aerodynamic properties are known.  Also it's not a huge stretch  of the imagination 
+to see that an upright cyclist looks somewhat like a  barrel, a short/compact one for 
+the triathalon guy and tall/stately one  for the Amsterdam commuter.
+
+As soon as you invent any other model to represent a prone or semi-prone  cyclist 
+you are dealing with pure fantasy unless you can verify the  results with experiments.  
+I can't think of any quantitative experiments  that can be done without access to a 
+wind tunnel.  The university has  one but even professor John Buchanan, (juanco in 
+the old hpv mailing  list),  couldn't get access, even after years of trying. 
+
+So to answer the question:
+
+   1. Delve into the spreadsheet and determine critical wind angles and
+      generate colorful graphs for the VC
+
+   2. Repeat [1] with a fanciful recumbent model and make comparisons to
+      the VC
+
+   3. No experiments beyond tufts of yarn.
+
+>Would it help clarify the model by including some drawings or photographs?
+
+Will be working on that
+
+>Have you tried the experiment of riding in a cross wind with a tuff of yarn?  
+> Are there any other hands on demonstrations you might include that might to 
+> bring home the concepts to an bright and interested reader?
+
+How about a series of coasting tests at a number of angles relative to  the 
+wind.  All that's required is a perfectly steady wind and a large  perfectly flat 
+paved parking lot well separated from trees and buildings. 
+
+More practical might be small models in a home made wind tunnel.  Hmm  
+that requires a bit more thought.  Might be doable.  Very tricky 
+though.  Must go for a bike ride and ponder it.
+
+Cheers,
+
+Angus
+
+
+
+---------------------------- Message 010 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Wed, June 30, 2004 2:11 pm
+To:      "angus cameron" <angus_cameron<at>shaw.ca>
+
+
+Hi Angus,
+
+Just a quick reply here. I want to mull over the other things you wrote.
+
+> More practical might be small models in a home made wind tunnel. 
+>  Hmm that requires a bit more thought.  Might be doable.  Very tricky 
+>though.  Must go for a bike ride and ponder it.
+
+Orville and Wilber!!!
+
+Before they constructed their first wind tunnel they installed a
+horizontal wheel above a bicycle's front wheel. It created a rotating balance. 
+Two models of wing sections could then be placed on either side of the balance. 
+By taking a swift ride around the block the lads were able to directly observe 
+which model had the most drag (the one that "weighed" heavier in the wind).
+
+Building a small scale wind tunnel might be a gas, too. <pun intended>
+
+Cheers,
+
+John
+
+
+
+
+
+----------------------------  Message 011 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Thu, July 1, 2004 8:50 am
+To:      jcsnyder<at>hupi.org
+
+John,
+
+I'm leaving tomorrow for a 2 week vacation on the coast.  I'll get in  
+contact when I get back.
+
+Cheers,
+Angus
+
+
+
+---------------------------- Message 012 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Fri, July 2, 2004 7:16 am
+To:      angus_cameron<at>shaw.ca
+
+
+[quote snipped -- jcs]
+
+
+Angus,
+
+Give me your mailing address when you return. I'll send some 
+materials to you, then.
+
+Best Wishes,
+
+John
+
+
+
+---------------------------- Message 013 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Sun, July 18, 2004 10:43 pm
+To:      jcsnyder<at>hupi.org
+
+
+[quote snipped -- jcs]
+
+Just got in an hour ago.  I think I'll have to move to Vancouver Island  
+one of these days. 
+
+Anyway here's my mailing address:
+[address snipped -- jcs]
+
+I had some time to work on revision 2 of my paper.  I'll try to get it  up for inspection 
+in a day or two; but only after I do some major garden  work; the weeds look mighty 
+impressive right now.
+
+Angus
+
+
+
+
+---------------------------- Message 014 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Mon, July 19, 2004 12:53 am
+To:      angus_cameron<at>shaw.ca
+
+Hi Angus,
+
+> Just got in an hour ago.  I think I'll have to move to Vancouver 
+> Island one of these days.
+
+I had a similar thought when I traveled through there in the mid 80's. 
+It's a beautiful place.
+
+[quote snipped -- jcs]
+
+There is a paper* that contains some of the cross wind equations 
+that I'd like to send to you. Would you prefer to receive it as 
+an emailed PDF or a snail mailed print out?  Either way I'll fire 
+up the scanner to make a copy.
+
+*James C. Martin, Douglas L. Milliken, John E. Cobb, Kevin L. McFadden, 
+and Andrew R. Coggan. 1998. Validation of a Mathematical Model for Road 
+Cycling Power. JOURNAL OF APPLIED BIOMECHANICS. 14, 276-291.
+
+I haven't found a lead on the Bike Tech article, yet.
+
+[quote snipped -- jcs]
+
+Sounds good to me (the paper). HPeJ is getting close to publishing 
+article number two by the end of this week. The schedule for the 
+moment is to try putting out at least one new article a month. It's 
+your choice, we could try for a Aug 21 or a Sept 21 publication date 
+for the cross wind vector paper.
+
+Best Wishes,
+
+John Snyder
+
+
+
+
+---------------------------- Message 015 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Mon, July 19, 2004 9:45 am
+To:      jcsnyder<at>hupi.org
+
+
+John,
+
+A pdf would be fine.  I 'm curious to see if I've found anything that  
+hasn't been hashed out already.  The old "Nothing new under the sun"  
+problem.
+
+The August publication date is a better fit to my schedule as I'll be 
+in  the UK for 3-4 weeks starting late Aug or early Sept .
+
+Angus
+
+[quote snipped -- jcs]
+
+
+---------------------------- Message 016 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Tue, July 20, 2004 1:25 am
+To:      angus_cameron<at>shaw.ca
+
+
+Angus,
+
+Here is a low resolution copy of the Martin paper.
+
+http://www.hupi.org/HPeJ/0003/reference/MathModel.pdf (1.5 MB, 16 pages)
+
+James C. Martin, Douglas L. Milliken, John E. Cobb, Kevin L. McFadden, and 
+Andrew R. Coggan. 1998. Validation of a Mathematical Model for Road Cycling 
+Power. JOURNAL OF APPLIED BIOMECHANICS. 14, 276-291.
+
+Please, let me know if you are able to access and read the file. The material 
+provides the cross wind equations. More detail about the "hows and whys" of 
+the cylinder model would be useful.
+
+August 21st for publication will likely work out fine.
+
+Cheers,
+
+John Snyder
+
+[quote snipped  -- jcs]
+
+
+----------------------------  Message 017 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Tue, July 20, 2004 10:04 am
+To:      jcsnyder<at>hupi.org
+
+
+John,
+
+If I defocus my eyes just right it's as easy to read as my wife's  
+scribbling; ie no problem.
+
+Neat that it confirms the cylinder model to a rough first 
+approximation.  Too bad they used a lenticular rear wheel though.  
+It  makes direct comparisons difficult.  For an ordinary bike I've been  
+assuming that Cd is fairly constant while the area changes with yaw  
+angle.  But he Cd of that wheel can and will change to a negative value  
+at certain yaw angles.  See Table 1.  The drag area goes down with 
+yaw  angle, not up.
+
+So I could still be on the right track for standard bikes with spoked 
+ wheels and no added areodynamic enhancements. 
+
+BTW if you find any more references just give me its url rather than 
+ emailing it.
+
+
+Angus
+
+[quote snipped -- jcs]
+
+
+---------------------------- Message 018 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Wed, July 21, 2004 12:49 am
+To:      angus_cameron<at>shaw.ca
+
+
+Angus,
+
+It's good that you are able to read the PDF. Trying to
+make a long paper as small a file size as possible is
+challenging for everyone, especially the reader.
+
+You are definately on the right track.
+
+Here are some more references.
+
+1) If you can snag an interlibrary loan there is an
+interesting book to look through.  It contains related
+discussions and equations. (It's a good book, but costs
+$45 new.)
+
+Tamai, Goro. 1999. THE LEADING EDGE Aerodynamic Design
+of Ultra-streamlined Vehicles. Robert Bentley, Inc.
+Cambridge, MA. 291 pages (paperback)
+
+The publisher's website is (was) http://www.rb.com  The
+last article Tamai wrote for Human Power was an exerpt
+from that work which indirectly pertains to HPVs.
+
+2) Several years ago with others' help I laid out a
+spreadsheet that incorporated some of the material 
+from Tamai's book and the Martin paper regarding the 
+cylinder model. You can download the Excel format file 
+from here
+
+http://www.hupi.org/HPeJ/0003/reference/Calc012802.xls
+
+3) Nigel Jones offers a shareware program with an extensive
+help file that will also be very useful.
+
+http://www.machinehead-software.co.uk/bike/power/bicycle_power_calculator.html
+
+His is the old school notion of shareware. A user is not forced to register 
+in order to use the program for an indefinate period of time.
+
+4) Keep plugging at it!! The cross wind consideration is an
+interesting topic which needs to be clarified. As mentioned 
+before I admire your writing skill and ability to clarify 
+complex concepts. The article will fit well with the other 
+articles that are forming HPeJ issue 1. Article 2 is scheduled 
+to go online July 21.
+
+
+Cheers,
+
+John
+Human Power eJournal
+http://www.hupi.org/HPeJ
+
+
+[quote snipped -- jcs]
+
+
+
+
+---------------------------- Message 019 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Wed, July 21, 2004 12:23 pm
+To:      jcsnyder<at>hupi.org
+
+
+John,
+
+Another request.
+
+Have you access to "Proceedings of the Second International 
+Human-Powered-Vehicle Scientific Symposium"?
+
+In Wilson's third edition there's a reference to Milliken and Milliken's  
+paper titled "Moulton Bicycle aerodynamic program".  Dave writes 
+(top of  page 149), "A cosine approximation to the retarding force 
+offered by the  wind has been shown to be reasonable . . .", which
+sounds exactly like  what we want.  It seems they may have already 
+extended the cylinder  model to include the side area.  I'd like to see 
+a scan of the relevant  page(s).
+
+The Jones software uses the cylinder model, as you know, and it 
+confirms  my numbers.  I haven't looked carefully at the spreadsheet yet.
+
+Also I have to find a better way to measure frontal area.  I'm using  
+ImageJ (an open source scientific image analysis program) but it 
+requires a manually generated region of interest.  Frontal views are 
+no  problem but side views are a nightmare because of all those nasty 
+tubes  and spokes.  I'd like to find a technique (or program) that would  
+automate the process.
+
+Angus
+
+---------------------------- Message 020 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Wed, July 21, 2004 8:15 pm
+To:      angus_cameron<at>shaw.ca
+
+Hi Angus,
+
+Earlier today I just happened to looking at "Proceedings of the Second 
+International Human-Powered-Vehicle Scientific Symposium". Here are the 
+5 pages as gif images (plus a detail of the bottom of page 44)
+
+http://www.hupi.org/HPeJ/0003/reference/41.htm
+
+Measuring an image area can be accomplished with the histogram feature 
+found in such programs as PHOTOSHOP ELEMENTS (confirmed to work) and 
+possibly GIMP (open source.)  With such a photoeditor a photo can be 
+converted into a black silhouette on a white background. Using the 
+histogram the percentage of black (actually red, blue and green) can 
+be determined. The area of the picture plane would represent 100%. Thus 
+(area of picture plane) x (percentage of black) = (area of image. It's 
+an estimate.
+
+Here's a few places to obtain GIMP
+http://gnuwin.epfl.ch/apps/en/index.html
+http://www.gimp.org/windows/
+
+Photoshop elements is sometimes bundled with hardware devices like 
+Wacom digital pen tablets. It is also sold from the Adobe website 
+and other retailers.
+
+Painter is another graphics program that could do the task.
+
+
+Cheers,
+
+John
+
+
+
+[quote snipped -- jcs]
+
+
+---------------------------- Message 021 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Thu, July 22, 2004 7:02 am
+To:      jcsnyder<at>hupi.org
+
+
+[quote snipped -- jcs]
+
+EUREKA!
+Exactly the data I needed.  It shows that the cylinder model is a 
+poor  fit even for the std DF. Make a small modification to include 
+side area and BINGO!   R squared =  0.967
+
+This paper brings it all together.  Thanks
+
+[quote snipped -- jcs]
+
+Thanks for the clever trick but I later found ImageJ's ROI Manager  
+buried deep in the menus. I still don't have automation but now I 
+can work with several smaller  regions and then just add or subtract 
+them as needed. Works like a charm.  And gives the 
+area directly.
+
+I resort to GIMP only for heavy duty editing when I need layers and  
+masks, which isn't often.  Otherwise I use a variety of "lightweight" 
+programs like Image Analyzer (my 
+favorite) or ImageN.
+
+Angus
+
+
+---------------------------- Message 022 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Fri, July 23, 2004 12:59 am
+To:      angus_cameron<at>shaw.ca
+
+
+[quote snipped -- jcs]
+
+Hi Angus,
+
+I'm surprised by your pronouncement, but in a good way.
+
+Now more than ever I'm eager to see the paper.
+
+
+
+> ... but I later found ImageJ's ROI Manager
+> buried deep in the menus. ...Image Analyzer ...ImageN.
+
+Those are new programs to me. Most often I run commercial 
+software for graphics.
+
+Google brought up references to each the open source 
+programs you mentioned:
+
+ImageJ
+http://rsb.info.nih.gov/ij/
+
+ImageN
+http://www.pixoid.com/
+
+Image Analyzer
+http://meesoft.logicnet.dk/Analyzer/
+
+Do you know of any other urls that might get more information?
+
+
+Cheers,
+
+John
+
+
+----------------------------  Message 023 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Fri, July 23, 2004 9:18 am
+To:      jcsnyder<at>hupi.org
+
+
+jcsnyder<at>hupi.org wrote:
+
+> 
+> Hi Angus,
+> 
+> I'm surprized by your pronouncement, but in a good way.
+> 
+> Now more than ever I'm eager to see the paper.
+> 
+
+I was surprised as well.  I expected to see a smaller deviation 
+from the  cylinder model.
+
+I'm enclosing one of the graphs.  The blue data points are from 
+Milliken.  The red line is the cylinder model.
+
+An additional term incorporating the lateral area gives a much 
+better fit.
+
+I'll try to get the draft of the paper together this weekend.
+
+[quote snipped -- jcs]
+
+Except for ImageJ these are pretty obscure programs.  But each 
+has some  impressive features.  But you are on your own when you 
+try them.  Lots of trial and error.
+
+ImageJ has more documentation available, but it is so 
+speciallised and  customisable that it will never be 
+completely documented.
+
+Angus
+
+
+
+
+---------------------------- Message 024 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Fri, July 23, 2004 4:38 pm
+To:      angus_cameron<at>shaw.ca
+
+
+
+[quote snipped -- jcs]
+
+Hi Angus,
+
+In your graph what forces are being compared? The blue points appear 
+to be the Fx vector, that is force exerted in oposition to the 
+direction of travel.
+
+> An additional term incorporating the lateral area gives a much 
+> better fit.
+
+Might this help explain the variable drag area values used in the 
+Martin paper, as where found by direct measurement?
+
+
+> I'll try to get the draft of the paper together this weekend.
+
+Very good!
+
+
+Cheers,
+
+John
+
+
+---------------------------- Message 025 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Fri, July 23, 2004 8:06 pm
+To:      jcsnyder<at>hupi.org
+
+[quote snipped -- jcs]
+
+>In your graph what forces are being compared? The blue points 
+>appear to be the Fx vector, that is force exerted in oposition to the 
+> direction of travel.
+
+No, the blue points are the total force, found by SQRT(Fx^2+Fy^2).
+
+The scale I chose overemphasized the magnitude of the deviation from 
+the  cylinder model.  It's actually only ~12% at 30 deg. In most normal riding 
+conditions the yaw angle is much less than 30 deg  so the model isn't really 
+that bad.  Nobody's complaining at any rate.   I have to recheck my area 
+calculations but I think the ratio of lateral  to frontal area must be around 
+1.2 for a DF.
+
+For a laid back recumbent the story is different.  The ratio is more  like two 
+to one.  So bikes like my ShockProof  must deviate much more  from the 
+cylinder model.  That has been my gut feeling at any rate.  So  at least I now 
+have a good mathematical argument to support that contention.
+
+>>An additional term incorporating the lateral area gives a much better fit.
+
+>Might this help explain the variable drag area values used in the Martin 
+>paper, as where found by direct measurement?
+
+Yes.  They had to find them experimentally since there is no way to find  
+them theoretically when aerodynamic devices like disk wheels are 
+generating positive forces at some angles.
+
+My modified model visualises the standard bicycle as a blob with a  
+constant Cd of about 1.0 but whose effective area increases smoothly  
+from the initial value (frontal area) to a final value (lateral area) as  the 
+yaw angle increases from 0 to 90 deg.
+
+Tho' I suppose CFD methods could be used.  I wonder if anyone has  tried?  
+There was a Russian CFD guru at my last job who did nothing but  find wind 
+loads on structures.  It was a full time job using a dual  processor box to 
+model relatively simple structures. I think a standard bicycle would be very 
+time consuming to model accurately and then you'd still have to verify it in a 
+wind tunnel  anyway.  Streamlined shapes are much simpler.  Hasn't Matt 
+Weaver  already done it?
+
+Angus
+
+
+
+---------------------------- Message 026 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Sat, July 24, 2004 2:08 am
+To:      angus_cameron<at>shaw.ca
+
+
+[quote snipped -- jcs]
+
+Hello Angus.
+
+Aha, a dim light bulb just flickered on! Thank you for that 
+illumination.
+
+[quote snipped -- jcs]
+
+A quick estimate of the Milliken data suggests some clues as 
+to what that term "standard bike" might have represented in 1983.
+
+Cd x A = (drag <at> 0 degrees yaw) /(rho x v^2 x 0.5)
+
+Standard bike, crouched, unfaired ; (Cd x A) = est 0.43 m^2
+Standard bike, erect, unfaired; (Cd x A) = est 0.49 m^2
+
+To my eyes those guesses are high enough to believe that the 
+tested DF may  have had fairly flat  or moustach bars such that the 
+rider's torso was nearly vertical when in the erect position -- 
+similar from the waist up to the riding position used on a BikeE.
+
+Another article in the 2nd symposium proceedings, by Malewicki, 
+lists the Cd x A of various DF and recumbent HPVs common at the 
+time. One notable example (converted to SI)
+
+(DF) Racing bike, fully crouched, unfaired; (Cd x A) = est 0.31 m^2. 
+This is much lower then the preceeding estimates for the standard 
+bike in the Molton sponsored paper.
+
+In Human Power Spring 1997 (p 7- 9) is table of wind tunnel 
+found CdA values for a variety of bicycles including a DFs wth 
+CdAs ranging from  0.23 to 0.25 m^2.  The same study provided 
+CdA = 0.39 m^2 for a mountain bike, which might be concidered 
+the standard bicycle of 2004.  Dave Wilson's conclusion was 
+(paraphrased) the tested unfaired recumbents have higher drag 
+than the best diamond frame bicycles.
+
+There is some tenuous evidence, based on a drag parameter 
+determination via power project I've worked on and off over 
+the past couple of years that the very best unfaired recumbents 
+(ala' M5 style lowracers) and unfaired diamond-framed bicycles 
+(triathelete bikes with aerobars) both achieve similar 
+Cd x A values, below 0.2 m^2.
+
+The suggestion here is that the rider's actual trunk angle 
+rather than the bicycle's frame style has a larger bearing 
+on the ratio of lateral to frontal area.
+
+
+>For a laid back recumbent the story is different.  The 
+>ratio is more like two to one.  So bikes like my ShockProof  
+>must deviate much more from the cylinder model.  That has been 
+>my gut feeling at any rate.  So at least I now have a good 
+>mathematical argument to support that contention.
+
+A possible implication is that the theorical drag form 
+dimensions of the cylinder model might be updated as having 
+1) height, 2) width, and now 3) an angle representing 
+deviation from vertical.  My gut also feels that it might 
+be reasonable to assume that at 0 degrees yaw(apparent wind) 
+and at 0 degrees trunk angle results in the smallest effective 
+frontal drag area. Varying wind yaw and trunk angle will alter 
+the lateral and frontal area and potentially the drag.
+
+It's a 3-D concept -- and more than a little exciting to
+ponder. <smile> You may well be exploring something new and
+very important here Angus!
+
+
+[quote snipped -- jcs]
+
+Even with the disk wheels might there still be some way of 
+reconciling the measurements to the modified model?
+
+
+>My modified model visualises the standard bicycle as a blob 
+>with a constant Cd of about 1.0 but whose effective area 
+>increases smoothly from the initial value (frontal area) 
+>to a final value (lateral area) as the yaw angle increases 
+>from 0 to 90 deg.
+
+Could trunk angle be called "pitch"?  As bicyclists we hope 
+there is very little "roll" involved <humor> though it might 
+have an influnce when cornering in the presence of wind. 
+Cornering might be difficult to deal with as a simple math model.
+
+
+> Tho' I suppose CFD methods could be used.  I wonder if anyone 
+> has tried?  There was a Russian CFD guru at my last job who 
+> did nothing but find wind loads on structures.  It was a full 
+> time job using a dual processor box to model relatively simple 
+> structures. I think a standard bicycle would be very time 
+> consuming to model accurately and then you'd still have to 
+> verify it in a wind tunnel anyway.  Streamlined shapes are 
+> much simpler.  Hasn't Matt Weaver already done it?
+
+Yes I believe Matt has done just that.  http://www.speed101.com/
+His email address according to that page is: 
+<Matt Weaver> edge<at>speed101.com
+
+That triggers a memory about another reference about cross wind 
+stability by Dr Fuchs that I haven't looked at in a long time. 
+Maybe there is something useful here. (The doc and html are 
+supposed to be the same, but there might be some broken graphic 
+links in the html.)
+
+http://www.ihpva.org/tools/cwind_stat_stab.doc
+http://www.ihpva.org/tools/cwind_stat_stab.htm
+
+Best Wishes,
+
+John
+
+---------------------------- Message 027 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Fri, July 30, 2004 2:51 pm
+To:      jcsnyder<at>hupi.org
+
+
+Hello John,
+
+Just an update.  The latest revision is at
+http://members.shaw.ca/bicyclescience/CrossWind2/SideWind2.html 
+but I  have discovered a major problem reconciling my model with Milliken's  
+data.   So we are due for another revision.
+
+I have emailed Doug Milliken for some clarification of the definition of  Fx, 
+Fyr and Fyr.  It is either clearly different from how I interpreted  the paper 
+or else his numbers are wrong (which I doubt).
+
+Depending on how Doug answers, one of the following will be true:
+
+a)  The cylinder model is correct and my model is headed for the bin. 
+b)  My assumptions were right, which means there could be problems with  his data.
+c)  There is another answer that I haven't thought of.
+
+Have a good weekend,
+
+Angus
+
+Here is my query to Doug:
+
+> Hello Doug Milliken,
+> 
+> Do you remember writing a paper for "Proceedings of the
+> Second International Human-Powered-Vehicle Scientific Symposium" back in 1980?
+> 
+> I'm currently writing a paper for HuPI (http://www.hupi.org/)about the effect of 
+> crosswinds and am trying to use some of your measurements to validate my results.
+> 
+> My question is whether my interpretation of Fyf and Fyr are correct.
+> 
+> According to the diagram  on page 44 (see reference below) it's clear that the Fx sensor 
+> measures the force parallel to the axis of the bike and the two Fy sensors measure the lateral force.
+> 
+> The total lateral force should be the sum Fyf + Fyr. True?  This is the crux of my question 
+> because if true it results in inconsistencies as shown below.
+> 
+> The magnitude of the total drag force parallel to the axis of the wind tunnel should be 
+> Ftot = SQRT(Fx2+Fy2), where Fy = Fyf + Fyr.
+> 
+> The x component of Ftot should closely match the measured Fx.  But as shown in Table 2, 
+> that is only true at small yaw angles, with the relative differences rising steadily with 
+> the angle.  By the way, the discrepancies largely disappear if a different definition of Fy 
+> is used, such as (Fyf+Fyr)/2, for example.  But I can't see why.
+> 
+> Table 1
+> 8. Moulton bike, crouch, unfaired, 20 mi/h
+> yaw     Fx     Fyf     Fyr     Fy angle
+> 0    4.32    0.03    -0.5    -0.47
+> 10    4.53    0.5    0.11    0.61
+> 20    4.55    1.28    1.03    2.31
+> 30    4.21    2.34    1.51    3.85
+> 40    4    	3.05    ...    ...
+> 50    3.72    3.71    ...    ...
+> 60    2.7    	4.6    2.48    7.08
+> 90    0.41    5.2    3.3    8.5
+> where Fy = Fyf + Fyr
+> 
+> Table 2
+> yaw    Fx    Ftotal    Ftot_x    % difference
+> 0    4.32    4.35    4.35    0.59
+> 10    4.53    4.57    4.50    0.63
+> 20    4.55    5.10    4.80    5.39
+> 30    4.21    5.70    4.94    17.35
+> 60    2.70    7.58    3.79    40.32
+> 90    0.41    8.51    0.00    (100.00)
+> Ftotal = SQRT(Fx2+Fy2)
+> Ftot_x = Ftotal*cos(yaw_angle)
+> % difference = 100*(Ftot_x-Fx)/Fx
+> 
+> 
+> John Snyder of HuPI has provided me a link to the paper at
+> http://www.hupi.org/HPeJ/0003/reference/41.htm
+> 
+> I thank you in advance for helping me out with this problem.
+
+ 
+
+----------------------------  Message 028 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Fri, July 30, 2004 3:31 pm
+To:      jcsnyder<at>hupi.org
+
+John,
+
+Just to clarify.  I had been working mainly with F_total, the 
+SQRT(Fx^2+Fy^2) and getting excellent agreement with my 
+lateral area  model.  There was also a real nice fit with frontal 
+areas of my own  touring bike, measured with ImageJ.  So I started 
+writing up the current  revision, happy that all the pieces fit together 
+so nicely.  Life was good.
+
+Then I checked the agreement between the Fx and the x component 
+of the  model.  The spot where I was working on at the time is marked 
+by the  sentence in the red font.  Abysmal agreement.
+
+I can optimise one of; x components, y components or the total, but not  
+all simultaneously.  Sigh.  If I optimise for the x components then the  
+cylinder model falls out automatically.  Otherwise the lateral area  model 
+falls out.  It all depends on Milliken's Fyf and Fyr.  I sure hope  he can 
+recall the details and/or find his notes.
+
+Angus
+
+
+
+
+---------------------------- Message 029 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Sun, August 1, 2004 3:28 am
+To:      angus_cameron<at>shaw.ca
+
+
+Hi Angus,
+
+Your paper is going in a good direction. It causes the neurons to fire! 
+This is a reply to both of your emails from last Friday, and I hope I'm on 
+track with what you wrote in them.
+
+A rough comparison might be drawn in relation to the cylinder modeling 
+of an unfaired bicyclist to a rectangular sheet of thin plywood. Perhaps 
+the average unfaired cyclist is more like a flat plane than a cylinder, 
+or a little of both (a hyperbolic way of viewing lateral area).
+
+If placed on edge with its smallest dimension facing into a stream of 
+air the plywood sheet would potentially exhibit it's minimal aerodynamic 
+drag (least amount of frontal area). And, if turned on a vertical axis 
+the resulting aero drag would possibly reach a maximum quantity when 
+that form's greatest frontal area presented its self at a right angle 
+to the flow of air. Described this way the effective frontal Area would 
+increase as would the Force due to aerodynamic drag. This description 
+however does not account for the Coefficient of drag, which may or may 
+not be changing as the apparent frontal area changes. This makes for 
+a hard to pin down situation as Area is a variable, Cd is potentially 
+a variable or a constant, and their product is not a single value 
+either, though measurable. XY=Z+n.
+
+In an analysis of the effects of wind yaw on a single form it is 
+possible to treat Area as a constant. Frontal area is but one possible 
+reference to use in CdA. It is possible to use other defined areas as 
+the reference such as planar area (viewed from above), wetted surface 
+area, or even a volumetric based estimate of the surface area. For a 
+much better description of the options available I hope you will enjoy 
+reading through these 15 pages taken from Goro Tamai's THE LEADING EDGE
+http://www.hupi.org/HPeJ/0003/reference/01.htm
+
+(This time around I was trying to make these scans as easy to read as 
+possible. Depending on your internet connection speed the web pages 
+may load slowly. The book pages as graphic files are between 130 to 
+200 KB each. Please forgive the occasional twist in the scans. I was 
+doing some serious-silly juggling trying to hold the book on the 
+scanner with one out-stretched hand, while the other hand was 
+clicking the mouse on another desk.)
+
+Picking a constant reference area will allow some math manipulation 
+not possible otherwise that may help sort things through. <knock 
+on wood> For example going back to the piece of plywood example, its
+surface area (approx. width x height x 2) as a reference would not 
+change when the wind's yaw angle varied. Only it's Cd would change 
+within the knowable quantity (Cd x A). Thus patterns like the
+following might be tried;
+
+Area <at> yaw angle = F drag/(Cd * rho * v^2 * 0.5) = a constant quantity, thus
+
+[eq]  F1 /Cd1 = F2/Cd2
+
+where 1 & 2 reflect values measured at different yaw angles 
+(not that this eq means anything in particular, just that such 
+manipulation is possible.)
+
+IOW, if the reference area is treated as a constant at all yaw 
+angles (even if not quantified, though it could be), and if Force 
+is known via measurement at given yaw angles then Cd at a specific 
+yaw angle can be solved for when the corresponding CdA is known, 
+and trends in how Cd might change be looked at. This is just 
+another "trick" as Tamai might call it, and in the same logic 
+pattern as holding drag coefficient to 1.0. Again, the latest 
+reference will explain these concepts with more clarity.
+
+I had not realized that the cylinder model needed to looked 
+at more closely, or that it was prone to as much error as it 
+seems you have uncovered.
+
+[quote snipped -- jcs]
+
+Results in agreement and in disagreement with any hypothesis 
+are equally valid, and equally important. Life still is better 
+than good!! <Why should sport events be the only place for a 
+cheer squad? You are doing great! :)>
+
+[quote snipped -- jcs]
+
+If I read the diagram of the wind tunnel correctly there were 
+three force measurements made in two axes, Y quantified front 
+and rear. As you have writen (Fyf+Fyr = Fy). I doubt that Milliken 
+meant anything different, but it is good to double check if possible.
+
+And as you pointed earlier the cylinder model should create a 
+constant F total value that was not yaw angle dependant. Pointing 
+out that the cylinder model does not predict an objective observation 
+is in itself, very important. This inconsistency is likely a part of 
+the reason that the Martin et. al. paper limited it's modeling and 
+measurements to relatively shallow angles of yaw.
+
+
+[quote snipped -- jcs]
+
+Thank you for the updates! The HTML drafts with tables and 
+graphics are a nice way of building a paper.
+
+
+>I have emailed Doug Milliken for some clarification of the 
+>definition of Fx, Fyr and Fyr. It is either clearly different 
+>from how I interpreted the paper or else his numbers are 
+>wrong (which I doubt).
+
+
+I agree with you, the data is likely good.
+
+
+[quote snipped -- jcs]
+
+I suspect now that the cylinder model is highly limited, if 
+not outright wrong except in a few situations such as generalizing 
+the effects of cross winds for a cyclist riding an upright Phillip's 
+style roadster or for very shallow yaw angles.
+
+
+[quote snipped -- jcs]
+
+Also, I suspect that your hypothesis is growing in the right 
+direction, by getting exceptionally close to either creating a 
+much better model that works in more cases or highlighting the 
+limitations of the current model. Either way represents an 
+important step forward.
+
+
+>c) There is another answer that I haven't thought of.
+
+This is where the fun comes in. The search and the creativity!!!
+
+This is exceptionally good work that you are doing, Angus. I am 
+enjoying watching and learning how you work at problem solving.  
+I know from experience the effort involved and appriciate it. 
+Thank you.
+
+
+Best Wishes,
+
+John
+
+
+---------------------------- Message 030 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    jcsnyder<at>hupi.org
+Date:    Mon, August 2, 2004 4:53 am
+To:      angus_cameron<at>shaw.ca
+
+Hi Angus,
+
+The following discussion might be useful;
+
+http://www.hupi.org/HPeJ/0003/reference/Vectors.htm
+
+John
+
+
+
+---------------------------- Message 031 ---------------------------- 
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron<at>shaw.ca>
+Date:    Tue, August 3, 2004 3:01 pm
+To:      jcsnyder<at>hupi.org
+
+
+Thanks for the links.  Every little bit is helpful.
+
+Take a look at
+http://members.shaw.ca/bicyclescience/fit_to_Milliken/Fit_to_Millikens_data.html 
+I can see no other way to fit Milliken's data other than to change the  
+definition of Fy.
+
+BTW still no word from Doug M.
+
+Angus
+
+[quote snipped -- jcs]
+
+
+
+---------- August 3, 2004 ------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+From brian at wildsong.biz  Sun Feb 27 21:36:50 2011
+From: brian at wildsong.biz (Brian Wilson)
+Date: Sun, 27 Feb 2011 21:36:50 -0800
+Subject: [Velomobile] Fwd: mailing list move update
+In-Reply-To: <AANLkTikKpCXgLvcDYCBrtps6dtksZMpsLsvsDUXv6LEm@mail.gmail.com>
+References: <AANLkTikKpCXgLvcDYCBrtps6dtksZMpsLsvsDUXv6LEm@mail.gmail.com>
+Message-ID: <AANLkTikdbne1nPKD+epMm=AT_Qok+1=E=mio=J=+WoEz@mail.gmail.com>
+
+Greetings --
+
+This mailing list "velomobile at bikelist.org" is moving to "velomobile at hupi.org".
+
+The move will probably commence on Monday or Tuesday, depending on how
+busy we are. When Alex (at bikelist.org) is ready, he will turn off
+the list at bikelist.org so no new messages will be accepted there
+(this includes commands such as subscribe/unsubscribe requests). Alex
+will then send the list data to me and I will install it and
+reactivate the list at hupi.org.
+
+We're using the same software at both servers so in theory this should
+be a simple move.
+
+You don't have to do anything -- except start using the new address
+after the move.
+I will send another message when the list is running at hupi.org.
+
+--
+Brian Wilson
+bwilson at hupi.org
+
+Sorry, but if you're on more than one 'hpv' list you will be reading
+this message more than once!
+

@@ -1,0 +1,373 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=iso-8859-1">
+  
+  <title>HPeJ article 9, issue 2</title><style type="text/css">
+ <!--
+ body { padding-left: 40px; padding-right: 40px; }
+ h1 { text-align: left; font-size: 24px; font-weight: normal; }
+ p.SecondaryTitle { font-size: 18px; font-weight: bold; }
+ p.Abstract { text-align: left; font-style: italic; padding-left: 40px; padding-right: 40px; }
+ h3 { padding-top: 1ex; }
+ table.DataTable { border: solid 1px #444; background: #FFF; margin: 0; margin-bottom: 4px; }
+ td.TableTitle { background: #CCC; padding: 2px; padding-left: .5em; color: #000; font-weight: bold; }
+ td.LabelTop { width: 12ex; text-align: center; font-weight: bold; padding: .5ex; border-top: solid 1px #CCC; border-left: solid 1px #CCC; }
+ td.LabelLeft { width: 24ex; font-weight: bold; padding: .5ex; border-top: solid 1px #CCC; border-left: solid 1px #CCC; }
+ td.DataCellInteger { text-align: right; padding: .5ex; padding-right: 5ex; border-top: solid 1px #CCC; border-left: solid 1px #CCC; }
+ td.DataCellString { text-align: center; padding: .5ex; border-top: solid 1px #CCC; border-left: solid 1px #CCC; }
+ li { margin-bottom: 1ex; }
+ p { clear: left; }
+ .ImageCaption { font-style: normal; font-weight: bold; font-size: smaller; padding: 1ex; padding-left: 0; border: 0; }
+ img { border: solid 1px #444; padding: 0; margin: 0; margin-bottom: 4px; }
+ -->
+ </style></head>
+
+<body>
+<p style="text-align: center;"> <img src="../logo/HPeJ-sml.gif" alt="Human Power eJournal" style="border: 0pt none ;" height="50" width="400"> <br>
+<a href="http://www.hupi.org/HPeJ/index.htm">Contents</a> | <a href="http://www.hupi.org/HPeJ/about.htm">About</a> | <a href="http://www.hupi.org/HPeJ/contact.htm">Contact</a> </p>
+<p style="text-align: center;"> article 09, issue 02 <br>
+<br>
+</p>
+<h1>Analysis and Visualisation of Data Collected from Human-Electric
+Hybrid Bicycle-Tests</h1>
+<p class="AuthorAndDate">Andreas Fuchs<br>
+October 15, 2005<br><small>[Links checked February 2009]</small></p><p class="Abstract" style="font-weight: bold;">Abstract</p>
+<p class="Abstract">The German non-profit organization <a target="_blank" href="http://extraenergy.org">ExtraEnergy</a> tested
+human-electric hybrid vehicles&nbsp; in 2001 and in 2002, (e-bikes
+and pedelecs, see <a href="#Note:">note</a>).&nbsp; This paper
+compiles, visualizes and
+discusses the resulting data. Such compilations are
+helpful to benchmark new vehicles or drive systems, to show what
+levels of performance are common and&nbsp; to identify what kind of
+products are best suited for the user's intended application. </p>
+<p class="ImageCaption"><a href="http://www.swizzbee.ch"><img title="The Dolphin is now called Swizzbee" target="blank" alt="Dolphin electric bicycle" src="dolphin.jpg" style="border: 0pt none ; width: 360px; height: 240px;"></a><br>
+The Dolphin is an example of a commercially produced electric bike</p>
+<h3 style="clear: left;">Test Methods</h3>
+<p> A detailed description of these tests appears in ExtraEnergy's test
+reports <a href="#Note:">[1]</a> and <a href="#Note:">[2]</a>.&nbsp; Both
+trial series took place in realistic field conditions with many
+different
+riders. The tests were conducted both on mainly level and on mainly
+constant slope
+courses. On a "mixed track" portion of the testing,
+the riders stopped several times to simulate red lights.&nbsp; The
+distance vehicles were able to travel (range) was determined by
+riding until the batteries were considered discharged. </p>
+<p>Differences between both tests were:</p>
+<ol>
+  <li> In the 2001 test the assist ratio of electric power to human
+power wasn't measured.&nbsp; Climbing speed was recorded on two
+different ascending grades; one had&nbsp; an average 6.3% slope
+(max 8%), the other exhibited an average 8% slope (max 12%).&nbsp;
+Range on slopes was not recorded. </li>
+  <li>In the 2002 test the assist-ratio was measured by comparing the
+power assisted vehicles with similar unassisted bicycles.&nbsp; All
+vehicles were equipped with force-measuring pedals.&nbsp; Power
+(product of pedaling torque and cadence) was measured at three
+different speeds of the unassisted reference bike and for all
+assisted bikes. Electrical power used by the system was measured at
+the battery.</li>
+</ol>
+<h3>Test Data</h3>
+<p>The format in which the test data was reported was different in 2001
+and 2002. For easier analysis most of the data of both tests was
+compiled into a table. See <a href="#Appendix:">Appendix</a>.</p>
+<p> In 2002 the amount of power assist was reported using the assist
+rate (R) and the assist factor (F). The
+assist rate is the ratio of the electric drive power (Pe),
+measured at the battery to the total mechanical power delivered to
+the drive wheel (Pw). The assist factor is the ratio of
+electric drive power (Pe) to the human supplied power as measured at
+the pedals (Php).&nbsp; If the assist factor is
+greater than 1, then the electric power is greater than the human's
+power contribution.</p>
+<p>The assist rate and factor are derived as follows:<br>
+</p>
+<p>Php = Human power (pedalling power)<br>
+Pe = Power of the electric drive<br>
+Pw = Total drive power at wheel<br>
+R = Assist rate = Pe / Pw<br>
+F = Assist factor = Pe / Php = R / (1-R)</p>
+<p>Because the human energy contribution (Php) is measured at the
+pedals instead of at the drive wheel, these relationships assume a
+pedal drive efficiency of 100% whereas the efficiency of the motor
+drive is unknown. [This means that the
+assist factor measured here is higher than the actual effective assist
+factor. Ed.]</p>
+<p>These factors can be used to estimate the contributions of human
+power and electric power to range (at the same speeds):</p>
+<p>Range using electric power only = total range * assist rate<br>
+Range using human power only = total range - range using electric power
+only</p>
+<h3>Analysis</h3>
+<p><b>Drive Performance and Energy Expenditure</b></p>
+<p>It was found that most parameters hardly differed between the two
+tests.</p>
+<p>However, in 2002 the average battery capacity was higher than in
+2001: 193 Wh instead of 155 Wh.</p>
+<p>Bike prices didn't vary much within the same classes. The average
+price, excepting the fast Swiss bikes, was about 1500 Euro.</p>
+<p>Key results for both 2001 and 2002 were:</p>
+<ul>
+  <li>About 30 km range and 20 km/h average speed on level/mixed-track</li>
+  <li> About 7 km range at a speed of 11 km/h on slope of 7% [about 500
+m altitude gain, i.e. total range back to starting altitude would be at
+least 14 km, with higher average speed. Ed.]</li>
+</ul>
+<p class="ImageCaption">
+<table class="DataTable" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td class="TableTitle" colspan="6">
+      <p>In detail:</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="LabelTop" style="color: rgb(255, 255, 255);" colspan="2">x</td>
+      <td class="LabelTop">Average</td>
+      <td class="LabelTop">Standard<br>
+Deviation</td>
+      <td class="LabelTop">Min</td>
+      <td class="LabelTop">Max</td>
+    </tr>
+    <tr>
+      <td class="LabelLeft" style="width: 4ex;" rowspan="4">2001 &amp;
+2002</td>
+      <td class="LabelLeft">Vehicle mass (kg)</td>
+      <td class="DataCellInteger">29.1</td>
+      <td class="DataCellInteger">5.6</td>
+      <td class="DataCellInteger">18.1</td>
+      <td class="DataCellInteger">42.5</td>
+    </tr>
+    <tr>
+      <td class="LabelLeft">Battery mass (kg)</td>
+      <td class="DataCellInteger">5.9</td>
+      <td class="DataCellInteger">3.2</td>
+      <td class="DataCellInteger">2.2</td>
+      <td class="DataCellInteger">15.6</td>
+    </tr>
+    <tr>
+      <td class="LabelLeft">Range on the level (km)</td>
+      <td class="DataCellInteger">29.9</td>
+      <td class="DataCellInteger">8.3</td>
+      <td class="DataCellInteger">15.0</td>
+      <td class="DataCellInteger">49.6</td>
+    </tr>
+    <tr>
+      <td class="LabelLeft">Speed on the level (km/h)</td>
+      <td class="DataCellInteger">20.2</td>
+      <td class="DataCellInteger">2.5</td>
+      <td class="DataCellInteger">15.9</td>
+      <td class="DataCellInteger">24.6</td>
+    </tr>
+    <tr>
+      <td class="LabelLeft" style="width: 6ex;" rowspan="2">2002 only</td>
+      <td class="LabelLeft">Range on slope 7% (km)</td>
+      <td class="DataCellInteger">7.3</td>
+      <td class="DataCellInteger">2.3</td>
+      <td class="DataCellInteger">3.7</td>
+      <td class="DataCellInteger">11.6</td>
+    </tr>
+    <tr>
+      <td class="LabelLeft">Speed on slope 7% (km/h)</td>
+      <td class="DataCellInteger">10.8</td>
+      <td class="DataCellInteger">2.1</td>
+      <td class="DataCellInteger">7.7</td>
+      <td class="DataCellInteger">13.8</td>
+    </tr>
+  </tbody>
+</table>
+[Table 1] The highest variation (standard deviation divided by average)
+is found in weight of battery. Average speed varies relatively little.
+</p><p class="ImageCaption"><img src="fig-1.gif" style="border: 0pt none ;" name="figure 1"><br>
+[Figure 1] Ranges and average speeds of the tested bikes on the level.
+The average of ranges was about 30km and the average of average speeds
+was about 20 km/h. The top speed of most vehicles was (by law) under
+24km/h in hybrid mode; that of the Dolphin 39 km/h.</p>
+<p>Dividing range by battery capacity (see <a href="#Appendix:">Appendix</a>)
+gives energy use
+(including human power but not considering this in the calculation):</p>
+<ul>
+  <li>Energy use is about 0.18 km/Wh or 6 Wh/km on the level</li>
+  <li>Energy use is about 0.04 km/Wh or 27 Wh/km on the slopes</li>
+</ul>
+<p>Using the assist rate (calculated from data in Appendix) one can
+easily estimate how far the human electric hybrids would have gone
+using only electric power (at the same speed): (Range * Assist rate) =
+Range using electric power only. The "purely electric range" would
+average 16.5 km and the energy use would average&nbsp;12.4 Wh/km on the
+level.</p>
+<p>If it is assumed that all tested bikes would have the same
+aerodynamic drag (effective frontal area assumed to be 0.5 m2) and
+rolling resistance (coefficient of rolling resistance assumed to be
+0.007), then the ratio of the power needed to go on the level and to
+climb can be estimated. On the 7% slope at 11 km/h the total power
+required is about 2.5 times larger than on the level at 20 km/h. The
+ratio of energy use measured above is however 27 / 6 = 4.5. This is
+probably because at higher power levels the actual (in)efficiency of
+the electric drive weighs more strongly.</p>
+<p class="ImageCaption"><img src="fig-2.gif" style="border: 0pt none ;" name="figure 2"><br>
+[Figure 2] Average speed and energy use for various models.</p>
+<p>This shows that in general higher average speed leads to higher
+energy use (Wh/km) when riding on the level, but with considerable
+variations.</p>
+<p class="ImageCaption"><img src="fig-3.gif" style="border: 0pt none ;" name="figure 3"><br>
+[Figure 3] Assist factor on the level and on the slope for various
+models.</p>
+<p>On average, the assistance does not change much from the level to
+the slope: on the level the assist factor is 1.23, and on the slopes
+1.77. These ratios are higher than the 1 : 1 factor much promoted and
+discussed in the 1990's.</p>
+<p>These figures also show that while in many cases the assist factors
+do not differ much between level and slope, those of vehicles made in
+the hilly and alpine regions of Europe have much higher assist factors
+on slopes than on the level.</p>
+<h3>Dependencies between Parameters</h3>
+<p>By plotting parameters against others one can try to identify those
+most important for the performance.</p>
+<p>We plotted the "performance parameters" like range and speed over
+the "feature parameters" like price, weight of vehicle, weight of
+battery, assist factors in order to identify trends that could exist.
+Here are some results of interest.</p>
+<p>We would like to know the answers to questions like: "Do the lighter
+or the heavier bikes climb better?" "Does range on the level change
+much with average speed ?"</p>
+<p>In the graphs below, a linear regression line with an upward slope
+shows a positive correlation. The figure R<span style="vertical-align: super; font-size: 9pt;">2</span> gives the
+degree correlation between the parameters, from 0 (no correlation) to 1
+(strong correlation).</p>
+<p class="ImageCaption"><img src="fig-4.gif" style="border: 0pt none ;" name="figure 4"><br>
+[Figure 4] Speed on slope vs. battery capacity.</p>
+<p class="ImageCaption"><img src="fig-5.gif" style="border: 0pt none ;" name="figure 5"><br>
+[Figure 5] Speed on slope vs. assist factor.</p>
+<p class="ImageCaption">
+<table class="DataTable" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td class="TableTitle" colspan="5">
+      <p>Other (mainly expected) correlations:</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="LabelTop">Year of Test</td>
+      <td class="LabelTop">Parameter 2</td>
+      <td class="LabelTop">Parameter 1</td>
+      <td class="LabelTop">Slope</td>
+      <td class="LabelTop">R<span style="vertical-align: super; font-size: 9pt;">2</span></td>
+    </tr>
+    <tr>
+      <td class="DataCellString">2001</td>
+      <td class="DataCellString">Max. speed</td>
+      <td class="DataCellString">Price</td>
+      <td class="DataCellString">0.007 km/h/Euro</td>
+      <td class="DataCellInteger">0.72</td>
+    </tr>
+    <tr>
+      <td class="DataCellString">2001</td>
+      <td class="DataCellString">Speed on slope</td>
+      <td class="DataCellString">Battery capacity</td>
+      <td class="DataCellString">0.04 km/h/Wh</td>
+      <td class="DataCellInteger">0.38</td>
+    </tr>
+    <tr>
+      <td class="DataCellString">2001</td>
+      <td class="DataCellString">Speed on slope</td>
+      <td class="DataCellString">Mass of Bike</td>
+      <td class="DataCellString">0.32 km/h/kg</td>
+      <td class="DataCellInteger">0.36</td>
+    </tr>
+    <tr>
+      <td class="DataCellString">Both years</td>
+      <td class="DataCellString">Range on the level</td>
+      <td class="DataCellString">Battery capacity</td>
+      <td class="DataCellString">0.074 km/Wh</td>
+      <td class="DataCellInteger">0.29</td>
+    </tr>
+    <tr>
+      <td class="DataCellString">2002</td>
+      <td class="DataCellString">Speed on the level</td>
+      <td class="DataCellString">Assist factor</td>
+      <td class="DataCellString">1.94 km/h/[-]</td>
+      <td class="DataCellInteger">0.24</td>
+    </tr>
+    <tr>
+      <td class="DataCellString">2002</td>
+      <td class="DataCellString">Range on the level</td>
+      <td class="DataCellString">Assist factor</td>
+      <td class="DataCellString">6.5 km/[-]</td>
+      <td class="DataCellInteger">0.19</td>
+    </tr>
+    <tr>
+      <td class="DataCellString">Both years</td>
+      <td class="DataCellString">Energy use on the level</td>
+      <td class="DataCellString">Speed on the level</td>
+      <td class="DataCellString">0.3 Wh/km/km/h</td>
+      <td class="DataCellInteger">0.17</td>
+    </tr>
+  </tbody>
+</table>
+[Table 2] Examples of some stronger correlations between features and
+performance of vehicles
+</p><p>Examples for unexpectedly weak correlations:</p>
+<ul>
+  <li> Energy use on slope [Wh/km] versus assist factor [no units]</li>
+  <li> Energy use on slope [Wh/km] versus speed [km/h]</li>
+</ul>
+<p>The vehicles in the 2001 test climbed faster the heavier they were,
+since the available power depends on the mass of the motors and
+batteries, in contrast to unassisted bikes, where the opposite is true.
+[This implies an optimum configuration for each hybrid operating point.
+Ed.]</p>
+<p>Additionally, if batteries are dimensioned too small, the discharge
+efficiency is low at high power levels and therefore the range on
+slopes decreases.</p>
+<h3>Visualisation</h3>
+<p>The data may also be used to visualize general facts for individual
+vehicles or average values.</p>
+<p class="ImageCaption"><img src="fig-6.gif" style="border: 0pt none ;" name="figure 6"><br>
+[Figure 6] Averages of average speed vs. average slope.</p>
+<p>Average speed on the level is about 20 km/h (all samples), the
+maximum average speed 24.7 km/h (Velocity Dolphin). [Personal
+experience with the Dolphin also shows a much flatter curve. Ed.]</p>
+<p>At 10 % slope the tested vehicles go nearly 10 km/h.</p>
+<p>The dashed line is an extrapolation and suggests a maximum climbing
+slope of 18%. Exact values would depend on the actual gearing.</p>
+<p class="ImageCaption"><img src="fig-7.gif" style="border: 0pt none ;" name="figure 7"><br>
+[Figure 7] Average climbing height vs. horizontal distance.</p>
+<p>Such graphs in sales literature would help consumers decide on the
+suitability of vehicles for the planned usage.</p>
+<h3 id="references"><a name="Note:"></a>Note:</h3>
+<p>An e-bike may be defined as a bicycle equipped with an auxiliary electrical motor which operates independently from human power
+input.&nbsp; A pedelec (pedal electric) is a vehicle
+equipped with an auxiliary electric motor that operates only when the
+rider
+pedals. A legal definition of a pedelec at: <a target="blank" href="http://www.extraenergy.org/main.php?language=en&amp;category=information&amp;subcateg=39&amp;id=384">ExtraEnergy.org.</a><br>
+</p>
+<h3 id="references"><a href="#top" style="font-weight: normal; font-size: 10pt; font-variant: small-caps; float: right;">Top
+of Page</a>References:</h3>
+<p>[1] 2001 Test, Extra Energy e.V.,
+<a target="_blank" href="http://www.extraenergy.org/main.php?language=en&amp;category=products&amp;subcateg=30&amp;id=474">Testbericht.pdf</a></p>
+<p>[2] Pedelec / E-Bike-Test 2002, Extra Energy e.V.,
+<a target="_blank" href="http://www.extraenergy.org/main.php?language=en&amp;category=products&amp;id=467">TestberichtRaeder.pdf</a></p>
+<h3 id="" references=""><a name="Appendix:"></a>Appendix:</h3>
+<p>Spreadsheet of 2001 and 2002 tabulated results; public access
+(zipped XML) format (<a href="appendix.sxc">appendix.sxc</a> 11 KB) or
+proprietary format (<a href="appendix.xls">appendix.xls</a> 16KB)</p>
+<h3 id="" references="">About the author:</h3>
+<p>Dr. Andreas Fuchs (born 1963), at the date of publication worked as a researcher at the the
+  <a href="http://www.hti.bfh.ch"> Berne University of Applied Sciences</a>, School of Engineering and Information
+Technology in Biel, Switzerland, and led projects with human electric hybrid vehicles. Fuchs and Juerg Blatter developed a <a target="_blank" href="http://web.archive.org/web/20050910021902/http://www.hta-be.bfh.ch/%7Efuchs/Transmission/"> chainless
+transmission</a> for pedal powered machines in the periods 1996 to 1998 and 2000 to 2002.<br>
+<br>
+Andreas may be contacted at:<br>
+Gutenbergstrasse 24, CH-3011 Bern, Switzerland, +41 79 294 06 93,<br>
+andreas.fuchs AT bluewin DOT ch<br>
+  <br>
+  </p>
+
+<p style="text-align: center;"> <a href="http://www.hupi.org/HPeJ/index.htm">Contents</a> | <a href="http://www.hupi.org/HPeJ/about.htm">About</a> | <a href="http://www.hupi.org/HPeJ/contact.htm">Contact</a> <br>
+</p>
+<p style="text-align: center; font-weight: bold;">Human Power eJournal</p>
+<p style="height: 50%;">&nbsp;</p>
+<!-- empty paragraph allows References to be at top of page when accessed via hyperlink -->
+</body></html>

@@ -1,0 +1,124 @@
+From mlibrik at att.net  Mon Oct 26 05:56:04 2009
+From: mlibrik at att.net (Mike Librik)
+Date: Mon, 26 Oct 2009 08:56:04 -0500
+Subject: [hpv] roll down test to determine the efficiency advantage of
+	ceramic bearings
+Message-ID: <4AE5AA74.20208@att.net>
+
+Is anyone aware objective tests of these bearings?
+
+There are plenty of subjective statements that a user "felt faster" or 
+recorded a higher speed, but nothing that does actual side by side tests 
+under controlled circumstances.
+
+-- 
+Mike Librik, LCI #929
+League of Bicycling Voters
+Austin, TX
+(512) 567-4493
+
+Recumbent bikes & trikes
+for Central Texas:
+www.EasyStreetRecumbents.com
+
+From opusthepoet at gmail.com  Mon Oct 26 08:25:25 2009
+From: opusthepoet at gmail.com (John Clary)
+Date: Mon, 26 Oct 2009 16:25:25 +0000
+Subject: [hpv] roll down test to determine the efficiency advantage of
+	ceramic bearings
+In-Reply-To: <4AE5AA74.20208@att.net>
+References: <4AE5AA74.20208@att.net>
+Message-ID: <331917b10910260925r2da84769v305cd194f3c24125@mail.gmail.com>
+
+On Mon, Oct 26, 2009 at 1:56 PM, Mike Librik wrote:
+> Is anyone aware objective tests of these bearings?
+>
+> There are plenty of subjective statements that a user "felt faster" or
+> recorded a higher speed, but nothing that does actual side by side tests
+> under controlled circumstances.
+>
+> --
+> Mike Librik, LCI #929
+> League of Bicycling Voters
+> Austin, TX
+> (512) 567-4493
+>
+> Recumbent bikes & trikes
+> for Central Texas:
+> www.EasyStreetRecumbents.com
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored
+> by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+>
+The only tests I'm aware of found reductions in resistance of under
+10% compared to steel bearings, but then you have to remember that
+this was reductions in what was already a very small resistance, not a
+10% from some large value.
+
+Another interesting point was the biggest reduction was in dry ceramic
+bearings compared to greased steel bearings. Some ceramic bearings are
+designed to be run dry and deliver the same life as grease packed
+steel bearings, but are slightly more difficult to get set up
+correctly and transmit more noise than grease packed steel.
+
+-- 
+Opus
+
+Lycra Cyclists have Lance Armstrong
+
+Recumbent Cyclists have Sam Wittingham
+
+The Hells Angels have Sonny Barger
+
+E-bikers have---> Ed Begley Jr.
+
+We're totally screwed
+
+From hbb at cs.cmu.edu  Mon Oct 26 17:39:27 2009
+From: hbb at cs.cmu.edu (Ben Brown)
+Date: Mon, 26 Oct 2009 21:39:27 -0400
+Subject: [hpv] Magnets for triggering stop lights
+In-Reply-To: <4AE49C8C.9070901@exwis.com>
+References: <4AE47120.2070003@cs.cmu.edu> <4AE49C8C.9070901@exwis.com>
+Message-ID: <4AE64F4F.3020404@cs.cmu.edu>
+
+Well, it *does* seem that a permanent magnetic field wouldn't affect an 
+AC inductive sensor.
+
+	Ben
+
+Fulton Martin wrote:
+> I call B.S. Since the field falls off as the cube of the distance, 
+> sticking the magnet 10" from the pavement isn't going to be detectable 
+> at all. Better you place your wheels over the wires of the loop(s). See 
+> <http://www.humantransport.org/bicycledriving/library/signals/detection.htm> 
+> for more information.
+> 
+> Ben Brown wrote:
+>> Here's a simple technique claimed to trigger inductive sensors for 
+>> traffic signals. Has anyone tried this?
+>>
+>> http://www.magnet4less.com/product_info.php?products_id=754
+>>
+>>     Ben
+> 
+
+From jgtetz at msn.com  Sat Oct 31 18:15:07 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Sat, 31 Oct 2009 22:15:07 -0400
+Subject: [hpv] 6th Velomobile Seminar
+In-Reply-To: <mailman.15.1255460402.40120.hpv@bikelist.org>
+	<007a01ca4ca9$74113830$8078400a@PCROOT.COM>
+References: <mailman.15.1255460402.40120.hpv@bikelist.org>
+	<007a01ca4ca9$74113830$8078400a@PCROOT.COM>
+Message-ID: <COL102-DS2CA32AA6361D4B25F3909D7B40@phx.gbl>
+
+The Copenhagen 6th Velomobile Seminar papers are on the following URL
+downloadable as PDF. 
+
+http://www.liggecykelforeningen.dk/Designseminar/Proceedings<http://www.liggecykelforeningen.dk/Designseminar/Proceedings>
+
+John Tetz 
+
+

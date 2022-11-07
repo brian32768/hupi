@@ -1,0 +1,141 @@
+From bill.bushnell at pobox.com  Tue Jun 22 10:02:04 2010
+From: bill.bushnell at pobox.com (Bill Bushnell)
+Date: Tue, 22 Jun 2010 10:02:04 -0700
+Subject: [hpv] Photos from OHPVA PIR events over Memorial Day weekend 2010
+Message-ID: <AEAA4EDF-BD8D-465A-B43B-EF17ECEFC87B@pobox.com>
+
+Folks:
+
+Here are links to some online photo albums I put together of some of the PIR events.
+
+http://bit.ly/d8jFx1  - ePower Challenge 2010
+http://bit.ly/9Pd8yp  - HPC Road Race 2010
+http://bit.ly/9nFzMc  - HPC Obstacle Race (autocross) 2010
+http://bit.ly/9Nptwh  - Left Coast Velomobile Gathering 2010
+
+Bill Bushnell
+bill.bushnell at pobox.com
+
+
+
+
+
+From nick.hein at verizon.net  Thu Jun 24 04:38:50 2010
+From: nick.hein at verizon.net (Nick Hein)
+Date: Thu, 24 Jun 2010 07:38:50 -0400
+Subject: [hpv] Weather tight drivetrains
+Message-ID: <9AA8091C4C8645F6BDC776F6CC5FD17C@dv500015bcb074>
+
+Good morning,
+I know that many of the available velomobiles have the drivetrain mounted inside a tunnel to make them weathertight.  Can anyone point me to drawings of any of them?  I'm (still) designing such a system for a 2-wheel VM.  I'm pretty sure the Cab-bike and Quest have such a setup, but don't know where to find drawings.  In particular I'm interested in the ones where the chainring is between the bearings instead of on the outside.
+Thanks.
+Nick Hein
+Morgantown, WV
+-------------- next part --------------
+
+No virus found in this outgoing message.
+Checked by AVG - www.avg.com 
+Version: 9.0.829 / Virus Database: 271.1.1/2959 - Release Date: 06/23/10 14:35:00
+
+From johnriley1 at rogers.com  Thu Jun 24 05:16:01 2010
+From: johnriley1 at rogers.com (John Riley)
+Date: Thu, 24 Jun 2010 05:16:01 -0700
+Subject: [hpv] Weather tight drivetrains
+In-Reply-To: <9AA8091C4C8645F6BDC776F6CC5FD17C@dv500015bcb074>
+References: <9AA8091C4C8645F6BDC776F6CC5FD17C@dv500015bcb074>
+Message-ID: <96D89E70-B39D-429E-8DD8-79A18DC345F1@rogers.com>
+
+You might take a look at the Flevobike Greenmachine.  For example:
+
+http://www.flevobike.nl/gallery/Persmap/GreenMachine_05
+
+http://www.flevobike.nl/content/view/16/79/lang,en/
+
+
+On Jun 24, 2010, at 4:38 AM, Nick Hein wrote:
+
+> Good morning,
+> I know that many of the available velomobiles have the drivetrain  
+> mounted inside a tunnel to make them weathertight.  Can anyone point  
+> me to drawings of any of them?  I'm (still) designing such a system  
+> for a 2-wheel VM.  I'm pretty sure the Cab-bike and Quest have such  
+> a setup, but don't know where to find drawings.  In particular I'm  
+> interested in the ones where the chainring is between the bearings  
+> instead of on the outside.
+> Thanks.
+> Nick Hein
+> Morgantown, WV
+> No virus found in this outgoing message.
+> Checked by AVG - www.avg.com
+> Version: 9.0.829 / Virus Database: 271.1.1/2959 - Release Date:  
+> 06/23/10 14:35:00
+> --
+> This message comes to you via the hpv at bikelist.org mailing list,  
+> sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your  
+> subscription.
+
+
+From jw.stephens at gmail.com  Thu Jun 24 05:55:09 2010
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Thu, 24 Jun 2010 05:55:09 -0700
+Subject: [hpv] Weather tight drivetrains
+In-Reply-To: <96D89E70-B39D-429E-8DD8-79A18DC345F1@rogers.com>
+References: <9AA8091C4C8645F6BDC776F6CC5FD17C@dv500015bcb074>
+	<96D89E70-B39D-429E-8DD8-79A18DC345F1@rogers.com>
+Message-ID: <AANLkTinrKa-NqhnpH5wwDUbTXljXevJdoy0TMyxw-pAW@mail.gmail.com>
+
+The Versatile also uses a two-chains-in-tunnels setup. One chain from
+the chainring to the usual output side of the Speedhub, which is
+mounted in the pivot point of the swingarm, and the second chain down
+the swingarm to the rear wheel drive cog. The Speedhub is mounted to
+the left side of the swingarm shell only.
+
+Some pictures of this are in this PDF:
+http://www.lobosolo.com/ref/fv/Versatile5kkmService.pdf
+
+On Thu, Jun 24, 2010 at 05:16, John Riley <johnriley1 at rogers.com> wrote:
+> You might take a look at the Flevobike Greenmachine. ?For example:
+>
+> http://www.flevobike.nl/gallery/Persmap/GreenMachine_05
+>
+> http://www.flevobike.nl/content/view/16/79/lang,en/
+>
+>
+> On Jun 24, 2010, at 4:38 AM, Nick Hein wrote:
+>
+>> Good morning,
+>> I know that many of the available velomobiles have the drivetrain mounted
+>> inside a tunnel to make them weathertight. ?Can anyone point me to drawings
+>> of any of them? ?I'm (still) designing such a system for a 2-wheel VM. ?I'm
+>> pretty sure the Cab-bike and Quest have such a setup, but don't know where
+>> to find drawings. ?In particular I'm interested in the ones where the
+>> chainring is between the bearings instead of on the outside.
+>> Thanks.
+>> Nick Hein
+>> Morgantown, WV
+
+-- 
+I must have a prodigous quantity of mind; it takes me a week sometimes
+to make it up.
+--Mark Twain, Innocents Abroad
+
+From bill.bushnell at pobox.com  Fri Jun 25 10:03:11 2010
+From: bill.bushnell at pobox.com (Bill Bushnell)
+Date: Fri, 25 Jun 2010 10:03:11 -0700
+Subject: [hpv] Photos from HPV Fun Day at Hellyer Velodrome, San Jose, CA
+Message-ID: <AFEC8417-825E-4339-A113-D2A61ACDCE6A@pobox.com>
+
+Folks:
+
+Here are links to an online photo album I put together of the races last weekend at Hellyer Velodrome.
+
+http://bit.ly/9nqUuH
+
+Bill Bushnell
+bill.bushnell at pobox.com
+
+
+
+
+

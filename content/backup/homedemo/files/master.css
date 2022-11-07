@@ -1,0 +1,112 @@
+body { 
+	margin: 0; 
+	}
+table#maintable { 
+	width: 800px; 
+	margin-top: 20px; 
+	}
+td#titlebanner { 
+	text-align: right; 
+	}
+td#links { 
+	text-align: right; 
+	padding: 6px; 
+	vertical-align: top; 
+	}
+td#links a { 
+	margin: 0; 
+	padding-top: 3px; 
+	padding-right: 6px; 
+	padding-bottom: 3px; 
+	padding-left: 6px; 
+	text-decoration: none; 
+	font-weight: bold; 
+	font-size: 10pt; 
+	}
+td#leftsidebar { 
+	width: 210px; 
+	padding: 6px; 
+	vertical-align: top; 
+	}
+div#datedisplay {	
+	text-align: left; 
+	font-size: 9pt; 
+	height: 1em; 
+	margin-top: -1em; 
+	}
+div#linkslsb {
+	text-align: center; 
+	}
+div#linkslsb a {
+	margin: 0; 
+	padding-top: 3px; 
+	padding-right: 6px; 
+	padding-bottom: 3px; 
+	padding-left: 6px; 
+	text-decoration: none; 
+	font-weight: normal; 
+	font-size: 10pt; 
+	}
+td#content { 
+	width: 590px; 
+	padding: 6px; 
+	vertical-align: top; 
+	}
+div#infoblock { 
+	margin: 0; 
+	margin-bottom: 6px; 
+	padding: 6px; 
+	}
+div#infotitle { 
+	padding: 2px; 
+	padding-left: 6px; 
+	font-size: 11pt; 
+	font-weight: bold; 
+	vertical-align: bottom; 
+	}
+div#infocredit { 
+	padding: 0; 
+	font-size: 8pt; 
+	text-align: left; 
+	}
+div#infocontent { 
+	padding-top: 6px; 
+	padding-right: 12px; 
+	padding-bottom: 9px; 
+	padding-left: 12px; 
+	font-size: 10pt; 
+	}
+div#infocontentlsb { 
+	padding-top: 6px; 
+	padding-right: 6px; 
+	padding-bottom: 9px; 
+	padding-left: 6px; 
+	font-size: 10pt; 
+	}
+ul { 
+	padding: 0; 
+	margin: 0; 
+	margin-left: 12px; 
+	}
+p { 
+	margin: 0; 
+	}
+form { 
+	padding: 0; 
+	margin: 0; 
+	}
+td#footer { 
+	padding: 2px; 
+	text-align: center; 
+	font-size: 9pt; 
+	}
+img { 
+	border: 0; 
+	}
+img.float {
+	float: left;
+	padding: 4px; 
+	border: solid 1px #880000; 
+	margin: 0px; 
+	}
+a { text-decoration: none; }

@@ -1,0 +1,1206 @@
+From rickwill at bigpond.net.au  Fri Apr  1 05:17:54 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 1 Apr 2011 20:17:54 +1100
+Subject: [hpv-boats] New Server
+Message-ID: <15FAD339-5180-4A0C-ABB2-66A866DD9D14@bigpond.net.au>
+
+Is this the new address for the HPB list?
+
+Rick Willoughby
+
+
+
+From rickwill at bigpond.net.au  Fri Apr  1 08:49:07 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 1 Apr 2011 23:49:07 +1100
+Subject: [hpv-boats] Fwd: Human Power Output
+References: <C86F1F04-4CDE-4395-950E-C7FA90FD10BA@bigpond.net.au>
+Message-ID: <04ECDE35-58E8-4C64-951F-6699808AED5B@bigpond.net.au>
+
+This is an old one that got lost in the transfer.
+
+Begin forwarded message:
+
+> From: Rick Willoughby <rickwill at bigpond.net.au>
+> Date: 25 March 2011 11:55:12 PM
+> To: HPV Boat <hpv-boats at bikelist.org>
+> Subject: Human Power Output
+>
+> Brad
+> re
+>
+>
+> The figure I'm most interested in is
+>
+> speed/watts sustained
+>
+> speed/watts in a sprint
+>
+>
+> with a mono-hull design.
+>
+>
+>
+>
+> Brad
+>
+> This link provides a spreadsheet that shows the specific power for  
+> males and females for certain durations at various levels of training.
+> http://home.trainingpeaks.com/media/69406/powerprofiling_v4.xls
+> Given other data I have seen on top athletes this seems fair.
+>
+> The bottom category of untrained does not mean unfit.  A 75kg male  
+> needs to be in good shape to sustain 150W i.e. 2W/kg.  This is  
+> shown as the bottom end of untrained in the spreadsheet but there  
+> are a number of world 24hr distance records on land and water that  
+> have been set with lower power levels than this.
+>
+> The speed that can be achieved depends primarily on the total boat  
+> weight and the hull shape.
+>
+> An optimised boat built for minimum weight (18kg for the boat is  
+> the best I know) using high specific strengthmaterials will get  
+> about 12kph with 150W - in calm conditions.  Speed will be lower  
+> with a head wind and wind waves.
+>
+> The same hull will get around 18kph with 500W.  This is similar to  
+> a rowing shell and a little faster than a K1 or surfski.  Once you  
+> get up to this sort of power it is better to use foils rather than  
+> optimising the hull shape if operating in clear water and your  
+> interest is solely outright speed. Decavitator average about 36kph  
+> over 100m.
+>
+> Rick Willoughby
+>
+>
+
+Rick Willoughby
+
+
+
+From rickwill at bigpond.net.au  Sun Apr  3 09:56:47 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 3 Apr 2011 23:56:47 +1000
+Subject: [hpv-boats] converting pedal power to prop power right angles
+	dennis
+Message-ID: <AB069522-EBB7-40AB-97CE-7AE8D99C82BD@bigpond.net.au>
+
+Dennis
+The torque on the crank varies approximately sinusoidally because the  
+model assumes the leg force is constant.  The sinusoid shape results  
+from the effective lever length of the crank varying from zero at the  
+dead spot up to the full crank length at the maximum torque.  This  
+applied torque is the red trace that I call "leg drive" - it is  
+mislabelled (N); it should be(Nm), being the crank torque.  Note that  
+I do not force the sinusoidal motion - the shape of the curve is the  
+result of the constant leg force and the effective lever length of  
+the crank.  So the more the crank speed varies the more the shape of  
+the curve departs from a true sinusoidal shape.
+
+If there was no compliance in the shaft then the thrust curve would  
+be a similar sinusoidal curve to the crank torque and it would be in  
+phase.  The crank speed would be almost a straight line with a small  
+amplitude sinusoidal wave impressed in phase with the crank.  When  
+the shaft has compliance there is a lag between the crank torque and  
+the thrust.
+
+At the dead spot the shaft is completely unwound, or even wound in  
+reverse due to the boat driving the crank.  After the deadspot the  
+increasing torque, with little resistance from the shaft due toits   
+unwound state, enables high crank speed to the point where the shaft  
+gets wound up and starts accelerating the boat and slowing the crank  
+speed.  In the curve you refer to the average crank speed is 71rpm  
+but it overshoots to about 82rpm.  The slowing from 82rpm back to  
+71rpm causes an increase in boat speed over the average.
+
+There is an exchange of energy between the shaft spring energy and  
+the boat momentum.  The frequency of this is a function of the boat  
+mass and the shaft spring constant.  The more compliant the shaft  
+then the greater the amount of energy transfer between shaft and boat  
+momentum.  In fact if you look at the second chart I linked to with  
+the very compliant shaft then you can see there is some variation in  
+the boat speed:
+http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to4%20_flex.pdf
+This is similar to the sort of speed variation that you would see in  
+a rowing shell that has momentum transfer from body to boat and  
+thrust variation due to the stroking of the oars.
+
+If you replaced your steel shaft with an aluminium shaft of same  
+diameter you will have enough compliance to reduce your biomechanical  
+efficiency and the dynamics will be more apparent.  A good shaft will  
+have similar feel to a bike on the road i.e. very well connected  
+rather than rubbery.
+
+Rick
+
+
+
+Hi Rick
+On your dynamic model of crank drive for the V14 hull with 1.4 gear  
+ratio:-
+The thrust curve has a major dip just after the peak, what causes  
+this as
+there is not a similar dip in the leg drive.
+
+Dennis
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+
+From rickwill at bigpond.net.au  Thu Apr 28 21:28:06 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 29 Apr 2011 11:28:06 +1000
+Subject: [hpv-boats] Pedal Thruster
+Message-ID: <870F0B8A-AB8A-4EE5-B496-B9BBCD6B5EBA@bigpond.net.au>
+
+An update on the pedal thrusters for Peccadillo.
+
+The big catamaran won the Three Peaks Race this year:
+http://www.abc.net.au/news/stories/2011/04/25/3199840.htm
+
+The win was due primarily to sailing ability.  They managed a  
+slightly faster trip using the thrusters when the wind died in the  
+Derwent River on the final sailing leg.
+
+There is a good photo of the cat with thrusters mounted at the start  
+of the race here (image can be enlarged):
+http://www.sail-world.com/UK/Australian-Three-Peaks-Race-2011-starts- 
+off-at-a-cracking-pace/82737
+The drive legs are folded up with the big prop on the back of the  
+seat.  The thrusters were secured in this place for the whole race.
+
+Charles said that during the pre race testing and up the Derwent two  
+pedalers could hold 2.4 to to 2.5kts working on 30 minute rotation.   
+The other boats could hold about 1.5 knots using oars.
+
+Rick Willoughby
+
+
+
+
+From stephanerousson at gmail.com  Fri Apr 29 04:37:56 2011
+From: stephanerousson at gmail.com (stephane rousson)
+Date: Fri, 29 Apr 2011 10:37:56 +0200
+Subject: [hpv-boats] Les News du Submersible Scubster
+In-Reply-To: <BANLkTi==4pEmLLg2F-uFpb3S0PeES5YEGg@mail.gmail.com>
+References: <BANLkTi==4pEmLLg2F-uFpb3S0PeES5YEGg@mail.gmail.com>
+Message-ID: <BANLkTim2e1pz=nUBsAd2R0-DT=O4AO1bfA@mail.gmail.com>
+
+Bonjour ? tous,
+
+voici les derni?res news de notre sous-marin et de notre association
+Endlessflyers
+
+Cliquez sur la pi?ce jointe pour ouvrir la lettre
+
+bonne journ?e ? tous,
+
+-- 
+Stephane Rousson
+0033(0)603838276
+www.rousson.org
+www.scubster.org
+
+
+
+
+
+-- 
+Stephane Rousson
+0033(0)603838276
+www.rousson.org
+www.scubster.org
+
+
+
+
+
+-- 
+Stephane Rousson
+0033(0)603838276
+www.rousson.org
+www.scubster.org
+
+
+
+
+
+-- 
+Stephane Rousson
+0033(0)603838276
+www.rousson.org
+www.scubster.org
+
+
+
+
+
+-- 
+Stephane Rousson
+0033(0)603838276
+www.rousson.org
+www.scubster.org
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: scubster news 2011-04.eml
+URL: <http://hupi.org/pipermail/hpv-boats/attachments/20110429/2405f39f/attachment-0001.ksh>
+
+From hpv_of_earth at yahoo.com  Sun May  1 22:33:20 2011
+From: hpv_of_earth at yahoo.com (mark McWilliams)
+Date: Sun, 1 May 2011 19:33:20 -0700 (PDT)
+Subject: [hpv-boats] changing direction of drive 90 degrees
+Message-ID: <365265.29269.qm@web114711.mail.gq1.yahoo.com>
+
+Has anyone tried using a automotive fan belt to change the direction of power transfer 90 degrees.
+?That is to say go from pedals to gear then at gear use the fan belt to change the direction of power 90 degrees to the propeller by twisting/turning the fan belt the 90 degrees over some distance like a few feet.
+?Or possibly from the pedals to the propeller, I like the idea of going to some gears so that it might be possible to increase propeller rotation significantly while keeping cadence at a pace I can more easily manage.
+
+From iancassell at optusnet.com.au  Mon May  2 04:09:16 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Mon, 2 May 2011 18:09:16 +1000
+Subject: [hpv-boats] changing drive direction
+Message-ID: <F5384B1715C44C60817C036DD852F93D@HOME1>
+
+Mark
+         Problem I see with using a fan belt is the
+slippage. When tensioned enough to stop the
+belt from slipping as the prop spins the friction 
+losses would be very high. That is most of your
+effort goes into turning the cranks and not a lot
+of that power turning the prop. Belts such as the
+timimg belts used in cars may be a better alternative
+as they would give a positive grip without a lot
+of friction to overcome.
+
+Ian  
+
+From rickwill at bigpond.net.au  Mon May  2 20:17:34 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 3 May 2011 10:17:34 +1000
+Subject: [hpv-boats] Belt Drive
+Message-ID: <88AF0CCF-7B79-4AFC-9983-F2D9B3C5CBB0@bigpond.net.au>
+
+Mark
+As Ian pointed out the typical V-belt will have poor efficiency for a  
+pedal drive.
+
+I have used toothed belts and they can be set up nip idlers to have  
+very low losses.
+
+Nauticraft go a step further using a toothed belt in a twisted  
+configuration.  It feels nice and seems reliable.  THere is a sketch  
+in this brochure:
+http://www.nauticraft.com/downloads/ 
+escapade_pedal_boat_brochure_9_2008.pdf
+
+
+Has anyone tried using a automotive fan belt to change the direction  
+of power transfer 90 degrees.
+  That is to say go from pedals to gear then at gear use the fan belt  
+to change the direction of power 90 degrees
+to the propeller by twisting/turning the fan belt the 90 degrees over  
+some distance like a few feet.
+  Or possibly from the pedals to the propeller, I like the idea of  
+going to some gears so that it might be
+possible to increase propeller rotation significantly while keeping  
+cadence at a pace I can more easily manage.
+
+Rick Willoughby
+
+
+
+From Rickwill at bigpond.net.au  Mon Jun 13 10:11:26 2011
+From: Rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 14 Jun 2011 00:11:26 +1000
+Subject: [hpv-boats] IHPVA Site
+In-Reply-To: <e701ef17-8302-4c29-918d-24243f6eaf67@blur>
+References: <C21C4F58-768C-40F3-9B1C-37F2A3490EE1@bigpond.net.au>
+	<e701ef17-8302-4c29-918d-24243f6eaf67@blur>
+Message-ID: <01B37F41-75F8-4236-8572-F9360E3541BD@bigpond.net.au>
+
+Mike try both of these:
+hpv-boats at hupi.org
+hpv-boats at bikelist.org
+
+I think they both still work.
+Rick
+On 13/06/2011, at 11:48 PM, michael at lampi.us wrote:
+
+> I would, but my e-mail is not configured properly to have the  
+> different from and return addresses needed for the list.
+>
+> Never got around to it, and the traffic was a bit low.
+> Connected by DROID on Verizon Wireless
+>
+>
+> -----Original message-----
+> From: Rick Willoughby <Rickwill at bigpond.net.au>
+> To: "michael at lampi.us Lampi" <michael at lampi.us>
+> Sent: Mon, Jun 13, 2011 08:38:41 GMT+00:00
+> Subject: IHPVA Site
+>
+> Mike
+> Are you going to make a post on the IHPVA site regarding the maiden  
+> voyage?
+>
+> Rick Willoughby
+> rickwill at bigpond.net.au
+> 03 9796 2415
+> 0419 104 821
+>
+>
+>
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+
+From drumbolo at gmail.com  Thu Jun 16 10:46:06 2011
+From: drumbolo at gmail.com (Dom Rumbolo)
+Date: Thu, 16 Jun 2011 07:46:06 -0700
+Subject: [hpv-boats] Flex Shaft Material Selection
+Message-ID: <BANLkTi=EAPZpGOmXKVALXQ+C1bwpmYKeVg@mail.gmail.com>
+
+Hi Rick and the rest of the list,
+
+
+
+First of all I?d like to thank you for your huge contribution to human
+powered boating.  I?ve followed your threads around the Internet and it?s
+been a great inspiration.
+
+
+
+I?m starting on my pedal-powered build, using a fiberglass surf ski as the
+foundation.  I picked up a T-gearbox at 2:1, and plan to start with the APC
+16x16 prop, a 5/16? steel flex shaft, and chain gearing.  As has been
+mentioned, finding spring steel in the US is not easy.  Doing some research
+on the Internet, this is what I?ve come up with and I?d appreciate your
+input:
+
+
+
+A search for spring steel yields several grades of steel, including 1095:
+http://www.tmtco.com/products/spring-steel.html
+
+
+
+Trying to find 1095 steel, I see that it is equivalent to W1 drill rod:
+http://forums.dfoggknives.com/index.php?showtopic=6783
+
+
+
+Can?t find W1 drill rod in anything longer than 3?, but I see that A2 drill
+rod is similar: http://www.onlinemetals.com/toolsteelguide.cfm
+
+
+
+A2 drill rod is available in 6? length and fairly cheap:
+http://www.mcmaster.com/#8888k416/ $26 shipped
+
+
+
+Alternatively, flexible sewer rod is available:
+http://www.flexmax.com/maxlife/cat1.html (MDA-72LC, powder coated) $41
+shipped
+
+
+
+I?m not sure of the material properties of the sewer rod, but it is nice
+that it comes powder coated.  Here is some data on A2 drill rod:
+http://cartech.ides.com/datasheet.aspx?i=103&e=262&c=techart
+
+
+
+Thanks,
+
+Dominic
+
+From rickwill at bigpond.net.au  Thu Jun 16 18:30:53 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 17 Jun 2011 08:30:53 +1000
+Subject: [hpv-boats] Flex Shaft Material Selection (Dom Rumbolo)
+In-Reply-To: <mailman.3.1308240006.7782.hpv-boats@hupi.org>
+References: <mailman.3.1308240006.7782.hpv-boats@hupi.org>
+Message-ID: <BCC53818-43BA-48B0-9FAD-D0BEB94009F5@bigpond.net.au>
+
+Dominic
+The sewer rod is probably the better selection.  I have seen these  
+rods in use and suspect they are spring steel but am not certain of  
+this.  The end fittings are similar to what I have done with spring  
+steel although with  5/16" diameter you do not need to be fancy if  
+the connection is not seeing the bending stress.  Irrespective these  
+end fittings give you something to work with for connecting to prop  
+and gearbox.  So that is added value.  I have paid $60 for a single  
+connector before I started making my own.
+
+Assuming they are spring steel then you should aim to arrange with at  
+least 3.5m radius curve.  For the 1.8m length you can drop 0.5m.  The  
+prop shaft will need to be around 250mm below the surface so the  
+gearbox cannot be any higher than 250mm above the surface.  This  
+should be easily achievable with a surf ski.  The output shaft on the  
+gearbox will angle down at 30 degrees.  If you can get the gearbox  
+closer to the water then that is even better.  Obviously the down  
+angle of the shaft will reduce in this case.
+
+The surfski should be a good platform.  I have modelled an Epic V10  
+hull to check performance and they are a slick hull.  If you have  
+something similar it will go well.  You will not operate it reliably  
+without stabilisers - CoG will be too high.  For smooth water  
+operation you can have stabilisers mid mounted.  If you want to  
+operate in waves then mount them toward the stern to reduce flop  
+roll.  Use two not one.  They need to be long and slender with a  
+volume at least 15 litres.
+
+The 5/16" shaft with 16X16 prop will have very good feel - similar to  
+riding a bike.  With the 1:2 box you will need around 1:3.5 in the  
+chain.  This is a nice ratio as you can use mountain bike stuff.    
+You can side mount the prop so it can be reached for cleaning.  The  
+shaft strut will need to be stiff enough to prevent the prop from  
+hitting the hull when you turn.
+
+ From a practical use point of view, weight is really critical.  You  
+should make an estimate of weight.  Count every nut and washer.  Make  
+allowance for paint.  You should target 20kg or less.
+
+As a matter of interest Mike Lampi launched his V15-6m last weekend:
+http://hpb-er.blogspot.com/
+He has some minor issues to sort but it went well for first time out.
+
+I plan to give my V15-6m its first run this weekend.
+
+Rick
+
+> Date: Thu, 16 Jun 2011 07:46:06 -0700
+> From: Dom Rumbolo <drumbolo at gmail.com>
+> To: hpv-boats at hupi.org
+> Subject: [hpv-boats] Flex Shaft Material Selection
+> Message-ID: <BANLkTi=EAPZpGOmXKVALXQ+C1bwpmYKeVg at mail.gmail.com>
+> Content-Type: text/plain; charset=windows-1252
+>
+> Hi Rick and the rest of the list,
+>
+>
+>
+> First of all I?d like to thank you for your huge contribution to human
+> powered boating.  I?ve followed your threads around the Internet  
+> and it?s
+> been a great inspiration.
+>
+>
+>
+> I?m starting on my pedal-powered build, using a fiberglass surf ski  
+> as the
+> foundation.  I picked up a T-gearbox at 2:1, and plan to start with  
+> the APC
+> 16x16 prop, a 5/16? steel flex shaft, and chain gearing.  As has been
+> mentioned, finding spring steel in the US is not easy.  Doing some  
+> research
+> on the Internet, this is what I?ve come up with and I?d appreciate  
+> your
+> input:
+>
+>
+>
+> A search for spring steel yields several grades of steel, including  
+> 1095:
+> http://www.tmtco.com/products/spring-steel.html
+>
+>
+>
+> Trying to find 1095 steel, I see that it is equivalent to W1 drill  
+> rod:
+> http://forums.dfoggknives.com/index.php?showtopic=6783
+>
+>
+>
+> Can?t find W1 drill rod in anything longer than 3?, but I see that  
+> A2 drill
+> rod is similar: http://www.onlinemetals.com/toolsteelguide.cfm
+>
+>
+>
+> A2 drill rod is available in 6? length and fairly cheap:
+> http://www.mcmaster.com/#8888k416/ $26 shipped
+>
+>
+>
+> Alternatively, flexible sewer rod is available:
+> http://www.flexmax.com/maxlife/cat1.html (MDA-72LC, powder coated) $41
+> shipped
+>
+>
+>
+> I?m not sure of the material properties of the sewer rod, but it is  
+> nice
+> that it comes powder coated.  Here is some data on A2 drill rod:
+> http://cartech.ides.com/datasheet.aspx?i=103&e=262&c=techart
+>
+>
+>
+> Thanks,
+>
+> Dominic
+>
+>
+>
+
+
+
+
+
+From vgarza2 at satx.rr.com  Fri Jun 17 12:51:25 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Fri, 17 Jun 2011 11:51:25 -0500
+Subject: [hpv-boats] Flex Shaft Material Selection (Dom Rumbolo)
+In-Reply-To: <BCC53818-43BA-48B0-9FAD-D0BEB94009F5@bigpond.net.au>
+References: <mailman.3.1308240006.7782.hpv-boats@hupi.org>
+	<BCC53818-43BA-48B0-9FAD-D0BEB94009F5@bigpond.net.au>
+Message-ID: <D2A1793CD34E41BA872B7A513343461C@vgarzaPC>
+
+
+Rick:
+
+Thanks for the link to Mike Lampi's boat, very interesting. I noticed Mike 
+is working on some steering issues.
+
+Ian from Oz land (I57) has developed a way to steer by using a lever system 
+to move the flex shaft sideways. Seems to work a lot better than the 
+different rudder systems he has tried on his boat. Prophish also used a 
+somewhat different system involving a fexible joint at the prop end of their 
+sheathed shaft system. 
+http://www.boatdesign.net/forums/boat-design/pedal-powered-boats-23345-75.html 
+post #1114
+
+Hope this helps.
+
+Vic
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: <hpv-boats at hupi.org>
+Sent: Thursday, June 16, 2011 5:30 PM
+Subject: Re: [hpv-boats] Flex Shaft Material Selection (Dom Rumbolo)
+
+
+> Dominic
+> The sewer rod is probably the better selection.  I have seen these  rods 
+> in use and suspect they are spring steel but am not certain of  this.  The 
+> end fittings are similar to what I have done with spring  steel although 
+> with  5/16" diameter you do not need to be fancy if  the connection is not 
+> seeing the bending stress.  Irrespective these  end fittings give you 
+> something to work with for connecting to prop  and gearbox.  So that is 
+> added value.  I have paid $60 for a single  connector before I started 
+> making my own.
+>
+> Assuming they are spring steel then you should aim to arrange with at 
+> least 3.5m radius curve.  For the 1.8m length you can drop 0.5m.  The 
+> prop shaft will need to be around 250mm below the surface so the  gearbox 
+> cannot be any higher than 250mm above the surface.  This  should be easily 
+> achievable with a surf ski.  The output shaft on the  gearbox will angle 
+> down at 30 degrees.  If you can get the gearbox  closer to the water then 
+> that is even better.  Obviously the down  angle of the shaft will reduce 
+> in this case.
+>
+> The surfski should be a good platform.  I have modelled an Epic V10  hull 
+> to check performance and they are a slick hull.  If you have  something 
+> similar it will go well.  You will not operate it reliably  without 
+> stabilisers - CoG will be too high.  For smooth water  operation you can 
+> have stabilisers mid mounted.  If you want to  operate in waves then mount 
+> them toward the stern to reduce flop  roll.  Use two not one.  They need 
+> to be long and slender with a  volume at least 15 litres.
+>
+> The 5/16" shaft with 16X16 prop will have very good feel - similar to 
+> riding a bike.  With the 1:2 box you will need around 1:3.5 in the  chain. 
+> This is a nice ratio as you can use mountain bike stuff.    You can side 
+> mount the prop so it can be reached for cleaning.  The  shaft strut will 
+> need to be stiff enough to prevent the prop from  hitting the hull when 
+> you turn.
+>
+> From a practical use point of view, weight is really critical.  You 
+> should make an estimate of weight.  Count every nut and washer.  Make 
+> allowance for paint.  You should target 20kg or less.
+>
+> As a matter of interest Mike Lampi launched his V15-6m last weekend:
+> http://hpb-er.blogspot.com/
+> He has some minor issues to sort but it went well for first time out.
+>
+> I plan to give my V15-6m its first run this weekend.
+>
+> Rick
+>
+>> Date: Thu, 16 Jun 2011 07:46:06 -0700
+>> From: Dom Rumbolo <drumbolo at gmail.com>
+>> To: hpv-boats at hupi.org
+>> Subject: [hpv-boats] Flex Shaft Material Selection
+>> Message-ID: <BANLkTi=EAPZpGOmXKVALXQ+C1bwpmYKeVg at mail.gmail.com>
+>> Content-Type: text/plain; charset=windows-1252
+>>
+>> Hi Rick and the rest of the list,
+>>
+>>
+>>
+>> First of all I?d like to thank you for your huge contribution to human
+>> powered boating.  I?ve followed your threads around the Internet  and 
+>> it?s
+>> been a great inspiration.
+>>
+>>
+>>
+>> I?m starting on my pedal-powered build, using a fiberglass surf ski  as 
+>> the
+>> foundation.  I picked up a T-gearbox at 2:1, and plan to start with  the 
+>> APC
+>> 16x16 prop, a 5/16? steel flex shaft, and chain gearing.  As has been
+>> mentioned, finding spring steel in the US is not easy.  Doing some 
+>> research
+>> on the Internet, this is what I?ve come up with and I?d appreciate  your
+>> input:
+>>
+>>
+>>
+>> A search for spring steel yields several grades of steel, including 
+>> 1095:
+>> http://www.tmtco.com/products/spring-steel.html
+>>
+>>
+>>
+>> Trying to find 1095 steel, I see that it is equivalent to W1 drill  rod:
+>> http://forums.dfoggknives.com/index.php?showtopic=6783
+>>
+>>
+>>
+>> Can?t find W1 drill rod in anything longer than 3?, but I see that  A2 
+>> drill
+>> rod is similar: http://www.onlinemetals.com/toolsteelguide.cfm
+>>
+>>
+>>
+>> A2 drill rod is available in 6? length and fairly cheap:
+>> http://www.mcmaster.com/#8888k416/ $26 shipped
+>>
+>>
+>>
+>> Alternatively, flexible sewer rod is available:
+>> http://www.flexmax.com/maxlife/cat1.html (MDA-72LC, powder coated) $41
+>> shipped
+>>
+>>
+>>
+>> I?m not sure of the material properties of the sewer rod, but it is  nice
+>> that it comes powder coated.  Here is some data on A2 drill rod:
+>> http://cartech.ides.com/datasheet.aspx?i=103&e=262&c=techart
+>>
+>>
+>>
+>> Thanks,
+>>
+>> Dominic
+>>
+>>
+>>
+>
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+From iancassell at optusnet.com.au  Fri Jun 17 22:04:27 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Sat, 18 Jun 2011 12:04:27 +1000
+Subject: [hpv-boats] Directional Prop
+Message-ID: <F8E3453AB396464B80CBC246A1F8FD52@HOME1>
+
+Vic
+
+      The directional prop has its uses, it only works
+
+with a flexible shaft. The setup is heavier than with
+
+a rudder or dipping rudders, the steering arm has
+
+to be strong and the steering lever is longer as it
+
+takes more effort to push the shaft side to side.
+
+The advantages are doing minor course changes
+
+without the rudder being turned which slows you
+
+down. Also for manouvering at low speed it works
+
+well. The boat has a bigger turning radius but if I
+
+lean into the turn and dig in the outrigger I can turn
+
+a bit tighter.
+
+ 
+
+Ian
+
+From iancassell at optusnet.com.au  Sun Jun 19 03:56:00 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Sun, 19 Jun 2011 17:56:00 +1000
+Subject: [hpv-boats] Directional Prop
+Message-ID: <00645C79AEE74438ADD912DA2B7B971F@HOME1>
+
+Vic
+     Another way to overcome the torsional stiffness
+in flexible shafts is to use a combination of directional
+prop steering and dipping rudders. To keep a boat 
+tracking straight only requires minor movement of the
+steering arm, this small amount should not overstress
+the flexible shaft. For a tight turn the dipping rudders
+could be used. Another way is to fit angled rudders at
+a set angle on the aft end of the outriggers, they would
+be set just above the waterline. By leaning into the side
+you want to turn the rudder digs in and turns the boat.
+Simple but effective, would need a bit of reserve of 
+volume in the outriggers. In rough water could be a problem
+with waves hitting the rudders.
+Having said all this I'll now have to fit them on my boat
+and see how well they really do work, should be
+interesting. Have to wear my wetsuit on the first trial.
+
+Ian
+
+From lhsmith at wvi.com  Sun Jun 19 13:57:33 2011
+From: lhsmith at wvi.com (Larry)
+Date: Sun, 19 Jun 2011 10:57:33 -0700
+Subject: [hpv-boats] Some thoughts on Outrigger Rudder Effectiveness
+In-Reply-To: <00645C79AEE74438ADD912DA2B7B971F@HOME1>
+References: <00645C79AEE74438ADD912DA2B7B971F@HOME1>
+Message-ID: <5A13FA79-23F1-4BC6-BDD2-AE82B34C0E63@wvi.com>
+
+
+On Jun 19, 2011, at 12:56 AM, Ian Cassell wrote:
+
+[[... For a tight turn the dipping rudders
+could be used. Another way is to fit angled rudders at
+a set angle on the aft end of the outriggers, they would
+be set just above the waterline. By leaning into the side
+you want to turn the rudder digs in and turns the boat.
+Simple but effective, would need a bit of reserve of
+volume in the outriggers. In rough water could be a problem
+with waves hitting the rudders.]]
+
+I'll leave it to each individual, how important "tight turns" are in  
+his activity, remembering that we are talking pleasure/race  
+watercraft, not fighter planes ;-)
+
+*Note - I'm aware that my "dismissal" of mechanism design/ 
+construction issues in the following discussion makes my observations  
+"easy for me to say", while actualizing the concepts would be  
+anything-but easy!
+
+But let's at least have some fun with theory:
+
+Trying to look at basic principles, it seems as though there is some  
+potential for aft outrigger-mounted rudders to be the most effective  
+of all, if satisfactory mounting/deployment can be devised.
+
+If we assume that an asymmetrical (lifts better in one direction)  
+rudder can be more efficient in it's preferred direction-of-lift than  
+a symmetrical (can lift either way) rudder lifting the same way,
+... and that any rudder drag offset in  the direction of turn at some  
+distance from the hull adds to the turning effect, while rudder drag  
+centered behind the hull impedes the boats forward motion, but does  
+nothing to help turn the hull, ... and that, if the sterns of the  
+outriggers are even with the stern of the hull, and the center of  
+lateral resistance of the hull is some distance forward, then the  
+straight line distance between the center-mounted rudder to the CLR,  
+i.e., the effective lever arm with which the rudder effect is  
+working, is shorter than the diagonal line from the outboard rudder  
+to the CLR.
+
+Then we see that the outboard mounted rudder has 3 advantages,  
+compared with the center mounted rudder, i.e.:
+
+Center-mounted aft symmetrical foil rudder = less efficient either- 
+direction turning (lift) effect/ non-contributing drag/ turning force  
+applied to a shorter lever-arm..
+
+Outboard-mounted aft asymmetrical foil rudder = more efficient  
+specialized one-way turning effect/ turn-enhancing drag/ both applied  
+at a longer lever-arm.
+
+Another consideration: Leaning into the turn, and thus immersing the  
+outrigger hull to what ever depth, adds "drag" turning effect, but  
+not all of it at the aft lever-arm point, and without any additional  
+foil-effect turning force. Experiment would determine if the loss of  
+hull speed from the additional drag is favorably offset  by reduced  
+turning radius ( I imagine a rodeo "barrel race" type of comparison,  
+down-to and around a mark, back to start, around and repeat, to timed  
+finish at start/finish point).
+
+It would seem more "ideal", ignoring difficulty of design/ 
+construction, if the hull could be kept more upright during the turn,  
+the outrigger hull NOT immersed, and the appropriate Reynolds-number  
+asymmetrical foil deployed "dagger-board-style" at its best lift/drag  
+ratio angle of attack, only deeply enough(variable) to give the  
+desired turning rate.
+
+Thus we would have the best lift/drag turning force applied at the  
+best (long lever-arm) position, to only the degree desired, with both  
+the foil lift and the inescapable accompanying drag contributing to  
+the turn.
+
+The twin (smaller)outboard rudders and linkages might end up weighing  
+little if any more than the larger center-mount rudder. (better  
+efficiency / better applied might make up for size disparity (lift/ 
+drag ratios and points of application of the force being the  
+determinants).
+
+If the twin set-up weighs a bit more, anyone who is seemingly willing  
+to carry 30-40 lbs. excess personhood constantly, such as myself,  
+should probably not complain about the rudders ;-).
+
+Re. "Reserve volume" in outriggers -   personal opinion only, but  
+seems to me that an outrigger which will not prevent overturning,  
+once  fully immersed, with any normally expected leaning by the  
+operator, is inadequate in the first place.
+
+Comment/criticism welcome, naturally. :-)
+
+
+
+
+
+
+
+
+
+From rickwill at bigpond.net.au  Sun Jun 19 18:38:15 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 20 Jun 2011 08:38:15 +1000
+Subject: [hpv-boats] V15-6m Test
+Message-ID: <94507E7D-055D-4463-BB24-B476CB78993F@bigpond.net.au>
+
+I had my latest boat in the water for the first time yesterday.
+http://www.rickwill.bigpondhosting.com/v15-6m.png
+
+It was a windy day that was not ideal for the first run.  It did  
+prove it is a very dry boat.
+
+The new carbon shaft feels well connected to the prop.  My home built  
+1:4 gearbox is also a winner.
+
+I was rushed to get to the water so have not yet measured final  
+weight but it is easy to carry complete - the stabilisers fold up for  
+transport.  I also want to measure the torsional compliance of the  
+shaft.
+
+I am still not quite happy with the shape of the bow from side  
+windage; something to work on for the next one.  I have also worked  
+out how to build it with fewer panels.
+
+Rick Willoughby
+
+
+
+From iancassell at optusnet.com.au  Mon Jun 20 05:20:08 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Mon, 20 Jun 2011 19:20:08 +1000
+Subject: [hpv-boats] V15_6m
+Message-ID: <17F5E7CD49504CFEBB7285013E7E631F@HOME1>
+
+Rick
+       New boat looks good, see what you can crank
+it up to when the weather improves. How much load
+can the gearbox take, is it on a par with the involute?
+       Always the way when you build a new boat, you
+see ways it could be improved upon when finished.
+Windage on the side with small boats like these is
+always a problem. Hope to see it soon.
+
+Ian
+
+From rickwill at bigpond.net.au  Mon Jun 20 05:51:50 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 20 Jun 2011 19:51:50 +1000
+Subject: [hpv-boats] V15-6m
+Message-ID: <AC98571B-0905-4CDA-B58A-6F21ADC9BE0D@bigpond.net.au>
+
+Ian
+It was a miserable day and I spent a good deal of time waiting for  
+Dean to set up his boat.  He then got about 100m and a pin in his new  
+gearbox failed.  It was a crappy spring pin that the machinists  
+fitted after fitting the crank shaft. His latest box is a well made  
+two speed hand drill with a double gear set.  Very nice gears but  
+only bushes for bearings - also very light.  He has still not yet got  
+around to fitting the Involute box he bought from me.
+
+The gears in my home made box are larger than the set in the involute  
+box.  So the gears will take probably take higher loads but my case  
+is not as rigid so it might flex more.  I think I would twist the  
+shaft before the gears brake.  It felt very smooth and ran quietly.   
+The weather was not conducive to sprinting and my fitness level is  
+more consistent with building boats than racing them right now.
+
+You could also save a bit of weight using a carbon fibre shaft but I  
+will work out any easy way to wind them and how much the carbon will  
+cost.
+
+The weather is looking good for next Saturday.   By then the paint  
+will even be cured.
+
+Rick
+
+
+re:
+        New boat looks good, see what you can crank
+it up to when the weather improves. How much load
+can the gearbox take, is it on a par with the involute?
+
+Ian
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+
+From drumbolo at gmail.com  Mon Jun 20 20:34:48 2011
+From: drumbolo at gmail.com (Dom Rumbolo)
+Date: Mon, 20 Jun 2011 17:34:48 -0700
+Subject: [hpv-boats] Flex Shaft Material Selection (Dom Rumbolo)
+In-Reply-To: <BCC53818-43BA-48B0-9FAD-D0BEB94009F5@bigpond.net.au>
+References: <mailman.3.1308240006.7782.hpv-boats@hupi.org>
+	<BCC53818-43BA-48B0-9FAD-D0BEB94009F5@bigpond.net.au>
+Message-ID: <BANLkTimaxu7UmhEWedEy9pGFAbN=jJfMaQ@mail.gmail.com>
+
+Rick,
+
+Thanks for the info, I ended up ordering the sewer rod.  Almost ready to
+start building it.
+
+I'm not sure how my surfski compares to the Epic V10, it's an older Valhalla
+Victory I think.  You're right about the need for stabilizers; I had a tough
+time keeping it upright while paddling in calm water.
+
+That weight target will be a challenge, I estimate the boat weighs 16 kg
+as-is.  Is the foremost issue transportability?
+
+Thanks for the link to Mike Lampi's build, maybe I can learn something about
+laying fiberglass there.
+
+Dom
+
+On Thu, Jun 16, 2011 at 3:30 PM, Rick Willoughby <rickwill at bigpond.net.au>wrote:
+
+> Dominic
+> The sewer rod is probably the better selection.  I have seen these rods in
+> use and suspect they are spring steel but am not certain of this.  The end
+> fittings are similar to what I have done with spring steel although with
+>  5/16" diameter you do not need to be fancy if the connection is not seeing
+> the bending stress.  Irrespective these end fittings give you something to
+> work with for connecting to prop and gearbox.  So that is added value.  I
+> have paid $60 for a single connector before I started making my own.
+>
+> Assuming they are spring steel then you should aim to arrange with at least
+> 3.5m radius curve.  For the 1.8m length you can drop 0.5m.  The prop shaft
+> will need to be around 250mm below the surface so the gearbox cannot be any
+> higher than 250mm above the surface.  This should be easily achievable with
+> a surf ski.  The output shaft on the gearbox will angle down at 30 degrees.
+>  If you can get the gearbox closer to the water then that is even better.
+>  Obviously the down angle of the shaft will reduce in this case.
+>
+> The surfski should be a good platform.  I have modelled an Epic V10 hull to
+> check performance and they are a slick hull.  If you have something similar
+> it will go well.  You will not operate it reliably without stabilisers - CoG
+> will be too high.  For smooth water operation you can have stabilisers mid
+> mounted.  If you want to operate in waves then mount them toward the stern
+> to reduce flop roll.  Use two not one.  They need to be long and slender
+> with a volume at least 15 litres.
+>
+> The 5/16" shaft with 16X16 prop will have very good feel - similar to
+> riding a bike.  With the 1:2 box you will need around 1:3.5 in the chain.
+>  This is a nice ratio as you can use mountain bike stuff.   You can side
+> mount the prop so it can be reached for cleaning.  The shaft strut will need
+> to be stiff enough to prevent the prop from hitting the hull when you turn.
+>
+> From a practical use point of view, weight is really critical.  You should
+> make an estimate of weight.  Count every nut and washer.  Make allowance for
+> paint.  You should target 20kg or less.
+>
+> As a matter of interest Mike Lampi launched his V15-6m last weekend:
+> http://hpb-er.blogspot.com/
+> He has some minor issues to sort but it went well for first time out.
+>
+> I plan to give my V15-6m its first run this weekend.
+>
+> Rick
+>
+>  Date: Thu, 16 Jun 2011 07:46:06 -0700
+>> From: Dom Rumbolo <drumbolo at gmail.com>
+>> To: hpv-boats at hupi.org
+>> Subject: [hpv-boats] Flex Shaft Material Selection
+>> Message-ID: <BANLkTi=EAPZpGOmXKVALXQ+**C1bwpmYKeVg at mail.gmail.com<EAPZpGOmXKVALXQ%2BC1bwpmYKeVg at mail.gmail.com>
+>> >
+>> Content-Type: text/plain; charset=windows-1252
+>>
+>> Hi Rick and the rest of the list,
+>>
+>>
+>>
+>> First of all I?d like to thank you for your huge contribution to human
+>> powered boating.  I?ve followed your threads around the Internet and it?s
+>> been a great inspiration.
+>>
+>>
+>>
+>> I?m starting on my pedal-powered build, using a fiberglass surf ski as the
+>> foundation.  I picked up a T-gearbox at 2:1, and plan to start with the
+>> APC
+>> 16x16 prop, a 5/16? steel flex shaft, and chain gearing.  As has been
+>> mentioned, finding spring steel in the US is not easy.  Doing some
+>> research
+>> on the Internet, this is what I?ve come up with and I?d appreciate your
+>> input:
+>>
+>>
+>>
+>> A search for spring steel yields several grades of steel, including 1095:
+>> http://www.tmtco.com/products/**spring-steel.html<http://www.tmtco.com/products/spring-steel.html>
+>>
+>>
+>>
+>> Trying to find 1095 steel, I see that it is equivalent to W1 drill rod:
+>> http://forums.dfoggknives.com/**index.php?showtopic=6783<http://forums.dfoggknives.com/index.php?showtopic=6783>
+>>
+>>
+>>
+>> Can?t find W1 drill rod in anything longer than 3?, but I see that A2
+>> drill
+>> rod is similar: http://www.onlinemetals.com/**toolsteelguide.cfm<http://www.onlinemetals.com/toolsteelguide.cfm>
+>>
+>>
+>>
+>> A2 drill rod is available in 6? length and fairly cheap:
+>> http://www.mcmaster.com/#**8888k416/ <http://www.mcmaster.com/#8888k416/>$26 shipped
+>>
+>>
+>>
+>> Alternatively, flexible sewer rod is available:
+>> http://www.flexmax.com/**maxlife/cat1.html<http://www.flexmax.com/maxlife/cat1.html>(MDA-72LC, powder coated) $41
+>> shipped
+>>
+>>
+>>
+>> I?m not sure of the material properties of the sewer rod, but it is nice
+>> that it comes powder coated.  Here is some data on A2 drill rod:
+>> http://cartech.ides.com/**datasheet.aspx?i=103&e=262&c=**techart<http://cartech.ides.com/datasheet.aspx?i=103&e=262&c=techart>
+>>
+>>
+>>
+>> Thanks,
+>>
+>> Dominic
+>>
+>>
+>>
+>>
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/**listinfo/hpv-boats<http://hupi.org/mailman/listinfo/hpv-boats>to manage your subscription.
+>
+
+From rickwill at bigpond.net.au  Mon Jun 20 21:16:49 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 21 Jun 2011 11:16:49 +1000
+Subject: [hpv-boats] Flex Shaft Material Selection (Dom Rumbolo)
+Message-ID: <187C2535-7022-46CA-AEF7-280A2AC93EB1@bigpond.net.au>
+
+Dom
+The main issue with weight is transport.  Life is so much easier when  
+you can carry the complete boat.  The 16kg is probably right for an  
+older style surfski.  Does not leave you much to play with.  I doubt  
+you will get under 20kg!
+
+It actually is worthwhile taking the time to plan out what you intend  
+to use to build it.
+
+Target weight for stabilisers is 1kg each.  I have used 100gsm cloth  
+on 3mm Klegecell foam.  If wood, 3-ply is ample.  Be careful with  
+fairing and painting.  They hardly ever touch the water so finish is  
+only related to looks not performance.
+
+A seat can weigh as little as 300g.  An aluminium frame taped up with  
+glass, no more than 2kg.  Need to be mindful of the load paths.   
+There is high force between backside and cranks.  There is also high  
+force on the tension side of the chain.  The prop thrust is  
+relatively small compared with the crank forces and chain force.   
+Having frame located to most directly resolve the forces will help  
+keep weight down.
+
+You can use some parts of the frame for multiple purposes.  The  
+support for the back of the seat can double as a mounting point for  
+the prop shaft strut if you have the shaft side mounted.  If you make  
+a separate seat then the part of the frame that the seat bottom is  
+mounted to can act as grab handle for bracing against, mounting the  
+frame to the hull and provide a place to insert the stabiliser beam.
+
+A little gearbox is around 1kg.
+
+
+
+Rick Willoughby
+
+
+
+
+From iancassell at optusnet.com.au  Thu Jun 23 05:49:49 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Thu, 23 Jun 2011 19:49:49 +1000
+Subject: [hpv-boats] Steering with Outriggers
+Message-ID: <EC7C6FF580194475A82AD2C1381FABE0@HOME1>
+
+Tried out the outrigger steering method today, it did turn tighter. I mounted
+
+the asymmetric outriggers the opposite way with the flat side outboard and
+
+the curved side inboard. The rudders were rigidly fixed to the aft end of  the
+
+outriggers, 100mm deep x 150mm long set at 30 deg. Leaning into the turn
+
+I could only immerse the rudder about 10-15mm, if I had leaned any further
+
+I might have gone for a swim. The main turning force came from the shape of
+
+the outrigger, the rudder had little effect. The rudders were set 50mm above
+
+the waterline, any lower and they would have been causing drag from the waves.
+
+With the directional prop hard over and leaning into the turn it is the best I've
+
+had out of this boat. Tried turning using the outriggers only keeping the prop
+
+running straight and the boat was very slow to turn, seemed better to port than
+
+starboard. This may have something to do with the prop rotation.
+
+It might work better with better designed outriggers but the main turning force
+
+came from the directional prop.
+
+To see some pics this is the link, post #1125
+
+http://www.boatdesign.net/forums/boat-design/pedal-powered-boats-23345-75.html#post470097
+
+Ian
+

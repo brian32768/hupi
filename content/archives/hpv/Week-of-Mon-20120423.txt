@@ -1,0 +1,398 @@
+From hbb at cs.cmu.edu  Tue Apr 24 16:52:31 2012
+From: hbb at cs.cmu.edu (Ben Brown)
+Date: Tue, 24 Apr 2012 16:52:31 -0400
+Subject: [hpv] Buckminster Fuller's Dymaxion Car
+Message-ID: <4F97128F.8020803@cs.cmu.edu>
+
+I just watched this video of Buckminster Fuller's Dymaxion Car:
+http://www.youtube.com/watch?v=YlLZE23EJKs
+I was surprised that the vehicle seems to handle just fine with 
+rear-wheel steering--something generally considered unworkable. Does 
+anyone know the secret of how this works? An overview of the vehicle is at
+http://www.nytimes.com/2008/06/15/automobiles/collectibles/15BUCKY.html
+
+	Thanks, Ben
+
+_____________________________________________
+
+H. Ben Brown
+Project Scientist
+Robotics Institute
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213-3891
+hbb at cs.cmu.edu
+
+From brian at wildsong.biz  Tue Apr 24 19:00:42 2012
+From: brian at wildsong.biz (Brian H Wilson)
+Date: Tue, 24 Apr 2012 16:00:42 -0700
+Subject: [hpv] Buckminster Fuller's Dymaxion Car
+In-Reply-To: <4F97128F.8020803@cs.cmu.edu>
+References: <4F97128F.8020803@cs.cmu.edu>
+Message-ID: <4F97309A.8090200@wildsong.biz>
+
+On 4/24/2012 1:52 PM, Ben Brown wrote:
+> I just watched this video of Buckminster Fuller's Dymaxion Car:
+> http://www.youtube.com/watch?v=YlLZE23EJKs
+> I was surprised that the vehicle seems to handle just fine with
+> rear-wheel steering--something generally considered unworkable. Does
+> anyone know the secret of how this works?
+
+Yes, they crashed but had good PR.
+
+My recollection is that after one car overturned, they only allowed 
+professional race car drivers to drive them (I think on the basis that 
+they had good reflexes and were used to driving all sorts of wild things).
+
+Some of what Bucky did was amazing, some of it was smoke and mirrors.
+
+He would have been a great HPV'er, he was perfectly willing to try 
+things that we all just know don't work, like rear wheel steering. Too 
+bad it does not really work...
+
+Seems to me the FlevoBike was kind of like that. Someone will probably 
+pipe up now and say the FlevoBike was the best thing ever invented.
+
+One thing I learned hanging out in the HPV world is that human beings 
+can ride damn near anything with 1 or more wheels on it, and often even 
+have fun with it.
+
+This is a good read: http://dymaxioncar.com/restoration.html
+
+Brian
+
+
+From eldberg2 at gmail.com  Wed Apr 25 12:15:50 2012
+From: eldberg2 at gmail.com (Sara & Warren Eldberg)
+Date: Wed, 25 Apr 2012 12:15:50 -0400
+Subject: [hpv] Buckminster Fuller's Dymaxion Car
+Message-ID: <CAEUdCESwtrO93bg_GSfZ4g1m21JBV36dnKLoizxoTLq5y+mqiA@mail.gmail.com>
+
+As a FWD/FWS it would have been great.  But just like every efficient,
+aerodynamic design, from the 1920's until today, it would have lost out to
+big, uninspired boxes, run on cheap fuel.  Unfortunately, the price at the
+pump will never reflect the true costs of gas....until the ice caps are a
+memory.
+
+Warren
+
+From ramjac2 at yahoo.com  Wed Apr 25 13:19:03 2012
+From: ramjac2 at yahoo.com (Andy jacoby)
+Date: Wed, 25 Apr 2012 10:19:03 -0700 (PDT)
+Subject: [hpv] Rear Steering
+In-Reply-To: <mailman.0.1335369609.1365.hpv@hupi.org>
+References: <mailman.0.1335369609.1365.hpv@hupi.org>
+Message-ID: <1335374343.63135.YahooMailNeo@web162602.mail.bf1.yahoo.com>
+
+We had a?phenomenal wipe-out at the Fl HPV race a few years?back. Somebody not involved with the usual HPV bunch had designed a streamliner with front wheel drive and two back steer wheels. While flying high on the turn at the velodrome the?steering?gave way and the thing spun round and almost over the top. The driver/rider was not hurt but his ride was out of commission.
+
+Andy
+
+
+________________________________
+ 
+
+? ? ?
+
+On 4/24/2012 1:52 PM, Ben Brown wrote:
+> I just watched this video of Buckminster Fuller's Dymaxion Car:
+> http://www.youtube.com/watch?v=YlLZE23EJKs
+> I was surprised that the vehicle seems to handle just fine with
+> rear-wheel steering--something generally considered unworkable. Does
+> anyone know the secret of how this works?
+
+Yes, they crashed but had good PR.
+
+My recollection is that after one car overturned, they only allowed professional race car drivers to drive them (I think on the basis that they had good reflexes and were used to driving all sorts of wild things).
+
+
+Brian
+
+From pngracey at mac.com  Wed Apr 25 18:25:19 2012
+From: pngracey at mac.com (Paul Gracey)
+Date: Wed, 25 Apr 2012 15:25:19 -0700
+Subject: [hpv] Dymaxion
+In-Reply-To: <mailman.1.1335369609.1365.hpv@hupi.org>
+References: <mailman.1.1335369609.1365.hpv@hupi.org>
+Message-ID: <7B08C8DB-4B6D-459B-A308-FA185C76AFC6@mac.com>
+
+
+On Apr 25, 2012, at 9:00 AM, hpv-request at hupi.org wrote:
+> My recollection was that they were demonstrated by people with experience in the airplanes of the time; i.e. taildraggers with the same basic layout. The thing is, it took some knowledge of its dynamics to make such a different car practical back then. In this age it would only need some computer aided control like the sort that now makes model helicopters flyable for a wide variety of people when not so long ago it was far too difficult. 
+
+Eric Edwards streamliner Pegasus is rear steering and I managed to get it around the San Diego Velodrome once a long time ago even though it was designed only for straight line speed.  What made it work ( just barely) was the friction he included to control its tendency to oscillate with a positive feedback. It also was set up to have the steering axis line reach the ground forward of the contact patch as most steering needs. It did have trail, but only within a narrow range of its motion, so that I had it at full lock most of the way around the oval and entered the corners as wide as possible. Bucky's machine couldn't have had such strictures and do what he promised it could do. Today we would just build it with all-wheel steering and stability controls like modern cars.  
+
+The rear engine idea did not die with the Dymaxion as anyone who owned a VW or a Corvair can attest. I owned both at one time. I took my VW up to Big Bear lake in winter once and experienced what even that variation can do to a car's handling when I hit glare ice, did a complete 360 degrees at speed and kept on going to the ski slopes thanking my lucky stars.
+> 
+> On 4/24/2012 1:52 PM, Ben Brown wrote:
+>> I just watched this video of Buckminster Fuller's Dymaxion Car:
+>> http://www.youtube.com/watch?v=YlLZE23EJKs
+>> I was surprised that the vehicle seems to handle just fine with
+>> rear-wheel steering--something generally considered unworkable. Does
+>> anyone know the secret of how this works?
+> 
+> Yes, they crashed but had good PR.
+> 
+> My recollection is that after one car overturned, they only allowed 
+> professional race car drivers to drive them (I think on the basis that 
+> they had good reflexes and were used to driving all sorts of wild things).
+> 
+> Some of what Bucky did was amazing, some of it was smoke and mirrors.
+> 
+> He would have been a great HPV'er, he was perfectly willing to try 
+> things that we all just know don't work, like rear wheel steering. Too 
+> bad it does not really work...
+> 
+> Seems to me the FlevoBike was kind of like that. Someone will probably 
+> pipe up now and say the FlevoBike was the best thing ever invented.
+> 
+> One thing I learned hanging out in the HPV world is that human beings 
+> can ride damn near anything with 1 or more wheels on it, and often even 
+> have fun with it.
+> 
+> This is a good read: http://dymaxioncar.com/restoration.html
+> 
+> Brian
+> 
+> 
+> 
+> ------------------------------
+> 
+> This message digest comes to you via the hpv at hupi.org mailing list. Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+> 
+> End of hpv Digest, Vol 88, Issue 1
+> **********************************
+
+Paul Gracey
+pngracey at mac.com
+
+
+
+
+From list at moz.geek.nz  Wed Apr 25 18:49:43 2012
+From: list at moz.geek.nz (Moz)
+Date: Wed, 25 Apr 2012 17:49:43 -0500
+Subject: [hpv] Dymaxion
+In-Reply-To: <7B08C8DB-4B6D-459B-A308-FA185C76AFC6@mac.com>
+References: <mailman.1.1335369609.1365.hpv@hupi.org>
+	<7B08C8DB-4B6D-459B-A308-FA185C76AFC6@mac.com>
+Message-ID: <c9b941091e78fcf763124d69cab06d95.squirrel@moz.geek.nz>
+
+>> it took some knowledge of its dynamics to make such a different
+>> car practical back then. In this age it would only need some
+>> computer aided control
+
+I'm not convinced. The big issue for rear steering only on roads
+is curbs. To move away from a curb the rear steer has to move the
+rear end towards the curb. Which kind of works with the Dymaxion
+because it's wider at the front than the rear. But for a rectangular
+vehicle that's not possible. So you have to reverse away from the
+curb. Which is bearable for parking, but easily fatal when you
+drift too close to a motorway barrier.
+
+Remember, on the road it's all about failure modes. Just working
+is not enough, it has to fail gracefully.
+
+> What made it work was the friction he included to control its
+> tendency to oscillate with a positive feedback.
+
+This is the bit that computer control can fix. Some fighter planes
+IIRC are so grossly unstable that humans can't operate them without
+computer control. Which is great for maneuverability, but not so hot
+if the computer fails.
+
+Moz
+
+
+From johnriley1 at rogers.com  Wed Apr 25 18:56:06 2012
+From: johnriley1 at rogers.com (John Riley)
+Date: Wed, 25 Apr 2012 15:56:06 -0700
+Subject: [hpv] Dymaxion
+In-Reply-To: <7B08C8DB-4B6D-459B-A308-FA185C76AFC6@mac.com>
+References: <mailman.1.1335369609.1365.hpv@hupi.org>
+	<7B08C8DB-4B6D-459B-A308-FA185C76AFC6@mac.com>
+Message-ID: <5B9DF2A4-628E-4BE4-9AFB-CDF6F527CBAD@rogers.com>
+
+
+On Apr 25, 2012, at 3:25 PM, Paul Gracey wrote:
+> 
+> The rear engine idea did not die with the Dymaxion as anyone who owned a VW or a Corvair can attest. 
+
+Engine behind the axle is still used by Porsche. Many race and performance cars have the engine ahead of the rear wheels, as the Dymaxion did. The unusual thing about the drive train was that the rear engine drove the front wheels. 
+
+From charlie at atoc.com  Wed Apr 25 19:29:07 2012
+From: charlie at atoc.com (Charlie Buchalter)
+Date: Wed, 25 Apr 2012 16:29:07 -0700
+Subject: [hpv] Dymaxion
+In-Reply-To: <c9b941091e78fcf763124d69cab06d95.squirrel@moz.geek.nz>
+References: <mailman.1.1335369609.1365.hpv@hupi.org>	<7B08C8DB-4B6D-459B-A308-FA185C76AFC6@mac.com>
+	<c9b941091e78fcf763124d69cab06d95.squirrel@moz.geek.nz>
+Message-ID: <008d01cd233b$367348e0$a359daa0$@com>
+
+All of the issues with rear wheel steering mentioned so far are part of the
+problem, but not the major problem. The major problem with rear wheel
+steering is that it is dynamically unstable. As pointed out, modern computer
+controls can overcome this, but it doesn't change the basic instability of
+the mechanical system. 
+
+Charlie Buchalter
+Atoc Inc.
+www.Atoc.com
+www.TopperRacks.com
+www.Draftmaster.com
+
+
+
+
+> -----Original Message-----
+> From: hpv-bounces at hupi.org [mailto:hpv-bounces at hupi.org] On Behalf Of
+> Moz
+> Sent: Wednesday, April 25, 2012 3:50 PM
+> To: hpv at hupi.org
+> Subject: Re: [hpv] Dymaxion
+> 
+> >> it took some knowledge of its dynamics to make such a different car
+> >> practical back then. In this age it would only need some computer
+> >> aided control
+> 
+> I'm not convinced. The big issue for rear steering only on roads is
+> curbs. To move away from a curb the rear steer has to move the rear end
+> towards the curb. Which kind of works with the Dymaxion because it's
+> wider at the front than the rear. But for a rectangular vehicle that's
+> not possible. So you have to reverse away from the curb. Which is
+> bearable for parking, but easily fatal when you drift too close to a
+> motorway barrier.
+> 
+> Remember, on the road it's all about failure modes. Just working is not
+> enough, it has to fail gracefully.
+> 
+> > What made it work was the friction he included to control its
+> tendency
+> > to oscillate with a positive feedback.
+> 
+> This is the bit that computer control can fix. Some fighter planes IIRC
+> are so grossly unstable that humans can't operate them without computer
+> control. Which is great for maneuverability, but not so hot if the
+> computer fails.
+> 
+> Moz
+> 
+> --
+> This message comes to you via the hpv at hupi.org mailing list.
+> Visit http://bikelist.org/mailman/listinfo/hpv to manage your
+> subscription.
+
+
+From lioninoil at yahoo.com  Wed Apr 25 20:02:12 2012
+From: lioninoil at yahoo.com (Cornel.Ormsby)
+Date: Wed, 25 Apr 2012 17:02:12 -0700 (PDT)
+Subject: [hpv] Buckminster Fuller's Dymaxion Car
+In-Reply-To: <mailman.1.1335369609.1365.hpv@hupi.org>
+Message-ID: <1335398532.16801.YahooMailClassic@web113309.mail.gq1.yahoo.com>
+
+Ben Brown wrote:
+ 
+> I was surprised that the vehicle seems to handle just fine
+> with rear-wheel steering -- something generally considered
+> unworkable. 
+ 
+It's a common misconception. In 1997 the rear-wheel steering Thrust SSC (driven by RAF Wing Commander Andy Green) held its line flawlessly as it went faster than sound at Black Rock, about 380 miles north-northwest of where I am sitting now. 
+ 
+http://www.thrustssc.com/thrustssc/contents_frames.html
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+From lioninoil at yahoo.com  Wed Apr 25 20:11:15 2012
+From: lioninoil at yahoo.com (Cornel.Ormsby)
+Date: Wed, 25 Apr 2012 17:11:15 -0700 (PDT)
+Subject: [hpv] Thrust SSC steering
+In-Reply-To: <mailman.84.1335398594.32265.hpv@hupi.org>
+Message-ID: <1335399075.12571.YahooMailClassic@web113316.mail.gq1.yahoo.com>
+
+My apologies for the incorrect URL, it is:
+ 
+http://www.thrustssc.com/thrustssc/Engineering/rearster.html
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+From list at moz.geek.nz  Wed Apr 25 21:22:43 2012
+From: list at moz.geek.nz (Moz)
+Date: Wed, 25 Apr 2012 20:22:43 -0500
+Subject: [hpv] Buckminster Fuller's Dymaxion Car
+In-Reply-To: <1335398532.16801.YahooMailClassic@web113309.mail.gq1.yahoo.com>
+References: <1335398532.16801.YahooMailClassic@web113309.mail.gq1.yahoo.com>
+Message-ID: <5c6e81f05368daabefc900e3e37b84d5.squirrel@moz.geek.nz>
+
+> It's a common misconception. In 1997 the rear-wheel steering Thrust SSC
+> (driven by RAF Wing Commander Andy Green) held its line flawlessly as it
+> went faster than sound at Black Rock, about 380 miles north-northwest of
+> where I am sitting now.
+
+I hear that vehicle was quite interesting to drive. And "held it's line"
+meant "kept within a 100 metre wide strip". Admittedly, at 300m/s that's
+fairly impressive. I read a book on the effort and there was some odd
+combination of half second witlag in the steering and not a lot of
+steering movement that meant it took a while for the pilot to get the hand
+of controlling it at all.
+
+
+Mind you, Christiana sell a lot of pivot-steer trikes that have most
+of the same issues of dynamic instability and few people complain.
+
+Moz
+
+
+From legs_larry at yahoo.com  Thu Apr 26 03:29:41 2012
+From: legs_larry at yahoo.com (Dave Larrington)
+Date: Thu, 26 Apr 2012 08:29:41 +0100
+Subject: [hpv] Buckminster Fuller's Dymaxion Car
+References: <mailman.1.1335369609.1365.hpv@hupi.org>
+Message-ID: <A33B6C1F022C47238C9EBC62FA2D62A2@PEROOT.COM>
+
+RWS works fine if its done properly.  Back in the early 80s a chap named 
+Simon Sanderson built a thing named "Panzer" (the least-appropriately named 
+thing ever to hit the roads of BRITAIN until the introduction of the 
+Mitsubishi Carisma), which was FWD, RWS and perfectly roadable.  Simon was 
+working in London and weekend commuting back to Norfolk at the time, IIRC, 
+and could do the trip at better than 20 mph average speed.
+
+-- 
+Dave Larrington
+<http://www.legslarry.beerdrinkers.co.uk>
+Bouncier than the innocent Derek Bentley.
+
+
+From ark at vaxxine.com  Thu Apr 26 09:27:13 2012
+From: ark at vaxxine.com (Reg Rodaro)
+Date: Thu, 26 Apr 2012 09:27:13 -0400
+Subject: [hpv] RWS (trail)
+References: <mailman.1.1335369609.1365.hpv@hupi.org>
+	<A33B6C1F022C47238C9EBC62FA2D62A2@PEROOT.COM>
+Message-ID: <BC82DB4D68C7455E8DC45FAE14D4756D@CAROL>
+
+In 2002 I rode a RWS Stormy Weather velomobile at the HPVA World
+Championship in Canada.
+  I rode in several events and for the most part the RWS part of the vehicle 
+was ignored.
+As it was fully faired I rode with the streamliners I have the memory of 
+being lapped several
+times by the Varna, Barracuda, and Keno;s liner.
+   I constructed the steering so the trail could be adjusted. I started with 
+2 inches of positive trail
+and over time adjusted to less and less to settle down the stability and 
+feel.
+ The closer to 0 trail the feel improved. Between 1/2 inch and 3/4 inc of 
+negative trail
+was the optimal setting for the experiment.
+   RWS works fine if properly executed and allowed for a simple low friction 
+FWD.
+
+                        Reg Rodaro
+
+ 
+
+

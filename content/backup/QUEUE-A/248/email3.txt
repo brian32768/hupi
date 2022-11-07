@@ -1,0 +1,784 @@
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    jcsnyder@hupi.org
+Date:    Wed, August 4, 2004 1:54 pm
+To:      angus_cameron@shaw.ca
+
+
+
+[quote snipped -- jcs].
+
+
+Hi Angus,
+
+You are welcome for the links. And, here is a link to many of the links
+we've shared in this project as well as a text file of the emails that you
+and I have exchanged.
+
+http://www.hupi.org/HPeJ/0003/reference/index_of_0003.htm
+
+Hopefully this page will help Theo and or Dave, get up to speed on the
+work you have been doing, as well as help keep track of the online
+materials.
+
+What I am puzzelled by at the moment is how the Fx axis does fit (and that
+is an important finding) while the Fy axis data does not fit. May be two
+pairs of fresh eyes can help sort this through?
+
+I compared the vector model with your law of cosines handling. Both
+created the same Fx curve(as should be expected).
+
+The days are hot, but this is one cool problem! <grin>
+
+Cheers,
+
+John
+
+PS
+I may start using my other email address HPJournal@att.net on occassion
+for this correspondence.
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron@shaw.ca>
+Date:    Wed, August 4, 2004 8:04 pm
+To:      jcsnyder@hupi.org
+
+
+John,
+
+I love to work with people who can keep me organised and on track.  The 
+new TOC page is great.
+
+
+>> What I am puzzelled by at the moment is how the Fx axis does fit (and
+
+that is an important finding) while the Fy axis data does not fit. May
+be two pairs of fresh eyes can help sort this through?
+
+I wish Doug would jump into this.  My (our) assumption that the total 
+force in the y direction is the sum of Fyf and Fyr, is the problem.
+
+Here is my test for consistency:
+the resultant force at any angle theta is Ftot = SQRT(Fx^2+Fy^2) where  Fx
+and Fy are the measurements.
+Then Ftot * cos(theta) should result in a value close to the original Fx.
+
+This is what happens (numbers in lb):
+yaw	Fx	Ftot*cos(theta)
+0	4.70	4.78
+10	4.93	4.91
+20	4.72	4.89
+30	4.57	5.48
+60	2.92	4.76
+90	0.59	0.00
+Notice that the numbers go really wonky at 30 and 60 deg.
+
+y values
+yaw	Fy	Ftot*sin(theta)
+0	-0.85	0.00
+10	0.71	0.86
+20	2.19	1.78
+30	4.37	3.16
+60	9.06	8.24
+90	10.79	10.81
+The y components look not too bad
+
+Now let's go through the same exercise except that Fy is the average, 
+instead of the sum, of Fyf and Fyr:
+
+yaw	Fx	Ftot*cos(theta)
+0	4.70	4.72
+10	4.93	4.87
+20	4.72	4.55
+30	4.57	4.39
+60	2.92	2.69
+90	0.59	0.00
+
+yaw	Fy	Ftot*sin(theta)
+0	0.00	0.00
+10	0.43	0.86
+20	0.89	1.66
+30	1.58	2.53
+60	4.12	4.67
+90	5.40	5.43
+
+The differences are striking when you plot them.  These two tables  scream
+out "we're right" without giving any clue why they should be.  That's why
+I wrote to Doug for clarification on the meaning of Fyf and  Fyr.  I think
+that this test is valid.  Agreed?
+
+Note that I have a sort of vested interest in the original definition 
+because it gives such a nice correlation between the areas I measured 
+directly and those calculated from Doug's data.
+But averaging them always results in better consistency; except then my 
+nice area correlations evaporate.  Sigh
+
+Two pairs of fresh eyes (or even more) would be most welcome.
+
+
+Cheers,
+Angus
+
+[quote snipped -- jcs]
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    jcsnyder@hupi.org
+Date:    Thu, August 5, 2004 1:30 am
+To:      angus_cameron@shaw.ca
+Cc:      HPJournal@att.net
+
+
+Angus,
+
+I concur with your notion of an average. It fits well.
+
+A second piece of information suggesting that [(Fyf+Fyr)/2] = (Fy average)
+is contained within the raw data.  Where possible, compare the zero-degree
+yaw forces (unfaired bicycles) to their coresponding 90-degree yaw force
+measures.
+
+"Standard bike, erect, unfaired" is as close to a vertical cylinder as
+occurs in the testing. Its Fx measurement was 5.33 lbf.  The same quantity
+of force would most likely occur if that cylinderical form were in a
+horizontal orientation.  It would have the same frontal area and
+coefficient of drag, as the change would merely swap around the height and
+width dimensions. A quick visualization to clarify; tip the letter "I"
+onto its side "_".  The two orientations of that single character have the
+same frontal area. Thus we might expect the Fy total values at 90-degrees
+yaw of the unfaired bicycles to be in the neighborhood of 5.33 lbf in a 20
+mph wind stream. And, that is what happens if we look at only the values
+of Fyf or only at the values Fxr.  Adding Fyf to Fyr together makes the
+result of Fy total approximately twice of what we might intuitively
+believe to be reasonable a drag value. Averaging the two together produces
+an intuitively reasonable value for the measurements.
+
+The next question is why do the two measurements represent an average and
+not a sum? What are the physical principles governing the force pickups
+and balance?
+
+From page 41, "As part of this project, a sensitive balance was built for
+use in this wind tunnel. This enabled the measurement of three forces, one
+along the axis and two normal to the the axis of the bike with an accuracy
+of a few ounces."  I assume that the word "normal" used here means at a
+right angle. Perhaps the sketch at the bottom of page 44 (the html has a
+detail), may contain some vital clues as to how to interpet the Fyf and
+Fyr values. There appears to have been a vertical fulcrum or point of
+rotation, at the mid-point of the tested bicycles. Notice too, that when
+in the unbalanced condition (10 through 60 degrees yaw) that Fyf andFyx
+are both reported as positive values.
+
+Even if Doug doesn't jump in, I can smell the "aha" getting close, but
+don't see it yet. The solutions to such puzzels often reveal themselves in
+the least expected moments of the day. <grin>
+
+Cheers,
+
+John
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron@shaw.ca>
+Date:    Thu, August 5, 2004 1:08 pm
+To:      jcsnyder@hupi.org
+
+
+John,
+
+
+jcsnyder@hupi.org wrote:
+
+> I concur with your notion of an average. It fits well.
+
+
+I just plotted it and stuck it up for perusal
+http://members.shaw.ca/bicyclescience/CrossWind2/Milliken_analysis.html
+
+>
+> A second piece of information suggesting that [(Fyf+Fyr)/2] = (Fy...
+
+[quote snipped -- jcs]
+
+This is where my own cross section measurements come in.  For the case 
+where I'm on the drops I measured 0.427 m^2 and 0.737 m^2 front and side 
+respectively.  In a more upright position I've got 0.433 and 0.795.  BTW 
+there is a lot of subjectivity involved in selecting the ROI, especially 
+the bike frame and wheels.  What I find compelling is not the actual 
+numbers but the large differences between the front and side values.
+
+Looking at my torso alone I get  0.392 & 0.511 on drops and 0.392 &  0.587
+m^2 more upright so it's not just the added area of the bike.
+
+
+>
+>>From page 41, "As part of this project, a sensitive balance was built for..
+[quote snipped -- jcs]
+
+I have been wondering what other forces were applied and not measured 
+directly.  What kept the bikes upright?  Were the sensors located  between
+the bike and rotating platform or between the platform and the  bottom of
+the windtunnel?
+
+[quote snipped -- jcs]
+
+I have sent another request for info to his office at Milliken Research 
+in case the personal address I tried is no longer valid.
+
+Angus
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    jcsnyder@hupi.org
+Date:    Fri, August 6, 2004 1:52 am
+To:      angus_cameron@shaw.ca
+
+
+Hi Angus,
+
+Thank you! Thank you, for forwarding Doug's questions about HuPI to me. I
+in turn handed the questions over to Dave Wilson who has just returned
+from a month long cycling trip in the UK. Dave and Doug are well
+acquainted with one another, long time friends.
+
+Your new web page is an excellent clarification.
+
+http://members.shaw.ca/bicyclescience/CrossWind2/Milliken_analysis.html
+
+>This is where my own cross section measurements come in.  For the case
+[quote snipped -- jcs]
+
+These area measurements are compelling to me because of the differences
+seem to double as did the force measures of the Fy axis when summed.
+
+The side and front aspect of the cyclist will vary as you have measured by
+apparent area (apparent, meaning that which can be seen from a single
+point of view.) These two aspects will also present different cross
+section shapes relative to the air flow, thus likely generating different
+Cd values as well.
+
+Bicycle Science III, pages 189-190 contains a discussion that might fit
+here. In Figure 5.10 the authors present a variety of two and
+three-dimensional shapes with associated Cd values.  In accordance with
+that figure a hollow half-sphere (as one example) with its open-side
+pointed away from the airflow has Cd 0.38. The same hollow half-sphere
+when rotated such that the open is pointed towards the flow has a Cd 1.42.
+The reference area (frontal, planar or surface) remained a constant. 
+Numerically the implication is to imagine two such hollow half-spheres,
+one whose reference area was twice that of the other, perhaps 1 m^2 and
+0.5 m^2.  If turned with its open end towards the air stream the smaller
+half-sphere could surprisingly produce more drag and exhibit the higher
+CdA (1.42 x 0.5 m^2 = 0.71 m^2) when compared to the larger half-sphere's
+CdA when its open end was pointed away from the air flow (0.38 x 1 m^2 =
+0.38 m^2).
+
+By itself the reference area is an indication of the change of CdA when
+only area is varied and no other factor. If the two hollow half-spheres
+were both orientated with their open ends either pointing towards or away
+from the flow of air, then the larger one would exhibit the higher CdA
+value and greater drag.
+
+"The conclusion is, to compare the aerodynamic drag of vehicle bodies, we
+must compare the drag areas -- CdA's. This will always work, regardless of
+whether the bodies are perfectly streamlined or are shaped like bluff
+passenger cars." Tamai, Goro. THE LEADING EDGE, page 15.
+
+
+
+>Looking at my torso alone I get  0.392 & 0.511 on drops and 0.392 & 0.587
+>m^2 more upright so it's not just the added area of the bike.
+
+Is there anyway to estimate a Cd that might go along with those area
+estimates? Without the Cd the resulting CdA value is indeterminent.
+
+As a suggestion, it is possible that using a reference other than frontal
+area might be helpful in studying the effects of cross wind on an unfaired
+bicycle, a bluff form.  I don't believe that assuming the Cd to be a
+constant 1.0 for all yaw angles can be defended. But there is precedence
+for using different types of reference areas other than frontal, some of
+which will be a constant at different yaw angles.
+
+It might be a safe assumption (is any assumption truly safe?) that the
+human body contributes more than another factor to the resulting CdA at
+different yaw angles, and that an unfaired bike might be only a small
+fraction of that quantity.
+
+The skin represents a constant for each individual, "... an area in
+average-sized adults of roughly 1.6 to 1.9 m^2 (17 to 20 ft^2)". One might
+guess that 1.7 m^2 provides a useful value as a reference area of a
+cyclist's CdA. Alternately, skin area might be measured photometrically to
+avoid generalization.
+
+
+
+>I have been wondering what other forces were applied and not measured
+>directly.  What kept the bikes upright?  Were the sensors located between
+>the bike and rotating platform or between the platform and the bottom of
+>the windtunnel?
+
+Though Google returns many hits for "wind tunnel" when attempting to
+answer those questions it is difficult to find anything specific about how
+the balances work. The following url is one archived article with pictures
+of a bicycle in a wind tunnel showing the balance. This set up only
+measured the Fx axis.
+
+http://www.bsn.com/Cycling/articles/data-quality.html
+
+The most detailed explanations of balances seem to be descriptions of the
+Wright Brothers first small tunnel used to test scale models. Here a few
+of the web pages.
+
+http://www.grc.nasa.gov/WWW/Wright/airplane/tunnlint.html
+
+http://www.slowtwitch.com/mainheadings/techctr/newtunnel.html
+
+http://www.biketechreview.com/tunnel/intro_facility.htm
+
+http://www.hq.nasa.gov/office/pao/History/SP-440/cover.htm
+
+http://aerodyn.org/
+
+
+Cheers,
+
+John
+
+
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron@shaw.ca>
+Date:    Fri, August 6, 2004 10:16 am
+To:      jcsnyder@hupi.org
+
+John,
+
+My responses are interleaved with your observations.
+
+
+jcsnyder@hupi.org wrote:
+
+> Hi Angus,
+>
+> Thank you! Thank you, for forwarding Doug's questions about HuPI to me.
+
+[quote snipped -- jcs]
+
+Doug's reaction caught me by surprise.  I would have assumed that he 
+would be acquainted with what's been happening with Dave's project over 
+the past couple of years.
+
+
+> Your new web page is an excellent clarification.
+
+
+A picture is worth a . . . .
+
+
+[quote snipped -- jcs]
+
+>>This is where my own cross section measurements come in.  For the case
+
+where I'm on the drops I measured 0.427 m^2 and 0.737 m^2 front and side
+respectively.  In a more upright position I've got 0.433 and 0.795.  BTW
+there is a lot of subjectivity involved in selecting the ROI, especially
+the bike frame and wheels.  What I find compelling is not the actual
+numbers but the large differences between the front and side values.
+
+[quote snipped -- jcs]
+
+>... likely generating different Cd values as well.
+
+You may be right.  I was trusting my intuition that for a bluff body  like
+a cyclist, Cd would remain more or less constant, at least within 
+measurement errors and the area would be the predominant determining 
+factor.  At first glance that's what Doug's data appeared to be saying.
+  Right now I'm not too sure what it says. ;)
+
+
+> Bicycle Science III, pages 189-190 contains a discussion that might fit
+>here. In Figure 5.10 the authors present a variety of two and
+
+[quote snipped -- jcs]
+
+Again Doug's data could provide at least a partial answer.  It might be 
+an oversimplification to assume that Cd is constant but what else can  you
+do?  It's relatively easy to measure an area but very difficult to 
+measure CdA, even in a wind tunnel.  And don't forget those tantalising 
+Fy values when you add the front and rear y forces.
+
+
+> "The conclusion is, to compare the aerodynamic drag of vehicle bodies,
+> we must compare the drag areas -- CdA's.
+[quote snipped -- jcs]
+
+Good advice but who can afford the wind tunnel time?
+
+[quote snipped -- jcs]
+
+
+The best estimate, as I have said before, is little or no change in Cd.
+    A human body is closer to being a blob than to a geometric shape.
+
+
+> As a suggestion, it is possible that using a reference other than
+[quote snipped -- jcs]
+
+Interesting thought but it makes the problem much more difficult.
+
+Keep in mind where I'm trying to go with this.  Namely if I normally can 
+go V km/h on a given road on a calm day, how fast would I go with a 
+crosswind of U km/h.  The only pieces of information available are V and 
+U.
+The cylinder model gives an answer with the assumption that CdA is  constant.
+I want to do get an answer with the assumption that Cd alone is constant 
+but that effective area varies with yaw angle.  It's easy to get good 
+estimates of frontal and lateral areas using a digital camera.
+
+It's all just speculation unless we have good wind tunnel data to test 
+the models.
+
+So I'm waiting for Doug's verdict, which might be
+-wrong interpretation of Doug's data (which I hope is the case)
+-Doug's data is wrong, in which case we're up the creek
+-Pythagoras is wrong, in which case we're really up the creek
+
+
+> It might be a safe assumption (is any assumption truly safe?) that the
+
+human body contributes more than another factor to the resulting CdA at
+different yaw angles, and that an unfaired bike might be only a small
+fraction of that quantity.
+
+Yes that's what I've found so far.
+
+
+> The skin represents a constant for each individual, "... an area in
+
+[quote snipped -- jcs]
+
+Better to avoid surface area for the reason given earlier.
+
+[quote snipped -- jcs]
+
+> http://www.bsn.com/Cycling/articles/data-quality.html
+
+
+I had an extensive discussion with Dr Flannigan back in 96 or 97 when he 
+published his original paper.  If the hardcore bicycle science archives 
+are available somewhere I recall some discussion there as well.
+
+[quote snipped -- jcs]
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron@shaw.ca>
+Date:    Sat, August 7, 2004 5:47 pm
+To:      jcsnyder@hupi.org
+
+
+Hi John,
+
+The link at
+http://www.hupi.org/HPeJ/0003/reference/index_of_0003.htm
+is dead.
+
+A technical probem or a political one?
+
+Cheers,
+Angus
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    jcsnyder@hupi.org
+Date:    Sun, August 8, 2004 10:58 pm
+To:      angus_cameron@shaw.ca
+
+
+
+[quote snipped -- jcs]
+
+> A technical probem or a political one?
+
+
+Politics. Bah!
+
+You can reaccess the material at
+
+http://www.hupi.org/HPeJ/0003/248/index_of_0003.htm
+
+I haven't checked if the new links work, though they should be okay.
+Hopefully we won't have to move our "classroom" again.
+
+After reading through the dialog between you and Doug (which BTW thank you
+for forwarding, very useful) I spent most of the weekend writing up a new
+spreadsheet with three work pages. Its link is included in the index as
+Book1.xls.
+
+I also rechecked THE LEADING EDGE for the approximation of cross winds.
+Goro's handling is identical to the definition of "E" as is the discussion
+of Jones' cylinder model.
+
+Back to the spreadsheet. The first work page determines the CdA-x and
+CdA-y values of the unfaired Standard bike and Moulton bike from the data
+in the 2nd Symposium paper.  CdA_x is the drag area as relates to the fx
+axis. And CdA_y is drag area fit to the fy axis.  CdA_y is somewhat of a
+distraction because it would only relate to forces occurring at a right
+angle to the line of a bicycle's travel.
+
+On the other hand it is interesting that the magnitude of CdA_y at 90
+degrees yaw is nearly double that of CdA_x at 0 degrees yaw. That
+difference may help explain why your curve fits where looking better with
+an average instead of a sum of fyr and fyf. Given Doug's explaination of
+how the load cells in the wind tunnel were set up, I now am willing to
+acknowledge that the CdA values as yaw varies are not a a near constant.
+Measurements really are better than guesses.
+
+The second workpage on the spreadsheet compares two calculation sets of
+Power due to aerodynamic drag; first using all of the derived CdA's from
+the wind tunnel data to match up the CdA to the apparent wind angle, and
+second using only the CdA value measured at 0 degrees yaw. The two sets of
+calculations are strikingly similar. Power values vary by only a few watts
+down the column.
+
+The third worksheet contains velocity and force vectors to reference the
+input nomenclature.
+
+IOW, the cylinder model appears to work fairly well, but why?
+
+Cheers,
+
+John
+
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    "Angus Cameron" <angus_cameron@shaw.ca>
+Date:    Tue, August 10, 2004 8:42 am
+To:      jcsnyder@hupi.org
+
+
+John,
+
+October is fine with me.  I'll be in the UK from the 4th to the 24th of 
+Sept.  The article looks like it will be straightforward to finish now, 
+so long as I don't get distracted by chasing any other fantasies down  any
+more blind alleys.  I have to use your pretty diagrams tho', if  that's
+ok.
+
+I've had a distraction anyway since plans for a high rise at the edge of 
+a park not 100 m from my front door were sprung on us a couple of weeks 
+ago.  So I've been busy fighting city hall.  They've changed the zoning 
+regulations so they can legally approve it without a public forum and 
+without appeal!  We have 10 minuted for a presentation at the next 
+council metting.  Fortunately elections are coming up in Oct so we  should
+be able to force them to hold a public forum at the very minimum.
+
+Cheers,
+Angus
+
+
+[quote snipped -- jcs]
+
+
+
+
+
+
+
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    jcsnyder@hupi.org
+Date:    Mon, August 9, 2004 12:14 am
+To:      angus_cameron@shaw.ca
+
+Hi Angus,
+
+A lot transpired this weekend, so this reply is slightly out of date.
+
+
+> Doug's reaction caught me by surprise.  I would have assumed that he
+
+would be acquainted with what's been happening with Dave's project over
+the past couple of years.
+
+His reaction surprised me as well. The forwarded questions resulted in
+deep discussion between Doug and Theo Schmidt this weekend. Dave is
+staying out of it though following along. I very much admire Milliken for
+hanging in there and making the effort to understand the situation, as
+well as all of the emails he sent to you this weekend. There is a general
+debate brewing about whether information should made freely available to
+all comers or for a price to a few. It is a topic that extends far outside
+of the confines of the HPV community. We've just felt a brush of that
+storm.
+
+
+
+> You may be right.  I was trusting my intuition that for a bluff body
+
+like a cyclist, Cd would remain more or less constant, at least within
+measurement errors and the area would be the predominant determining
+factor.  At first glance that's what Doug's data appeared to be saying.
+
+>   Right now I'm not too sure what it says. ;)
+
+
+>From the measurements converted into CdA values we can now see there is a
+great deal of change as yaw angle varies. Whether Cd changes or not now
+might be able to determined if the associated reference areas where known.
+
+
+
+> Again Doug's data could provide at least a partial answer.  It might be
+
+an oversimplification to assume that Cd is constant but what else can
+you do?  It's relatively easy to measure an area but very difficult to
+measure CdA, even in a wind tunnel.  And don't forget those tantalising
+Fy values when you add the front and rear y forces.
+
+
+> Good advice but who can afford the wind tunnel time?
+
+
+One of these months I have a protocol for measuring CdA and Crr with a
+power meter that needs to be tested and checked carefully. Power meters
+are expensive too, but many times cheaper than wind tunnel time.
+
+Part of that project showed that even the CdA values found in a wind
+tunnel are not cast in concrete numbers. I even read a blurb today that
+different wind tunnels will return different CdA's for the same vehicle
+due to differences in instrumentation. There is a "fuzziness" involved
+with these investigations in part due to the complexity of what is being
+studied -- air movement. It's still very fun and interesting.
+
+
+
+
+> Keep in mind where I'm trying to go with this.  Namely if I normally can
+
+go V km/h on a given road on a calm day, how fast would I go with a
+crosswind of U km/h.  The only pieces of information available are V and
+U.
+
+> The cylinder model gives an answer with the assumption that CdA is
+
+constant.
+
+> I want to do get an answer with the assumption that Cd alone is constant
+
+but that effective area varies with yaw angle.  It's easy to get good
+estimates of frontal and lateral areas using a digital camera.
+
+>
+> It's all just speculation unless we have good wind tunnel data to test
+
+the models.
+
+I'm not completely sure why but the Book1.xls spreadsheet appears to
+confirm that the cylinder model has some validity when compared to the
+wind tunnel derived drag measurements. Perhaps it may have something to do
+with the as yaw angle increases the effects of air drag on the fx axis
+decreases. As much as I love to speculate and use intuition (that fun
+"what if" game), objectively collected data always takes precedence when
+searching for Truth with the capital "T".
+
+
+
+>> http://www.bsn.com/Cycling/articles/data-quality.html
+
+>
+> I had an extensive discussion with Dr Flannigan back in 96 or 97 when he
+
+published his original paper.  If the hardcore bicycle science archives
+are available somewhere I recall some discussion there as well.
+
+Those archives should still be available, but the list itself has almost
+vanished as have tech discussions on the IHPVA lists. It would be good to
+change that trend, worth the effort IMHO to try.
+
+Cheers,
+
+John
+
+
+
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    jcsnyder@hupi.org
+Date:    Mon, August 9, 2004 10:08 pm
+To:      angus_cameron@shaw.ca
+         schmidt@umwelteinsatz.ch
+
+
+Hi Angus,
+
+As of August 9th the index to the reference materials and other links is
+now located at the following url;
+
+http://www.hupi.org/HPeJ/0005/248/index_of_0005.htm
+
+I am moving the article back in the submission que in order to give all of
+us, especially Theo who has been busy dealing with other work, the luxury
+of  extra time to review all of the materials. You mentioned earlier about
+going on a trip in late August and early September. Publication date for
+the cross wind article could be re-penciled in for October, if that is
+okay with you.
+
+
+Best Wishes,
+
+John
+
+---------------------------- Original Message ----------------------------
+Subject: Re: where are the archives and other matters
+From:    jcsnyder@hupi.org
+Date:    Wed, August 11, 2004 12:27 am
+To:      angus_cameron@shaw.ca
+
+
+Hi Angus,
+
+It is fine if you wish to do the article as a straightforward piece. A
+good clear explaination of the cross wind effect on an unfaired cyclist is
+important and called for. Coming to grips with the concepts can be viewed
+as a learning experience which might make sharing with the readers easier.
+
+I feel that you have not gone down a blind alley, that you may be onto
+something potentially useful. This is the nature of creativity; there will
+always be the many ideas to discard and the few gems to hang on to.
+
+Hopefully, the zoning issue will be resolved in a way that is favorable
+for you!
+
+Cheers,
+
+John
+
+
+[quote snipped -- jcs]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,601 @@
+From alex.richards at orange.fr  Tue Nov  2 10:16:01 2010
+From: alex.richards at orange.fr (Alex Richards)
+Date: Tue, 02 Nov 2010 18:16:01 +0000
+Subject: [trikes] steering design question (and dreadful wheelchair
+	design)
+Message-ID: <7on687jla0lg24840nri0uan.1288721109648@email.android.com>
+
+Thanks for all the replies, I've been studying the load-carrying trikes, and there does seem to be a range of different steering set-ups. I guess each has its pros and cons.
+
+I'm aware of the various hand-cranked options, sadly that's not an option for my wife, her ME means anything but very gentle exercise is out, Iran rightly points out the downside of what is basically a rickshaw, but if it's a choice of not getting out in the fresh air, or getting out with me providing the motive power I know which one we'd choose.
+
+As for wheelchair design, it strikes me all but the very best is at least 20 years behind bike design, and I'd love to see something very different, very modern and very efficient, perhaps someone here's up to the challenge?
+
+Alex
+
+Sent from Samsung mobile
+
+trikes-request at bikelist.org wrote:
+
+>
+>Send trikes mailing list submissions to
+>	trikes at bikelist.org
+>
+>To subscribe or unsubscribe via the World Wide Web, visit
+>	http://hupi.org/mailman/listinfo/trikes
+>or, via email, send a message with subject or body 'help' to
+>	trikes-request at bikelist.org
+>
+>You can reach the person managing the list at
+>	trikes-owner at bikelist.org
+>
+>When replying, please edit your Subject line so it is more specific
+>than "Re: Contents of trikes digest..."
+>
+>
+>Today's Topics:
+>
+>   1. Re: steering design question (John Turvey)
+>   2. Re: steering design question (Ian Sims)
+>   3. Re: steering design question (Julian Edgar)
+>   4. Re: steering design question (Moz)
+>
+>
+>----------------------------------------------------------------------
+>
+>Message: 1
+>Date: Fri, 29 Oct 2010 22:44:26 +0100
+>From: John Turvey <johnturvey at onetel.com>
+>Subject: Re: [trikes] steering design question
+>To: Alex Richards <alex.richards at orange.fr>
+>Cc: trikes at bikelist.org
+>Message-ID: <B381FCE8-E3A5-11DF-9907-00306566DC3C at onetel.com>
+>Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+>
+>Further to my reply yesterday, I have now had a chance to look at 2 
+>different wheelchair cycles - I help at a special needs cycle centre, 
+>and these two machines were given to the Centre in 2002 - they were 
+>both well used then.
+>
+>The first machine is a Duet, where the steering pivot is about 5 inches 
+>in front of the front wheel axles.
+>
+>The second machine is an 0 Pair (Dutch made) where the steering pivot 
+>is an inclined tube about 8 inches long - the bottom of the tube is 
+>about 2 inches below and 1/2 inch in front of the front wheel axles, 
+>while the top of the tube is a bout 2 inches in front..  The O Pair is 
+>still made (by Van Raam) but the modern machine is VERY different from 
+>the one at the Centre.
+>
+>As I said before, both of these machines have a wheelchair part that is 
+>much stronger than a standard wheelchair.
+>
+>If you really want to use a standard wheelchair, then a 
+>wheelchair-transporter is a possibility  - this is a splitable trike 
+>with a platform at the front onto which a wheelchair and wheelchair 
+>user can be loaded - the Centre got one of these (a Van Raam Velo Plus) 
+>at the start of 2009 at a cost (excluding VAT) of some ?5,400 - but 
+>this is a heavy machine and is not really practical for any distance - 
+>I would stick to a wheelchair cycle like the Duet or O Pair - I have 
+>seen several different modern ones in recent years, so they are made by 
+>several manufactures in various countries.
+>
+>John Turvey
+>
+>
+>------------------------------
+>
+>Message: 2
+>Date: Sat, 30 Oct 2010 16:44:06 +1100
+>From: "Ian Sims" <ian at greenspeed.com.au>
+>Subject: Re: [trikes] steering design question
+>To: <trikes at bikelist.org>
+>Message-ID: <E7BD9CC8FD4F4702BDBB411C9FA57531 at ASUSA6J>
+>Content-Type: text/plain;	charset="US-ASCII"
+>
+>In my biased opinion all these machines are compromised against normal bicycles from an efficiency and
+>performance point of view.
+>
+>For a start you have only one person providing the motive power, so that the non-active person is deprived of
+>exercise, and the other person is overworked. Then you have the increase in weight and drag over a couple of
+>bikes. And finally terrible road holding, handling and balance compared to a bicycle.
+>
+>This is why we have built recumbent tandem trikes, where one rider has hand cranks, and the other foot cranks.
+>These machines have performance that is on a par, or better than standard bikes. Plus the stability is better
+>than ordinary bikes. 
+>
+>With such a machine, Karen Darke and her partner toured New Zealand and the Himalayas.
+>
+>http://www.greenspeed.com.au/ownerweb.html
+>
+>
+>Regards, Ian
+>Ian Sims, Director
+>Unit5/31 Rushdale Street
+>Knoxfield VIC 3180
+>AUSTRALIA
+>Phone +61 3 9753 3644 
+>Fax +61 3 9753 4434 
+>Email ian at greenspeed.com.au 
+>Web www.greenspeed.com.au
+>
+>Date: Thu, 28 Oct 2010 21:36:46 +0100
+>From: John Turvey <johnturvey at onetel.com>
+>Subject: Re: [trikes] steering design question
+>To: Alex Richards <alex.richards at orange.fr>
+>Cc: trikes at bikelist.org
+>Message-ID: <154F9E59-E2D3-11DF-B60E-00306566DC3C at onetel.com>
+>Content-Type: text/plain; charset=US-ASCII; format=flowed
+>
+>
+>On Thursday, October 28, 2010, at 07:21 PM, Alex Richards wrote:
+>
+>> My wife was recently told she should use a wheelchair due to her ME. 
+>> As keen cyclists we'd like to continue, and so I've been looking at 
+>> designing an attachment for her chair which would convey it to 
+>> something like a Vietnamese cyclo rickshaw
+>>
+>> http://www.rfleming.net/diarypics/Huecyclo2.jpg
+>>
+>> Only thing I'm not certain about is the location of the steering 
+>> pivot; should it be between the wheels like a kids soapbox kart, or 
+>> behind the wheels like another conversion I've seen?
+>>
+>> Any advice would be gratefully received.
+>>
+>> Alex
+>>
+>>
+>There are several commercial machines available which are similar to 
+>this, where the wheelchair front and the 'cycle' rear can be split so 
+>the wheelchair can be used separately (in cafes etc) - however, the 
+>wheelchair part is much sturdier than a wheelchair, as it has to 
+>withstand the higher speeds of cycling - from my recollection of these 
+>sorts of machines, the steering pivot is slightly in front of the front 
+>wheel centres - to provide some trail and (presumably) damping to the 
+>steering.
+>
+>Have you looked for this sort of machine on the web - a good starting 
+>point is the Velovision Special Needs Cycling Guide at
+>
+>http://www.velovision.com/cgi-bin/show_comments.pl?storynum=559
+>
+>
+>
+>
+>
+>
+>------------------------------
+>
+>Message: 3
+>Date: Sat, 30 Oct 2010 17:11:08 +1100
+>From: "Julian Edgar" <g.edgar at bigpond.com>
+>Subject: Re: [trikes] steering design question
+>To: <ian at greenspeed.com.au>,	<trikes at bikelist.org>
+>Message-ID: <005801cb77f9$3e74b8b0$bb5e2a10$@bigpond.com>
+>Content-Type: text/plain;	charset="us-ascii"
+>
+>I agree with Ian. I spent a few hours recently in shop selling equipment for
+>disabled people and wasn't very impressed by the standard of the
+>non-motorised equipment. That said, I haven't seen the equipment the OP is
+>talking about - but the shop I was in was very successful and was selling
+>what purported to be top equipment. 
+>
+>
+>Regards,
+>
+>Julian Edgar
+>www.julianedgar.com
+>
+>
+>
+>-----Original Message-----
+>From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+>Behalf Of Ian Sims
+>Sent: Saturday, 30 October 2010 4:44 PM
+>To: trikes at bikelist.org
+>Subject: Re: [trikes] steering design question
+>
+>In my biased opinion all these machines are compromised against normal
+>bicycles from an efficiency and performance point of view.
+>
+>For a start you have only one person providing the motive power, so that the
+>non-active person is deprived of exercise, and the other person is
+>overworked. Then you have the increase in weight and drag over a couple of
+>bikes. And finally terrible road holding, handling and balance compared to a
+>bicycle.
+>
+>This is why we have built recumbent tandem trikes, where one rider has hand
+>cranks, and the other foot cranks.
+>These machines have performance that is on a par, or better than standard
+>bikes. Plus the stability is better than ordinary bikes. 
+>
+>With such a machine, Karen Darke and her partner toured New Zealand and the
+>Himalayas.
+>
+>http://www.greenspeed.com.au/ownerweb.html
+>
+>
+>Regards, Ian
+>Ian Sims, Director
+>Unit5/31 Rushdale Street
+>Knoxfield VIC 3180
+>AUSTRALIA
+>Phone +61 3 9753 3644
+>Fax +61 3 9753 4434
+>Email ian at greenspeed.com.au
+>Web www.greenspeed.com.au
+>
+>Date: Thu, 28 Oct 2010 21:36:46 +0100
+>From: John Turvey <johnturvey at onetel.com>
+>Subject: Re: [trikes] steering design question
+>To: Alex Richards <alex.richards at orange.fr>
+>Cc: trikes at bikelist.org
+>Message-ID: <154F9E59-E2D3-11DF-B60E-00306566DC3C at onetel.com>
+>Content-Type: text/plain; charset=US-ASCII; format=flowed
+>
+>
+>On Thursday, October 28, 2010, at 07:21 PM, Alex Richards wrote:
+>
+>> My wife was recently told she should use a wheelchair due to her ME. 
+>> As keen cyclists we'd like to continue, and so I've been looking at 
+>> designing an attachment for her chair which would convey it to 
+>> something like a Vietnamese cyclo rickshaw
+>>
+>> http://www.rfleming.net/diarypics/Huecyclo2.jpg
+>>
+>> Only thing I'm not certain about is the location of the steering 
+>> pivot; should it be between the wheels like a kids soapbox kart, or 
+>> behind the wheels like another conversion I've seen?
+>>
+>> Any advice would be gratefully received.
+>>
+>> Alex
+>>
+>>
+>There are several commercial machines available which are similar to this,
+>where the wheelchair front and the 'cycle' rear can be split so the
+>wheelchair can be used separately (in cafes etc) - however, the wheelchair
+>part is much sturdier than a wheelchair, as it has to withstand the higher
+>speeds of cycling - from my recollection of these sorts of machines, the
+>steering pivot is slightly in front of the front wheel centres - to provide
+>some trail and (presumably) damping to the steering.
+>
+>Have you looked for this sort of machine on the web - a good starting point
+>is the Velovision Special Needs Cycling Guide at
+>
+>http://www.velovision.com/cgi-bin/show_comments.pl?storynum=559
+>
+>
+>
+>
+>--
+>This message comes to you via the trikes at bikelist.org mailing list,
+>sponsored by http://www.HuPI.org/ Visit
+>http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+>
+>
+>------------------------------
+>
+>Message: 4
+>Date: Sat, 30 Oct 2010 21:39:59 +1100
+>From: Moz <list at moz.geek.nz>
+>Subject: Re: [trikes] steering design question
+>To: trikes at bikelist.org
+>Message-ID: <153021103.20101030213959 at moz.geek.nz>
+>Content-Type: text/plain; charset=windows-1252
+>
+>Julian Edgar said:
+>> I agree with Ian. I spent a few hours recently in shop selling
+>> equipment for disabled people and wasn't very impressed by the
+>> standard of the non-motorised equipment.
+>
+>At the risk of joining the chorus, that's been my experience. The
+>dedicated wheelchairs are usually good, but anything bicycle-like is
+>usually quite amateur. Which leads wheelchair racers to be quite
+>disparaging of the pedal-powered stuff, and rightly so. But get them
+>onto something half decent and they usually change their minds. For
+>that matter, recumbent gear is usually priced like wheelchair gear.
+>
+>Moz
+>
+>
+>
+>------------------------------
+>
+>This message digest comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+>End of trikes Digest, Vol 72, Issue 10
+>**************************************
+>
+
+From rgb at tricolour.net  Thu Nov 25 06:50:10 2010
+From: rgb at tricolour.net (Richard Guy Briggs)
+Date: Thu, 25 Nov 2010 09:50:10 -0500
+Subject: [trikes] Greenspeed tandem vanishes under steam train
+Message-ID: <20101125145010.GA13083@embryo.tricolour.net>
+
+
+This may not be quite what you are expecting from the subject line.  :D
+
+Most of you are probably already familiar with the antics we do up here
+in Ottawa enabled by the creations of a certain list member from Ferntree
+Gully...
+
+Last Saturday HPVOoO (Human Powered Vehicle Operators of Ottawa)
+participated yet again in the annual Ottawa Firefighters Help Santa Toy
+Parade.  This time we had the ambitious idea of turning my Greenspeed
+GTVs6 tandem with the Hammond organ trailer into a steam train in lights
+for a night parade.
+
+This was the result:
+	http://tricolour.net/photos/2010/11/20/train_parade.html
+
+And here is some of the backgrounder on how we got there:
+	http://hpv.tricolour.net/train.html
+
+	http://artengine.ca/blog/?p=1733
+	http://drumbent.blogspot.com/2010/11/more-hpvooo-parade-fun.html
+
+Some comments from the general public that got back to me indirectly
+include "That's the first time downtown Ottawa has heard a real live
+train horn in more than 40 years." (In a poor decision on the part of
+regional planners, our "central" train station was moved about 5km away
+from Parliament Hill sometime in the early 1960s.)
+
+We've got another parade coming up this coming Saturday in a suburb
+about 15km away.
+
+
+	slainte mhath, RGB
+
+--
+Richard Guy Briggs               --  ~\    -- ~\            <hpv.tricolour.net>
+<www.TriColour.net>                --  \___   o \@       @       Ride yer bike!
+Ottawa, ON, CANADA                  --  Lo_>__M__\\/\%__\\/\%
+Vote! -- <greenparty.ca>_____GTVS6#790__(*)__(*)________(*)(*)_________________
+
+From rob at wrhpv.com  Thu Nov 25 09:09:32 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Thu, 25 Nov 2010 17:09:32 +0000
+Subject: [trikes] Greenspeed tandem vanishes under steam train
+In-Reply-To: <20101125145010.GA13083@embryo.tricolour.net>
+References: <20101125145010.GA13083@embryo.tricolour.net>
+Message-ID: <4833DE6A-C6DB-4722-BDA5-A8B5E567554E@wrhpv.com>
+
+Cool - a kind of retro-TRON vibe going there!!!
+
+
+
+On 25 Nov 2010, at 14:50, Richard Guy Briggs wrote:
+
+> 
+> This may not be quite what you are expecting from the subject line.  :D
+> 
+> Most of you are probably already familiar with the antics we do up here
+> in Ottawa enabled by the creations of a certain list member from Ferntree
+> Gully...
+> 
+> Last Saturday HPVOoO (Human Powered Vehicle Operators of Ottawa)
+> participated yet again in the annual Ottawa Firefighters Help Santa Toy
+> Parade.  This time we had the ambitious idea of turning my Greenspeed
+> GTVs6 tandem with the Hammond organ trailer into a steam train in lights
+> for a night parade.
+> 
+> This was the result:
+> 	http://tricolour.net/photos/2010/11/20/train_parade.html
+> 
+> And here is some of the backgrounder on how we got there:
+> 	http://hpv.tricolour.net/train.html
+> 
+> 	http://artengine.ca/blog/?p=1733
+> 	http://drumbent.blogspot.com/2010/11/more-hpvooo-parade-fun.html
+> 
+> Some comments from the general public that got back to me indirectly
+> include "That's the first time downtown Ottawa has heard a real live
+> train horn in more than 40 years." (In a poor decision on the part of
+> regional planners, our "central" train station was moved about 5km away
+> from Parliament Hill sometime in the early 1960s.)
+> 
+> We've got another parade coming up this coming Saturday in a suburb
+> about 15km away.
+> 
+> 
+> 	slainte mhath, RGB
+> 
+> --
+> Richard Guy Briggs               --  ~\    -- ~\            <hpv.tricolour.net>
+> <www.TriColour.net>                --  \___   o \@       @       Ride yer bike!
+> Ottawa, ON, CANADA                  --  Lo_>__M__\\/\%__\\/\%
+> Vote! -- <greenparty.ca>_____GTVS6#790__(*)__(*)________(*)(*)_________________
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From rgb at tricolour.net  Thu Nov 25 09:30:15 2010
+From: rgb at tricolour.net (Richard Guy Briggs)
+Date: Thu, 25 Nov 2010 12:30:15 -0500
+Subject: [trikes] Greenspeed tandem vanishes under steam train
+In-Reply-To: <4833DE6A-C6DB-4722-BDA5-A8B5E567554E@wrhpv.com>
+References: <20101125145010.GA13083@embryo.tricolour.net>
+	<4833DE6A-C6DB-4722-BDA5-A8B5E567554E@wrhpv.com>
+Message-ID: <20101125173015.GR12793@embryo.tricolour.net>
+
+On Thu, Nov 25, 2010 at 05:09:32PM +0000, Rob Hague wrote:
+> Cool - a kind of retro-TRON vibe going there!!!
+
+You are the second person to mention Tron...  It was from my teen era,
+but I never really absorbed that subculture then...  After a quick
+search, I now understand the reference.
+
+The other guy seemed to be happy about that resemblance.  :)
+
+> On 25 Nov 2010, at 14:50, Richard Guy Briggs wrote:
+> > 
+> > This may not be quite what you are expecting from the subject line.  :D
+> > 
+> > Most of you are probably already familiar with the antics we do up here
+> > in Ottawa enabled by the creations of a certain list member from Ferntree
+> > Gully...
+> > 
+> > Last Saturday HPVOoO (Human Powered Vehicle Operators of Ottawa)
+> > participated yet again in the annual Ottawa Firefighters Help Santa Toy
+> > Parade.  This time we had the ambitious idea of turning my Greenspeed
+> > GTVs6 tandem with the Hammond organ trailer into a steam train in lights
+> > for a night parade.
+> > 
+> > This was the result:
+> > 	http://tricolour.net/photos/2010/11/20/train_parade.html
+> > 
+> > And here is some of the backgrounder on how we got there:
+> > 	http://hpv.tricolour.net/train.html
+> > 
+> > 	http://artengine.ca/blog/?p=1733
+> > 	http://drumbent.blogspot.com/2010/11/more-hpvooo-parade-fun.html
+> > 
+> > Some comments from the general public that got back to me indirectly
+> > include "That's the first time downtown Ottawa has heard a real live
+> > train horn in more than 40 years." (In a poor decision on the part of
+> > regional planners, our "central" train station was moved about 5km away
+> > from Parliament Hill sometime in the early 1960s.)
+> > 
+> > We've got another parade coming up this coming Saturday in a suburb
+> > about 15km away.
+> > 
+> > 
+> > 	slainte mhath, RGB
+
+	slainte mhath, RGB
+
+--
+Richard Guy Briggs               --  ~\    -- ~\            <hpv.tricolour.net>
+<www.TriColour.net>                --  \___   o \@       @       Ride yer bike!
+Ottawa, ON, CANADA                  --  Lo_>__M__\\/\%__\\/\%
+Vote! -- <greenparty.ca>_____GTVS6#790__(*)__(*)________(*)(*)_________________
+
+From list at moz.geek.nz  Thu Nov 25 21:48:28 2010
+From: list at moz.geek.nz (Moz)
+Date: Fri, 26 Nov 2010 16:48:28 +1100
+Subject: [trikes] Greenspeed tandem vanishes under steam train
+In-Reply-To: <20101125145010.GA13083@embryo.tricolour.net>
+References: <20101125145010.GA13083@embryo.tricolour.net>
+Message-ID: <1058456942.20101126164828@moz.geek.nz>
+
+Richard Guy Briggs said:
+> This may not be quite what you are expecting from the subject line. :D
+
+No, but it is exceptionally cool! I'm impressed.
+
+Moz
+
+
+From ndewey at shaw.ca  Fri Nov 26 12:14:37 2010
+From: ndewey at shaw.ca (Nelson Dewey)
+Date: Fri, 26 Nov 2010 12:14:37 -0800
+Subject: [trikes] trikes Digest, Vol 73, Issue 3
+In-Reply-To: <mailman.11.1290801601.78468.trikes@bikelist.org>
+References: <mailman.11.1290801601.78468.trikes@bikelist.org>
+Message-ID: <D8490631-6F64-4B19-912D-B32CB0EE75D8@shaw.ca>
+
+
+Richard Guy Briggs said:
+> This may not be quite what you are expecting from the subject line. :D
+
+No, but it is exceptionally cool! I'm impressed.
+
+Moz
+
+
+
+And an excellent way to be seen on the road!
+
+
+Cheers,
+Nelson
+
+
+
+From csmmason at yahoo.com  Sat Nov 27 14:54:31 2010
+From: csmmason at yahoo.com (J. Mason)
+Date: Sat, 27 Nov 2010 14:54:31 -0800 (PST)
+Subject: [trikes] trikes Digest, Vol 73, Issue 4
+In-Reply-To: <mailman.17.1290888002.7382.trikes@bikelist.org>
+References: <mailman.17.1290888002.7382.trikes@bikelist.org>
+Message-ID: <934019.24838.qm@web31106.mail.mud.yahoo.com>
+
+?????????????????????????????????????????????
+
+
+
+
+________________________________
+From: "trikes-request at bikelist.org" <trikes-request at bikelist.org>
+To: trikes at bikelist.org
+Sent: Sat, November 27, 2010 12:00:02 PM
+Subject: trikes Digest, Vol 73, Issue 4
+
+Send trikes mailing list submissions to
+    trikes at bikelist.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+    http://hupi.org/mailman/listinfo/trikes
+or, via email, send a message with subject or body 'help' to
+    trikes-request at bikelist.org
+
+You can reach the person managing the list at
+    trikes-owner at bikelist.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of trikes digest..."
+
+
+Today's Topics:
+
+   1. Re: trikes Digest, Vol 73, Issue 3 (Nelson Dewey)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Fri, 26 Nov 2010 12:14:37 -0800
+From: Nelson Dewey <ndewey at shaw.ca>
+Subject: Re: [trikes] trikes Digest, Vol 73, Issue 3
+To: trikes at bikelist.org
+Message-ID: <D8490631-6F64-4B19-912D-B32CB0EE75D8 at shaw.ca>
+Content-Type: text/plain;    charset=US-ASCII;    format=flowed
+
+
+Richard Guy Briggs said:
+> This may not be quite what you are expecting from the subject line. :D
+
+No, but it is exceptionally cool! I'm impressed.
+
+Moz
+
+
+
+And an excellent way to be seen on the road!
+
+
+Cheers,
+Nelson
+
+
+
+
+------------------------------
+
+This message digest comes to you via the trikes at bikelist.orgmailing list, 
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+End of trikes Digest, Vol 73, Issue 4
+*************************************
+
+
+
+      
+

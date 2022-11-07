@@ -1,0 +1,358 @@
+From list at moz.geek.nz  Mon Oct 12 01:57:10 2009
+From: list at moz.geek.nz (Moz)
+Date: Mon, 12 Oct 2009 19:57:10 +1100
+Subject: [hpv] Soft tires for more HPV efficiency?
+In-Reply-To: <342145676.1886921255305056450.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+References: <26E830F8-CD2E-47B2-84E2-E18DC717A81F@outyourbackdoor.com>
+	<342145676.1886921255305056450.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+Message-ID: <1518196350.20091012195710@moz.geek.nz>
+
+Jeff Wills said:
+> I'd love to see some real-world testing. Within the Schwalbe line,
+> there's 20" and 700C tires in 28mm (Durano), 40mm (Marathon), and
+> 50mm and 60mm (Big Apple) widths.
+
+There are actually a wide range of widths within some of those. 700C
+Marathons come in a range of sizes from 25mm to 42mm or so. But it's
+worth noting that they optimise the compounds for each size so you
+won't get identical-except-size tyres even so. Still worth the
+experiment IMO.
+
+What you can do with the exact same tyre is use varying rim widths.
+I've worked with someone who was convinced that very wide rims with
+consequent flattening of the profile reduced rolling resistance, so
+he ran 40mm or wider rims with the narrowest tyres that would fit
+them. I think it would be worth trying at least a couple of different
+rims with one tyre if you can - and now that 29" MTB is getting
+popular you should be able to get 19mm, 25mm and 35mm 700C rims
+without too much hassle. Getting a 40mm Marathon onto the 19mm rim is
+left as an exercise for the experimenter :)
+
+I think it'd be worth asking Schwalbe for support on this too, as
+I've noticed them participating in other similar research. Even just
+flicking you a bunch of tyres would help a lot.
+
+Moz
+
+
+From jeff at outyourbackdoor.com  Mon Oct 12 12:30:29 2009
+From: jeff at outyourbackdoor.com (Jeff Potter)
+Date: Mon, 12 Oct 2009 15:30:29 -0400
+Subject: [hpv] Soft tires for more HPV efficiency?
+In-Reply-To: <mailman.13.1255374003.17383.hpv@bikelist.org>
+References: <mailman.13.1255374003.17383.hpv@bikelist.org>
+Message-ID: <CDD83065-A266-45AD-AAFC-1A08905674AD@outyourbackdoor.com>
+
+ From what I understand of various tests done at "Bicycle Quarterly"  
+sidewall suppleness and tread-thinness are critical for low  
+resistance and optimal suspension in wide tires.
+
+I guess that most wide tires today are made for lower performance.  
+Like, aren't Marathons an extra-stout touring tire with thick tread?
+
+They say that wide handmade tires were used for top performance on  
+French bikes from 1930's-50's. They tended to be 650B in size and  
+maybe 38-45mm in width. Also, wide tires apparently haven't been made  
+in that quality since that period.
+
+The closest it seems that we can get today are in the revival 650B  
+tires by a few off-brands like Grand Bois and Mitsuboshi.
+
+It looks like Dugast makes a 27mm tire high quality sew-up.
+
+Well, I would think they would've tested their tires -- or at least  
+used them -- at various pressures and noticest what they did to  
+watts / effort.
+
+--JP
+
+From list at moz.geek.nz  Mon Oct 12 13:01:58 2009
+From: list at moz.geek.nz (Moz)
+Date: Tue, 13 Oct 2009 07:01:58 +1100
+Subject: [hpv] Soft tires for more HPV efficiency?
+In-Reply-To: <CDD83065-A266-45AD-AAFC-1A08905674AD@outyourbackdoor.com>
+References: <mailman.13.1255374003.17383.hpv@bikelist.org>
+	<CDD83065-A266-45AD-AAFC-1A08905674AD@outyourbackdoor.com>
+Message-ID: <1452115512.20091013070158@moz.geek.nz>
+
+Jeff Potter said:
+> I guess that most wide tires today are made for lower performance.
+> Like, aren't Marathons an extra-stout touring tire with thick tread?
+
+Yup. The alternative is Kojaks but I'm not 100% sure what size range
+they cover. You can get them in most racing sizes, I'm just not sure
+about the 700C ones. I'd have to do actual research to find out and
+that's out of the question :)
+
+Hmm, website says there's few useful sizes for this test:
+32-349  16 x 1 1/4
+32-355  18 x 1.25
+32-369  17 x 1 1/4
+35-406  20 x 1.35
+35-559  26 x 1.35
+50-559  26 x 2.00
+35-622  700 x 35C
+
+Only dupes are in 26"/559. Marathon have the advantage that there are
+six widths available in 700C:
+25-622  700 x 25C
+28-622  700 x 28C
+32-622  700 x 32C
+37-622  700 x 35C
+42-622  700 x 40C
+47-622  700 x 45C
+
+
+Moz
+
+
+From jgtetz at msn.com  Mon Oct 12 19:25:07 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Mon, 12 Oct 2009 22:25:07 -0400
+Subject: [hpv] Soft tires for more HPV efficiency?
+In-Reply-To: <mailman.17.1252263602.35953.hpv@bikelist.org><SNT102-W523B0BA174BEF33616032DC5CB0@phx.gbl><SNT102-W51EEB0BBDD03765833EE9EC5CB0@phx.gbl>
+	<151EDD20-0F89-42E3-9BD7-8F4A631512E7@outyourbackdoor.com>
+References: <mailman.17.1252263602.35953.hpv@bikelist.org><SNT102-W523B0BA174BEF33616032DC5CB0@phx.gbl><SNT102-W51EEB0BBDD03765833EE9EC5CB0@phx.gbl>
+	<151EDD20-0F89-42E3-9BD7-8F4A631512E7@outyourbackdoor.com>
+Message-ID: <COL102-DS12069CEE54963A484ACA2FD7C70@phx.gbl>
+
+Jeff wrote;
+
+>Again, I reported on a test and asked if any HPVers have tested wide,  
+soft, supple tires.
+The post had little to do with the test. I wondered about HPVer  
+testing and experience. 
+
+.......yes I have done a fair amount of on road coast down type measurements. A friend at Bell Labs did the bicycle physics and wrote a couple of spreadsheets and I did a few years of collecting data and testing the system. System meaning the physics, the spreadsheet math,  and a whole string of variables that had to be accounted for. 
+
+Results  can be read on the WISLE site under Projects, then Hpv design, Test and building ,    Coastdown measurements by John Tetz. 
+There are three sections. The first two are not accurate. The last one Quantifying Coastdown Measurements, the data is collected with a datalogger built by Kit Wolf from the UK. It made a huge difference in repeatability. 
+
+In this write up I have reported on the variables that effect results (and there are many). 
+Crr and CdA are relatively weak functions so things like tiny grades, and wind , temperature, clothing changes on un faired vehicles all mess with the results. Even tire warming during several runs affect results. I didn't do a lot of road surface variability measurements because so much of the time was accounting for other variables.  
+
+I even saw what I believe to be a change in CdA vs speed (low  8 to 16 mph range) particularly on unfaired vehicles (FWD and Trike), but also on a shelled vehicle (Velomobile - not as great). The huge turbulent wake behind the rider on a unfaired bike must be changing characteristics quite a bit.  But even the VM CdA appeared to change.  This means one cant use a fixed value of CdA.   
+
+My conclusion after around 4 years of collecting data is getting a reliable Crr number is very difficult. 
+
+So maybe the roller method may give at least a  relative value. But what does a tire really do on a road surface? 
+
+If your thinking of using a watts meter there are some issues that have to be addressed. Lets say the vehicle CdA is 2.5 sq ft, and the Crr is around .0045. I believe the speed should be low to reduce the influence of CdA. If the speed is low say 10 mph the Crr watts would be around 18 and the CdA watts 12. That's 37% and 57% of total power.  Any change in speed means the CdA is quite influential. At 11 mph the Crr is 53% and CdA % is 42. 
+Trying to hold speeds to plus or minus 0.5 mph difference is difficult. One would have to do lots of runs and take an average. Will a watts meter read tiny variations? 
+If the speed is higher then CdA is dominant. 
+
+However a few years a go I was an official observer for the Varna team for the hour record up in Canada. When I got there they had been having trouble getting to 60 mph. Because I was just starting to do coastdowns I asked about the tires. They had been using a cheap tire but put on a high price "good" tire, so I suggested going back to the cheap tire. And they got the speed back.  
+At 60 mph the Crr is 25% of total power and CdA was 70% yet that new tire created a problem. 
+So maybe the system would show a difference. 
+
+But if your doing a tire comparison there is daily temperature variations from run to run to deal with.  Absolutely no wind.  Don't forget calibration of the speed odometer vs tire circumference. . 
+
+>From my experience you wont be able to come up with a Crr number but you might see a change in watts vs different tires. I will be very curious as to the techniques used and the results.  
+
+I measured only three tires. Big Apples, Greenspeed Scorchers, and Primo Comets All fat tires at 60 psi. . All three were close with the Comets being a bit lower. But what was very noticeable was the ride quality. The Comets gave a much smoother ride. They are also thinner  - lighter so the acceleration is better. I have been running Comets  on all my 406 wheeled bikes. However for city use they probably would flat easier. 
+
+John Tetz 
+
+
+
+.  
+
+From jeff_wills at comcast.net  Mon Oct 12 21:31:20 2009
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Tue, 13 Oct 2009 04:31:20 +0000
+Subject: [hpv] Soft tires for more HPV efficiency?
+In-Reply-To: <CDD83065-A266-45AD-AAFC-1A08905674AD@outyourbackdoor.com>
+Message-ID: <2142097881.2450281255408280388.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+
+----- Jeff Potter wrote:
+
+
+> I guess that most wide tires today are made for lower performance.  
+
+> Like, aren't Marathons an extra-stout touring tire with thick tread?
+
+
+It depends- I was thinking that Marathon Supreme would be the closest analog to the Durano and the Big Apple. In the Schwalbe line-up there's 10 variations of the "Marathon" tire:
+
+Marathon 
+Marathon Cross
+Marathon Extreme
+Marathon Marathon Plus
+Marathon Plus ATB
+Marathon Plus Tour
+Marathon Racer
+Marathon Supreme
+Marathon Winter (studded!)
+Marathon XR
+
+BTW: here's a direct link to John Tetz's coastdown article:
+http://www.recumbents.com/wisil/tetz/coast_measurements.htm
+
+And, Moz... yeah, I think Schwalbe would cooperate on this kind of comparison. All I need to do is find the time and patience to do it right.
+
+
+Other Jeff
+
+From alex at phred.org  Tue Oct 13 08:20:36 2009
+From: alex at phred.org (Alex Wetmore)
+Date: Tue, 13 Oct 2009 15:20:36 +0000
+Subject: [hpv] Soft tires for more HPV efficiency?
+In-Reply-To: <COL102-DS12069CEE54963A484ACA2FD7C70@phx.gbl>
+References: <mailman.17.1252263602.35953.hpv@bikelist.org><SNT102-W523B0BA174BEF33616032DC5CB0@phx.gbl><SNT102-W51EEB0BBDD03765833EE9EC5CB0@phx.gbl>
+	<151EDD20-0F89-42E3-9BD7-8F4A631512E7@outyourbackdoor.com>,
+	<COL102-DS12069CEE54963A484ACA2FD7C70@phx.gbl>
+Message-ID: <26DC409247110E4D8DF8F5BE755F8CE707CA88C2@BL2PRD0102MB005.prod.exchangelabs.com>
+
+I'd be interested in more information on the data logger that you used for these tests.  How does it work?  Would Kit Wolf be interested in making another one?
+
+I agree with you on the merits of testing on the road vs on rollers.  I also think that it is important to have a rider on the bicycle (especially when testing on the road).  You can see this in the results when comparing tests run on rollers vs those run on roads.  The ones on rollers show that greater pressure is always better, while tests run on roads show that higher pressure (beyond a certain point) slows the rider down.
+
+I've been involved with the tire testing for Bicycle Quarterly.  We have a strict methodology to get repeatable results across tests.  That includes testing at close to the same temperature (luckily Seattle has a very temperate climate), in zero wind, on the same test track.  We use reference wheels and tires (the tires are never used for anything else) at the start and end of each day to check that we are getting similar results.  The test rider is very stable in his weight, and we use the same test bicycle (also not used for anything else).
+
+alex
+
+________________________________________
+From: hpv-bounces at bikelist.org [hpv-bounces at bikelist.org] on behalf of JOHN TETZ [jgtetz at msn.com]
+Sent: Monday, October 12, 2009 7:25 PM
+To: C POLLARD; Jeff Potter
+Cc: hpv at bikelist.org
+Subject: Re: [hpv] Soft tires for more HPV efficiency?
+
+Jeff wrote;
+
+>Again, I reported on a test and asked if any HPVers have tested wide,
+soft, supple tires.
+The post had little to do with the test. I wondered about HPVer
+testing and experience.
+
+.......yes I have done a fair amount of on road coast down type measurements. A friend at Bell Labs did the bicycle physics and wrote a couple of spreadsheets and I did a few years of collecting data and testing the system. System meaning the physics, the spreadsheet math,  and a whole string of variables that had to be accounted for.
+
+From JCSnyder.studio at worldnet.att.net  Tue Oct 13 13:47:05 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Tue, 13 Oct 2009 14:47:05 -0600
+Subject: [hpv]  Soft tires for more HPV efficiency?
+In-Reply-To: <mailman.13.1255374003.17383.hpv@bikelist.org>
+References: <mailman.13.1255374003.17383.hpv@bikelist.org>
+Message-ID: <4AD4E749.9040302@worldnet.att.net>
+
+The iBike bike computers http://www.ibikesports.com/ do a decent job of 
+calculating viable CdA and Crr values from calibration coastdowns. If 
+one wants to get " super-gnarled" about having lots of sensor inputs, 
+add the Cinqo which can communicate with an iBike unit 
+http://www.quarq.us/cinqo. 
+
+John Snyder
+
+From legs_larry at yahoo.com  Wed Oct 14 01:35:31 2009
+From: legs_larry at yahoo.com (Dave Larrington)
+Date: Wed, 14 Oct 2009 09:35:31 +0100
+Subject: [hpv] Soft tires for more HPV efficiency?
+References: <mailman.15.1255460402.40120.hpv@bikelist.org>
+Message-ID: <007a01ca4ca9$74113830$8078400a@PCROOT.COM>
+
+On Tuesday, October 13, 2009 8:00 PM [GMT+1=CET],
+Alex Wetmore tweaked the Babbage-Engine to tell us:
+
+> I'd be interested in more information on the data logger that you
+> used for these tests.  How does it work?  Would Kit Wolf be
+> interested in making another one?
+
+I don't know whether Kit still reads this list, but he's recently relocated 
+from Newcastle to Aberystwyth and is also attempting to add reliability to 
+the BHPC's race timing system.  Here he is, hard at work, at the BHPC AGM 
+theo ther week:
+
+http://farm3.static.flickr.com/2511/4008313716_07362422ef.jpg
+
+-- 
+Dave Larrington
+<http://www.legslarry.beerdrinkers.co.uk>
+Historians' Right To Work Campaign - We Demand A Continuing
+Supply Of History!
+
+
+From jgtetz at msn.com  Wed Oct 14 16:07:03 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Wed, 14 Oct 2009 19:07:03 -0400
+Subject: [hpv] Soft tires for more HPV efficiency?
+In-Reply-To: <mailman.15.1255460402.40120.hpv@bikelist.org>
+	<007a01ca4ca9$74113830$8078400a@PCROOT.COM>
+References: <mailman.15.1255460402.40120.hpv@bikelist.org>
+	<007a01ca4ca9$74113830$8078400a@PCROOT.COM>
+Message-ID: <COL102-DS5B65D8A3AD9F33A39BDB3D7C60@phx.gbl>
+
+Dave L wrote;
+
+>I don't know whether Kit still reads this list
+> Here he is, hard at work, at the BHPC AGM 
+....Got a good laugh out of that one. Thanks Dave.
+
+I haven't contacted him in several months. 
+
+John Tetz 
+
+From lioninoil at yahoo.com  Sat Oct 17 10:53:14 2009
+From: lioninoil at yahoo.com (Cornel.Ormsby)
+Date: Sat, 17 Oct 2009 10:53:14 -0700
+Subject: [hpv] Google Street View trike
+In-Reply-To: <mailman.15.1255719601.93931.hpv-forsale@bikelist.org>
+Message-ID: <619318.84435.qm@web32703.mail.mud.yahoo.com>
+
+I just saw this today in the news: 
+ 
+>> a mechanical masterpiece made of 3 bicycle wheels, 
+>> a mounted Street View camera, and a very athletic cyclist 
+ 
+http://services.google.com/fb/forms/streetviewussuggestions/
+
+
+
+      
+
+From jeff_wills at comcast.net  Sat Oct 17 11:58:34 2009
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Sat, 17 Oct 2009 18:58:34 +0000
+Subject: [hpv] Google Street View trike
+In-Reply-To: <619318.84435.qm@web32703.mail.mud.yahoo.com>
+Message-ID: <1306016115.4443091255805914772.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+
+----- Cornel.Ormsby wrote:
+
+> I just saw this today in the news: 
+
+> >> a mechanical masterpiece made of 3 bicycle wheels, 
+
+> >> a mounted Street View camera, and a very athletic cyclist 
+
+
+It's been cruising the bike paths of Portland for a while:
+http://bikeportland.org/2009/09/08/google-street-view-camera-trike-sighted-in-portland-this-week/
+
+Quote: ?I was biking out near Airport Way on [the I-205 bike path] a couple of hours ago and came across the Google Maps Bike. He was riding the ramps up and down from Airport Way to the 205 multi-use path. He?s part of a team from San Diego that trucks the bike(s) around and rides/maps. The setup weighs 300 lbs and he rode 20 miles yesterday.?
+
+Jeff
+
+From lioninoil at yahoo.com  Sat Oct 17 12:18:45 2009
+From: lioninoil at yahoo.com (Cornel.Ormsby)
+Date: Sat, 17 Oct 2009 12:18:45 -0700
+Subject: [hpv] Google Street View trike
+In-Reply-To: <1306016115.4443091255805914772.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+Message-ID: <574679.91595.qm@web32704.mail.mud.yahoo.com>
+
+Jeff Wills wrote:
+ 
+> It's been cruising the bike paths of Portland 
+> for a while:
+http://bikeportland.org/2009/09/08/google-street-view-camera-trike-sighted-in-portland-this-week/
+ 
+>> The setup weighs 300 lbs and he rode 20 miles yesterday.
+ 
+That seems excessively heavy even for a trike with camera gear, batteries, transmitter, whatever.
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+
+      
+

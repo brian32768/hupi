@@ -1,0 +1,1878 @@
+From JCSnyder.studio at worldnet.att.net  Mon Mar 23 00:24:25 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Mon, 23 Mar 2009 02:24:25 -0600
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.17.1237752003.39108.hpv@bikelist.org>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>
+Message-ID: <49C74739.404@worldnet.att.net>
+
+This loverly old soap box is a little tippy -- very tippy -- oh well. 
+The following might help to put the earlier number game in this thread 
+into some context.
+
+The notion of adequate technology for an electrical assist existing in 
+the here and now, which John Tetz alluded to, comes in part from the 
+Chronos Hammer which appeared in 1993 then faded from the web's lime 
+light after 2000.  It was a very small unit producing 150 watts for 10 
+to 15 minutes of continuous operation. The Chronos Hammer used a roller 
+drive wheel,  an electric clutch (?), and  a rechargeable battery (Pb, 
+NiCad or GelCell) which fit into a standard water bottle cage. The 
+complete unit added 2.5 kilograms total to a bicycle once installed.  It 
+cost $450 to $780 depending on options ordered.   [1]
+
+The device operated from between 5 mph (8 km/h) and 12 mph (19 km/h) and 
+best used to supply intermittent assistance during rides lasting  1 to 3 
+hours. A modest speed increase during climbing can exert a significant 
+influence on a cyclist's overall trip speed.
+
+ From ENERGY AND EQUITY (1973)  by Ivan Illich, "Motors can be used to 
+transport the sick, the lame, the old, and the just plain lazy. Motor 
+pulleys can lift people over hills, but they can do so peacefully only 
+if they do not push the climber off the path. ... The time engaged in 
+travel must be, as much as possible, the traveler's own: only insofar as 
+motorized transport remains limited to speeds which leave it subsidiary 
+to autonomous transit.... " [2]
+
+John Snyder
+
+1. http://web.archive.org/web/*/http://thor.he.net/~chronos/
+2. 
+http://www.cogsci.ed.ac.uk/~ira/illich/texts/energy_and_equity/node9.html#SECTION00009000000000000000
+
+From mlibrik at att.net  Mon Mar 23 05:44:08 2009
+From: mlibrik at att.net (Mike Librik)
+Date: Mon, 23 Mar 2009 08:44:08 -0500
+Subject: [hpv] 175mm right hand IPS crank arm?
+Message-ID: <49C79228.6060807@att.net>
+
+Does anyone on the list happen to have a right hand crank arm for a 
+175mm Independent Pedaling System just lying around?
+
+Not likely, I'm sure, but I seem to have all the parts for a complete 
+175mm stoker's IPS except that arm, and blast it if some joker doesn't 
+call up saying how he needs a 175 and any of these 170's I've got around 
+will do it for him.
+
+So if you've got one, I'll pay cash money for it.
+
+-- 
+Mike Librik, LCI #929
+League of Bicycling Voters
+Austin, TX
+(512) 567-4493
+
+Recumbent bikes & trikes
+for Central Texas:
+www.EasyStreetRecumbents.com
+
+From plaidp at msn.com  Mon Mar 23 08:42:39 2009
+From: plaidp at msn.com (C POLLARD)
+Date: Mon, 23 Mar 2009 10:42:39 -0600
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <49C72E3E.3040409@worldnet.att.net>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>
+	<49C72E3E.3040409@worldnet.att.net>
+Message-ID: <SNT102-W6636DAB5A17133B1BD73A3C5920@phx.gbl>
+
+
+Energy is NOT force times speed.  Power is force times speed.   It is a rate of doing work.  Energy is the integral of power.
+
+Hence in a friction free world the energy expended to get to terminal velocity V is 1/2MV^2 no matter how long it took you to get there.
+
+Chris P
+
+> Date: Mon, 23 Mar 2009 00:37:50 -0600
+> From: JCSnyder.studio at worldnet.att.net
+> To: hpv at bikelist.org
+> Subject: Re: [hpv] acceleration 0 to 60
+> 
+> The formula for Kinetic Energy (KE = 0.5 * m * v *v) says the same as E 
+> = Fs when Vo = 0.0 m/s..
+> 
+> Little "t" was the center of attention. John Tetz suggested an example 
+> of looking at an eBike's change of velocity lasting  6 seconds (t') 
+> compared to 18 seconds (t").  The moves and pieces  were; F = m*a, a = 
+> (Vf - Vo)/t , dV = (Vf-Vo), and E = F*s 
+
+From JCSnyder.studio at worldnet.att.net  Mon Mar 23 13:30:22 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Mon, 23 Mar 2009 15:30:22 -0600
+Subject: [hpv] 0 to 60 acceleration
+Message-ID: <49C7FF6E.6050205@worldnet.att.net>
+
+> Energy is NOT force times speed.
+That is a true statement. 
+
+Energy is a force times distance, E = F * s.
+
+The traditional convention is to use "s" for distance.    Other authors 
+will depict distance or position with an "x".
+
+Energy and Work can use the same basic definition; a force (F) applied 
+through a distance (s) in the direction of movement .
+
+John Snyder
+
+Here are a smattering of resources about Newtonian Mechanics:
+http://tutor4physics.com/formulas.htm 
+http://www.collegeboard.com/prod_downloads/ap/students/physics/info_equation_tables_2002.pdf
+http://www.cs.cmu.edu/~rapidproto/mechanisms/chpt1.html#HDR19
+
+From plaidp at msn.com  Mon Mar 23 14:02:48 2009
+From: plaidp at msn.com (C POLLARD)
+Date: Mon, 23 Mar 2009 16:02:48 -0600
+Subject: [hpv] 0 to 60 acceleration
+In-Reply-To: <49C7FF6E.6050205@worldnet.att.net>
+References: <49C7FF6E.6050205@worldnet.att.net>
+Message-ID: <SNT102-W165BA1AEE42A05D502573DC5920@phx.gbl>
+
+
+Oh Dear - pulls out Mechanical Engineers Handbook
+
+Work - Force displaced through a distance  blah blah
+
+Energy - ABILITY TO DO WORK  - A body is said to possess energy when it can do work.
+
+Not the same. You can check your maths by telling why it would take more energy to get to the same level of energy by getting there slower or faster.
+
+Chris P
+
+> Date: Mon, 23 Mar 2009 15:30:22 -0600
+> From: JCSnyder.studio at worldnet.att.net
+> To: hpv at bikelist.org
+> Subject: Re: [hpv] 0 to 60 acceleration
+> 
+> > Energy is NOT force times speed.
+> That is a true statement. 
+> 
+> Energy is a force times distance, E = F * s.
+> 
+> The traditional convention is to use "s" for distance.    Other authors 
+> will depict distance or position with an "x".
+> 
+> Energy and Work can use the same basic definition; a force (F) applied 
+> through a distance (s) in the direction of movement .
+> 
+> John Snyder
+> 
+> Here are a smattering of resources about Newtonian Mechanics:
+> http://tutor4physics.com/formulas.htm 
+> http://www.collegeboard.com/prod_downloads/ap/students/physics/info_equation_tables_2002.pdf
+> http://www.cs.cmu.edu/~rapidproto/mechanisms/chpt1.html#HDR19
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+From JCSnyder.studio at worldnet.att.net  Mon Mar 23 18:58:07 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Mon, 23 Mar 2009 20:58:07 -0600
+Subject: [hpv]  0 to 60 acceleration
+In-Reply-To: <mailman.19.1237838405.57476.hpv@bikelist.org>
+References: <mailman.19.1237838405.57476.hpv@bikelist.org>
+Message-ID: <49C84C3F.9010206@worldnet.att.net>
+
+Chris, your argument holds up. I was wrong. Thanks for the correction.
+
+John Snyder
+
+
+
+
+From jgtetz at msn.com  Mon Mar 23 19:53:03 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Mon, 23 Mar 2009 23:53:03 -0400
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.17.1237752003.39108.hpv@bikelist.org>
+	<49C74739.404@worldnet.att.net>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>
+	<49C74739.404@worldnet.att.net>
+Message-ID: <COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+
+>The notion of adequate technology for an electrical assist existing in 
+the here and now, which John Tetz alluded to, comes in part from the 
+Chronos Hammer which appeared in 1993 
+...Interesting you brought that system up. I gave a paper at the 4th Scientific Symposium in Aug of 1992 on my light weight Up Hill assist which was a IC system weighing 6 pounds 2.7 kg that I designed in 1991. 
+
+My principles was I only needed a small amount of assistance to reduce the stress to a  rider when climbing hills.  So .2 hp from the engine combined with .1 hp from the human gave the necessary total power to climb a 6% grade around 7 mph. A decent speed yet at the same power a person would be using on flat ground. The engine was a weed wacker which I cut off a lot of unnecessary weight such as the rope starter. 
+
+It had a single stage cog belt gear reduction to a large diameter friction drive (didn't slip in the wet nor wear out the tire) which gave a decent Rpm for the engine. Max engine rpm gave a12 mph top speed.  So by design it encouraged use only for the steeper hills but more important, intermittent use.
+
+ Typically I could travel 1300 miles on one gallon of gas (did a lot of long distance trips in high mountain areas all over the East and West coast USA). Of course I didn't need to carry a gallon but more like 10 ounces which kept the weight of the system so low that the rider wasn't burdened by the weight on the lesser grades of 1 or 2 %. Again by encouraging intermittent operation by design.  Which also helped keep the trip pollution low. I would fill up at a gas station by giving a quick squirt and draining the hose all for 7 cents worth, give the attendant a dime and say, "keep the change." Fun. 
+
+The Chronos people were at that symposium and were trying to make a light weight E Assist of a completely different design. They redesigned and used all my ideas, with my permission, for their Hammer. I thought the name Hammer gave the wrong impression. They intended it to help a less strong rider keep up with the stronger ones on group rides.  
+At that time there was no consciousness about the environment nor the use of HPV systems for local transportation. 
+
+It didn't sell well because there was such  a negative response to ANY assist. Of course I got a lot of flack on my IC system from the purists. But I did get some very encouraging letters from HPV people scattered across the country.  The other problem was the batteries at that time were inadequate. And the losses from friction drive didn't help their efficiency. The friction loss with the IC system was insignificant in relation to the power of the IC engine.  For touring the IC was excellent - it essentially flattened the hills, such that the rider was staying in the .1 hp all the time. 
+
+I learned a lot from that IC system and applied essentially the same principles to my present Ultra Light E Assist. in 2007. 
+
+John Tetz  
+
+From JCSnyder.studio at worldnet.att.net  Mon Mar 23 21:45:38 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Mon, 23 Mar 2009 23:45:38 -0600
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>
+	<49C74739.404@worldnet.att.net>
+	<COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+Message-ID: <49C87382.9080402@worldnet.att.net>
+
+Factual mistakes and forgetting to zip up the trousers both subject a 
+person to justified hoots and hollers and an unexpected refreshing breeze.
+
+I wrote to HPV list on March 21, 2009;
+> Little "t" was the center of attention. John Tetz suggested an example 
+> of looking at an eBike's change of velocity lasting  6 seconds (t') 
+> compared to 18 seconds (t").  The moves and pieces  were; F = m*a, a = 
+> (Vf - Vo)/t , dV = (Vf-Vo), and E = F*s which together allow showing 
+> time in the formula for Energy, as E = m * dV/t  * s.   Using the 
+> inputs; m' = m", s' = s", dV' = dV", t' = 6 seconds and t" = 18 
+> seconds will give the result  E' = 3*E".
+That result is wrong.
+
+My initial error was incorrectly asserting, s' = s". If the value of 
+time (t) is changed, which alters the value of acceleration, then it 
+also alters the distance (s) involved. As, s = t * (Vo + Vf)/2  The 
+correct result  is E' = E". 
+
+A longer time for an acceleration does not change the ENERGY input. It 
+reduces the POWER requirement.
+ 
+John Snyder
+
+From jeff at outyourbackdoor.com  Tue Mar 24 12:14:19 2009
+From: jeff at outyourbackdoor.com (Jeff Potter)
+Date: Tue, 24 Mar 2009 16:14:19 -0400
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.19.1237924804.74369.hpv@bikelist.org>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org>
+Message-ID: <39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com>
+
+John Tetz:
+> My principles was I only needed a small amount of assistance to  
+> reduce the stress to a  rider when climbing hills.  So .2 hp from  
+> the engine combined with .1 hp from the human gave the necessary  
+> total power to climb a 6% grade around 7 mph.
+
+This is the cool stuff, John!
+
+Velomobiles bog down on uphills.
+
+At least most of them do.
+
+John makes really light ones.
+
+I was thinking that a 30-lb foam or carbon velomobile might not bog  
+down.
+
+But my 60-pounder did.
+
+Everywhere else I could roll along at 30-40mph.
+
+If a fully-faired bike that's carrying 10-30 lbs more body or cargo  
+than a bare bike could just get some help on the ups---OH AND ON THE  
+STARTS FROM STOPLIGHTS---then that makes for a LOT more viable of a  
+bike!
+
+Man, batteries do seem so much better now. Maybe the time for eBikes  
+is coming back!
+
+
+
+******
+Jeff Potter
+publisher, http://OutYourBackDoor.com
+independent outdoor culture & adventure
+bikes, boats, skis & much, much more!
+
+
+
+
+From timallard at msn.com  Tue Mar 24 16:38:07 2009
+From: timallard at msn.com (tomm)
+Date: Tue, 24 Mar 2009 17:38:07 -0700
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>	<49C74739.404@worldnet.att.net>
+	<COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+Message-ID: <000601c9ace1$f7737d90$e65a78b0$@com>
+
+Thanks John, nice info to know. The problem for touring with batteries is
+recharging them as you ride in a way that doesn't interfere with the need
+for the power.
+
+Regen is a lot harder problem than keeping amp-hours in a battery for
+lighting but it all boils down to who buys what and throw-aways are still
+easier to deal with than any generator system I've used as a tourist.
+
+I've worked on automatic systems for bikes and the latest I like the most,
+Faraday would like it; wouldn't work for assist but is perfect for lighting.
+
+Assist with batteries has always had conversion problems, from generator to
+battery, from battery to motor. To store a lot of power for hills takes a
+lot of power, it's really noticeable how much "drag" is produced even when
+you're coasting when charging a system or powering the lights directly.
+
+Regen braking would work I think for commuting where you do a lot of
+stopping, but touring is different so would be harder to collect that much
+power without wondering if just climbing the stupid hill is really that much
+slower. 
+
+I see the IC engine as better for HPV assist for touring, it's more
+practical in all ways engineering. Our level of pollution is so small if
+half the cars switched you know the result would be a drastic reduction in
+pollution, so, why not use gas or diesel for its advantages in a HPV assist?
+
+For commuting the problem of fast storage of the braking power spike and the
+ability to charge a battery with that is the deal. As I found, recent
+advances in understanding of how batteries accept charges will allow 10-20
+second full charges to large capacity batteries, this is in the realm of
+what capacitors can do so regen may become practical when these become
+commercial.
+
+Until then, the IC is best even for commuting if designed along the lines of
+John's to discourage it's use by keeping the max speed down, this is a huge
+insight, industrial designers take note.
+
+Tom Mallard
+Software Design - Architecture
+Consumer Product Design
+
+-----Original Message-----
+From: hpv-bounces at bikelist.org [mailto:hpv-bounces at bikelist.org] On Behalf
+Of JOHN TETZ
+Sent: Monday, March 23, 2009 8:53 PM
+To: hpv at bikelist.org; John Snyder
+Subject: Re: [hpv] acceleration 0 to 60
+
+>The notion of adequate technology for an electrical assist existing in 
+the here and now, which John Tetz alluded to, comes in part from the 
+Chronos Hammer which appeared in 1993 
+..Interesting you brought that system up. I gave a paper at the 4th
+Scientific Symposium in Aug of 1992 on my light weight Up Hill assist which
+was a IC system weighing 6 pounds 2.7 kg that I designed in 1991. 
+
+My principles was I only needed a small amount of assistance to reduce the
+stress to a  rider when climbing hills.  So .2 hp from the engine combined
+with .1 hp from the human gave the necessary total power to climb a 6% grade
+around 7 mph. A decent speed yet at the same power a person would be using
+on flat ground. The engine was a weed wacker which I cut off a lot of
+unnecessary weight such as the rope starter. 
+
+It had a single stage cog belt gear reduction to a large diameter friction
+drive (didn't slip in the wet nor wear out the tire) which gave a decent Rpm
+for the engine. Max engine rpm gave a12 mph top speed.  So by design it
+encouraged use only for the steeper hills but more important, intermittent
+use.
+
+ Typically I could travel 1300 miles on one gallon of gas (did a lot of long
+distance trips in high mountain areas all over the East and West coast USA).
+Of course I didn't need to carry a gallon but more like 10 ounces which kept
+the weight of the system so low that the rider wasn't burdened by the weight
+on the lesser grades of 1 or 2 %. Again by encouraging intermittent
+operation by design.  Which also helped keep the trip pollution low. I would
+fill up at a gas station by giving a quick squirt and draining the hose all
+for 7 cents worth, give the attendant a dime and say, "keep the change."
+Fun. 
+
+The Chronos people were at that symposium and were trying to make a light
+weight E Assist of a completely different design. They redesigned and used
+all my ideas, with my permission, for their Hammer. I thought the name
+Hammer gave the wrong impression. They intended it to help a less strong
+rider keep up with the stronger ones on group rides.  
+At that time there was no consciousness about the environment nor the use of
+HPV systems for local transportation. 
+
+It didn't sell well because there was such  a negative response to ANY
+assist. Of course I got a lot of flack on my IC system from the purists. But
+I did get some very encouraging letters from HPV people scattered across the
+country.  The other problem was the batteries at that time were inadequate.
+And the losses from friction drive didn't help their efficiency. The
+friction loss with the IC system was insignificant in relation to the power
+of the IC engine.  For touring the IC was excellent - it essentially
+flattened the hills, such that the rider was staying in the .1 hp all the
+time. 
+
+I learned a lot from that IC system and applied essentially the same
+principles to my present Ultra Light E Assist. in 2007. 
+
+John Tetz  
+--
+This message comes to you via the hpv at bikelist.org mailing list, sponsored
+by http://www.hupi.org/
+Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+From jw.stephens at gmail.com  Tue Mar 24 16:57:19 2009
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Tue, 24 Mar 2009 17:57:19 -0700
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <000601c9ace1$f7737d90$e65a78b0$@com>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>
+	<49C74739.404@worldnet.att.net>
+	<COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+	<000601c9ace1$f7737d90$e65a78b0$@com>
+Message-ID: <c74d93000903241757s6153bda8i400633b14a0ee4e8@mail.gmail.com>
+
+I use the SON hub generator on one of my commuting bikes and it's
+amazing. Much better than batteries of any flavor, for me. Hop on and
+pedal and the lights come on immediately. With modern LED lights it is
+sustainable, reliable and always on for me, which I think adds to
+commuter safety.
+
+On Tue, Mar 24, 2009 at 17:38, tomm <timallard at msn.com> wrote:
+>
+> Regen is a lot harder problem than keeping amp-hours in a battery for
+> lighting but it all boils down to who buys what and throw-aways are still
+> easier to deal with than any generator system I've used as a tourist.
+>
+
+-- 
+When you've finished getting yourself ready in the morning, you must
+go get the planet ready
+--The Little Prince
+
+From jgtetz at msn.com  Tue Mar 24 17:15:44 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Tue, 24 Mar 2009 21:15:44 -0400
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.19.1237924804.74369.hpv@bikelist.org>
+	<39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org>
+	<39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com>
+Message-ID: <COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl>
+
+Jeff wrote;
+
+>I was thinking that a 30-lb foam or carbon velomobile might not bog down.
+......I don't see that low of weight for a Velomobile as being possible. Streamliners yes but not trike based VMs. 40 pounds may be possible someday. My white Foam shell streamer is 33 pounds. And yes it flys.  Pure fun but I hate it for running errands around town. The tension of getting the feet down at intersections is a pain.  But out on the open road WooooWeeeeee.  
+
+>I was thinking that a 30-lb foam or carbon velomobile might not bog  
+down.
+.....I actually feel a composite shell is too heavy for a human powered vehicles. 
+
+>But my 60-pounder did.
+.....I see this number more and more. We are learning how to do this.  
+
+>AND ON THE  STARTS FROM STOPLIGHTS
+.......Yes I do this a fair amount. 
+
+John 
+
+
+From jgtetz at msn.com  Tue Mar 24 17:44:23 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Tue, 24 Mar 2009 21:44:23 -0400
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.17.1237752003.39108.hpv@bikelist.org>	<49C74739.404@worldnet.att.net><COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+	<000601c9ace1$f7737d90$e65a78b0$@com>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>	<49C74739.404@worldnet.att.net><COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+	<000601c9ace1$f7737d90$e65a78b0$@com>
+Message-ID: <COL102-DS251FEB1A458ACFF32320E6D7900@phx.gbl>
+
+>Regen braking would work I think for commuting where you do a lot of stopping, 
+......Or going down longer grades. I have read reports from BionX owners that commute that they get enough re gen charge that they do not need to charge the batteries from a power line. 
+
+I think the secret is to use a small amount of assist power. That way there is a better chance of getting enough energy back into the batteries to at least extend the range. To me discovering how best to do this is the advancement we need. 
+
+>I see the IC engine as better for HPV assist for touring,
+....No question about it. Years ago I started searching for a better engine.  I found a company in Vancouver making a multi vane tiny rotary engine. Reg Technology. 
+What as so enticing was it ran at around 1500 Rpm. Than meant the gear reduction would be minimal. The noise and vibration level was reported to be very low. But I believe they couldn't solve the seal wear so they are now using the system as a pump. 
+
+>Until then, the IC is best even for commuting 
+.......HPV commuting at this stage in our car dominated, none available bike road infrastructure, would be limited to say 15 or so miles in the 20 mph range. Present E systems can quite well handle this. 
+
+But just think of the future possibilities. 
+
+John Tetz 
+
+
+From timallard at msn.com  Tue Mar 24 17:52:38 2009
+From: timallard at msn.com (tomm)
+Date: Tue, 24 Mar 2009 18:52:38 -0700
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <c74d93000903241757s6153bda8i400633b14a0ee4e8@mail.gmail.com>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>	<49C74739.404@worldnet.att.net>	<COL102-DS25C4894B849CF014D05217D7930@phx.gbl>	<000601c9ace1$f7737d90$e65a78b0$@com>
+	<c74d93000903241757s6153bda8i400633b14a0ee4e8@mail.gmail.com>
+Message-ID: <000701c9acec$60b0f940$2212ebc0$@com>
+
+Cool, didn't know about the SON, will check it out, LED's make it so much
+less draw, I was using 2-2.5-watt old style krypton bulbs and a BB generator
+.. you knew when you snapped that thing into place!
+
+Tom Mallard
+Software Design - Architecture
+Consumer Product Design
+
+
+-----Original Message-----
+From: hpv-bounces at bikelist.org [mailto:hpv-bounces at bikelist.org] On Behalf
+Of JW Stephens
+Sent: Tuesday, March 24, 2009 5:57 PM
+To: hpv at bikelist.org
+Subject: Re: [hpv] acceleration 0 to 60
+
+I use the SON hub generator on one of my commuting bikes and it's
+amazing. Much better than batteries of any flavor, for me. Hop on and
+pedal and the lights come on immediately. With modern LED lights it is
+sustainable, reliable and always on for me, which I think adds to
+commuter safety.
+
+On Tue, Mar 24, 2009 at 17:38, tomm <timallard at msn.com> wrote:
+>
+> Regen is a lot harder problem than keeping amp-hours in a battery for
+> lighting but it all boils down to who buys what and throw-aways are still
+> easier to deal with than any generator system I've used as a tourist.
+>
+
+-- 
+When you've finished getting yourself ready in the morning, you must
+go get the planet ready
+--The Little Prince
+--
+This message comes to you via the hpv at bikelist.org mailing list, sponsored
+by http://www.hupi.org/
+Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+From theosch06 at yahoo.de  Tue Mar 24 23:43:13 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Wed, 25 Mar 2009 08:43:13 +0100
+Subject: [hpv] Assist [was: Re:  acceleration 0 to 60]
+In-Reply-To: <000601c9ace1$f7737d90$e65a78b0$@com>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>	<49C74739.404@worldnet.att.net>	<COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+	<000601c9ace1$f7737d90$e65a78b0$@com>
+Message-ID: <49C9E091.7060609@yahoo.de>
+
+tomm wrote:
+...
+> I see the IC engine as better for HPV assist for touring, it's more
+> practical in all ways engineering. Our level of pollution is so small if
+> half the cars switched you know the result would be a drastic reduction in
+> pollution, so, why not use gas or diesel for its advantages in a HPV assist?
+
+I don't agree. Over here we still have lots of "mopeds" with i.c. engines. Their 
+level of pollution is far greater than that of modern cars and they are also 
+noisier. The only thing which is better is the CO2-level and of course batteries 
+can potentially pollute heavily if not manufactured and recycled properly. You 
+are right that most electrics have insufficient range for touring unless you 
+have a lot of extra batteries, solar panels, or plan a lot of pub stops with 
+charging your battery while eating/drinking.
+
+...
+> Until then, the IC is best even for commuting if designed along the lines of
+> John's to discourage it's use by keeping the max speed down, this is a huge
+> insight, industrial designers take note.
+
+I think electrics are far better for commuting as most commutes are short and 
+well within the range of most electric vehicles. Here there is no need to reduce 
+power the way John Tetz does from a range-perspective, although it might be 
+desirable for other reasons. From my own experience electric bikes don't so much 
+push up the maximum speed as the average speed. On the level I cycle only 
+marginally faster using assist than without, but going uphill it doubles or 
+trebles my speed.
+
+Theo Schmidt
+
+From legs_larry at yahoo.com  Wed Mar 25 00:52:31 2009
+From: legs_larry at yahoo.com (Dave Larrington)
+Date: Wed, 25 Mar 2009 08:52:31 +0000
+Subject: [hpv] acceleration 0 to 60
+Message-ID: <006101c9ad29$5ca4ac10$8078400a@PCROOT.COM>
+
+Be advised, however, that the latest generation of Shimano hub dynamos are 
+very very close to the SON in efficiency and a good deal cheaper.
+
+-- 
+Dave Larrington
+<http://www.legslarry.beerdrinkers.co.uk>
+Pathetic earthlings - who will save you now?
+
+
+
+From luifri at thatsart.org  Wed Mar 25 01:33:26 2009
+From: luifri at thatsart.org (luifri at thatsart.org)
+Date: Wed, 25 Mar 2009 10:33:26 +0100
+Subject: [hpv] Assist [was: Re:  acceleration 0 to 60]
+In-Reply-To: <49C9E091.7060609@yahoo.de>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>
+	<49C74739.404@worldnet.att.net>
+	<COL102-DS25C4894B849CF014D05217D7930@phx.gbl>
+	<000601c9ace1$f7737d90$e65a78b0$@com> <49C9E091.7060609@yahoo.de>
+Message-ID: <1237973606.49c9fa66bd1ca@webmail.sil.at>
+
+Zitat von Theo Schmidt <theosch06 at yahoo.de>:
+
+Reading some electric assist lists I found that the very same "evolution" from
+i.c assist to mopeds happens again with e-assists. Changing codes, controllers,
+using motors overvolted or bigger ones that can do the 25km/h speed uphills
+also.
+Seeing my seventies coming up the horizon I will sooner or later (hopefully
+later) need an assist to get my loaden Leitra up the hills and helping in
+distances over 100 km.
+I know in theory e-motors can be sturdier than their oily counterparts, but in
+the assist reality? BionX is not one of the cheap systems, and there are some
+dead ones with less than 10.000 km. That really made me smile, thinking there
+are 3 VeloSolex standing in my basement, around 50-60 years old and each still
+will work flawlessly.
+So the problem remains: for a short ride in the city an assist will not help me
+to be faster > in reality it will slow me down because it needs more money and
+attention spent than an ordinary bicycle. Commuting 80-100 km I am as fast or
+faster than a legal assist will be (25 km/h) So the real usage will be
+intermittent for 5 to 8 km for a 100 km commute  A tiny 4-stroker, (there are
+some built with catalyst) will do this job far better and it will be less
+effected by extreme cold or hot weather like the e-assists.
+
+Lui
+
+
+From jeff at outyourbackdoor.com  Wed Mar 25 06:12:29 2009
+From: jeff at outyourbackdoor.com (Jeff Potter)
+Date: Wed, 25 Mar 2009 10:12:29 -0400
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org>
+	<39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com>
+	<COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl>
+Message-ID: <59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com>
+
+
+On Mar 24, 2009, at 9:15 PM, JOHN TETZ wrote:
+
+> Jeff wrote;
+>
+> >I was thinking that a 30-lb foam or carbon velomobile might not  
+> bog down.
+
+> ......I don?t see that low of weight for a Velomobile as being  
+> possible. Streamliners yes but not trike based VMs. 40 pounds may  
+> be possible someday. My white Foam shell streamer is 33 pounds. And  
+> yes it flys.  Pure fun but I hate it for running errands around  
+> town. The tension of getting the feet down at intersections is a  
+> pain.  But out on the open road WooooWeeeeee.
+
+I've wondered how to categorize all these bikes. I feel that trikes  
+will always be too heavy and thus not viable VMs... : )  No, I'm just  
+being funny. I see 2-wheelers as being part of the velomobile scene.  
+But maybe that's not realistic? The challenge is "just" in finding a  
+2wheeler that's easy to start and stop. Mine was easy! So I  
+considered it a VM. As you say, the 2wheelers sure seem better able  
+to beat the overweight penalty. If I want 30 lbs I think I need to go  
+all-carbon and 2wheel (or maybe carbon and foam and you might  
+suggest). But tipovers are a drag. ...Unless you have a totally easy  
+escape hatch. And don't tip over into fast traffic... Well, that's  
+why my vehicle was brightly colored! But I live in a low traffic  
+area. If me, as a "weirdo" tipped over, locals would give me a break  
+since there's no congestion. This brings up the question of LANDING  
+GEAR. Can landing gear be made simple, reliable and light and thus  
+better than adding a third wheel? At any rate, I see 2 wheelers being  
+included in the VM equation. But it does bring up the definition  
+problem. What's a VM? What about the many exposed bikers ('bent and  
+upright alike) with cargo, lights, fenders and rainwear and studded  
+tires in winter...they say "bring it on" and seem to quite clearly  
+use their bikes as "mobiles"---they replace the car with the bike,  
+they use the bike as a car. I've seen partly enclosed utility bents--- 
+that even had roof-sections---with easy foot-down capability---which  
+would seem to meet the standard of a VM. ??
+
+
+******
+Jeff Potter
+publisher, http://OutYourBackDoor.com
+independent outdoor culture & adventure
+bikes, boats, skis & much, much more!
+
+
+
+
+From theosch06 at yahoo.de  Wed Mar 25 06:15:13 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Wed, 25 Mar 2009 15:15:13 +0100
+Subject: [hpv] Assist
+In-Reply-To: <1237973606.49c9fa66bd1ca@webmail.sil.at>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>	<49C74739.404@worldnet.att.net>	<COL102-DS25C4894B849CF014D05217D7930@phx.gbl>	<000601c9ace1$f7737d90$e65a78b0$@com>
+	<49C9E091.7060609@yahoo.de>
+	<1237973606.49c9fa66bd1ca@webmail.sil.at>
+Message-ID: <49CA3C71.7080004@yahoo.de>
+
+luifri at thatsart.org schrieb:
+
+> Reading some electric assist lists I found that the very same "evolution" from
+> i.c assist to mopeds happens again with e-assists. Changing codes, controllers,
+> using motors overvolted or bigger ones that can do the 25km/h speed uphills
+> also.
+
+There is an important difference in many countries: I.c. engined mopeds are 
+ridden with a twist-grip throttle like a motor cycle and indees they are not 
+really designed to use the pedals, even the culty Velo Solex. Most electric 
+bikes are designed within Pedelec legislation, which controls the motor via a 
+pedal sensor. Some bikes have both, but the twist-grip throttle doesn't allow 
+full speed.
+
+...
+> I know in theory e-motors can be sturdier than their oily counterparts, but in
+> the assist reality? 
+
+In my case I have never had a motor or a controller failure, but of course the 
+batteries degrade. The main problems for me are purely mechanical.
+
+
+> So the problem remains: for a short ride in the city an assist will not help me
+> to be faster > in reality it will slow me down because it needs more money and
+> attention spent than an ordinary bicycle. 
+
+If you calculate this way, the only sensible vehicle is a used bike.
+
+
+> Commuting 80-100 km I am as fast or
+> faster than a legal assist will be (25 km/h) So the real usage will be
+> intermittent for 5 to 8 km for a 100 km commute  A tiny 4-stroker, (there are
+> some built with catalyst) will do this job far better and it will be less
+> effected by extreme cold or hot weather like the e-assists.
+
+If you need to do 80-100 km per day, indeed a John Tetz type system is required, 
+or 20kg of batteries. Electric systems are not affected by the cold much 
+provided you can take the batteries inside to charge. The catalysts available 
+for small engines are not as effective as those used in cars, which use a 
+sophisticated air-proportion regulation (lamda). As they are not mandatory, 
+there is also no compulsion to service them.
+
+Theo Schmidt
+
+
+
+From JCSnyder.studio at worldnet.att.net  Wed Mar 25 09:25:04 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Wed, 25 Mar 2009 11:25:04 -0600
+Subject: [hpv] hpv Digest, Vol 55, Issue 27
+In-Reply-To: <mailman.11003.1237945956.337.hpv@bikelist.org>
+References: <mailman.11003.1237945956.337.hpv@bikelist.org>
+Message-ID: <49CA68F0.2070306@worldnet.att.net>
+
+Tom wrote:
+> I see the IC engine as better for HPV assist for touring, it's more
+> practical in all ways engineering. Our level of pollution is so small if
+> half the cars switched you know the result would be a drastic reduction in
+> pollution, so, why not use gas or diesel for its advantages in a HPV assist
+>   
+
+For long distance travel why not extend the variety of fuel sources 
+consider in conjunction with regenerative abilities?  In addition to 
+liquid fossil fuels like gasoline and diesel, one could explore such 
+renewable sources as ethanol, methane, or plant oils.
+
+In the proceedings of 4th Velomobile Seminar of 1999, edited by Theo 
+Schmidt and Andreas Fuchs, Isreael Urieli described a bridled electric 
+assist installed on a BikeE which featured a Sterling engine 
+co-generator used to charge the assist's batteries. With an external 
+combustion (EC) engine most anything that will burn can be used as a 
+supplemental energy source, such sticks, twigs or even the fat drained 
+from a pan after cooking hamburger.
+
+One of the keys of sustainability,y as practiced by we humans before the 
+Industrial Revolution,  was to keep the scale of our devices restrained 
+to actual need. Dare to think small again!  When barreling down the road 
+toward the end of time, slow preferable to fast.
+
+John Snyder
+
+
+From jgtetz at msn.com  Wed Mar 25 15:29:25 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Wed, 25 Mar 2009 19:29:25 -0400
+Subject: [hpv] Assist [was: Re:  acceleration 0 to 60]
+In-Reply-To: <mailman.17.1237752003.39108.hpv@bikelist.org>	<49C74739.404@worldnet.att.net>	<COL102-DS25C4894B849CF014D05217D7930@phx.gbl><000601c9ace1$f7737d90$e65a78b0$@com>
+	<49C9E091.7060609@yahoo.de>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org>	<49C74739.404@worldnet.att.net>	<COL102-DS25C4894B849CF014D05217D7930@phx.gbl><000601c9ace1$f7737d90$e65a78b0$@com>
+	<49C9E091.7060609@yahoo.de>
+Message-ID: <COL102-DS2148AAAFF42FFD02772C53D7900@phx.gbl>
+
+Theo wrote;
+
+>I don't agree. Over here we still have lots of "mopeds" with i.c. engines. 
+...I fully understand and agree with your complaint. But this is true only because the mopeds are designed to be used continuously.  Think of how much trip pollution you will get on a truly assisted vehicle that your using the assist intermittently and only using one gallon of fuel 3.8 liters in 1300 miles, 2,000 km. 
+
+>Here there is no need to reduce power the way John Tetz does 
+.......If I don't use my assist it is so light it doesn't burden the rider. However if its 15 or 20 pounds the rider will not be willing to drag all that extra weight around so they will use it much more often. Designing for more continuous use automatically means it has to have a bigger battery, hefty motor/gear box  resulting in  high overall weight, and more continuous use. Sort of a negative feedback loop. 
+
+The thing is the high efficiency of a bicycle and the low power of a human make an elegant combination. I try to maintain that elegance. 
+
+John Tetz 
+
+From Mikeatlbch at aol.com  Wed Mar 25 15:35:10 2009
+From: Mikeatlbch at aol.com (Mikeatlbch at aol.com)
+Date: Wed, 25 Mar 2009 19:35:10 -0400
+Subject: [hpv] the right tool for the right job
+Message-ID: <c65.448b9073.36fc19ae@aol.com>
+
+I am much in alignment with Tetz Theory of Transportation.  Not just for 
+energy issues but moreso for health.   As a health care provider in the US "only 
+assist as needed"  would be a great goal. 
+I couldn't believe how sensible his solution is when he permitted me to try 
+his trike in New York at the Curtiss Museum a couple years ago.  (I helped him 
+improve his system...I drove it Tessla like to overload...sorry John, or your 
+welcome ;-) 
+Of course we have seen over time people choose much more assist than they 
+need.    
+ 
+I would like to see integrated bike hike and rail as a long term solution.  
+Poor profit models for our system of business.  And too "common man"...I fear.
+ 
+We have some work to do on excretions by aircraft and energy efficiency, but 
+time efficiency of mid to long distance air travel is too enticing to avoid.
+ 
+Mike
+ 
+ 
+**************Great Deals on Dell 15" Laptops - Starting at $479 
+(http://pr.atwola.com/promoclk/100126575x1220635228x1201407499/aol?redir=http:%2F%2Fad.doub
+leclick.net%2Fclk%3B213153654%3B34689672%3Bo)
+
+From jgtetz at msn.com  Wed Mar 25 15:35:52 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Wed, 25 Mar 2009 19:35:52 -0400
+Subject: [hpv] Assist [was: Re:  acceleration 0 to 60]
+In-Reply-To: <mailman.17.1237752003.39108.hpv@bikelist.org><49C74739.404@worldnet.att.net><COL102-DS25C4894B849CF014D05217D7930@phx.gbl><000601c9ace1$f7737d90$e65a78b0$@com>
+	<49C9E091.7060609@yahoo.de>
+	<1237973606.49c9fa66bd1ca@webmail.sil.at>
+References: <mailman.17.1237752003.39108.hpv@bikelist.org><49C74739.404@worldnet.att.net><COL102-DS25C4894B849CF014D05217D7930@phx.gbl><000601c9ace1$f7737d90$e65a78b0$@com>
+	<49C9E091.7060609@yahoo.de>
+	<1237973606.49c9fa66bd1ca@webmail.sil.at>
+Message-ID: <COL102-DS24C01CB445DB037B7C5B49D7900@phx.gbl>
+
+Lui wrote;'
+
+>So the real usage will be
+intermittent for 5 to 8 km for a 100 km commute  
+.....Wow you really have that much of a commute? How often do you do this? 
+
+If true than only a IC will work.
+
+>A tiny 4-stroker, (there are some built with catalyst) will do this job 
+....I found  most of the commercial small engines are too big in displacement and power and weight. 
+
+John Tetz 
+
+From jgtetz at msn.com  Wed Mar 25 16:31:52 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Wed, 25 Mar 2009 20:31:52 -0400
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.19.1237924804.74369.hpv@bikelist.org>
+	<39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com>
+	<COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl>
+	<59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org>
+	<39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com>
+	<COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl>
+	<59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com>
+Message-ID: <COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl>
+
+Jeff Wrote;
+
+>What about the many exposed bikers ('bent and upright alike) with cargo, lights, fenders and rainwear and studded tires in winter
+....I applauded and admire these hardy folks. I used to do a bit myself before I learned about what's going on in the HPV world.  I have either gotten wiser in my old age or smarter in design. I'm more interested in designing for average folks - to get them out of 3,000 pound cars for their local shopping and running errands. 
+
+I do feel some kind of enclosure is important. Visible to others specially at night, weather wise extending the riding season, and safety in crashes. 
+Crashing at 40 mph, rolling the vehicle and not getting hurt. Cant do that on a bare bike. 
+I do use a bare bike during a nice sunny day and have fun with it. Love the wind in my face kind of thing. But for overall use it?s the VM. 
+
+>I see 2-wheelers as being part of the velomobile scene. 
+.....Two wheeler streamliners have been around a Long Long time. Yet they have not taken off even for the Bent crowd. I have been involved with streamers for 15 years. For a long time I wondered why. These things are exciting. Now that I have  trike based VM I know. Streamliners are dammed annoying (tension) at intersections and overall keeping them up right. Falling over happened every several months.  I fell over in front of cars waiting for a light. They patently waited while I extracted myself from the shell, and pulled the vehicle out of the way.  Not a good design feature for average folks.  I do not allow just anyone to ride my streamer. It takes a bit of pilot experience to run them. 
+
+>The challenge is "just" in finding a 2 wheeler that's easy to start and stop. Mine was easy!
+........As an enthusiast yes  you can do this and do it well. No problem as they say. 
+
+>So I considered it a VM.
+.......Definitions are there for a reason. To agree on terms so communications are efficient. You are using it as a alternate transportation vehicle which is fine. 
+
+>This brings up the question of LANDING GEAR.
+....I looked into this too. Tricky on uneven ground. It would have to stick out far enough that crosswinds wont roll you while waiting for a traffic light.  But more its another thing to do as your coming into a intersection. Already the work load is high. If you going to make a left turn your looking for cross flow traffic from the right and left, traffic coming towards you, traffic behind, pot holes, dirt, sand, oil spill, down shifting, braking, and signaling a left turn. Whew. I don?t need to get my feet or landing gear down if I have to wait my turn. 
+
+>I've seen partly enclosed utility bents---that even had roof-sections---with easy foot-down capability---which would seem to meet the standard of a VM. ??
+....They are good practical cargo carrying vehicles. We need more of them. This is a more grey area. I think by design meaning carrying large cargo loads they are in a category of their own. And a good one.  
+
+John Tetz 
+
+
+
+From list at moz.geek.nz  Thu Mar 26 10:38:08 2009
+From: list at moz.geek.nz (Moz)
+Date: Thu, 26 Mar 2009 11:38:08 -0700
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org>
+	<39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com>
+	<COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl>
+	<59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com>
+	<COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl>
+Message-ID: <624806083.20090326113808@moz.geek.nz>
+
+JOHN tetz said:
+> ....They are good practical cargo carrying vehicles. We need more of
+> them. This is a more grey area. I think by design meaning carrying
+> large cargo loads they are in a category of their own.
+
+Agreed, if for no other reason than that the goals are different. A
+25kg cargo carrier is either misleading advertising or too lightly
+built to be safe, whereas that's a reasonable goal for a velomobile
+that carries one person and a lunchbox. Cargo bikes are also less
+worried about wind resistance - if I'm going 15m/s on a cargo bike
+I'm not pedalling and I'm usually on the brakes, whereas that would
+be a nice cruising speed to a velomobile.
+
+I have thought of adding shelter to my cargo quad, but overall I
+don't think it's worth the hassle. As it is the thing is very slow
+unless the route is very, very flat indeed so adding more weight and
+wind resistance will just make that worse. If I was touring across
+Canada on it then maybe a nose cone would make sense, but in
+Australia sunblock and clothing beats trying to attach a tent.
+
+Moz
+
+
+From jgtetz at msn.com  Wed Mar 25 16:45:52 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Wed, 25 Mar 2009 20:45:52 -0400
+Subject: [hpv] the right tool for the right job
+In-Reply-To: <c65.448b9073.36fc19ae@aol.com>
+References: <c65.448b9073.36fc19ae@aol.com>
+Message-ID: <COL102-DS11EAC0B87F39858E228D81D7910@phx.gbl>
+
+Mike wrote;
+
+>Tetz Theory of Transportation.
+...Got a good laugh  out of that. 
+
+>I drove it Tessla like to overload...sorry John, or your 
+welcome ;-) 
+.....Yes that was before I made it "idiot" proof (ha) by adding the current limiter. So you did help the overall design. 
+
+John 
+
+From jw.stephens at gmail.com  Wed Mar 25 18:00:29 2009
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Wed, 25 Mar 2009 19:00:29 -0700
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <624806083.20090326113808@moz.geek.nz>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org>
+	<39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com>
+	<COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl>
+	<59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com>
+	<COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl>
+	<624806083.20090326113808@moz.geek.nz>
+Message-ID: <c74d93000903251900m6c1c7b9as6c69412359f289a0@mail.gmail.com>
+
+My experience is with a Versatile velomobile, which is a
+fully-suspended tadpole-trike layout. I'm riding it on a 33 mile
+commute in flat Orange County, California. I can forsee easy accidents
+if velomobile usage breaks free from enthusiasts and infects the
+general public. Can be ridden safely, but not at top speed and that's
+the difference that self-regulates bicycles. You have to have
+experience to ride fast and the experience means that you will ride
+safer. In a velomobile a punter can push 25mph which is unsafe in
+traffic and higher speeds if they have some experience. I think I hit
+100kmph on the second day out of the box, in New York. Exhilarating,
+sure, but a hard place to find out that your auto driving skills don't
+translate.
+
+Mr. Tetz said "Crashing at 40 mph, rolling the vehicle and not getting
+hurt. Cant do that on a bare bike." Probably can't do that reliably on
+a velomobile, either, as you will likely be ejected.
+
+On Thu, Mar 26, 2009 at 11:38, Moz <list at moz.geek.nz> wrote:
+> JOHN tetz said:
+>> ....They are good practical cargo carrying vehicles. We need more of
+>> them. This is a more grey area. I think by design meaning carrying
+>> large cargo loads they are in a category of their own.
+>
+> Agreed, if for no other reason than that the goals are different. A
+> 25kg cargo carrier is either misleading advertising or too lightly
+> built to be safe, whereas that's a reasonable goal for a velomobile
+> that carries one person and a lunchbox. Cargo bikes are also less
+> worried about wind resistance - if I'm going 15m/s on a cargo bike
+> I'm not pedalling and I'm usually on the brakes, whereas that would
+> be a nice cruising speed to a velomobile.
+>
+> I have thought of adding shelter to my cargo quad, but overall I
+> don't think it's worth the hassle. As it is the thing is very slow
+> unless the route is very, very flat indeed so adding more weight and
+> wind resistance will just make that worse. If I was touring across
+> Canada on it then maybe a nose cone would make sense, but in
+> Australia sunblock and clothing beats trying to attach a tent.
+
+
+-- 
+When you've finished getting yourself ready in the morning, you must
+go get the planet ready
+--The Little Prince
+
+From Mikeatlbch at aol.com  Wed Mar 25 18:11:37 2009
+From: Mikeatlbch at aol.com (Mikeatlbch at aol.com)
+Date: Wed, 25 Mar 2009 22:11:37 -0400
+Subject: [hpv] Velomobile Safety
+Message-ID: <d13.26e49811.36fc3e59@aol.com>
+
+ 
+In a message dated 3/25/2009 10:01:03 PM Eastern Daylight Time, 
+hpv-request at bikelist.org writes:
+
+Mr. Tetz said "Crashing at 40 mph, rolling the vehicle and not getting
+hurt. Cant do that on a bare bike." Probably can't do that reliably on
+a velomobile, either, as you will likely be ejected.
+
+Certainly velomobiles are safer for collisions than bikes.  I have ridden a 
+racing streamliner, Too Strange, 1986 which was equipped with five point 
+restraint as the builder (a race car builder) felt that would reduce 
+injury/ejection.  
+You can find a few speedliner crashes with insignificant injuries in spite of 
+crash speeds over seventy miles per hour.  NO bike comparables are available  
+without injury and death.
+ 
+Mike
+**************Great Deals on Dell 15" Laptops - Starting at $479 
+(http://pr.atwola.com/promoclk/100126575x1220635228x1201407499/aol?redir=http:%2F%2Fad.doub
+leclick.net%2Fclk%3B213153654%3B34689672%3Bo)
+
+From jgtetz at msn.com  Wed Mar 25 19:00:01 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Wed, 25 Mar 2009 23:00:01 -0400
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.19.1237924804.74369.hpv@bikelist.org><39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com><COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl><59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com><COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl><624806083.20090326113808@moz.geek.nz>
+	<c74d93000903251900m6c1c7b9as6c69412359f289a0@mail.gmail.com>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org><39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com><COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl><59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com><COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl><624806083.20090326113808@moz.geek.nz>
+	<c74d93000903251900m6c1c7b9as6c69412359f289a0@mail.gmail.com>
+Message-ID: <COL102-DS25368063BD6EAE37CF8036D7910@phx.gbl>
+
+Jw wrote;
+
+>Mr. Tetz said "Crashing at 40 mph, rolling the vehicle and not getting
+hurt. Cant do that on a bare bike." Probably can't do that reliably on
+a velomobile, either, as you will likely be ejected.
+.....You are so right !!!! I was saying that in streamliner mental mode. The one thing I get nervous about is rolling the VM. And that will be a high side roll. Ugly. Could use seat belt to keep you inside a bit. Have to have a decent roll bar though. . 
+
+Your also right about the safety issues at the higher speeds that a streamlined shell will vehicle can give you. 
+
+John Tetz 
+
+From list at moz.geek.nz  Thu Mar 26 13:30:41 2009
+From: list at moz.geek.nz (Moz)
+Date: Thu, 26 Mar 2009 14:30:41 -0700
+Subject: [hpv] Velomobile Safety
+In-Reply-To: <d13.26e49811.36fc3e59@aol.com>
+References: <d13.26e49811.36fc3e59@aol.com>
+Message-ID: <1262701830.20090326143041@moz.geek.nz>
+
+Mikeatlbch said:
+> Certainly velomobiles are safer for collisions than bikes. You can
+> find a few speedliner crashes with insignificant injuries in spite
+> of crash speeds over seventy miles per hour.
+
+Definitely. As JW said though, the velomobile allows you to get to
+much higher speeds with less effort, and that may go some way to
+compensating for the increased protection.
+
+Velomobiles also bring power assist regulations into stark relief: the
+ones that specify speeds are ok, the ones that just limit power are an
+invitation to disaster. Especially since there's never a requirement
+that the brakes on the vehicle have to be able to dissipate more power
+than the motor puts out. So you monkeys with 700W limits will be
+looking at velomobiles doing 100kph or more that have little weeny
+disk brakes on them and need 100m or more to stop in ideal
+conditions. Over here we have similar problems but with a 200W limit
+you'd need a hill as well as power assist to get to that speed.
+
+Moz
+
+
+From bob at bobcatos.com  Wed Mar 25 19:32:43 2009
+From: bob at bobcatos.com (Bob McClure Jr)
+Date: Wed, 25 Mar 2009 22:32:43 -0500
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <COL102-DS25368063BD6EAE37CF8036D7910@phx.gbl>
+References: <c74d93000903251900m6c1c7b9as6c69412359f289a0@mail.gmail.com>
+	<COL102-DS25368063BD6EAE37CF8036D7910@phx.gbl>
+Message-ID: <20090326033243.GA29822@bobcat.bobcatos.com>
+
+On Wed, Mar 25, 2009 at 11:00:01PM -0400, JOHN TETZ wrote:
+> Jw wrote;
+> 
+> >Mr. Tetz said "Crashing at 40 mph, rolling the vehicle and not getting
+> hurt. Cant do that on a bare bike." Probably can't do that reliably on
+> a velomobile, either, as you will likely be ejected.
+> .....You are so right !!!! I was saying that in streamliner mental mode. The one thing I get nervous about is rolling the VM. And that will be a high side roll. Ugly. Could use seat belt to keep you inside a bit. Have to have a decent roll bar though. . 
+> 
+> Your also right about the safety issues at the higher speeds that a streamlined shell will vehicle can give you. 
+> 
+> John Tetz 
+
+I have a modest streamliner body on my Rotator Tiger, seen here:
+
+http://www.bobcatos.com/~bob/tiger_fairing/tf001.jpg
+
+About two years ago, a medium-size dog came out at me, crossing left to
+right in front of me.  I wound up T-boning him, and his momentum
+pulled my front wheel right, so my bike rolled left.  I was going
+15-20mph at the time.  After the collision, I thought I had rolled it,
+but on more sober recollection, I think I just rolled inverted, or
+very nearly so.  As I was skidding along, nearly inverted, my eyes
+less than six inches from some nasty chip-seal, I remember thinking,
+boy, I sure am glad I'm wearing this brain bucket.
+
+That's nowhere near the speeds you are talking about, but still, I
+stayed in my seat, and don't think a roll bar would have helped.  My
+fairing and helmet took the abrasions and not me.  Afterwards, I
+crawled out, righted the bike, re-seated the fairing on its
+none-too-robust mount, and continued on.
+
+Cheers,
+-- 
+Bob McClure, Jr.             Bobcat Open Systems, Inc.
+bob at bobcatos.com             http://www.bobcatos.com
+You will keep in perfect peace him whose mind is steadfast, because he
+trusts in you.  Isaiah 26:3 (NIV)
+
+From list at moz.geek.nz  Wed Mar 25 22:15:32 2009
+From: list at moz.geek.nz (Moz)
+Date: Thu, 26 Mar 2009 17:15:32 +1100
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <COL102-DS25368063BD6EAE37CF8036D7910@phx.gbl>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org><39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com><COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl><59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com><COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl><624806083.20090326113808@moz.geek.nz>
+	<c74d93000903251900m6c1c7b9as6c69412359f289a0@mail.gmail.com>
+	<COL102-DS25368063BD6EAE37CF8036D7910@phx.gbl>
+Message-ID: <954580624.20090326171532@moz.geek.nz>
+
+JOHN TETZ said:
+> .....You are so right !!!! I was saying that in streamliner mental
+> mode. The one thing I get nervous about is rolling the VM. And that
+> will be a high side roll. Ugly. Could use seat belt to keep you
+> inside a bit. Have to have a decent roll bar though. . 
+
+
+You mean there are velomobiles without seatbelts? How does that work?
+
+I'm too used to race vehicles perhaps, but rollover protection and
+seatbelts strike me as essential. Perhaps because I'm usually looking
+at the "dashboard" and thinking that I don't want my neck to smack
+into it. With an enclosed bike the last thing you want in a crash is
+a partial ejection. It's bad enough grinding through the fairing and
+getting grazes covered in fragments of fairing without the added
+excitement of wondering if my head is going to be the next thing that
+gets ground off.
+
+Moz
+
+
+From William.Gaines at ngc.com  Thu Mar 26 07:11:02 2009
+From: William.Gaines at ngc.com (Gaines, William)
+Date: Thu, 26 Mar 2009 10:11:02 -0500
+Subject: [hpv] Assist [was: Re:  acceleration 0 to 60]
+In-Reply-To: <mailman.11589.1238032830.337.hpv@bikelist.org>
+References: <mailman.11589.1238032830.337.hpv@bikelist.org>
+Message-ID: <B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>
+
+ 
+For one of the early IHPVA Symposiums, Dr. Alan Abbot presented a design
+that he built that was a somewhat encentified version of what John Tetz
+did.  In the Abbot version he set it up so that the harder that you
+peddled the more power you got!  Sort of a "strain gauge on the crank
+connected to the throttle" control system.  He indicated that this
+really encouraged the rider to exercise more (a primary goal for the
+pediatrician).  His implementation was admittedly not very "clean" (IC
+chainsaw engine of the 80's) as it was just intended to be a concept
+platform.  Jack Lambie had created a "power assist trailer" that would
+give the rider the ability to "unhook" for local flat rides, but when
+the trip had hills, would give the rider an electric assist at the touch
+of a button.  His goal was something that an older rider could handle,
+and not have to customize the basic bike.
+
+Bill Gaines 
+o\_oo+  o-\_oo+  <o-\_oo+)  O\-o+ 
+
+
+From theosch06 at yahoo.de  Thu Mar 26 09:31:56 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Thu, 26 Mar 2009 18:31:56 +0100
+Subject: [hpv] Assist
+In-Reply-To: <B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>
+References: <mailman.11589.1238032830.337.hpv@bikelist.org>
+	<B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>
+Message-ID: <49CBBC0C.6070606@yahoo.de>
+
+Gaines, William schrieb:
+>  
+> For one of the early IHPVA Symposiums, Dr. Alan Abbot presented a design
+> that he built that was a somewhat encentified version of what John Tetz
+> did.  In the Abbot version he set it up so that the harder that you
+> peddled the more power you got! 
+
+Yes, in the Fourth International Human Powered Vehicle Sysposium Proceedings of 
+1994, pages 17-20: "An experiment to encourage physical activity throught the 
+use of human power amplification", right before John Tetz's article pp 21-26: 
+"AHPV: assisted human powered vehicle, a description".
+
+Alan was one of the first to suggest this (he used an sensor on an idler pushing 
+into the pedal chain) and maintained that the amplification "reward" could be 
+used in any sized vehicle, his object being excercise in a motor vehicle, not so 
+much assisting pedal vehicles. This work was used in the Charger electric 
+bicycle marketed from California.
+
+In Switzerland Michael Kutter developed one of the first sensor-controlled 
+electric bicycles around 1992, the Velocity. He used a totally different system, 
+a pedal crank speed sensor rather than a force sensor, and a mechanical system 
+consisting of a planetary differential with the rear chain-cog casette on one 
+side and the motor on the other side.
+
+...
+ > Jack Lambie had created a "power assist trailer" that would
+> give the rider the ability to "unhook" for local flat rides, but when
+> the trip had hills, would give the rider an electric assist at the touch
+> of a button.  His goal was something that an older rider could handle,
+> and not have to customize the basic bike.
+
+I didn't know this, thanks, Bill. The Tour de Sol in Switzerland also featured 
+one or two "pushing" trailers. A German whose name escapes me devised a "phantom 
+trailer" where the hitch is a force sensor which adjusts the trailer's motor to 
+simulate a "massless" trailer, i.e. it doesn't help, but also doesn't hinder. 
+This is a concept well worth exploring.
+
+Theo Schmidt
+
+From jgtetz at msn.com  Thu Mar 26 10:52:46 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Thu, 26 Mar 2009 14:52:46 -0400
+Subject: [hpv] Assist [was: Re:  acceleration 0 to 60]
+In-Reply-To: <mailman.11589.1238032830.337.hpv@bikelist.org>
+	<B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>
+References: <mailman.11589.1238032830.337.hpv@bikelist.org>
+	<B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>
+Message-ID: <COL102-DS21537FAAF3917D42106B75D7910@phx.gbl>
+
+Bill Gains wrote;
+
+>For one of the early IHPVA Symposiums, Dr. Alan Abbot presented a design
+that he built that was a somewhat encentified version of what John Tetz
+did. 
+.......Yes Alan was at the same symposium (Yreka Calif, 1992) and also gave a talk on his assist. He was very generous about feeling my system was quite elegant. It took many years before his system of rider amplification was applied to electric assist vehicles but are now quite popular. 
+
+My system of using light weight minimal assist power is still being resisted by many.   
+
+The person who helped get us accepted for submitting assist papers at that time was Paul MacCready.  Of course. 
+
+John Tetz 
+
+From william.volk at gmail.com  Thu Mar 26 11:25:20 2009
+From: william.volk at gmail.com (William D. Volk)
+Date: Thu, 26 Mar 2009 12:25:20 -0700
+Subject: [hpv]  Velomobile Safety
+In-Reply-To: <mailman.11978.1238093568.337.hpv@bikelist.org>
+References: <mailman.11978.1238093568.337.hpv@bikelist.org>
+Message-ID: <BB7C8F10-4C70-4985-9CCD-CFB94B66E2EB@gmail.com>
+
+Funny thing is, if you were strapped into a 250lbs (driver, cargo and  
+bike) velomobile and crashed into a fixed object (like a tree) at say,  
+40mph, you could stand a better chance of survival than if you did  
+that in a 6000lbs Chevy Suburban.
+
+Coroplast tailboxes seem to have some effectiveness at absorbing the  
+energy from an impact as well.  Although I am not especially eager to  
+repeat that experiment any time soon.
+
+Bill
+San Diego.
+
+
+From PNGracey at aol.com  Thu Mar 26 12:58:03 2009
+From: PNGracey at aol.com (PNGracey at aol.com)
+Date: Thu, 26 Mar 2009 16:58:03 -0400
+Subject: [hpv] What is a Velomobile? (was 0-60,etc)
+Message-ID: <bf9.58cd143f.36fd465b@aol.com>
+
+
+In a message dated 3/25/09, Jeff Potter writes:
+
+
+> I've wondered how to categorize all these bikes. I feel that trikes?
+> will always be too heavy and thus not viable VMs... : )? No, I'm just?
+> being funny. I see 2-wheelers as being part of the velomobile scene.?
+> But maybe that's not realistic? The challenge is "just" in finding a?
+> 2wheeler that's easy to start and stop. Mine was easy! So I?
+> considered it a VM. As you say, the 2wheelers sure seem better able?
+> to beat the overweight penalty. If I want 30 lbs I think I need to go?
+> all-carbon and 2wheel (or maybe carbon and foam and you might?
+> suggest). But tipovers are a drag. ...Unless you have a totally easy?
+> escape hatch. And don't tip over into fast traffic... Well, that's?
+> why my vehicle was brightly colored! But I live in a low traffic?
+> area. If me, as a "weirdo" tipped over, locals would give me a break?
+> since there's no congestion. This brings up the question of LANDING?
+> GEAR. Can landing gear be made simple, reliable and light and thus?
+> better than adding a third wheel? At any rate, I see 2 wheelers being?
+> included in the VM equation. But it does bring up the definition?
+> problem. What's a VM? What about the many exposed bikers ('bent and?
+> upright alike) with cargo, lights, fenders and rainwear and studded?
+> tires in winter...they say "bring it on" and seem to quite clearly?
+> use their bikes as "mobiles"---they replace the car with the bike,?
+> they use the bike as a car. I've seen partly enclosed utility bents---
+> that even had roof-sections---with easy foot-down capability---which?
+> would seem to meet the standard of a VM. ??
+> 
+My faired Lightning F-40(modified) is to me a velomobile. As currently 
+configured it is rather heavy at 40lbs.(18 kilograms) but If I could afford its 
+carbon composite cousin, it would be in the 30 lb. (14 kilos)range. What makes it 
+a Velomobile compared to its racing cousin? 
+
+I have doors on both sides for ease of entry. It is open at the bottom so my 
+feet can drop at stop signs easily, and I do not clip in to the pedals. I use 
+some "shoe pockets" of my own design so that the street shoes I wear normally 
+can be held well enough in relation to the pedals to stay attached to them 
+through bumpy roads,etc. For me, I find that this system is a reasonable 
+compromise for utility. The "pockets" provide all the tactile feedback I need to keep 
+my shoes where they need to be in the pedal circle whether under power, 
+coasting or backpedaling to assist my downshifts. 
+
+I have ample room behind my seat for all the   groceries I normally buy, and 
+that fits all inside the fairing so it doesn't slow me down. My speeds are 
+what I might be doing if I was using   one of the current velomobile designs.
+
+ The material I have used for this fairing modification is very rugged 
+compared to the sailcloth or spandex of the F-40 and has lasted well over 10 years 
+of running errands and getting excercise, including the trip across the U.S. 
+that I did with it in 2000. That was an exercise I did mainly to find out the 
+utility of this arrangement on an unsupported long trip. I found it to be quite 
+practical and much easier than had I made the trip without the fairing. 
+
+Refering to the original thread of Regen for E-bikes: My machine would not 
+have benefitted from lightweight temporary E-assist for much of that trip, even 
+though I probably could have recharged in the motel rooms I used most of the 
+time. Only a few parts of the trip were in the sort of rolling hills where 
+E-assist could have helped, and regen on the down hills would have been very 
+dubious for those few segments unless there was a stop sign at the bottom of each 
+of them. For most of the shorter hills I got my "regen" in the form of kinetic 
+energy and aerodynamics carrying me a good way up the next hill. I suppose I 
+could have used E-assist on those few steep hills that I chose to walk up, but 
+overall I gained back time barrellng down the other side at 42 mph(68kph) as 
+the steep slopes I found necessary to walk were often complemented by a 
+shallower downslope(geologic upheaval pattern). E-assist and regen would not have 
+done much good on my two all day mountain pass climbs.   I would most likely have 
+run out of juice on the way up. The subsequent downhills took most of each 
+next day at speeds where regen would have reduced my rollout on the flatter 
+segments, and where my pedaling was both easy and too fast for E-assist.
+
+I carried rechargeable lighting equipment that I never used because the bike 
+was so fast I always got to my stopping point(even on 90+ mile days) before 
+dark. E-bike legal requirements here in the U.S. would have slowed me down on 
+the flats,too. I spent most of my time above the 20mph(32kph) limit.
+
+Paul Gracey
+
+
+
+
+**************
+Feeling the pinch at the grocery store?  Make dinner for $10 or 
+less. (http://food.aol.com/frugal-feasts?ncid=emlcntusfood00000001)
+
+From jgtetz at msn.com  Thu Mar 26 21:33:05 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Fri, 27 Mar 2009 01:33:05 -0400
+Subject: [hpv] What is a Velomobile?
+In-Reply-To: <bf9.58cd143f.36fd465b@aol.com>
+References: <bf9.58cd143f.36fd465b@aol.com>
+Message-ID: <COL102-DS25259E535E43FE05EC96A8D78E0@phx.gbl>
+
+Paul Gracy wrote;
+
+>My faired Lightning F-40(modified) is to me a velomobile.
+>I have doors on both sides for ease of entry. 
+>It is open at the bottom so my 
+feet can drop at stop signs easily, 
+>I find that this system is a reasonable 
+compromise for utility. 
+>The material I have used for this fairing modification is very rugged 
+compared to the sailcloth or spandex 
+>I have ample room behind my seat for all the   groceries I normally buy, and 
+that fits all inside the fairing so it doesn't slow me down
+
+Paul, I can see from your list why you would classified your vehicle as a Velomobile. But wouldn't it better fit into a road streamliner classification? 
+I think the main reason is you don't have to balance what is commonly been called a trike based Velomobile. Not having to balance to me has been the greatest benefit. It's sooooo much more relaxing when coming into a busy intersection and seeing a car coming - you simply put on the brakes and stop. None of this frantically getting the feet down in time. Another advantage is when crawling along at slow speeds such as 1 or 2 mph  - it's no problem at all to slow when climbing a steep hill or even stopping to rest and start up again.  
+I also find that after running the VM for weeks at a time when I do eventually get on a bike I wobble a bit. It takes a bit of unconscious effort to balance it and kept it straight. A little bit of energy but its required all the time. I was not aware of this until riding a Velomobile. 
+
+And during winter when riding over a patch of  black ice (specially at night) is again no big deal. I have suddenly gone down on my Orange Foam Shell a few times because of a small patch of ice or snow. 
+
+John Tetz 
+
+
+From theosch06 at yahoo.de  Fri Mar 27 04:20:07 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Fri, 27 Mar 2009 13:20:07 +0100
+Subject: [hpv] Assist [trailer]
+In-Reply-To: <49CBBC0C.6070606@yahoo.de>
+References: <mailman.11589.1238032830.337.hpv@bikelist.org>	<B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>
+	<49CBBC0C.6070606@yahoo.de>
+Message-ID: <49CCC477.1040901@yahoo.de>
+
+Theo Schmidt schrieb:
+>...  A German whose name escapes me
+> devised a "phantom trailer" where the hitch is a force sensor which 
+> adjusts the trailer's motor to simulate a "massless" trailer, i.e. it 
+> doesn't help, but also doesn't hinder. This is a concept well worth 
+> exploring.
+
+I still havn't found the data on this, but it is mentioned in the video of 
+"John's 1995 motorised cycle trailer" which does the same thing:
+
+http://www.youtube.com/watch?v=R-DwQ5AAO9o
+
+Youtube also shows lots of links to other powered trailers or "bike pushers".
+
+Cheers, Theo
+
+
+From torben at thellefsen.dk  Fri Mar 27 07:51:34 2009
+From: torben at thellefsen.dk (Torben Thellefsen)
+Date: Fri, 27 Mar 2009 16:51:34 +0100
+Subject: [hpv] Assist
+In-Reply-To: <49CBBC0C.6070606@yahoo.de>
+References: <mailman.11589.1238032830.337.hpv@bikelist.org>
+	<B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>
+	<49CBBC0C.6070606@yahoo.de>
+Message-ID: <20090327165134.36d4c4b0@hogwarts>
+
+On Thu, 26 Mar 2009 18:31:56 +0100
+Theo Schmidt <theosch06 at yahoo.de> wrote:
+
+> A German whose name escapes me devised a "phantom trailer" where the
+> hitch is a force sensor which adjusts the trailer's motor to simulate a
+> "massless" trailer, i.e. it doesn't help, but also doesn't hinder. This
+> is a concept well worth exploring.
+
+Interesting idea.
+
+I didn't find a German model, but did find this project from Berkeley
+that does exactly as you describe. It's even called "Phantom Trailer":
+http://bleex.me.berkeley.edu/ME102/proj_archive/S05/8-Bike_Trailer/index.htm
+
+The page includes system overview diagram, pictures, and a short film of
+the trailer in action.
+
+I also found a more futuristic, but non-existing, model:
+http://ecogadget.net/2007/10/03/pimp-your-bike-combination-bike-trailergreen-generator/
+
+
+Sincerely,
+-- 
+O\_o+  Torben Thellefsen <torben at thellefsen.dk>
+       Psychling - If you believe it will make you ride faster, it will!
+
+From JCSnyder.studio at worldnet.att.net  Fri Mar 27 10:36:26 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Fri, 27 Mar 2009 12:36:26 -0600
+Subject: [hpv] Assist
+Message-ID: <49CD1CAA.2050804@worldnet.att.net>
+
+Here is a link to Lightfoot Cycle's power assist trailer; 
+http://www.lightfootcycles.com/powerpusher.php
+
+From richings at telus.net  Fri Mar 27 12:27:10 2009
+From: richings at telus.net (Ron Richings)
+Date: Fri, 27 Mar 2009 13:27:10 -0700
+Subject: [hpv] Engineless, wind-powered trike sets 202 Km/h land speed record
+Message-ID: <19740419000528.FEB50922302BB61C@priv-edtnaa06.telusplanet.net>
+
+ 
+
+Who needs an engine, fuel, gears, pedals, etc.??
+
+The 'Greenbird' clocked 126.1 mph (202.9 km/h) , eclipsing the old record of
+116 mph, set in 1999.
+
+ More at      http://tinyurl.com/c5lbuv
+
+
+ 
+
+Ron Richings
+
+Vancouver, BC
+
+Canada
+
+
+
+
+From torben at thellefsen.dk  Sat Mar 28 14:42:32 2009
+From: torben at thellefsen.dk (Torben Thellefsen)
+Date: Sat, 28 Mar 2009 23:42:32 +0100
+Subject: [hpv] Phantom Trailer (was: Assist)
+In-Reply-To: <49CBBC0C.6070606@yahoo.de>
+References: <mailman.11589.1238032830.337.hpv@bikelist.org>
+	<B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>
+	<49CBBC0C.6070606@yahoo.de>
+Message-ID: <20090328234232.0490d4b9@hogwarts>
+
+On Thu, 26 Mar 2009 18:31:56 +0100
+Theo Schmidt <theosch06 at yahoo.de> wrote:
+
+> A German whose name escapes me devised a "phantom trailer"
+
+Found it! :-)
+It was Andreas K?nekamp from TU Darmstadt. There was a presentation of the
+ideas and principles in "Human Power" no 47
+(http://www.whpva.org/HParchive/issues.htm), and the same presentation is
+available from his homepage at
+http://koenekamp.bluehash.de/bicycle/PhantomTrailer.html (there's also a
+German version).
+
+It's very similar to the Berkeley trailer, but has a different hitch and
+uses a brake instead of braking with the motor. A prototype(?) was made and
+presented at a bicycle fair. The press release, with photos of the trailer,
+is here: http://koenekamp.bluehash.de/bicycle/PressReport.html
+
+
+Sincerely,
+-- 
+O\_o+  Torben Thellefsen <torben at thellefsen.dk>
+       Psychling - If you believe it will make you ride faster, it will!
+
+From theosch06 at yahoo.de  Sun Mar 29 04:45:20 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Sun, 29 Mar 2009 14:45:20 +0200
+Subject: [hpv] Phantom Trailer
+In-Reply-To: <20090328234232.0490d4b9@hogwarts>
+References: <mailman.11589.1238032830.337.hpv@bikelist.org>	<B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>	<49CBBC0C.6070606@yahoo.de>
+	<20090328234232.0490d4b9@hogwarts>
+Message-ID: <49CF6D60.2000000@yahoo.de>
+
+Torben Thellefsen schrieb:
+...
+> Found it! :-)
+> It was Andreas K?nekamp from TU Darmstadt. There was a presentation of the
+> ideas and principles in "Human Power" no 47
+> (http://www.whpva.org/HParchive/issues.htm), and the same presentation is
+> available from his homepage at
+> http://koenekamp.bluehash.de/bicycle/PhantomTrailer.html (there's also a
+> German version).
+> 
+> It's very similar to the Berkeley trailer, but has a different hitch and
+> uses a brake instead of braking with the motor. A prototype(?) was made and
+> presented at a bicycle fair. The press release, with photos of the trailer,
+> is here: http://koenekamp.bluehash.de/bicycle/PressReport.html
+
+Thank you, Torben! I can see why he uses mechanical braking, as the drive is 
+one-sided only. As two hub-motors are rather expensive, as is a differential or 
+two complete drive trains, I am wondering about using a rigid axis for both 
+wheels connected to a single motor. This would indeed improve straight-line 
+dynamics. However a completely rigid coupling to both wheels would give 
+excessive tire scrub in turns and maybe even introduce unfavourable shaking in 
+turns. Therefore at least one of the wheels should be attached with an 
+adjustable clutch set at a pretty high torque, but just able to give when 
+turning, I guess around 50 Nm (Newton-meters). If I built it myself I'd use 
+conical steel axis stubs coated with kevlar (glued-on fabric with little resin) 
+and an aluminium alloy hub drilled to the same taper, with a disc spring and 
+adjustable locknut on the outside.
+
+Cheers, Theo Schmidt
+
+From sstrand at u.washington.edu  Sun Mar 29 08:02:45 2009
+From: sstrand at u.washington.edu (Stuart Strand)
+Date: Sun, 29 Mar 2009 09:02:45 -0700
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <COL102-DS25368063BD6EAE37CF8036D7910@phx.gbl>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org><39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com><COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl><59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com><COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl><624806083.20090326113808@moz.geek.nz>
+	<c74d93000903251900m6c1c7b9as6c69412359f289a0@mail.gmail.com>
+	<COL102-DS25368063BD6EAE37CF8036D7910@phx.gbl>
+Message-ID: <0DE3049E0E5D3748A653E1CB1600673E0C7750FA1A@sdc-mbx-01.exchange.washington.edu>
+
+Great to see activity on the HPV list.  
+
+I didn't want to see the discussion on acceleration from stop signs go by without pointing out that rubber might do the job. 
+
+A 100 kg bike and rider accelerated to 15 mph = 30 m/s has kinetic energy = .5*100*30^2 = 45000 J
+
+>From Bicycling Science, 1997, p 317, elastomer (rubber) holds 8 kJ/kg, so a bungee cord holding 45 kJ would weigh 5.5 kg = 12 lb. Wind it up coming to a stop, then reverse gearing and let it loose to accelerate. It couldn't get you up a hill, but such a device could help a lot in stop and go in flat country.  Seems to me it could be simpler and cheaper than an electrical system.
+
+Wish I had the time and the mechanical aptitude to work on such a device...  Neither likely.
+
+? = Stuart =
+
+Stuart E. Strand
+167 Wilcox Hall, Box 352700, Univ. Washington, Seattle, WA 98195
+voice 206-543-5350, fax 206-685-3836
+skype:  stuartestrand
+http://faculty.washington.edu/sstrand/ 
+
+
+From sstrand at u.washington.edu  Sun Mar 29 08:26:58 2009
+From: sstrand at u.washington.edu (Stuart Strand)
+Date: Sun, 29 Mar 2009 09:26:58 -0700
+Subject: [hpv] LWB and batteries
+Message-ID: <0DE3049E0E5D3748A653E1CB1600673E0C7750FA1E@sdc-mbx-01.exchange.washington.edu>
+
+Since I have been diagnosed with tachycardia (occasional bursts of high heart rate) I am on beta blockers and can no longer climb the steep hills in Seattle  (BTW I highly recommend riding with a heart rate monitor.  That's the way I discovered my tachycardia).  I have been thinking about where to put an electrical assist on my bike.  I am 6 ft 3 in with big feet, so I prefer LWB bikes in order to avoid heel interference problems that I have encountered on SWBs.  So I ride an old Infinity USS LWB (Avatar type).
+
+Where to put the electrical assist, such as a BionX.  I could put it on the 20 in front wheel, with the battery pack up front.  This might help with the main drawback of LWBs:  the poor weight distribution and the lightly loaded front wheel, which breaks free so easily.  But would I have enough traction up there to prevent slipping on a wet uphill climb (when I need it most)?
+
+Alternatively I was thinking of building a USS LWB frame around a pedelec unit salvaged from a Giant LaFree Lite up front assisting my pedaling at the crank.  I would also mount the battery up front to help with the aforementioned weight distribution problem.  Comments?
+
+http://www.electricvehiclesnw.com/main/lite.htm
+
+  = Stuart =
+
+Stuart E. Strand
+167 Wilcox Hall, Box 352700, Univ. Washington, Seattle, WA 98195
+voice 206-543-5350, fax 206-685-3836
+skype:  stuartestrand
+http://faculty.washington.edu/sstrand/
+
+
+From a.krause at humboldt1.com  Sun Mar 29 10:09:31 2009
+From: a.krause at humboldt1.com (Al Krause)
+Date: Sun, 29 Mar 2009 10:09:31 -0800
+Subject: [hpv] Phantom Trailer
+References: <mailman.11589.1238032830.337.hpv@bikelist.org>	<B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>	<49CBBC0C.6070606@yahoo.de>	<20090328234232.0490d4b9@hogwarts>
+	<49CF6D60.2000000@yahoo.de>
+Message-ID: <49CFB95B.9070105@humboldt1.com>
+
+you could use roller clutch bearings in both hubs.
+the outboard wheel would then freewheel in a corner, with the inboard 
+wheel doing all the driving.
+
+Al Krause
+
+Theo Schmidt wrote:
+> Torben Thellefsen schrieb:
+> ...
+> 
+>> Found it! :-)
+>> It was Andreas K?nekamp from TU Darmstadt. There was a presentation of the
+>> ideas and principles in "Human Power" no 47
+>> (http://www.whpva.org/HParchive/issues.htm), and the same presentation is
+>> available from his homepage at
+>> http://koenekamp.bluehash.de/bicycle/PhantomTrailer.html (there's also a
+>> German version).
+>>
+>> It's very similar to the Berkeley trailer, but has a different hitch and
+>> uses a brake instead of braking with the motor. A prototype(?) was 
+>> made and
+>> presented at a bicycle fair. The press release, with photos of the 
+>> trailer,
+>> is here: http://koenekamp.bluehash.de/bicycle/PressReport.html
+> 
+> 
+> Thank you, Torben! I can see why he uses mechanical braking, as the 
+> drive is one-sided only. As two hub-motors are rather expensive, as is a 
+> differential or two complete drive trains, I am wondering about using a 
+> rigid axis for both wheels connected to a single motor. This would 
+> indeed improve straight-line dynamics. However a completely rigid 
+> coupling to both wheels would give excessive tire scrub in turns and 
+> maybe even introduce unfavourable shaking in turns. Therefore at least 
+> one of the wheels should be attached with an adjustable clutch set at a 
+> pretty high torque, but just able to give when turning, I guess around 
+> 50 Nm (Newton-meters). If I built it myself I'd use conical steel axis 
+> stubs coated with kevlar (glued-on fabric with little resin) and an 
+> aluminium alloy hub drilled to the same taper, with a disc spring and 
+> adjustable locknut on the outside.
+> 
+> Cheers, Theo Schmidt
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, 
+> sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+
+From theosch06 at yahoo.de  Sun Mar 29 10:16:25 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Sun, 29 Mar 2009 20:16:25 +0200
+Subject: [hpv] Phantom Trailer
+In-Reply-To: <49CFB95B.9070105@humboldt1.com>
+References: <mailman.11589.1238032830.337.hpv@bikelist.org>	<B880349D6D262044B47D4FF6CF33F3C301B0DCBD@XMBTX133.northgrum.com>	<49CBBC0C.6070606@yahoo.de>	<20090328234232.0490d4b9@hogwarts>	<49CF6D60.2000000@yahoo.de>
+	<49CFB95B.9070105@humboldt1.com>
+Message-ID: <49CFBAF9.4090902@yahoo.de>
+
+Al Krause schrieb:
+> you could use roller clutch bearings in both hubs.
+> the outboard wheel would then freewheel in a corner, with the inboard 
+> wheel doing all the driving.
+
+Thanks, Al. I guess that's the best way if you have mecahnical brakes. I still 
+have the regen-braking in mind, which would be especially apt for heavy 
+trailers. In this case you'd need friction clutches. I've seen such items for 
+sale, but they are made for rather narrow discs and hubs are much wider.
+
+Cheers, Theo
+
+From JCSnyder.studio at worldnet.att.net  Sun Mar 29 10:38:13 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Sun, 29 Mar 2009 12:38:13 -0600
+Subject: [hpv] Phantom Trailer
+Message-ID: <49CFC015.3080906@worldnet.att.net>
+
+Theo Schmidt wrote:
+> I am wondering about using a rigid axis for both 
+> wheels connected to a single motor. This would indeed improve straight-line 
+> dynamics. However a completely rigid coupling to both wheels would give 
+> excessive tire scrub in turns and maybe even introduce unfavourable shaking in 
+> turns. Therefore at least one of the wheels should be attached with an 
+> adjustable clutch set at a pretty high torque,
+Theo,
+
+Take a look at the chain routes in the Lightfoot Cycles power assist 
+trailer. The picture is small, and may need to be viewed off line to 
+catch any detail; http://www.lightfootcycles.com/powerpusher.php  It may 
+be the case that Rod built a functional differential by using a 
+jackshaft connected to the engine/motor in the shaft's center and 
+connected at either end of the shaft to two standard bicycle drive 
+wheels. This would allow power to both wheels while providing the 
+independent clutch mechanism for each wheel as Al suggested.
+
+YouTube has several video clips of people who have built single-wheel 
+power assist trailers, which simplifies matters. This clip 
+http://tinyurl.com/ce67qt goes to an example using an internal 
+combustion engine.  You may wish to turn down your computer's speaker 
+volume before viewing the video. <smile>
+
+Cheers,
+
+John Snyder
+
+
+From g.u at juno.com  Sun Mar 29 14:40:13 2009
+From: g.u at juno.com (Fred Ungewitter)
+Date: Sun, 29 Mar 2009 18:40:13 -0400
+Subject: [hpv] LWB and batteries
+In-Reply-To: <mailman.13633.1238351896.337.hpv@bikelist.org>
+References: <mailman.13633.1238351896.337.hpv@bikelist.org>
+Message-ID: <49CFF8CD.7050604@juno.com>
+
+As an owner of an e-assist velomobile, with the motor driving the cranks, I can say that it is probably the best method to get either top performance or top economy from an electric motor on a bike.  My velomobile was (and is, with the new owner) equipped with a Stokemonkey system. It drives the left side (via a tandem crank) of the bottom bracket with a freewheel on the motor. When the motor runs, the operator must pedal, but the operator may pedal and the motor freewheels.  Some people dislike the idea, but it worked great for me and allows for continual human assist. Clipless pedals are a must, for safety reasons.
+
+Cyclone systems are similar, but drive the right side and have a no-pedal freewheel for those inclined to let the motor do the work.
+
+Electric motors are most efficient in a narrow rpm range and most powerful in a slightly lower, but no less narrow rpm range. By running through the cranks, you can select the best rpm for either your climbs or duration requirements. I picked the left side gearing ratio to give me the best efficiency rpm at my mid-range to high-range cadence, and it fell into place that best power dropped into the same range as my climb cadence.
+
+Some e-bike operators will post figures of 10-15 watt hours per mile, but one would suggest that means not quite as much pedaling as the Stokemonkey system. I never saw double digit figures and managed to bring in five to seven watt hours per mile in my velomobile. Aerodynamics played a big part in the low figures, of course.
+
+The Stokemonkey has incredible torque and will buckle frame tubes if not well braced. Todd from clevercycles.com may not want to sell a system, for other than the Xtracycle for which it is designed, as my velomobile was an experiment that went quite well.  It's also pricey, but on a par with the BionX in my opinion.
+
+If you have pieces and parts from another system and can engineer a Stokemonkey or Cyclone system into your bike, you'll find it rewarding in all ways.  You'll likely be able to bias the weight forward on the slippery front wheel, but put the traction to the rear where you need it.
+
+I'm not against hub motors, but I believe that a crank-based system has so much more going for it.
+
+Keep us updated on your project and progress.
+
+fred
+
+***************************************************************
+Original Message: 4
+Date: Sun, 29 Mar 2009 09:26:58 -0700
+From: Stuart Strand <sstrand at u.washington.edu>
+Subject: [hpv] LWB and batteries
+
+Since I have been diagnosed with tachycardia (occasional bursts of high heart rate) I am on beta blockers and can no longer climb the steep hills in Seattle  (BTW I highly recommend riding with a heart rate monitor.  That's the way I discovered my tachycardia).  I have been thinking about where to put an electrical assist on my bike.  I am 6 ft 3 in with big feet, so I prefer LWB bikes in order to avoid heel interference problems that I have encountered on SWBs.  So I ride an old Infinity USS LWB (Avatar type).
+
+Where to put the electrical assist, such as a BionX.  I could put it on the 20 in front wheel, with the battery pack up front.  This might help with the main drawback of LWBs:  the poor weight distribution and the lightly loaded front wheel, which breaks free so easily.  But would I have enough traction up there to prevent slipping on a wet uphill climb (when I need it most)?
+
+Alternatively I was thinking of building a USS LWB frame around a pedelec unit salvaged from a Giant LaFree Lite up front assisting my pedaling at the crank.  I would also mount the battery up front to help with the aforementioned weight distribution problem.  Comments?
+
+http://www.electricvehiclesnw.com/main/lite.htm
+
+************************************************************
+
+
+____________________________________________________________
+Get hooked up! Click here for the trailer hitch you've been looking for!
+http://thirdpartyoffers.juno.com/TGL2141/fc/BLSrjpTD65kCE0JfhkNJcSJrY8x1EcxC1YEWGU3j86HzgWrVqXnvy9Zc6IY/
+
+From jeff_wills at comcast.net  Sun Mar 29 15:03:49 2009
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Sun, 29 Mar 2009 23:03:49 +0000
+Subject: [hpv] LWB and batteries
+In-Reply-To: <49CFF8CD.7050604@juno.com>
+Message-ID: <233915234.724311238367829249.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+
+Gee, we've been getting into the "power assist" lately, haven't we. I'll add to the pile:
+
+The Portland Human Power Challenge (May 23-25) will feature the second annual ePower Challenge on Monday, May 25th for human-electric hybrids. Here's the info about the event: http://www.ohpv.org/HPC/ePowerEvents.html
+
+
+
+Jeff Wills
+
+------------------------------------------------------------
+Make plans now to attend the 
+Portland Human Power Challenge
+http://www.ohpv.org/HPC/index.html
+and the Recumbent Retreat
+http://www.recumbentretreat.org/
+------------------------------------------------------------
+
+
+From jgtetz at msn.com  Sun Mar 29 17:11:29 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Sun, 29 Mar 2009 21:11:29 -0400
+Subject: [hpv] acceleration 0 to 60
+In-Reply-To: <mailman.19.1237924804.74369.hpv@bikelist.org><39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com><COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl><59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com><COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl><624806083.20090326113808@moz.geek.nz><c74d93000903251900m6c1c7b9as6c69412359f289a0@mail.gmail.com><COL102-DS25368063BD6EAE37CF8036D7910@phx.gbl>
+	<0DE3049E0E5D3748A653E1CB1600673E0C7750FA1A@sdc-mbx-01.exchange.washington.edu>
+References: <mailman.19.1237924804.74369.hpv@bikelist.org><39DEC58A-C560-4675-97FE-42D22174522E@outyourbackdoor.com><COL102-DS172C23E3FBC7D6A056B36AD7900@phx.gbl><59DD3A66-3010-489C-BF6A-9C40EBC82F46@outyourbackdoor.com><COL102-DS14E3B3D34C3D0E7ECF26E1D7910@phx.gbl><624806083.20090326113808@moz.geek.nz><c74d93000903251900m6c1c7b9as6c69412359f289a0@mail.gmail.com><COL102-DS25368063BD6EAE37CF8036D7910@phx.gbl>
+	<0DE3049E0E5D3748A653E1CB1600673E0C7750FA1A@sdc-mbx-01.exchange.washington.edu>
+Message-ID: <COL102-DS20ED308E491977E627BF94D78D0@phx.gbl>
+
+Stuart wrote;
+
+>acceleration from stop signs go by without pointing out that rubber might do the job.
+....Yes that could be excellent. Model airplanes use it because of the power to weigh ration is high.
+
+>Wind it up coming to a stop, then reverse gearing and let it loose to accelerate. 
+....several years ago before the sensitivity to energy consumption was in our consciousness some HPVers were exploring what they called 
+Energy Accumulators. An excellent title.
+
+John Tetz 
+
+From jgtetz at msn.com  Sun Mar 29 17:29:55 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Sun, 29 Mar 2009 21:29:55 -0400
+Subject: [hpv] LWB and batteries
+In-Reply-To: <mailman.13633.1238351896.337.hpv@bikelist.org>
+	<49CFF8CD.7050604@juno.com>
+References: <mailman.13633.1238351896.337.hpv@bikelist.org>
+	<49CFF8CD.7050604@juno.com>
+Message-ID: <COL102-DS520DBCC9E5794A7A5E1F0D78D0@phx.gbl>
+
+Hello Fred;
+
+You should post your comments on your system on  the ULEA Ultra Light Electric Assist site. 
+
+http://autos.groups.yahoo.com/group/ULEA/<http://autos.groups.yahoo.com/group/ULEA/>
+
+>The Stokemonkey has incredible torque and will buckle frame tubes if not well braced. 
+....They need a current limiter. Without it the battery the gear box, and motor are excessively stressed. 
+With the current limiter they could use a lighter gear box, maybe a lighter motor, and even a smaller battery. 
+
+John Tetz 
+
+From lioninoil at yahoo.com  Sun Mar 29 19:29:58 2009
+From: lioninoil at yahoo.com (LioNiNoiL)
+Date: Sun, 29 Mar 2009 20:29:58 -0700
+Subject: [hpv] wind-powered trike
+Message-ID: <524951.61456.qm@web32707.mail.mud.yahoo.com>
+
+
+Ron Richings wrote:
+ 
+> The 'Greenbird' clocked 126.1 mph (202.9 km/h) , eclipsing
+> the old record of 116 mph, set in 1999.
+> 
+> More at      http://tinyurl.com/c5lbuv
+ 
+Here is a direct link to the Greenbird website:
+http://www.greenbird.co.uk/
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+northeast of Lake Ivanpah
+
+
+
+      
+

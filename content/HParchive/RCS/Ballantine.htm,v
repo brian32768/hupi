@@ -1,0 +1,265 @@
+head	1.1;
+access;
+symbols;
+locks
+	bwilson:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2004.08.19.07.57.36;	author bwilson;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Ballantine</title>
+</head>
+<body>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" width="95%"
+ height="100%" align="left">
+  <tbody>
+    <tr>
+      <td width="100" height="100" bgcolor="#ccd9fd">
+      <p align="center"> </p>
+      <br>
+      </td>
+      <td width="852" height="100" colspan="2">
+      <p align="center"><a href="introWilson.htm"><font face="Arial"><img
+ border="0" src="archiveLogo.gif" width="600" height="100" align="left"></font></a></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;" width="100" bgcolor="#ccd9fd"
+ bordercolor="#CCD9FD">
+      <p align="center">&nbsp;</p>
+      <p align="center"><font face="Arial"><a href="index.htm">Intro</a></font></p>
+      <p align="center"><a href="download.htm"><font face="Arial">Index</font></a></p>
+      <p align="center"><a href="issues.htm"><font face="Arial">Issues</font></a></p>
+      <p align="center"><a href="cdrom.htm"><font face="Arial">CD-ROM</font></a></p>
+      <p align="center"><a href="http://www.hupi.org" target="_blank"><font
+ face="Arial">HuPI</font></a></p>
+
+<p align="center"><a href="http://www.ihpva.org"><img src="/graphics/home.icon.gif" width=39 height=65 border=0></a></p>
+
+      </td>
+      <td style="vertical-align: top;" width="623">
+      <blockquote>
+        <hr>
+        <p align="center"><font size="5" face="Times New Roman">Dave's
+Ragtime Boogie-Woogie Band</font></p>
+        <p align="center"><font face="Arial">by Richard Ballantine,
+Chairman IHPVA</font></p>
+        <p align="left"><font face="Arial">The <i>Human Power </i>archive
+is a         gold mine of technical information. It also traces</font> <font
+ face="Arial">a         record of remarkable human exploration and
+innovation.</font>&nbsp; <font face="Arial">Over         the 25 years
+spanned by the <i>Human Power </i>archives, IHPVA</font> <font
+ face="Arial">members         have accomplished incredible feats. The
+millennia-old dream of true</font> <font face="Arial">human-powered
+flight -- unassisted take-off, flight,         and landing -- was
+realized</font> <font face="Arial">first with flights         over
+land, then with long distance flights over ocean waters.&nbsp; The
+performance goal now is acrobatic flight. On land, the 65 mph barrier,
+once</font> <font face="Arial">scientifically proven to be the maximum
+possible speed for a human-powered</font> <font face="Arial">vehicle,
+was exceeded long ago. HPV streamliners are now whispering at over 80</font> <font
+ face="Arial">mph!</font></p>
+        <p align="left"><font face="Arial">Who are the people doing
+these things?&nbsp; How do they do them?&nbsp;</font> <font face="Arial">Who
+is not easy to say, because the people range from lone, barely in-there</font> <font
+ face="Arial">eccentrics to well-known, established university        
+professors and technical</font> <font face="Arial">specialists, from   
+lusty hedonists to refined ascetics.&nbsp; The diversity is enormous.</font> <font
+ face="Arial">Nevertheless, there are some common characteristics,     
+which may be a clue as to</font> <font face="Arial">the how.</font></p>
+        <p align="left"><font face="Arial">&#8226; Most can think. This
+ability is         very useful if you are trying to figure</font> <font
+ face="Arial">something         out.&nbsp; As the HPV designer John
+Kingsbury once sagely remarked:         "When all else fails -- think!"</font></p>
+        <p align="left"><font face="Arial">&#8226; Many are well-informed,
+and respect information and knowledge.</font> <font face="Arial">Developing
+new ideas involving, for example, dynamics such as prop cavitation</font> <font
+ face="Arial">or laminar flow, requires knowledge of these
+subjects.</font></p>
+        <p align="left"><font face="Arial">&#8226; Many are practical, and
+can design, build, shape, and fix, often with</font> <font face="Arial">consummate
+expertise and skill.&nbsp; Direct hands-on involvement with innovative</font> <font
+ face="Arial">technology is a hallmark of the human power movement.</font></p>
+        <p align="left"><font face="Arial">&#8226; Many are well-developed
+individuals with substance and character, and</font> <font face="Arial">often,
+plenty of energy, too!&nbsp; This can make life interesting. When
+strong-minded</font> <font face="Arial">people rub each other the wrong
+ way, sparks can shower.&nbsp; Equally, people with</font> <font
+ face="Arial">distinct         personalities and abilities are often
+better able to appreciate each         other,</font> <font face="Arial">and
+work effectively together.</font></p>
+        <p align="left"><font face="Arial">&#8226; Many have a deep personal
+involvement with human power, in work,</font> <font face="Arial">play,
+sport, or general living, or any combination thereof.</font></p>
+        <p align="left"><font face="Arial">Human power enthusiasts are
+smart, self-reliant, independent, and sometimes</font> <font face="Arial">quirky;
+qualities obviously good for innovation.&nbsp; As well, they care about
+the</font> <font face="Arial">quality of their lives.&nbsp; Here, there
+is an important connection.</font></p>
+        <p align="left"><font face="Arial">From the outset, the human
+power movement has held a sense of moving</font> <font face="Arial">in
+the         right direction, of being part of an evolution and change
+good for         everyone.</font>&nbsp; <font face="Arial">This
+feeling has tended to be         a tacit understanding, not an active
+topic.&nbsp; Quite</font> <font face="Arial">sensibly,         human
+power advocates have focused on achieving practical</font> <font
+ face="Arial">performances.&nbsp; As a technical journal, <i>Human
+Power </i>concentrates on qualities</font> <font face="Arial">such as
+objectivity, scholarship, empirical validity, and coherent analysis
+and</font> <font face="Arial">reasoning.</font>&nbsp;<font face="Arial">This
+pragmatic approach has worked very well.&nbsp; Human power in
+various</font> <font face="Arial">forms is becoming increasing
+important in the scheme of things all around the</font> <font
+ face="Arial">world.&nbsp;         Just as we learned practical means
+for improving the performances of</font> <font face="Arial">human-powered
+vehicles and machines, we are         developing objective</font> <font
+ face="Arial">understandings about the         effects of human power
+on society in general, and the</font> <font face="Arial">quality
+of our lives in particular.&nbsp; The commercial vitality of
+municipalities, the</font> <font face="Arial">effectiveness of
+agriculture and the quality of the food we eat, the extent and</font> <font
+ face="Arial">content         of social contacts, the patterns of
+health and life spans &#8211; human         power</font> <font face="Arial">influences
+all these and more.</font></p>
+        <p align="left"><font face="Arial">The remarkable first 25
+years of the         human power movement are only a</font> <font
+ face="Arial">beginning.         There is much more and better to come.</font>&nbsp;</p>
+        <p align="left"><font face="Arial">Conviction about the bright
+future of         human power has led a small group</font> <font
+ face="Arial">of         enthusiasts to found the Human Power
+Institute, usually called HuPI, the</font> <font face="Arial">internet
+acronym and handle.&nbsp; HuPI&#8217;s mission         is to promote the
+development and</font> <font face="Arial">use of human         power
+through publishing and communications, especially</font> <font
+ face="Arial">electronic         publishing.</font></p>
+        <p align="left"><font face="Arial">The people in HuPI are a
+microcosm of         the human power movement:</font> <font face="Arial">educated,
+talented         and accomplished, and thoroughly diverse in
+temperaments!</font>&nbsp; <font face="Arial">HuPI         is widely
+dispersed, so some members have never met face to face;</font> <font
+ face="Arial">communications skills are important and are
+much-used.&nbsp; A deep commitment to</font> <font face="Arial">human
+power, in lifestyles and in work, has helped to give cohesion to their</font> <font
+ face="Arial">union and substance to their efforts.</font></p>
+        <p align="left"><font face="Arial">The <i>Human Power </i>archive
+began         as a private project masterminded and</font> <font
+ face="Arial">financed         by David Gordon Wilson.&nbsp; Others in
+HuPI quickly volunteered to         help,</font> <font face="Arial">and
+a chance remark about banjo playing         led to nicknaming the team
+"Dave's Band".</font>&nbsp;&nbsp; <font face="Arial">In producing the <i>Human
+Power </i>archive they have         labored long and hard to run</font> <font
+ face="Arial">up a good tune.&nbsp; As matters have developed,
+it is appearing on the HuPI label.</font></p>
+        <p align="left"><font face="Arial">Will you welcome, please,
+and give         your thanks to:</font></p>
+        <p align="left"><font face="Arial">David Gordon Wilson - Editor
+of <i>Human         Power </i>1984 to 2002, author of</font> <i><font
+ face="Arial">Bicycling         Science </font></i><font face="Arial">and
+other books, professor of         Mechanical Engineering emeritus</font> <font
+ face="Arial">at MIT. A         godfather of the human power movement,
+Dave organized the first</font> <font face="Arial">modern design
+contest for human powered vehicles in 1967.</font></p>
+        <p align="left"><font face="Arial">Theo Schmidt - Associate
+editor of <i>Human         Power </i>1989 to 2002 and editor</font> <font
+ face="Arial">2002 to         2004. Vice-president Futurebike
+Switzerland.</font></p>
+        <p align="left"><font face="Arial">John Snyder - Biologist,
+technician and resource manager for orbital</font> <font face="Arial">communications
+research projects. Artist and writer.</font></p>
+        <p align="left"><font face="Arial">Elrey John Stephens -
+Electronic whiz, designer, helped produce </font><font face="Arial"><i>HPV</i></font> <font
+ face="Arial"><i>News </i></font><font face="Arial">and <i>Human     
+Power </i>for several years. Tends the IHPVA's HPV mailserver</font> <font
+ face="Arial">list.</font></p>
+        <p align="left"><font face="Arial">Brian Wilson - Director of
+Online Services for HuPI, webmaster for HPVA</font> <font face="Arial">and
+IHPVA.</font></p>
+        <p align="left"><font face="Arial">Richard Ballantine - Author
+of <i>Richard's         21st Century Bicycle Book </i>and</font> <font
+ face="Arial">other books,         publisher of cycling magazines and
+environment-related books.</font> <font face="Arial">Chairman
+IHPVA, Chair British Human Power Club.</font></p>
+        <p align="left"><font face="Arial">Thanks for your company and
+enjoy the         show!</font></p>
+        <p align="center">&nbsp;</p>
+        <hr width="50%">
+        <p class="MsoNormal"><font face="Arial">May 19, 2004</font></p>
+      </blockquote>
+      </td>
+      <td style="vertical-align: top;" width="227"> &nbsp;
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p align="center"><font face="Arial">&nbsp;<br>
+&nbsp;</font> </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp;&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp;&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center"><font face="Arial"> &nbsp;<img border="0"
+ src="banjo.jpg" width="171" height="275"></font> </p>
+      <p>&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p align="center">&nbsp; </p>
+      <p>&nbsp; </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<blockquote> </blockquote>
+</body>
+</html>
+@

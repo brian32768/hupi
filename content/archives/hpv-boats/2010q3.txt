@@ -1,0 +1,3854 @@
+From rickwill at bigpond.net.au  Sat Aug 14 02:25:51 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sat, 14 Aug 2010 19:25:51 +1000
+Subject: [hpv-boats] V15 Tested
+Message-ID: <2506D921-474A-43AA-8568-9BF443FB4F5D@bigpond.net.au>
+
+I went out in some blustery conditions today to test my latest boat.
+
+It is version 15 or V15_5m.  I have a few refinements but I think  
+this will be the basis for more boats if I make any more for own use  
+or for others.  This one has been designed and built to suit my  
+sister who is lighter than me.  It still performs well with more weight.
+
+I ordered a purpose made gearbox from Mitrpak for this boat.    
+Marcopolo boats have decided to stock some of these modified boxes so  
+they are more readily available.
+
+Wind was up to 70kph so not the ideal day for first outing.  I was  
+pleased with how it went.  I want to make a few adjustments but the  
+changes have all worked as intended.  The wave-piercing bow works  
+very well in waves.  There seems to be no tendency to bury into the  
+back of waves when running that I have experienced with the earlier  
+hulls.
+
+I have created a web page for this new boat here:
+http://www.rickwill.bigpondhosting.com/V15.htm
+
+Rick Willoughby
+
+
+
+From 2scott at bellsouth.net  Sat Aug 14 02:38:39 2010
+From: 2scott at bellsouth.net (2scott)
+Date: Sat, 14 Aug 2010 02:38:39 -0700 (PDT)
+Subject: [hpv-boats] V15 Tested
+In-Reply-To: <2506D921-474A-43AA-8568-9BF443FB4F5D@bigpond.net.au>
+Message-ID: <173347.68926.qm@web180413.mail.gq1.yahoo.com>
+
+A few questions if you dont mind.
+What is the weight of the boat?
+What does the gear box look like up close?
+What CAD program did you use to do the 3D modeling?
+What weight driver is the boat optimized for?
+Can you show how low in the water the boat
+is when the driver is mounted?   Is there any
+lift or rise out of the water at all while underway?
+It looks very nice.
+Thanks
+
+
+
+--- On Sat, 8/14/10, Rick Willoughby <rickwill at bigpond.net.au> wrote:
+
+> From: Rick Willoughby <rickwill at bigpond.net.au>
+> Subject: [hpv-boats] V15 Tested
+> To: "HPV Boat" <hpv-boats at bikelist.org>
+> Date: Saturday, August 14, 2010, 5:25 AM
+> I went out in some blustery
+> conditions today to test my latest boat.
+> 
+> It is version 15 or V15_5m.? I have a few refinements
+> but I think this will be the basis for more boats if I make
+> any more for own use or for others.? This one has been
+> designed and built to suit my sister who is lighter than
+> me.? It still performs well with more weight.
+> 
+> I ordered a purpose made gearbox from Mitrpak for this
+> boat.???Marcopolo boats have decided to stock
+> some of these modified boxes so they are more readily
+> available.
+> 
+> Wind was up to 70kph so not the ideal day for first
+> outing.? I was pleased with how it went.? I want
+> to make a few adjustments but the changes have all worked as
+> intended.? The wave-piercing bow works very well in
+> waves.? There seems to be no tendency to bury into the
+> back of waves when running that I have experienced with the
+> earlier hulls.
+> 
+> I have created a web page for this new boat here:
+> http://www.rickwill.bigpondhosting.com/V15.htm
+> 
+> Rick Willoughby
+> 
+> 
+> --
+> This message comes to you via the hpv-boats at bikelist.org
+> mailing list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to
+> manage your subscription.
+> 
+
+
+From rickwill at bigpond.net.au  Sat Aug 14 03:47:43 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sat, 14 Aug 2010 20:47:43 +1000
+Subject: [hpv-boats] V15 Tested
+Message-ID: <817BC882-D3FF-44DF-9DFA-264356FCE983@bigpond.net.au>
+
+
+A few questions if you dont mind.
+What is the weight of the boat?  I have not weighed it in final  
+form.  The bits totaled just under 20kg. When not on it it needed to  
+be pointed into the wind to prevent it getting blown away.
+What does the gear box look like up close?  There is an image here:
+http://marcopoloboats.com/MitrpakDrive.html
+Although it shows the standard box; not the one with the square taper  
+to suit cranks.
+What CAD program did you use to do the 3D modeling?  Delftship Pro.   
+You can get a reasonable free version of with no strings attached.   
+It has slightly less functionality than the Pro version.
+What weight driver is the boat optimized for? The boat is optimised  
+for a 60kg person but will also perform well with a heavier person at  
+high power.It only takes 300W to do 15kph with a 70kg rider.  That is  
+about the limit of the little gearbox.  You need a larger box if you  
+want to use more power.
+Can you show how low in the water the boat is when the driver is  
+mounted? This image shows the waterline with total of 90kg:
+http://www.rickwill.bigpondhosting.com/V15_5m_Linesplan.png
+Is there any lift or rise out of the water at all while underway?   
+The boat starts bow up at about 7kph with net sinkage up to 13kph and  
+then begins to lift.  It is not planing but the wave pressure causes  
+it to lift.
+It looks very nice. Thank you - I hope my sister likes it!! I am  
+thinking about modifying V14 to use some of these new ideas.
+
+Thanks
+
+Rick
+
+
+
+
+
+From 2scott at bellsouth.net  Sat Aug 14 04:47:41 2010
+From: 2scott at bellsouth.net (2scott)
+Date: Sat, 14 Aug 2010 04:47:41 -0700 (PDT)
+Subject: [hpv-boats] V15 hull length speed limited ?
+In-Reply-To: <817BC882-D3FF-44DF-9DFA-264356FCE983@bigpond.net.au>
+Message-ID: <96244.6895.qm@web180409.mail.gq1.yahoo.com>
+
+Since the hull is wave piercing instead of the other kind,
+does it still experience the maximum speeds limited to
+hull length like sail boats ?  
+
+--- On Sat, 8/14/10, Rick Willoughby <rickwill at bigpond.net.au> wrote:
+
+> From: Rick Willoughby <rickwill at bigpond.net.au>
+> Subject: Re: [hpv-boats] V15 Tested
+> To: "HPV Boat" <hpv-boats at bikelist.org>
+> Date: Saturday, August 14, 2010, 6:47 AM
+> 
+> A few questions if you dont mind.
+> What is the weight of the boat?? I have not weighed it
+> in final form.? The bits totaled just under 20kg. When
+> not on it it needed to be pointed into the wind to prevent
+> it getting blown away.
+> What does the gear box look like up close?? There is
+> an image here:
+> http://marcopoloboats.com/MitrpakDrive.html
+> Although it shows the standard box; not the one with the
+> square taper to suit cranks.
+> What CAD program did you use to do the 3D modeling??
+> Delftship Pro.? You can get a reasonable free version
+> of with no strings attached.? It has slightly less
+> functionality than the Pro version.
+> What weight driver is the boat optimized for? The boat is
+> optimised for a 60kg person but will also perform well with
+> a heavier person at high power.It only takes 300W to do
+> 15kph with a 70kg rider.? That is about the limit of
+> the little gearbox.? You need a larger box if you want
+> to use more power.
+> Can you show how low in the water the boat is when the
+> driver is mounted? This image shows the waterline with total
+> of 90kg:
+> http://www.rickwill.bigpondhosting.com/V15_5m_Linesplan.png
+> Is there any lift or rise out of the water at all while
+> underway?? The boat starts bow up at about 7kph with
+> net sinkage up to 13kph and then begins to lift.? It is
+> not planing but the wave pressure causes it to lift.
+> It looks very nice. Thank you - I hope my sister likes it!!
+> I am thinking about modifying V14 to use some of these new
+> ideas.
+> 
+> Thanks
+> 
+> Rick
+> 
+> 
+> 
+> 
+> --
+> This message comes to you via the hpv-boats at bikelist.org
+> mailing list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to
+> manage your subscription.
+> 
+
+
+From rickwill at bigpond.net.au  Sat Aug 14 05:14:50 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sat, 14 Aug 2010 22:14:50 +1000
+Subject: [hpv-boats] V15 hull length speed limited ?
+Message-ID: <BF426C67-71E5-4716-B972-7D5034DFE509@bigpond.net.au>
+
+Hull speed is a defined parameter based on boat length and the  
+gravity constant.  It does not have any significance for any slender  
+hull as there is no measurable wave hump.  The drag goes up in  
+proportion to the square of the speed.
+
+The wave piercing requirement only applies to ambient waves; not  
+anything to do with waves produced by the hull.  The aim is to pass  
+through the ambient waves rather than being slowed down by them.   
+This is not difficult with slender hulls but they have a tendency to  
+dive into the back of waves when going downwind.  My new deckline  
+with the "V" shape at the bow parts the waves neatly and does not get  
+forced down once underwater.
+
+Since the hull is wave piercing instead of the other kind,does it  
+still experience the maximum speeds limited to hull length like sail  
+boats ?
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+
+From vgarza2 at satx.rr.com  Sat Aug 14 09:09:17 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Sat, 14 Aug 2010 11:09:17 -0500
+Subject: [hpv-boats] V15 Tested
+In-Reply-To: <2506D921-474A-43AA-8568-9BF443FB4F5D@bigpond.net.au>
+References: <2506D921-474A-43AA-8568-9BF443FB4F5D@bigpond.net.au>
+Message-ID: <1A8718C52E254FA59EFEDE2C02E811AB@vgarzaPC>
+
+Thanks for the report and link, Rick. Cool looking and wave functional 
+creation you came up with! Good strut reinforcement for rough water, yet 
+seems to keep folding capability. Suspect you might be sending your sister 
+to set records at sea :-)  ?
+I see you went with a flex shaft and folding prop on this model as well. It 
+appears that the shaft runs free inside the shell, but with a skeg/bearing 
+only at the prop location. If so, that is something new as well.
+
+On anothe note, wonder if you ever got the time to test out the idea of a 
+carbon fiber sleeve reinforcement on your flex shaft? 
+http://www.cstsales.com/carbon_braid.html  I haven't had free time to 
+explore this yet.
+
+Regards,
+
+Vic
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Saturday, August 14, 2010 4:25 AM
+Subject: [hpv-boats] V15 Tested
+
+
+>I went out in some blustery conditions today to test my latest boat.
+>
+> It is version 15 or V15_5m.  I have a few refinements but I think  this 
+> will be the basis for more boats if I make any more for own use  or for 
+> others.  This one has been designed and built to suit my  sister who is 
+> lighter than me.  It still performs well with more weight.
+>
+> I ordered a purpose made gearbox from Mitrpak for this boat.    Marcopolo 
+> boats have decided to stock some of these modified boxes so  they are more 
+> readily available.
+>
+> Wind was up to 70kph so not the ideal day for first outing.  I was 
+> pleased with how it went.  I want to make a few adjustments but the 
+> changes have all worked as intended.  The wave-piercing bow works  very 
+> well in waves.  There seems to be no tendency to bury into the  back of 
+> waves when running that I have experienced with the earlier  hulls.
+>
+> I have created a web page for this new boat here:
+> http://www.rickwill.bigpondhosting.com/V15.htm
+>
+> Rick Willoughby
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 800 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From rickwill at bigpond.net.au  Sat Aug 14 15:23:23 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 15 Aug 2010 08:23:23 +1000
+Subject: [hpv-boats] V15 Shaft
+Message-ID: <D795D76D-F38F-49CC-BCBC-B87C3E26612F@bigpond.net.au>
+
+Vic
+I tried the 6mm sleeve I had on a 1/4" spring steel shaft.  I was  
+disappointed because it did not make measurable increase in the  
+torsional rigidity.  It is an effective way to protect the shaft.   
+When I tested it the epoxy was only a couple of days old so not fully  
+cured.  I will do a more precise side-by-side comparison with  
+unsleeved rod at some point.
+
+As Mark Drela commented it would have been smarter to use thicker  
+tube.  It is much easier to reduce the diameter of the tube by  
+pulling it tight than it is to increase the diameter when it is  
+loose.  The fibes in the sleeve are running more like 20 to 30  
+degrees than 45.
+
+The new shaft is a combination 12mm aluminium rod through a HDPE pipe  
+in the hull and 8mm spring steel beyond the tube.  The steel portion  
+slots into the aluminium.  That connection is epoxy glued and I have  
+wrapped a few layers of glass tape over the joint.  I made a small  
+sleeve from UHMWPE for the bearing at the bottom of the shaft tube.   
+The tube exits just behind the gearbox so it does not need to be sealed.
+
+The folding prop sheds most weed so I do not need access to it.  It  
+is possible to get a bit of weed wrapped around the hub but that will  
+usually dislodge by reversing.  Most floating weed gets pushed aside  
+by the hull.
+
+Having the prop right out the stern reduced the tendency to ventilate  
+in waves.  This improves as I go faster because the boat sits bow up  
+a little and the prop goes deeper.  In the 1 to 2 ft waves yesterday  
+the prop only ventilated a couple of times.  The side mounted prop  
+would have ventilated more often in waves like that.
+
+Rick
+
+On anothe note, wonder if you ever got the time to test out the idea  
+of a
+carbon fiber sleeve reinforcement on your flex shaft?
+http://www.cstsales.com/carbon_braid.html  I haven't had free time to
+explore this yet.
+
+Regards,
+
+Vic
+
+
+
+From bruceplazyk at fauxfishtechnologies.com  Sat Aug 14 19:20:18 2010
+From: bruceplazyk at fauxfishtechnologies.com (bruceplazyk at fauxfishtechnologies.com)
+Date: Sat, 14 Aug 2010 19:20:18 -0700 (PDT)
+Subject: [hpv-boats] V15 Shaft
+In-Reply-To: <D795D76D-F38F-49CC-BCBC-B87C3E26612F@bigpond.net.au>
+Message-ID: <433432.28360.qm@web1205.biz.mail.gq1.yahoo.com>
+
+Hi Rick,
+
+It's great to see that you are still pushing the envelope! That's a great looking boat.
+
+Bruce Plazyk
+
+--- On Sat, 8/14/10, Rick Willoughby <rickwill at bigpond.net.au> wrote:
+
+From: Rick Willoughby <rickwill at bigpond.net.au>
+Subject: [hpv-boats] V15 Shaft
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Date: Saturday, August 14, 2010, 5:23 PM
+
+Vic
+I tried the 6mm sleeve I had on a 1/4" spring steel shaft.? I was disappointed because it did not make measurable increase in the torsional rigidity.? It is an effective way to protect the shaft.? When I tested it the epoxy was only a couple of days old so not fully cured.? I will do a more precise side-by-side comparison with unsleeved rod at some point.
+
+As Mark Drela commented it would have been smarter to use thicker tube.? It is much easier to reduce the diameter of the tube by pulling it tight than it is to increase the diameter when it is loose.? The fibes in the sleeve are running more like 20 to 30 degrees than 45.
+
+The new shaft is a combination 12mm aluminium rod through a HDPE pipe in the hull and 8mm spring steel beyond the tube.? The steel portion slots into the aluminium.? That connection is epoxy glued and I have wrapped a few layers of glass tape over the joint.? I made a small sleeve from UHMWPE for the bearing at the bottom of the shaft tube.? The tube exits just behind the gearbox so it does not need to be sealed.
+
+The folding prop sheds most weed so I do not need access to it.? It is possible to get a bit of weed wrapped around the hub but that will usually dislodge by reversing.? Most floating weed gets pushed aside by the hull.
+
+Having the prop right out the stern reduced the tendency to ventilate in waves.? This improves as I go faster because the boat sits bow up a little and the prop goes deeper.? In the 1 to 2 ft waves yesterday the prop only ventilated a couple of times.? The side mounted prop would have ventilated more often in waves like that.
+
+Rick
+
+On anothe note, wonder if you ever got the time to test out the idea of a
+carbon fiber sleeve reinforcement on your flex shaft?
+http://www.cstsales.com/carbon_braid.html? I haven't had free time to
+explore this yet.
+
+Regards,
+
+Vic
+
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+From iancassell at optusnet.com.au  Sun Aug 15 02:47:28 2010
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Sun, 15 Aug 2010 19:47:28 +1000
+Subject: [hpv-boats] V15
+Message-ID: <D1EBA2050ADD4C5095D71783D5D87CF7@HOME1>
+
+Rick
+       Saw the pics and video of V15 looks great. The
+trailer would make transport easy and there would be
+no setting up. Does the boat have a skeg or is the
+shaft unsupported? Is there a reason for the outrigger
+fixing points being towards the front and not in the
+middle?
+       When will you be at Lysterfield lake next? Give
+me a date and time and I'll see you there. Would be
+great to see the boat on the water.
+       Can the involute gearbox be fitted to the V15 design?
+
+Ian
+
+From rickwill at bigpond.net.au  Sun Aug 15 03:44:08 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 15 Aug 2010 20:44:08 +1000
+Subject: [hpv-boats] V15
+Message-ID: <E464E5A7-E608-4B59-85E7-B98767CE6528@bigpond.net.au>
+
+Ian
+I have a flexible strut to prevent the shaft from hanging down too  
+far - just a simple UHMWPE bush.  It also allows an effective reverse.
+
+I wanted to get the outriggers as far back as I could while having  
+the bracing off the wider and higher part of the hull.  Having the  
+outriggers near the stern avoids flop roll when running with waves.
+
+I am not sure if I like the folding system.  It puts the front of the  
+outriggers near the balance point so makes it more awkward to carry  
+than it should be when they are folded in.  It is quick and easy to  
+launch but it should be easier to carry given the light weight.  I  
+might spread them on the trailer next time.
+
+I will probably convert V14 hull to something similar to V15 and I  
+will just use the slide-in tubes for the outriggers rather than the  
+folding.
+
+I expect I will be there next weekend but I would like better weather  
+to do proper set up.  I will let you know through the week.  I can  
+easily  transport two boats now.
+
+I think the involute would fit as it is.  It depends on the leg  
+length because the shaft inclines at a slightly higher angle than  
+torque box it mounts off.  So the clearance increases as the box is  
+moved forward.  A racing version of this boat could have the heavier  
+box.  A strong rider should be able to get it 20kph as this requires  
+less power than to get V11 or V14 to that speed.  However you would  
+not want to try that with the little gearbox.
+
+I have a couple of changes to the design that would make it easier to  
+build.  It would not be difficult to adjust the angle of the torque  
+box to suit a higher gearbox.  Mine might be a bit too wide for the  
+involute box as well.
+
+So far the hull seems to work extremely well in waves.  My rudders  
+are a work in progress.  I am using nylon gears rather than pull  
+cords and it has some problems at the moment so turning is not where  
+I want it yet.
+
+Right now my gearbox is a bit too close for me.  I will leave it like  
+that so it might be just about right for you and Ian Knox who wants  
+to have a go.
+
+
+Rick
+        Saw the pics and video of V15 looks great. The
+trailer would make transport easy and there would be
+no setting up. Does the boat have a skeg or is the
+shaft unsupported? Is there a reason for the outrigger
+fixing points being towards the front and not in the
+middle?
+        When will you be at Lysterfield lake next? Give
+me a date and time and I'll see you there. Would be
+great to see the boat on the water.
+        Can the involute gearbox be fitted to the V15 design?
+
+Ian
+
+Rick Willoughby
+
+
+
+From clemens.winter at aliceadsl.fr  Sun Aug 15 12:56:01 2010
+From: clemens.winter at aliceadsl.fr (Clemens )
+Date: Sun, 15 Aug 2010 21:56:01 +0200
+Subject: [hpv-boats] V15 Tested
+In-Reply-To: <2506D921-474A-43AA-8568-9BF443FB4F5D@bigpond.net.au>
+References: <2506D921-474A-43AA-8568-9BF443FB4F5D@bigpond.net.au>
+Message-ID: <000001cb3cb3$e3ac17f0$ab0447d0$@winter@aliceadsl.fr>
+
+Wow
+Rick, you really are a genius!
+This boat is perfect - the result of an evolutionary process.
+The folding prop, the free floating shaft, the hull configuration, the
+ultralight materials, the sleek pelican design: Your sister will be proud of
+her custom made human powered speed boat.
+Congratulations!
+
+Best greetings 
+Clemens
+
+
+
+From vgarza2 at satx.rr.com  Sun Aug 15 14:51:29 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Sun, 15 Aug 2010 16:51:29 -0500
+Subject: [hpv-boats] V15 Shaft
+In-Reply-To: <D795D76D-F38F-49CC-BCBC-B87C3E26612F@bigpond.net.au>
+References: <D795D76D-F38F-49CC-BCBC-B87C3E26612F@bigpond.net.au>
+Message-ID: <B1DC03C05FF04796BCB15EAF023F85D7@vgarzaPC>
+
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Saturday, August 14, 2010 5:23 PM
+Subject: [hpv-boats] V15 Shaft
+
+> Vic
+> I tried the 6mm sleeve I had on a 1/4" spring steel shaft.  I was 
+> disappointed because it did not make measurable increase in the  torsional 
+> rigidity.  It is an effective way to protect the shaft.   When I tested it 
+> the epoxy was only a couple of days old so not fully  cured.  I will do a 
+> more precise side-by-side comparison with  unsleeved rod at some point.
+
+
+Was this shaft you constructed covered with only a single layer of carbon 
+fiber mesh tube?
+What kind of epoxy did you use, and did you use the heat shrink tubing 
+method to tighten up to the shaft?
+
+>
+> As Mark Drela commented it would have been smarter to use thicker  tube. 
+> It is much easier to reduce the diameter of the tube by  pulling it tight 
+> than it is to increase the diameter when it is  loose.  The fibes in the 
+> sleeve are running more like 20 to 30  degrees than 45.
+
+Could that angle strength be improved somehow, say by using multiple layers 
+set in offset mesh pattern, alternately reversed from a lengthwise 
+direction?
+
+Thanks,
+
+Vic
+
+
+>
+> The new shaft is a combination 12mm aluminium rod through a HDPE pipe  in 
+> the hull and 8mm spring steel beyond the tube.  The steel portion  slots 
+> into the aluminium.  That connection is epoxy glued and I have  wrapped a 
+> few layers of glass tape over the joint.  I made a small  sleeve from 
+> UHMWPE for the bearing at the bottom of the shaft tube.   The tube exits 
+> just behind the gearbox so it does not need to be sealed.
+>
+> The folding prop sheds most weed so I do not need access to it.  It  is 
+> possible to get a bit of weed wrapped around the hub but that will 
+> usually dislodge by reversing.  Most floating weed gets pushed aside  by 
+> the hull.
+>
+> Having the prop right out the stern reduced the tendency to ventilate  in 
+> waves.  This improves as I go faster because the boat sits bow up  a 
+> little and the prop goes deeper.  In the 1 to 2 ft waves yesterday  the 
+> prop only ventilated a couple of times.  The side mounted prop  would have 
+> ventilated more often in waves like that.
+>
+> Rick
+>
+> On anothe note, wonder if you ever got the time to test out the idea  of a
+> carbon fiber sleeve reinforcement on your flex shaft?
+> http://www.cstsales.com/carbon_braid.html  I haven't had free time to
+> explore this yet.
+>
+> Regards,
+>
+> Vic
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 801 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From rickwill at bigpond.net.au  Sun Aug 15 15:36:52 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 16 Aug 2010 08:36:52 +1000
+Subject: [hpv-boats] V15 Shaft
+Message-ID: <6D5C9EDB-DCD5-4AB1-9104-76EC54ACE580@bigpond.net.au>
+
+Vic
+It was only a single layer.  The epoxy was Solid Bond 330.  This is  
+the TDS:
+http://www.solidsolutions.com.au/datasheets/tds_er_epoxy_bond_430.pdf
+The bond did not break but it would not have reached fully cured  
+state when I tested.
+
+The fibres were tight to the steel because I hung the shaft from the  
+tube to stretched it while it cured.
+
+I had intended to use up to 3 layers but the tubing I purchased was  
+too small to allow that.
+
+There is no doubt that building up the number of layers would add  
+stiffness.  The idea is fine but my initial execution was poor.  I  
+would recommend it if you want a torsionally stiff lightweight shaft  
+that will bend.  You could build it up on any round section material  
+as a former.  It should be a complete seal so electrolysis will not  
+be an issue.  The connections would also be epoxy glued.
+
+Rick
+
+
+Was this shaft you constructed covered with only a single layer of  
+carbon
+fiber mesh tube?
+What kind of epoxy did you use, and did you use the heat shrink tubing
+method to tighten up to the shaft?
+
+
+Could that angle strength be improved somehow, say by using multiple  
+layers
+set in offset mesh pattern, alternately reversed from a lengthwise
+direction?
+
+Thanks,
+
+
+From rickwill at bigpond.net.au  Sun Aug 15 15:54:07 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 16 Aug 2010 08:54:07 +1000
+Subject: [hpv-boats] V15 Tested
+Message-ID: <59F4FEEF-FE89-4E2D-B8DB-81B8E804DD93@bigpond.net.au>
+
+Hi Clem
+Still plenty of room for improvement yet.
+
+I can simplify the building a bit.  I will also alter the back. It  
+does not need to be as long to get the aerodynamic benefit and is a  
+pain to construct the tortured curve.
+
+The rudders need some work.  I am not sure how much at this stage.   
+During the test I ended up with only one rudder working because the  
+other worked loose so have to fix that.
+
+I have a slightly lower drag design dubbed V15_6m that I am playing  
+with.  The aim with it is to get something with the best high speed  
+performance having 100kg displacement.  Something that a good athlete  
+could better Olympic single scull times over 2000m.  It is optimised  
+for 18kph.  The seat back is more inclined similar to the inclination  
+I have on the V14 seat now.
+
+Rick
+
+Wow
+Rick, you really are a genius!
+This boat is perfect - the result of an evolutionary process.
+The folding prop, the free floating shaft, the hull configuration, the
+ultralight materials, the sleek pelican design: Your sister will be  
+proud of
+her custom made human powered speed boat.
+Congratulations!
+
+Best greetings
+Clemens
+
+
+From vgarza2 at satx.rr.com  Sun Aug 15 17:45:30 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Sun, 15 Aug 2010 19:45:30 -0500
+Subject: [hpv-boats] V15 Shaft
+In-Reply-To: <6D5C9EDB-DCD5-4AB1-9104-76EC54ACE580@bigpond.net.au>
+References: <6D5C9EDB-DCD5-4AB1-9104-76EC54ACE580@bigpond.net.au>
+Message-ID: <5CA8640D3579432380C78563214DC884@vgarzaPC>
+
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Sunday, August 15, 2010 5:36 PM
+Subject: Re: [hpv-boats] V15 Shaft
+
+
+> Vic
+> It was only a single layer.  The epoxy was Solid Bond 330.  This is  the 
+> TDS:
+> http://www.solidsolutions.com.au/datasheets/tds_er_epoxy_bond_430.pdf
+> The bond did not break but it would not have reached fully cured  state 
+> when I tested.
+>
+> The fibres were tight to the steel because I hung the shaft from the  tube 
+> to stretched it while it cured.
+>
+> I had intended to use up to 3 layers but the tubing I purchased was  too 
+> small to allow that.
+>
+> There is no doubt that building up the number of layers would add 
+> stiffness.  The idea is fine but my initial execution was poor.  I  would 
+> recommend it if you want a torsionally stiff lightweight shaft  that will 
+> bend.  You could build it up on any round section material  as a former. 
+> It should be a complete seal so electrolysis will not  be an issue.  The 
+> connections would also be epoxy gued.
+
+Rick, if you can suffer one more pesky question? This can be answered with a 
+yes or no.
+
+Do you think there would be enough LONGITUDINAL stiffness in a tube formed 
+from layers of the expoxied mesh alone, to mimic the round section 
+behaviour, IF you dissolve out the round section?
+
+Hope this makes sense, as I as my goal is to get the lightest, thinnest, 
+strongest, flex shaft possible.
+
+Vic
+
+>
+> Rick
+>
+>
+> Was this shaft you constructed covered with only a single layer of  carbon
+> fiber mesh tube?
+> What kind of epoxy did you use, and did you use the heat shrink tubing
+> method to tighten up to the shaft?
+>
+>
+> Could that angle strength be improved somehow, say by using multiple 
+> layers
+> set in offset mesh pattern, alternately reversed from a lengthwise
+> direction?
+>
+> Thanks,
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 801 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From rickwill at bigpond.net.au  Sun Aug 15 18:38:21 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 16 Aug 2010 11:38:21 +1000
+Subject: [hpv-boats] Curved Shaft
+Message-ID: <C730F7C1-C11C-4A41-A607-96E23D60681E@bigpond.net.au>
+
+Vic
+Essentially yes but suggest leave the former there.
+
+If I was going for really light I would go for aluminium tube as the  
+former.  6mm tube is very light and you can hang during curing to  
+ensure it is straight.
+
+Wooden dowel would also be OK.
+
+You probably want a minimum of three layers of the weight I used to  
+get suitable strength - CF303.  I would go for 25+feet of the 1/2"  
+CF9313 if I was doing it again.  With the aim of minimum of 3  
+layers.   Anything less and it will be too fragile to connect to and  
+handle.
+
+Providing you get it thick enough it has the fibres ideally oriented  
+for torsional rigidity while having bending compliance.  Without the  
+firmer core it would be more prone to buckling failure so I would  
+leave the former inside.
+
+I will compare torsional rigidity today with unsheethed rod using  
+same torque.
+
+
+Rick Willoughby
+
+Rick, if you can suffer one more pesky question? This can be answered  
+with a
+yes or no.
+
+Do you think there would be enough LONGITUDINAL stiffness in a tube  
+formed
+from layers of the expoxied mesh alone, to mimic the round section
+behaviour, IF you dissolve out the round section?
+
+Hope this makes sense, as I as my goal is to get the lightest, thinnest,
+strongest, flex shaft possible.
+
+Vic
+
+
+From rickwill at bigpond.net.au  Mon Aug 16 01:30:53 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 16 Aug 2010 18:30:53 +1000
+Subject: [hpv-boats] Sleeved Shaft
+Message-ID: <A87CE56F-CA86-43E5-AB25-7A4883BB3285@bigpond.net.au>
+
+Vic
+The sleeved shaft is 24% stiffer while being 6% heavier.
+
+I may have got a bit better if I had been able to get the fibres at  
+45 degrees rather than something less.
+
+The resin ratio is about 1.5x so more than you would use with  
+multiple layers.  I was aiming for the resin to provide extra  
+protection for the CF.
+
+Remember the stiffness is a function of the 4th power of diameter so  
+the improvement is not linear.  Another layer would probably get to  
+60% better and three layers would be equivalent to the steel alone.
+
+Aluminium is 1/3rd the stiffness of steel so one layer of the CF will  
+almost double what you get from aluminium rod.
+
+Rick 
+
+From onetonpump at gmail.com  Thu Aug 12 16:20:12 2010
+From: onetonpump at gmail.com (Tony Nelson)
+Date: Thu, 12 Aug 2010 23:20:12 +0000 (UTC)
+Subject: [hpv-boats] Right Angle Drive
+References: <AA3F0316-CC05-48FE-BB71-D912F2C9699F@bigpond.net.au>
+Message-ID: <loom.20100813T004655-949@post.gmane.org>
+
+Rick Willoughby <rickwill at ...> writes:
+
+> 
+> There are a few manufacturers of angle drives.  Mitrpak are possibly  
+> the best value.
+> http://www.mitrpak.com/product_datasheet.php?product_id=34
+> 
+> The best size prop will be spun at 4 to 5 times cadence.  You can use  
+> a large diameter prop turned at 2 to 3 time cadence directly from a  
+> gearbox but the box costs quite a lot.
+> 
+> You can also use twisted chain drives.
+> 
+> You can pair two boxes with 1:2 steep up to get combined 1:4 but this  
+> ends up very expensive.
+> 
+> There is a thread on this forum that has a huge amount of detail with  
+> photos if you care to wade through it:
+> http://www.boatdesign.net/forums/boat-design/pedal-powered- 
+> boats-23345.html
+> 
+> Rick Willoughby
+> rickwill at ...
+> 
+> 
+
+
+No-Worries:: the gearboxes suitable for adapting to "Human-Power" are 
+plentiful. cheap [free], rugged, but not marinised. 
+Angle-grinders provide them, burnt motors with smoothly run-in gears ; I've 
+gutted about 20 of them, they are usually 3 to 4 to one, common makita is 
+3.3,which I find optimum. The highest ratio I've found is a 9::1, but that 
+was 'stripped'
+The'trick' is to make an adaptor for fitting a cluster [I use 14-18 tooth] 
+onto the shaft where the disc was [maybe remove the ratchet mechanism] ; 
+struggle & fight to remove the rotor windings; cut this motor-shaft short & 
+make a coupling [about 9mm id]
+For a pp boat, have the chainwheel on the right side of a 'crankshaft; so the 
+chain passes behind the operator to a cluster [enabling variable ratios]- a 
+shaft across to the centre-line, where the g/b increases speed / changes 
+direction / feeds aft to the prop-shaft. via a seal & universal-joint.
+Use a bigger chainwheel for higher RPM output.
+Ok so I made one  -almo0st - figured a better solution - I'll tell you when I 
+have it!
+Surfing on the Bare island Bombora in a pp-Kayak on Botany Bay in Oz; watch me 
+go!
+Tony Nelson.
+
+
+
+
+From iancassell at optusnet.com.au  Mon Aug 16 04:59:01 2010
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Mon, 16 Aug 2010 21:59:01 +1000
+Subject: [hpv-boats] New boat
+Message-ID: <4B7FF7A88D714A2BBC0C575B5DED6D60@HOME1>
+
+Rick
+
+Seeing your V15 design has put me on a new design tangent. I have been slowly making a new proa, one that is lighter and narrower. I have only made the hull so far and have not decked it in as I keep changing my mind. The hull is 5m long and 200mm beam with a depth of 250mm, basic box section with a small rocker on the bottom. 
+
+My main design criteria is to use the involute gearbox and the boat can be setup sitting flat on the beach. With the V15 being able to sit flat and the shaft raised and lowered it is a much simpler way to go. The proa works well but needs heavier beams and needs more setting up, a stabilized monohull has smaller lighter beams and a lot less setting up. The proa is always pushing two hulls through the water, even though the outrigger is long and narrow it is still drag in the water. 
+
+I would not have the involute gearbox permanently fitted but bolt it in and out each time as it's a heavy hunk of metal. The dipping rudders I will give a try as its less drag and lets the boat sit flat on the beach, also they don't get in the way of the shaft.
+
+The narrow hull allows for the gearbox to be 200mm above the deck instead of 300mm as the pedals are over the side of the boat. 
+
+After all that I am looking at a boat like V14 but with the shaft through the hull and bolt on outriggers.
+
+ 
+
+Ian
+
+From rickwill at bigpond.net.au  Mon Aug 16 06:41:44 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 16 Aug 2010 23:41:44 +1000
+Subject: [hpv-boats] New Boat
+Message-ID: <4412201E-8573-47DF-8515-3456CD60D75E@bigpond.net.au>
+
+Ian
+The new boat does not sit quite flat on the bean but the shaft is  
+strong enough to allow it to sit on it.  It just springs out of the  
+way.  You would not want to sit on on the beach as they may bend the  
+shaft.
+
+With your higher ratio you can use a smaller prop with shaft coming  
+out even further aft.
+
+I think if you make a seat and torque box like mine you could  
+permanently mount the gearbox.  There is a lot of weight in bottom  
+bracket, chain, chainring, sprocket and small box.  I doubt not much  
+less than the Involute box.  It is just that the Involute box is a  
+concentrated lump.  The most awkward part with V15 is the position of  
+the outriggers when folded.
+
+Rick 
+
+From vgarza2 at satx.rr.com  Mon Aug 16 18:49:03 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Mon, 16 Aug 2010 20:49:03 -0500
+Subject: [hpv-boats] Sleeved Shaft
+In-Reply-To: <A87CE56F-CA86-43E5-AB25-7A4883BB3285@bigpond.net.au>
+References: <A87CE56F-CA86-43E5-AB25-7A4883BB3285@bigpond.net.au>
+Message-ID: <D194BD0768C8404481CCB48700484F67@vgarzaPC>
+
+Thanks, Rick you have given me a lot to think about.  Those are quite 
+impressive measurements.
+How thin will the 1/4" mesh go when stretched tight on a rod, as I am 
+shooting for about 1/8" on the rod part. That way I can add another layer 
+for strength if needed. Can I get small amounts of the equivalent epoxy in 
+USA, is my next question to research....
+
+Vic
+
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Monday, August 16, 2010 3:30 AM
+Subject: [hpv-boats] Sleeved Shaft
+
+
+> Vic
+> The sleeved shaft is 24% stiffer while being 6% heavier.
+>
+> I may have got a bit better if I had been able to get the fibres at  45 
+> degrees rather than something less.
+>
+> The resin ratio is about 1.5x so more than you would use with  multiple 
+> layers.  I was aiming for the resin to provide extra  protection for the 
+> CF.
+>
+> Remember the stiffness is a function of the 4th power of diameter so  the 
+> improvement is not linear.  Another layer would probably get to  60% 
+> better and three layers would be equivalent to the steel alone.
+>
+> Aluminium is 1/3rd the stiffness of steel so one layer of the CF will 
+> almost double what you get from aluminium rod.
+>
+> Rick --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 802 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From rickwill at bigpond.net.au  Mon Aug 16 19:26:47 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 17 Aug 2010 12:26:47 +1000
+Subject: [hpv-boats] Sleeved Shaft
+Message-ID: <4AE787BE-B80A-4F21-9888-85556183189E@bigpond.net.au>
+
+Vic
+It could easily reduce to half nominal diameter.  The fibres will run  
+a little straighter so will increase buckling resistance but not so  
+much to torsional rigidity.
+
+If you only wanted to go to around 1/4" overall you might get 3  
+layers on something starting at 1/8".  I think you would have to wait  
+for some initial cure before putting on each layer.  With epoxy you  
+can accelerate the curing by heating.  The other way would be to  
+place all layers dry and then really soak the shaft, working until  
+wetted out.  The fibres tend to form tiny needles that catch on  
+successive layers as they are slid on.  The more damage the more  
+needles.
+
+Rick
+
+Thanks, Rick you have given me a lot to think about.  Those are quite
+impressive measurements.
+How thin will the 1/4" mesh go when stretched tight on a rod, as I am
+shooting for about 1/8" on the rod part. That way I can add another  
+layer
+for strength if needed. Can I get small amounts of the equivalent  
+epoxy in
+USA, is my next question to research....
+
+Vic
+
+From sam at bristolwireless.net  Sun Aug 22 04:15:40 2010
+From: sam at bristolwireless.net (Sam UK)
+Date: Sun, 22 Aug 2010 12:15:40 +0100
+Subject: [hpv-boats] human powered yacht?
+Message-ID: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+
+Hi All
+
+I have a 22 ft kingfisher yacht http://www.kyoa.org.uk/k20+technical.htm  I
+am interested in powering it partly through human power when I am on  inland
+canals etc.
+
+I will also have a conventional outboard for when I get tired!
+
+I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html which I
+would hope to be able to use for about 2 hours a day. eg
+http://www.youtube.com/watch?v=u7MQsdLpWaM
+
+In addition seems to make sense to use your more powerful  leg muscles to
+power the thing. I realize that the boat will not move fast, and that it
+will be hard work.
+
+The boat has an outboard well inside the boat and I am hoping to be able to
+make use of that to install a pedal system.
+
+1) Has anyone ever fitted a mirage drive to a boat this big? With what
+results?
+
+2) I am aware of the escargot
+http://www.mission-base.com/pedal-power/pp_escargot_photos.html are there
+any other large pedal powered boats out there?
+
+3) I have had a browse on these archives, and have seen people making props
+out of model aeroplane propellers, would the prop need to be longer for such
+a heavy boat?
+
+4) I am thinking of aiming for this kind of set up
+http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system I
+thought I might start with this cheap gearbox
+http://www.maplin.co.uk/Module.aspx?ModuleNo=43541&C=Froogle&U=43541&T=Module
+and
+upgrade it later if the boat actually moves under pedal power.
+
+Any comments or suggestions?
+
+Thanks
+
+Sam
+
+From marcopoloboats at aol.com  Sun Aug 22 04:51:19 2010
+From: marcopoloboats at aol.com (Mark Vermilion)
+Date: Sun, 22 Aug 2010 07:51:19 -0400
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+Message-ID: <6D3C1D02-E62B-4841-979D-D68776A458D3@aol.com>
+
+Sam,
+
+I do not know if what we have will work on such a large boat, but  
+check out our PlanetDrive and MitrpakDrive on www.marcopoloboats.com.
+
+The PlanetDrive is a gear increaser. Depending on the model, you can  
+have increase ratios of 1:5, 1:7, 1:25, and 1:49. They are still in  
+the prototype stage, but we could make one available to you if you are  
+interested.
+
+The MPB MitrpakDrive is a customized-for-pedaling Mitrpak right angle  
+gear box at a 1:2 ratio, like the one Rick Willoughby has started to  
+use. We will start selling these in a few weeks as soon as Mitrpak  
+completes our order.
+
+I am using a 12x12E model airplane prop (about $7) with the  
+PlanetDrive and Mitrpak on a 12' catamaran, and it works great.
+
+Also coming within three months is a flexible cable shaft, which may  
+be useful to you if you need to snake a shaft around objects,
+
+
+Thank  you,
+
+Mark A. Vermilion
+
+Marco Polo Boats, Inc.
+Exploring the past and future of small boat design
+1911 Smallbrook Drive
+Troy, Michigan 48085
+USA
+
+Tel & Fax   1-248-434-4187
+
+
+
+On Aug 22, 2010, at 7:15 AM, Sam UK wrote:
+
+> Hi All
+>
+> I have a 22 ft kingfisher yacht http://www.kyoa.org.uk/k20+technical.htm 
+>   I
+> am interested in powering it partly through human power when I am  
+> on  inland
+> canals etc.
+>
+> I will also have a conventional outboard for when I get tired!
+>
+> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html  
+> which I
+> would hope to be able to use for about 2 hours a day. eg
+> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>
+> In addition seems to make sense to use your more powerful  leg  
+> muscles to
+> power the thing. I realize that the boat will not move fast, and  
+> that it
+> will be hard work.
+>
+> The boat has an outboard well inside the boat and I am hoping to be  
+> able to
+> make use of that to install a pedal system.
+>
+> 1) Has anyone ever fitted a mirage drive to a boat this big? With what
+> results?
+>
+> 2) I am aware of the escargot
+> http://www.mission-base.com/pedal-power/pp_escargot_photos.html are  
+> there
+> any other large pedal powered boats out there?
+>
+> 3) I have had a browse on these archives, and have seen people  
+> making props
+> out of model aeroplane propellers, would the prop need to be longer  
+> for such
+> a heavy boat?
+>
+> 4) I am thinking of aiming for this kind of set up
+> http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system 
+>  I
+> thought I might start with this cheap gearbox
+> http://www.maplin.co.uk/Module.aspx?ModuleNo=43541&C=Froogle&U=43541&T=Module
+> and
+> upgrade it later if the boat actually moves under pedal power.
+>
+> Any comments or suggestions?
+>
+> Thanks
+>
+> Sam
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+
+
+From bobstuart at sasktel.net  Sun Aug 22 05:51:40 2010
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Sun, 22 Aug 2010 06:51:40 -0600
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+Message-ID: <A97CE381-4CE6-47FE-AAF4-B56D3995B633@sasktel.net>
+
+Sometimes, when becalmed, Mark and I would push his 35' Piver  
+Trimaran liveaboard with one of the SpinFin equipped tenders.   
+Without changing props, we wouldn't make two knots, but the effort  
+was still comfortable.  Boats have the wonderful quality of only  
+requiring hard work at higher RPMs, so if you want a workout, you  
+have to keep pushing hard.
+To maintain the same Froude efficiency at the prop, the swept area  
+should be increased to compensate  for the decreased velocity, so  
+that the same mass of water passes through the virtual prop disk.
+
+Bob Stuart
+
+On 22-Aug-10, at 5:15 AM, Sam UK wrote:
+
+> Hi All
+>
+> I have a 22 ft kingfisher yacht http://www.kyoa.org.uk/k20 
+> +technical.htm  I
+> am interested in powering it partly through human power when I am  
+> on  inland
+> canals etc.
+>
+> I will also have a conventional outboard for when I get tired!
+>
+> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html  
+> which I
+> would hope to be able to use for about 2 hours a day. eg
+> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>
+> In addition seems to make sense to use your more powerful  leg  
+> muscles to
+> power the thing. I realize that the boat will not move fast, and  
+> that it
+> will be hard work.
+>
+> The boat has an outboard well inside the boat and I am hoping to be  
+> able to
+> make use of that to install a pedal system.
+>
+> 1) Has anyone ever fitted a mirage drive to a boat this big? With what
+> results?
+>
+> 2) I am aware of the escargot
+> http://www.mission-base.com/pedal-power/pp_escargot_photos.html are  
+> there
+> any other large pedal powered boats out there?
+>
+> 3) I have had a browse on these archives, and have seen people  
+> making props
+> out of model aeroplane propellers, would the prop need to be longer  
+> for such
+> a heavy boat?
+>
+> 4) I am thinking of aiming for this kind of set up
+> http://www.openwaterbike.com/components/drive-units/mark-drela- 
+> drive-system I
+> thought I might start with this cheap gearbox
+> http://www.maplin.co.uk/Module.aspx? 
+> ModuleNo=43541&C=Froogle&U=43541&T=Module
+> and
+> upgrade it later if the boat actually moves under pedal power.
+>
+> Any comments or suggestions?
+>
+> Thanks
+>
+> Sam
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+
+
+From vgarza2 at satx.rr.com  Sun Aug 22 07:22:46 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Sun, 22 Aug 2010 09:22:46 -0500
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <6D3C1D02-E62B-4841-979D-D68776A458D3@aol.com>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+	<6D3C1D02-E62B-4841-979D-D68776A458D3@aol.com>
+Message-ID: <EE9E794CB00441DBAF28F0DA08A491FC@vgarzaPC>
+
+Mark, are you using a carbon fiber 12x12E or fiberglass? What brand?
+If the E stands for electric, the fiberglass ones, even with a thick hub 
+have deflection and breakage issues for the APC brand at 50 watts in my 
+gadgets.
+Thanks,
+
+Vic
+----- Original Message ----- 
+From: "Mark Vermilion" <marcopoloboats at aol.com>
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Sent: Sunday, August 22, 2010 6:51 AM
+Subject: Re: [hpv-boats] human powered yacht?
+
+
+> Sam,
+>
+> I do not know if what we have will work on such a large boat, but  check 
+> out our PlanetDrive and MitrpakDrive on www.marcopoloboats.com.
+>
+> The PlanetDrive is a gear increaser. Depending on the model, you can  have 
+> increase ratios of 1:5, 1:7, 1:25, and 1:49. They are still in  the 
+> prototype stage, but we could make one available to you if you are 
+> interested.
+>
+> The MPB MitrpakDrive is a customized-for-pedaling Mitrpak right angle 
+> gear box at a 1:2 ratio, like the one Rick Willoughby has started to  use. 
+> We will start selling these in a few weeks as soon as Mitrpak  completes 
+> our order.
+>
+> I am using a 12x12E model airplane prop (about $7) with the  PlanetDrive 
+> and Mitrpak on a 12' catamaran, and it works great.
+>
+> Also coming within three months is a flexible cable shaft, which may  be 
+> useful to you if you need to snake a shaft around objects,
+>
+>
+> Thank  you,
+>
+> Mark A. Vermilion
+>
+> Marco Polo Boats, Inc.
+> Exploring the past and future of small boat design
+> 1911 Smallbrook Drive
+> Troy, Michigan 48085
+> USA
+>
+> Tel & Fax   1-248-434-4187
+>
+>
+>
+> On Aug 22, 2010, at 7:15 AM, Sam UK wrote:
+>
+>> Hi All
+>>
+>> I have a 22 ft kingfisher yacht http://www.kyoa.org.uk/k20+technical.htm 
+>> I
+>> am interested in powering it partly through human power when I am  on 
+>> inland
+>> canals etc.
+>>
+>> I will also have a conventional outboard for when I get tired!
+>>
+>> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html  which 
+>> I
+>> would hope to be able to use for about 2 hours a day. eg
+>> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>>
+>> In addition seems to make sense to use your more powerful  leg  muscles 
+>> to
+>> power the thing. I realize that the boat will not move fast, and  that it
+>> will be hard work.
+>>
+>> The boat has an outboard well inside the boat and I am hoping to be  able 
+>> to
+>> make use of that to install a pedal system.
+>>
+>> 1) Has anyone ever fitted a mirage drive to a boat this big? With what
+>> results?
+>>
+>> 2) I am aware of the escargot
+>> http://www.mission-base.com/pedal-power/pp_escargot_photos.html are 
+>> there
+>> any other large pedal powered boats out there?
+>>
+>> 3) I have had a browse on these archives, and have seen people  making 
+>> props
+>> out of model aeroplane propellers, would the prop need to be longer  for 
+>> such
+>> a heavy boat?
+>>
+>> 4) I am thinking of aiming for this kind of set up
+>> http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system I
+>> thought I might start with this cheap gearbox
+>> http://www.maplin.co.uk/Module.aspx?ModuleNo=43541&C=Froogle&U=43541&T=Module
+>> and
+>> upgrade it later if the boat actually moves under pedal power.
+>>
+>> Any comments or suggestions?
+>>
+>> Thanks
+>>
+>> Sam
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing  list, 
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+>> subscription.
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 810 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From vgarza2 at satx.rr.com  Sun Aug 22 07:27:34 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Sun, 22 Aug 2010 09:27:34 -0500
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+Message-ID: <920E38345A5646F3AFBA3E94DC175C94@vgarzaPC>
+
+Steve Roberts of Nomadic used a spinfin to power an early fairly large boat 
+at one time:
+
+http://microship.com/
+
+Vic
+----- Original Message ----- 
+From: "Sam UK" <sam at bristolwireless.net>
+To: <hpv-boats at bikelist.org>
+Sent: Sunday, August 22, 2010 6:15 AM
+Subject: [hpv-boats] human powered yacht?
+
+
+> Hi All
+>
+> I have a 22 ft kingfisher yacht http://www.kyoa.org.uk/k20+technical.htm 
+> I
+> am interested in powering it partly through human power when I am on 
+> inland
+> canals etc.
+>
+> I will also have a conventional outboard for when I get tired!
+>
+> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html which I
+> would hope to be able to use for about 2 hours a day. eg
+> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>
+> In addition seems to make sense to use your more powerful  leg muscles to
+> power the thing. I realize that the boat will not move fast, and that it
+> will be hard work.
+>
+> The boat has an outboard well inside the boat and I am hoping to be able 
+> to
+> make use of that to install a pedal system.
+>
+> 1) Has anyone ever fitted a mirage drive to a boat this big? With what
+> results?
+>
+> 2) I am aware of the escargot
+> http://www.mission-base.com/pedal-power/pp_escargot_photos.html are there
+> any other large pedal powered boats out there?
+>
+> 3) I have had a browse on these archives, and have seen people making 
+> props
+> out of model aeroplane propellers, would the prop need to be longer for 
+> such
+> a heavy boat?
+>
+> 4) I am thinking of aiming for this kind of set up
+> http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system I
+> thought I might start with this cheap gearbox
+> http://www.maplin.co.uk/Module.aspx?ModuleNo=43541&C=Froogle&U=43541&T=Module
+> and
+> upgrade it later if the boat actually moves under pedal power.
+>
+> Any comments or suggestions?
+>
+> Thanks
+>
+> Sam
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 810 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From lhsmith at wvi.com  Sun Aug 22 10:20:51 2010
+From: lhsmith at wvi.com (Larry H. Smith)
+Date: Sun, 22 Aug 2010 10:20:51 -0700
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+Message-ID: <0ade81a8648886adf759e441eace6df1@wvi.com>
+
+By way of encouragement re. moving a large boat via human power -
+
+I watched Larry Pardey scull "Taleisin", which was 29-feet 6-inches,  
+with a 10-foot 9-inch beam, and 17,800 lbs. displacement, into a berth  
+at Port Townsend, Washington, during one of the Wooden Boat Festivals .
+
+Slow, but workable, and I didn't get the impression he was working  
+exhaustively.
+
+IIRC, he was using a long sweep over a stern quarter without foot  
+power, but I could be mis-remembering that detail (foot/no foot).
+
+Pretty impressive to see, ...but I wouldn't want to try it against any  
+headwind.
+
+Larry ( Interesting to see this new burst of activity on what seems to  
+have become largely a ghost forum!)
+
+
+On Aug 22, 2010, at 4:15 AM, Sam UK wrote:
+
+> Hi All
+>
+> I have a 22 ft kingfisher yacht  
+> http://www.kyoa.org.uk/k20+technical.htm  I
+> am interested in powering it partly through human power when I am on   
+> inland
+> canals etc.
+>
+> I will also have a conventional outboard for when I get tired!
+>
+> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html  
+> which I
+> would hope to be able to use for about 2 hours a day. eg
+> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>
+> In addition seems to make sense to use your more powerful  leg muscles  
+> to
+> power the thing. I realize that the boat will not move fast, and that  
+> it
+> will be hard work.
+>
+> The boat has an outboard well inside the boat and I am hoping to be  
+> able to
+> make use of that to install a pedal system.
+>
+> 1) Has anyone ever fitted a mirage drive to a boat this big? With what
+> results?
+>
+> 2) I am aware of the escargot
+> http://www.mission-base.com/pedal-power/pp_escargot_photos.html are  
+> there
+> any other large pedal powered boats out there?
+>
+> 3) I have had a browse on these archives, and have seen people making  
+> props
+> out of model aeroplane propellers, would the prop need to be longer  
+> for such
+> a heavy boat?
+>
+> 4) I am thinking of aiming for this kind of set up
+> http://www.openwaterbike.com/components/drive-units/mark-drela-drive- 
+> system I
+> thought I might start with this cheap gearbox
+> http://www.maplin.co.uk/Module.aspx? 
+> ModuleNo=43541&C=Froogle&U=43541&T=Module
+> and
+> upgrade it later if the boat actually moves under pedal power.
+>
+> Any comments or suggestions?
+>
+> Thanks
+>
+> Sam
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,  
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+>
+
+
+From sam at bristolwireless.net  Sun Aug 22 13:34:26 2010
+From: sam at bristolwireless.net (Sam UK)
+Date: Sun, 22 Aug 2010 21:34:26 +0100
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <0ade81a8648886adf759e441eace6df1@wvi.com>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+	<0ade81a8648886adf759e441eace6df1@wvi.com>
+Message-ID: <AANLkTinraYPT-B98ZUw_+YHsp+FtNg_gaOkULqjje7w0@mail.gmail.com>
+
+Hi  all
+
+Thanks for all the replies. I made my first yuloh today (the thing Larry was
+using by the sound of it) I will post some photo's tomorrow in case any one
+is interested.
+
+http://www.simplicityboats.com/ScullYulohaboat.htm
+
+I found it pretty effective, It's basically a large single bladed propeller.
+I think I will put the leg pedalling on hold for a while whilst I get used
+to the yuloh.
+
+Thanks
+
+Sam
+
+On Sun, Aug 22, 2010 at 6:20 PM, Larry H. Smith <lhsmith at wvi.com> wrote:
+
+> By way of encouragement re. moving a large boat via human power -
+>
+> I watched Larry Pardey scull "Taleisin", which was 29-feet 6-inches, with a
+> 10-foot 9-inch beam, and 17,800 lbs. displacement, into a berth at Port
+> Townsend, Washington, during one of the Wooden Boat Festivals .
+>
+> Slow, but workable, and I didn't get the impression he was working
+> exhaustively.
+>
+> IIRC, he was using a long sweep over a stern quarter without foot power,
+> but I could be mis-remembering that detail (foot/no foot).
+>
+> Pretty impressive to see, ...but I wouldn't want to try it against any
+> headwind.
+>
+> Larry ( Interesting to see this new burst of activity on what seems to have
+> become largely a ghost forum!)
+>
+>
+>
+> On Aug 22, 2010, at 4:15 AM, Sam UK wrote:
+>
+>  Hi All
+>>
+>> I have a 22 ft kingfisher yacht http://www.kyoa.org.uk/k20+technical.htm I
+>> am interested in powering it partly through human power when I am on
+>>  inland
+>> canals etc.
+>>
+>> I will also have a conventional outboard for when I get tired!
+>>
+>> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html which I
+>> would hope to be able to use for about 2 hours a day. eg
+>> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>>
+>> In addition seems to make sense to use your more powerful  leg muscles to
+>> power the thing. I realize that the boat will not move fast, and that it
+>> will be hard work.
+>>
+>> The boat has an outboard well inside the boat and I am hoping to be able
+>> to
+>> make use of that to install a pedal system.
+>>
+>> 1) Has anyone ever fitted a mirage drive to a boat this big? With what
+>> results?
+>>
+>> 2) I am aware of the escargot
+>> http://www.mission-base.com/pedal-power/pp_escargot_photos.html are there
+>> any other large pedal powered boats out there?
+>>
+>> 3) I have had a browse on these archives, and have seen people making
+>> props
+>> out of model aeroplane propellers, would the prop need to be longer for
+>> such
+>> a heavy boat?
+>>
+>> 4) I am thinking of aiming for this kind of set up
+>>
+>> http://www.openwaterbike.com/components/drive-units/mark-drela-drive-systemI
+>> thought I might start with this cheap gearbox
+>>
+>> http://www.maplin.co.uk/Module.aspx?ModuleNo=43541&C=Froogle&U=43541&T=Module
+>> and
+>> upgrade it later if the boat actually moves under pedal power.
+>>
+>> Any comments or suggestions?
+>>
+>> Thanks
+>>
+>> Sam
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing list,
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>> subscription.
+>>
+>>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+>
+
+From bobstuart at sasktel.net  Sun Aug 22 14:32:40 2010
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Sun, 22 Aug 2010 15:32:40 -0600
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <AANLkTinraYPT-B98ZUw_+YHsp+FtNg_gaOkULqjje7w0@mail.gmail.com>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+	<0ade81a8648886adf759e441eace6df1@wvi.com>
+	<AANLkTinraYPT-B98ZUw_+YHsp+FtNg_gaOkULqjje7w0@mail.gmail.com>
+Message-ID: <F2A1D152-C759-4534-B4A8-916444B75944@sasktel.net>
+
+Good.  That's the elegant solution, and if you can get yourself  
+breathing as hard as you do on a bike, is hard to improve upon.
+
+Bob
+On 22-Aug-10, at 2:34 PM, Sam UK wrote:
+
+> Hi  all
+>
+> Thanks for all the replies. I made my first yuloh today (the thing  
+> Larry was
+> using by the sound of it) I will post some photo's tomorrow in case  
+> any one
+> is interested.
+>
+> http://www.simplicityboats.com/ScullYulohaboat.htm
+>
+> I found it pretty effective, It's basically a large single bladed  
+> propeller.
+> I think I will put the leg pedalling on hold for a while whilst I  
+> get used
+> to the yuloh.
+>
+> Thanks
+>
+> Sam
+>
+> On Sun, Aug 22, 2010 at 6:20 PM, Larry H. Smith <lhsmith at wvi.com>  
+> wrote:
+>
+>> By way of encouragement re. moving a large boat via human power -
+>>
+>> I watched Larry Pardey scull "Taleisin", which was 29-feet 6- 
+>> inches, with a
+>> 10-foot 9-inch beam, and 17,800 lbs. displacement, into a berth at  
+>> Port
+>> Townsend, Washington, during one of the Wooden Boat Festivals .
+>>
+>> Slow, but workable, and I didn't get the impression he was working
+>> exhaustively.
+>>
+>> IIRC, he was using a long sweep over a stern quarter without foot  
+>> power,
+>> but I could be mis-remembering that detail (foot/no foot).
+>>
+>> Pretty impressive to see, ...but I wouldn't want to try it against  
+>> any
+>> headwind.
+>>
+>> Larry ( Interesting to see this new burst of activity on what  
+>> seems to have
+>> become largely a ghost forum!)
+>>
+>>
+>>
+>> On Aug 22, 2010, at 4:15 AM, Sam UK wrote:
+>>
+>>  Hi All
+>>>
+>>> I have a 22 ft kingfisher yacht http://www.kyoa.org.uk/k20 
+>>> +technical.htm I
+>>> am interested in powering it partly through human power when I am on
+>>>  inland
+>>> canals etc.
+>>>
+>>> I will also have a conventional outboard for when I get tired!
+>>>
+>>> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html  
+>>> which I
+>>> would hope to be able to use for about 2 hours a day. eg
+>>> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>>>
+>>> In addition seems to make sense to use your more powerful  leg  
+>>> muscles to
+>>> power the thing. I realize that the boat will not move fast, and  
+>>> that it
+>>> will be hard work.
+>>>
+>>> The boat has an outboard well inside the boat and I am hoping to  
+>>> be able
+>>> to
+>>> make use of that to install a pedal system.
+>>>
+>>> 1) Has anyone ever fitted a mirage drive to a boat this big? With  
+>>> what
+>>> results?
+>>>
+>>> 2) I am aware of the escargot
+>>> http://www.mission-base.com/pedal-power/pp_escargot_photos.html  
+>>> are there
+>>> any other large pedal powered boats out there?
+>>>
+>>> 3) I have had a browse on these archives, and have seen people  
+>>> making
+>>> props
+>>> out of model aeroplane propellers, would the prop need to be  
+>>> longer for
+>>> such
+>>> a heavy boat?
+>>>
+>>> 4) I am thinking of aiming for this kind of set up
+>>>
+>>> http://www.openwaterbike.com/components/drive-units/mark-drela- 
+>>> drive-systemI
+>>> thought I might start with this cheap gearbox
+>>>
+>>> http://www.maplin.co.uk/Module.aspx? 
+>>> ModuleNo=43541&C=Froogle&U=43541&T=Module
+>>> and
+>>> upgrade it later if the boat actually moves under pedal power.
+>>>
+>>> Any comments or suggestions?
+>>>
+>>> Thanks
+>>>
+>>> Sam
+>>> --
+>>> This message comes to you via the hpv-boats at bikelist.org mailing  
+>>> list,
+>>> sponsored by http://www,HuPI.org/
+>>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>>> subscription.
+>>>
+>>>
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing  
+>> list,
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>> subscription.
+>>
+>>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+
+
+From lhsmith at wvi.com  Sun Aug 22 15:10:16 2010
+From: lhsmith at wvi.com (Larry H. Smith)
+Date: Sun, 22 Aug 2010 15:10:16 -0700
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <AANLkTinraYPT-B98ZUw_+YHsp+FtNg_gaOkULqjje7w0@mail.gmail.com>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+	<0ade81a8648886adf759e441eace6df1@wvi.com>
+	<AANLkTinraYPT-B98ZUw_+YHsp+FtNg_gaOkULqjje7w0@mail.gmail.com>
+Message-ID: <7ea028621b643b4fe523a6e4e094d4c6@wvi.com>
+
+I've always thought Harry Bryan's fin  drive was interesting (aft of  
+the stern, as opposed to the Hobie fin-drive amidships).
+
+Harry used a forward skeg, I believe, on a boat designed to use the  
+fin, to counteract yawing forces. I'm guessing that a larger/heavier   
+boat would yaw less, and that for a given propulsive force, the fin  
+drive wouldn't have any greater yaw component than a scull or yuloh  
+(?). if not, this set-up would offer a leg-powered centerline   
+motivator with trailing kick-up possibilities in the shallows. Also  
+multi-operator linkages could allow shared and/or increased power to  
+the fin. (are there multi-operator yulohs?)
+
+i've not seen any mention of possible use of Harry's fin on larger  
+craft.
+
+Comments?
+
+Larry
+
+On Aug 22, 2010, at 1:34 PM, Sam UK wrote:
+
+> Hi  all
+>
+> Thanks for all the replies. I made my first yuloh today (the thing  
+> Larry was
+> using by the sound of it) I will post some photo's tomorrow in case  
+> any one
+> is interested.
+>
+> http://www.simplicityboats.com/ScullYulohaboat.htm
+>
+> I found it pretty effective, It's basically a large single bladed  
+> propeller.
+> I think I will put the leg pedalling on hold for a while whilst I get  
+> used
+> to the yuloh.
+>
+> Thanks
+>
+> Sam
+>
+> On Sun, Aug 22, 2010 at 6:20 PM, Larry H. Smith <lhsmith at wvi.com>  
+> wrote:
+>
+>> By way of encouragement re. moving a large boat via human power -
+>>
+>> I watched Larry Pardey scull "Taleisin", which was 29-feet 6-inches,  
+>> with a
+>> 10-foot 9-inch beam, and 17,800 lbs. displacement, into a berth at  
+>> Port
+>> Townsend, Washington, during one of the Wooden Boat Festivals .
+>>
+>> Slow, but workable, and I didn't get the impression he was working
+>> exhaustively.
+>>
+>> IIRC, he was using a long sweep over a stern quarter without foot  
+>> power,
+>> but I could be mis-remembering that detail (foot/no foot).
+>>
+>> Pretty impressive to see, ...but I wouldn't want to try it against any
+>> headwind.
+>>
+>> Larry ( Interesting to see this new burst of activity on what seems  
+>> to have
+>> become largely a ghost forum!)
+>>
+>>
+>>
+>> On Aug 22, 2010, at 4:15 AM, Sam UK wrote:
+>>
+>>  Hi All
+>>>
+>>> I have a 22 ft kingfisher yacht  
+>>> http://www.kyoa.org.uk/k20+technical.htm I
+>>> am interested in powering it partly through human power when I am on
+>>>  inland
+>>> canals etc.
+>>>
+>>> I will also have a conventional outboard for when I get tired!
+>>>
+>>> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html  
+>>> which I
+>>> would hope to be able to use for about 2 hours a day. eg
+>>> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>>>
+>>> In addition seems to make sense to use your more powerful  leg  
+>>> muscles to
+>>> power the thing. I realize that the boat will not move fast, and  
+>>> that it
+>>> will be hard work.
+>>>
+>>> The boat has an outboard well inside the boat and I am hoping to be  
+>>> able
+>>> to
+>>> make use of that to install a pedal system.
+>>>
+>>> 1) Has anyone ever fitted a mirage drive to a boat this big? With  
+>>> what
+>>> results?
+>>>
+>>> 2) I am aware of the escargot
+>>> http://www.mission-base.com/pedal-power/pp_escargot_photos.html are  
+>>> there
+>>> any other large pedal powered boats out there?
+>>>
+>>> 3) I have had a browse on these archives, and have seen people making
+>>> props
+>>> out of model aeroplane propellers, would the prop need to be longer  
+>>> for
+>>> such
+>>> a heavy boat?
+>>>
+>>> 4) I am thinking of aiming for this kind of set up
+>>>
+>>> http://www.openwaterbike.com/components/drive-units/mark-drela- 
+>>> drive-systemI
+>>> thought I might start with this cheap gearbox
+>>>
+>>> http://www.maplin.co.uk/Module.aspx? 
+>>> ModuleNo=43541&C=Froogle&U=43541&T=Module
+>>> and
+>>> upgrade it later if the boat actually moves under pedal power.
+>>>
+>>> Any comments or suggestions?
+>>>
+>>> Thanks
+>>>
+>>> Sam
+>>> --
+>>> This message comes to you via the hpv-boats at bikelist.org mailing  
+>>> list,
+>>> sponsored by http://www,HuPI.org/
+>>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>>> subscription.
+>>>
+>>>
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing list,
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>> subscription.
+>>
+>>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,  
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+>
+
+
+From marcopoloboats at aol.com  Tue Aug 24 05:54:52 2010
+From: marcopoloboats at aol.com (Mark Vermilion)
+Date: Tue, 24 Aug 2010 08:54:52 -0400
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <EE9E794CB00441DBAF28F0DA08A491FC@vgarzaPC>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com>
+	<6D3C1D02-E62B-4841-979D-D68776A458D3@aol.com>
+	<EE9E794CB00441DBAF28F0DA08A491FC@vgarzaPC>
+Message-ID: <45063D18-74FA-4478-8E19-F43ECC8FA048@aol.com>
+
+Vic,
+
+Yes, it is the APC 12x12E that I am using. However, I am not a  
+performance pedaler, so it works just fine.
+
+Mark
+
+
+On Aug 22, 2010, at 10:22 AM, v garza wrote:
+
+> Mark, are you using a carbon fiber 12x12E or fiberglass? What brand?
+> If the E stands for electric, the fiberglass ones, even with a thick  
+> hub have deflection and breakage issues for the APC brand at 50  
+> watts in my gadgets.
+> Thanks,
+>
+> Vic
+> ----- Original Message ----- From: "Mark Vermilion" <marcopoloboats at aol.com 
+> >
+> To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+> Sent: Sunday, August 22, 2010 6:51 AM
+> Subject: Re: [hpv-boats] human powered yacht?
+>
+>
+>> Sam,
+>>
+>> I do not know if what we have will work on such a large boat, but   
+>> check out our PlanetDrive and MitrpakDrive on www.marcopoloboats.com.
+>>
+>> The PlanetDrive is a gear increaser. Depending on the model, you  
+>> can  have increase ratios of 1:5, 1:7, 1:25, and 1:49. They are  
+>> still in  the prototype stage, but we could make one available to  
+>> you if you are interested.
+>>
+>> The MPB MitrpakDrive is a customized-for-pedaling Mitrpak right  
+>> angle gear box at a 1:2 ratio, like the one Rick Willoughby has  
+>> started to  use. We will start selling these in a few weeks as soon  
+>> as Mitrpak  completes our order.
+>>
+>> I am using a 12x12E model airplane prop (about $7) with the   
+>> PlanetDrive and Mitrpak on a 12' catamaran, and it works great.
+>>
+>> Also coming within three months is a flexible cable shaft, which  
+>> may  be useful to you if you need to snake a shaft around objects,
+>>
+>>
+>> Thank  you,
+>>
+>> Mark A. Vermilion
+>>
+>> Marco Polo Boats, Inc.
+>> Exploring the past and future of small boat design
+>> 1911 Smallbrook Drive
+>> Troy, Michigan 48085
+>> USA
+>>
+>> Tel & Fax   1-248-434-4187
+>>
+>>
+>>
+>> On Aug 22, 2010, at 7:15 AM, Sam UK wrote:
+>>
+>>> Hi All
+>>>
+>>> I have a 22 ft kingfisher yacht http://www.kyoa.org.uk/k20+technical.htm 
+>>>  I
+>>> am interested in powering it partly through human power when I am   
+>>> on inland
+>>> canals etc.
+>>>
+>>> I will also have a conventional outboard for when I get tired!
+>>>
+>>> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html   
+>>> which I
+>>> would hope to be able to use for about 2 hours a day. eg
+>>> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>>>
+>>> In addition seems to make sense to use your more powerful  leg   
+>>> muscles to
+>>> power the thing. I realize that the boat will not move fast, and   
+>>> that it
+>>> will be hard work.
+>>>
+>>> The boat has an outboard well inside the boat and I am hoping to  
+>>> be  able to
+>>> make use of that to install a pedal system.
+>>>
+>>> 1) Has anyone ever fitted a mirage drive to a boat this big? With  
+>>> what
+>>> results?
+>>>
+>>> 2) I am aware of the escargot
+>>> http://www.mission-base.com/pedal-power/pp_escargot_photos.html  
+>>> are there
+>>> any other large pedal powered boats out there?
+>>>
+>>> 3) I have had a browse on these archives, and have seen people   
+>>> making props
+>>> out of model aeroplane propellers, would the prop need to be  
+>>> longer  for such
+>>> a heavy boat?
+>>>
+>>> 4) I am thinking of aiming for this kind of set up
+>>> http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system 
+>>>  I
+>>> thought I might start with this cheap gearbox
+>>> http://www.maplin.co.uk/Module.aspx?ModuleNo=43541&C=Froogle&U=43541&T=Module
+>>> and
+>>> upgrade it later if the boat actually moves under pedal power.
+>>>
+>>> Any comments or suggestions?
+>>>
+>>> Thanks
+>>>
+>>> Sam
+>>> --
+>>> This message comes to you via the hpv-boats at bikelist.org mailing   
+>>> list, sponsored by http://www,HuPI.org/
+>>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage  
+>>> your subscription.
+>>
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing  
+>> list, sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+>> subscription.
+>
+>
+> -- 
+> I am using the free version of SPAMfighter.
+> We are a community of 7 million users fighting spam.
+> SPAMfighter has removed 810 of my spam emails to date.
+> Get the free SPAMfighter here: http://www.spamfighter.com/len
+>
+> The Professional version does not have this message
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+
+
+From rickwill at bigpond.net.au  Wed Aug 25 22:13:16 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 26 Aug 2010 15:13:16 +1000
+Subject: [hpv-boats] human powered yacht?
+Message-ID: <0E45B9C2-F5E6-43A0-A408-E4562C3F429D@bigpond.net.au>
+
+Sam
+In the event you get around to thinking about propeller systems  
+again.  You may be interested in something I made for a large  
+catamaran.  There is a particular yacht race here where human power  
+is permitted as it is a combination of sailing and athletics (running  
+up mountains) - called the The Three Peaks Race.
+
+I mounted a gearbox with pedals over the stern of the catamaran using  
+a curved shaft.  Picture here:
+http://www.rickwill.bigpondhosting.com/Pecadillo_Pedal_Thruster.png
+I initially tested it with an 800mm diameter large model plane prop  
+and had buckling issues with the curved shaft due to the high thrust  
+load and low rpm.  I then reduced the flexible portion of the shaft  
+to about 1500mm and mounted this off a 1200mm length of aluminium  
+tube.  For this shaft configuration I made a 4-bladed lightweight  
+metal prop that was 600mm diameter.
+
+In testing with the latter set up I got the 8 tonne catamaran to  
+2.7kts working within my aerobic limit.  It was surprising how much  
+difference having a dagger board partially lowered made to the drag  
+due to the offline thrust.  This was in line with my prediction and  
+translates to 4kts with two drives.
+
+This year the pedal system was used in conjunction with oars.  The  
+pedal system was as effective as two rowers while adding the pedal  
+power to the rowers increased speed by about 50%.
+
+The catamaran owner has since asked me to make a system using two  
+gearboxes similar to this one:
+http://www.rickwill.bigpondhosting.com/OW_Drive_Leg.jpg
+This unit was made for a 400kg boat and has got that to 6kts - all  
+day speed is around 4kts.  The unit for the catamaran will have a  
+bigger prop and deeper leg.  It will be more compact for storage  
+purposes than the long curved shaft.  If it tests out well then there  
+will be one made for each hull.
+
+I am able to do quite accurate performance predictions for these  
+systems based on the hull shape, displacement and the drive system  
+design.  For a small yacht you could get quite good results sitting  
+across the cockpit with a drive leg below the hull and prop driven  
+directly by a chain.  There are some very economical model plane  
+props.  This one is similar to the big one I used initially:
+http://www.hobbycity.com/hobbycity/store/uh_viewItem.asp? 
+idProduct=11967&Product_Name=TCF_27X10_HighPrecision_Carbon_Fiber_Sport_ 
+Propeller
+
+
+Rick Willoughby
+
+Hi All
+
+I have a 22 ft kingfisher yacht http://www.kyoa.org.uk/k20 
++technical.htm  I
+am interested in powering it partly through human power when I am on   
+inland
+canals etc.
+
+I will also have a conventional outboard for when I get tired!
+
+I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html  
+which I
+would hope to be able to use for about 2 hours a day. eg
+http://www.youtube.com/watch?v=u7MQsdLpWaM
+
+In addition seems to make sense to use your more powerful  leg  
+muscles to
+power the thing. I realize that the boat will not move fast, and that it
+will be hard work.
+
+The boat has an outboard well inside the boat and I am hoping to be  
+able to
+make use of that to install a pedal system.
+
+1) Has anyone ever fitted a mirage drive to a boat this big? With what
+results?
+
+2) I am aware of the escargot
+http://www.mission-base.com/pedal-power/pp_escargot_photos.html are  
+there
+any other large pedal powered boats out there?
+
+3) I have had a browse on these archives, and have seen people making  
+props
+out of model aeroplane propellers, would the prop need to be longer  
+for such
+a heavy boat?
+
+4) I am thinking of aiming for this kind of set up
+http://www.openwaterbike.com/components/drive-units/mark-drela-drive- 
+system I
+thought I might start with this cheap gearbox
+http://www.maplin.co.uk/Module.aspx? 
+ModuleNo=43541&C=Froogle&U=43541&T=Module
+and
+upgrade it later if the boat actually moves under pedal power.
+
+Any comments or suggestions?
+
+Thanks
+
+Sam
+
+
+
+From vgarza2 at satx.rr.com  Wed Aug 25 23:29:02 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Thu, 26 Aug 2010 01:29:02 -0500
+Subject: [hpv-boats] human powered yacht?
+In-Reply-To: <45063D18-74FA-4478-8E19-F43ECC8FA048@aol.com>
+References: <AANLkTi=ruDaPb=yLC9FS8NcWEwYOVpcQ4f+m2v5E1xbk@mail.gmail.com><6D3C1D02-E62B-4841-979D-D68776A458D3@aol.com><EE9E794CB00441DBAF28F0DA08A491FC@vgarzaPC>
+	<45063D18-74FA-4478-8E19-F43ECC8FA048@aol.com>
+Message-ID: <A48A4925F2044DA48F79C8D7F9D7E504@vgarzaPC>
+
+Mark, I did find the APC electric props to be more efficient than the 
+standard. They seem to have a wider section closer in, so that might be the 
+reason. APC also makes a wide version of their standard prop in 12X10W which 
+is quite robust and slightly more efficient than the standard 12X10, and 
+there may be other "W" to explore depending on your gearing and what your 
+goals are. I also found the wooden zinger 10X6XW (extra wide) to be at least 
+if not better than the comparable APCs. They are also much lighter, even 
+after a coating of epoxy to add strength and keep out moisture.
+
+Hope this is of help.
+
+Vic
+----- Original Message ----- 
+From: "Mark Vermilion" <marcopoloboats at aol.com>
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Sent: Tuesday, August 24, 2010 7:54 AM
+Subject: Re: [hpv-boats] human powered yacht?
+
+
+> Vic,
+>
+> Yes, it is the APC 12x12E that I am using. However, I am not a 
+> performance pedaler, so it works just fine.
+>
+> Mark
+>
+>
+> On Aug 22, 2010, at 10:22 AM, v garza wrote:
+>
+>> Mark, are you using a carbon fiber 12x12E or fiberglass? What brand?
+>> If the E stands for electric, the fiberglass ones, even with a thick  hub 
+>> have deflection and breakage issues for the APC brand at 50  watts in my 
+>> gadgets.
+>> Thanks,
+>>
+>> Vic
+>> ----- Original Message ----- From: "Mark Vermilion" 
+>> <marcopoloboats at aol.com
+>> >
+>> To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+>> Sent: Sunday, August 22, 2010 6:51 AM
+>> Subject: Re: [hpv-boats] human powered yacht?
+>>
+>>
+>>> Sam,
+>>>
+>>> I do not know if what we have will work on such a large boat, but 
+>>> check out our PlanetDrive and MitrpakDrive on www.marcopoloboats.com.
+>>>
+>>> The PlanetDrive is a gear increaser. Depending on the model, you  can 
+>>> have increase ratios of 1:5, 1:7, 1:25, and 1:49. They are  still in 
+>>> the prototype stage, but we could make one available to  you if you are 
+>>> interested.
+>>>
+>>> The MPB MitrpakDrive is a customized-for-pedaling Mitrpak right  angle 
+>>> gear box at a 1:2 ratio, like the one Rick Willoughby has  started to 
+>>> use. We will start selling these in a few weeks as soon  as Mitrpak 
+>>> completes our order.
+>>>
+>>> I am using a 12x12E model airplane prop (about $7) with the 
+>>> PlanetDrive and Mitrpak on a 12' catamaran, and it works great.
+>>>
+>>> Also coming within three months is a flexible cable shaft, which  may 
+>>> be useful to you if you need to snake a shaft around objects,
+>>>
+>>>
+>>> Thank  you,
+>>>
+>>> Mark A. Vermilion
+>>>
+>>> Marco Polo Boats, Inc.
+>>> Exploring the past and future of small boat design
+>>> 1911 Smallbrook Drive
+>>> Troy, Michigan 48085
+>>> USA
+>>>
+>>> Tel & Fax   1-248-434-4187
+>>>
+>>>
+>>>
+>>> On Aug 22, 2010, at 7:15 AM, Sam UK wrote:
+>>>
+>>>> Hi All
+>>>>
+>>>> I have a 22 ft kingfisher yacht 
+>>>> http://www.kyoa.org.uk/k20+technical.htm I
+>>>> am interested in powering it partly through human power when I am   on 
+>>>> inland
+>>>> canals etc.
+>>>>
+>>>> I will also have a conventional outboard for when I get tired!
+>>>>
+>>>> I plan to make a Yuloh http://simplicityboats.com/yulohpage2.html 
+>>>> which I
+>>>> would hope to be able to use for about 2 hours a day. eg
+>>>> http://www.youtube.com/watch?v=u7MQsdLpWaM
+>>>>
+>>>> In addition seems to make sense to use your more powerful  leg 
+>>>> muscles to
+>>>> power the thing. I realize that the boat will not move fast, and   that 
+>>>> it
+>>>> will be hard work.
+>>>>
+>>>> The boat has an outboard well inside the boat and I am hoping to  be 
+>>>> able to
+>>>> make use of that to install a pedal system.
+>>>>
+>>>> 1) Has anyone ever fitted a mirage drive to a boat this big? With  what
+>>>> results?
+>>>>
+>>>> 2) I am aware of the escargot
+>>>> http://www.mission-base.com/pedal-power/pp_escargot_photos.html  are 
+>>>> there
+>>>> any other large pedal powered boats out there?
+>>>>
+>>>> 3) I have had a browse on these archives, and have seen people   making 
+>>>> props
+>>>> out of model aeroplane propellers, would the prop need to be  longer 
+>>>> for such
+>>>> a heavy boat?
+>>>>
+>>>> 4) I am thinking of aiming for this kind of set up
+>>>> http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system I
+>>>> thought I might start with this cheap gearbox
+>>>> http://www.maplin.co.uk/Module.aspx?ModuleNo=43541&C=Froogle&U=43541&T=Module
+>>>> and
+>>>> upgrade it later if the boat actually moves under pedal power.
+>>>>
+>>>> Any comments or suggestions?
+>>>>
+>>>> Thanks
+>>>>
+>>>> Sam
+>>>> --
+>>>> This message comes to you via the hpv-boats at bikelist.org mailing 
+>>>> list, sponsored by http://www,HuPI.org/
+>>>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage  your 
+>>>> subscription.
+>>>
+>>> --
+>>> This message comes to you via the hpv-boats at bikelist.org mailing  list, 
+>>> sponsored by http://www,HuPI.org/
+>>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+>>> subscription.
+>>
+>>
+>> -- 
+>> I am using the free version of SPAMfighter.
+>> We are a community of 7 million users fighting spam.
+>> SPAMfighter has removed 810 of my spam emails to date.
+>> Get the free SPAMfighter here: http://www.spamfighter.com/len
+>>
+>> The Professional version does not have this message
+>>
+>>
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing  list, 
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+>> subscription.
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 817 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From vgarza2 at satx.rr.com  Thu Aug 26 11:53:06 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Thu, 26 Aug 2010 13:53:06 -0500
+Subject: [hpv-boats] Sleeved Shaft
+In-Reply-To: <4AE787BE-B80A-4F21-9888-85556183189E@bigpond.net.au>
+References: <4AE787BE-B80A-4F21-9888-85556183189E@bigpond.net.au>
+Message-ID: <21DD9EA47E5D41B0AAB0A9FDFDC12AD2@vgarzaPC>
+
+Rick, lots of good info on material I don't know much about, Thanks! I did 
+use a 0.18" pultruded CF shaft sometime ago until it tangled in a root and 
+fractured. It was great, unlike anything else while it lasted, for my 
+particular gadget. I am trying for even thinner and lighter using maybe one 
+carbon mesh layer, since there is not a lot of torque demand in normal 
+conditions. The lighter the lever arm in my application the better. I have 
+also experimented with longish tapered spinners fore and aft of the prop, 
+made from lightweight FLOATING material. Interesting advantages to these 
+spinners when combined with a lightweight shaft and prop, as it introduces 
+some upward forces that allow some degree of reverse, among other things....
+
+Vic
+
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Monday, August 16, 2010 9:26 PM
+Subject: Re: [hpv-boats] Sleeved Shaft
+
+
+> Vic
+> It could easily reduce to half nominal diameter.  The fibres will run  a 
+> little straighter so will increase buckling resistance but not so  much to 
+> torsional rigidity.
+>
+> If you only wanted to go to around 1/4" overall you might get 3  layers on 
+> something starting at 1/8".  I think you would have to wait  for some 
+> initial cure before putting on each layer.  With epoxy you  can accelerate 
+> the curing by heating.  The other way would be to  place all layers dry 
+> and then really soak the shaft, working until  wetted out.  The fibres 
+> tend to form tiny needles that catch on  successive layers as they are 
+> slid on.  The more damage the more  needles.
+>
+> Rick
+>
+> Thanks, Rick you have given me a lot to think about.  Those are quite
+> impressive measurements.
+> How thin will the 1/4" mesh go when stretched tight on a rod, as I am
+> shooting for about 1/8" on the rod part. That way I can add another  layer
+> for strength if needed. Can I get small amounts of the equivalent  epoxy 
+> in
+> USA, is my next question to research....
+>
+> Vic
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 817 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From marcopoloboats at aol.com  Thu Aug 26 16:35:45 2010
+From: marcopoloboats at aol.com (Mark Vermilion)
+Date: Thu, 26 Aug 2010 19:35:45 -0400
+Subject: [hpv-boats] New shafts coming
+In-Reply-To: <21DD9EA47E5D41B0AAB0A9FDFDC12AD2@vgarzaPC>
+References: <4AE787BE-B80A-4F21-9888-85556183189E@bigpond.net.au>
+	<21DD9EA47E5D41B0AAB0A9FDFDC12AD2@vgarzaPC>
+Message-ID: <60A37C4D-080D-4B94-A098-62B09C35CF1A@aol.com>
+
+Folks,
+
+I am about ready to order customized flexible cable shafts rated to  
+200 in-lbs of torque. They are  two meters long, and each end will  
+have a 12 mm ID connector with an off center cotter pin hole. The  
+cable is 316 stainless steel, and it allows you, within a certain  
+radius, to bend the shaft as needed, i.e. a 90 degree angle, or around  
+objects.  They are secured about every foot or two to your boat with  
+simple clamps (not provided).
+
+This may not be the performance market's ultimate shaft solution, but  
+it does solve a lot of issues related to alignment, the raising of the  
+prop in shallow water, and the breadth of boat designs in which it  
+would work. For example, you could have a straight chain drive of a  
+large increaser ratio, and connect the cable shaft, then bend it 90  
+degrees to the stern. Or if you need to snake a shaft around other  
+immovable boat parts, it may work for you.
+
+I do not have final pricing yet, but I think they will be around $215,  
+U.S. shipping included. That's not bad when compared to a stainless  
+steel shaft and flexible shaft connectors, especially if you need to  
+go the U-joint route.
+
+I really do not know how well these will work in various applications,  
+but I thought potential new uses was worth the risk. It will be fun to  
+see what implementations the creative DIY hpb builder will come up  
+with. If there is a market out there, we may be able to provide custom  
+lengths in the future.
+
+Thanks,
+
+Mark A. Vermilion
+
+Marco Polo Boats, Inc.
+Exploring the past and future of small boat design
+1911 Smallbrook Drive
+Troy, Michigan 48085
+USA
+
+www.marcopoloboats.com
+
+Tel & Fax   1-248-434-4187
+
+
+
+On Aug 26, 2010, at 2:53 PM, v garza wrote:
+
+> Rick, lots of good info on material I don't know much about, Thanks!  
+> I did use a 0.18" pultruded CF shaft sometime ago until it tangled  
+> in a root and fractured. It was great, unlike anything else while it  
+> lasted, for my particular gadget. I am trying for even thinner and  
+> lighter using maybe one carbon mesh layer, since there is not a lot  
+> of torque demand in normal conditions. The lighter the lever arm in  
+> my application the better. I have also experimented with longish  
+> tapered spinners fore and aft of the prop, made from lightweight  
+> FLOATING material. Interesting advantages to these spinners when  
+> combined with a lightweight shaft and prop, as it introduces some  
+> upward forces that allow some degree of reverse, among other  
+> things....
+>
+> Vic
+>
+>
+> ----- Original Message ----- From: "Rick Willoughby" <rickwill at bigpond.net.au 
+> >
+> To: "HPV Boat" <hpv-boats at bikelist.org>
+> Sent: Monday, August 16, 2010 9:26 PM
+> Subject: Re: [hpv-boats] Sleeved Shaft
+>
+>
+>> Vic
+>> It could easily reduce to half nominal diameter.  The fibres will  
+>> run  a little straighter so will increase buckling resistance but  
+>> not so  much to torsional rigidity.
+>>
+>> If you only wanted to go to around 1/4" overall you might get 3   
+>> layers on something starting at 1/8".  I think you would have to  
+>> wait  for some initial cure before putting on each layer.  With  
+>> epoxy you  can accelerate the curing by heating.  The other way  
+>> would be to  place all layers dry and then really soak the shaft,  
+>> working until  wetted out.  The fibres tend to form tiny needles  
+>> that catch on  successive layers as they are slid on.  The more  
+>> damage the more  needles.
+>>
+>> Rick
+>>
+>> Thanks, Rick you have given me a lot to think about.  Those are quite
+>> impressive measurements.
+>> How thin will the 1/4" mesh go when stretched tight on a rod, as I am
+>> shooting for about 1/8" on the rod part. That way I can add  
+>> another  layer
+>> for strength if needed. Can I get small amounts of the equivalent   
+>> epoxy in
+>> USA, is my next question to research....
+>>
+>> Vic
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing  
+>> list, sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+>> subscription.
+>
+>
+> -- 
+> I am using the free version of SPAMfighter.
+> We are a community of 7 million users fighting spam.
+> SPAMfighter has removed 817 of my spam emails to date.
+> Get the free SPAMfighter here: http://www.spamfighter.com/len
+>
+> The Professional version does not have this message
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+
+
+From atruefriend at gmail.com  Fri Sep  3 14:10:27 2010
+From: atruefriend at gmail.com (Bobby Ray)
+Date: Fri, 3 Sep 2010 16:10:27 -0500
+Subject: [hpv-boats] Sleeved Shaft
+In-Reply-To: <21DD9EA47E5D41B0AAB0A9FDFDC12AD2@vgarzaPC>
+References: <4AE787BE-B80A-4F21-9888-85556183189E@bigpond.net.au>
+	<21DD9EA47E5D41B0AAB0A9FDFDC12AD2@vgarzaPC>
+Message-ID: <AANLkTi=1bOJKf35DqzU=7For6jb0zrR2uNZiPX5_+0LB@mail.gmail.com>
+
+Hi Guys,
+
+My email box filled up near the end of the six months I was in India.  I was
+so swamped teaching classes and
+other chores that  I didn't get the mailbox cleaned out until today.
+
+I am presently at a friend's sustainable farm 100 miles away from Houston,
+Texas.  I am helping them out for
+another week maybe ten days before heading east to South Florida.  After
+visiting family and friends there,
+ I will be heading back home to southern California.
+
+I would love to meet other members of the group even if only for a chat over
+a cup of coffee and pie.
+I welcome invitations of hospitality.  I really would love to see some
+homemade human powered vehicles
+
+I love helping folks.  I am good at solving problems - computers, cars and
+sometimes personal problems.
+I am easy company and would love to hear your stories.  I have a few to tell
+myself.
+
+Huggs and my best wishes,
+Bobby Ray
+
+From rickwill at bigpond.net.au  Thu Sep  9 23:44:14 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 10 Sep 2010 16:44:14 +1000
+Subject: [hpv-boats] Dennis Adcock - New Pedal Boat
+Message-ID: <35483DDF-FC7B-49BB-ADD4-BD8D637331E2@bigpond.net.au>
+
+Dennis
+I am wondering if you still follow this list.
+
+I am interested to know if you got your new boat going well.
+
+Rick Willoughby
+
+
+From flareking at talktalk.net  Mon Sep 13 13:37:04 2010
+From: flareking at talktalk.net (dennis)
+Date: Mon, 13 Sep 2010 21:37:04 +0100
+Subject: [hpv-boats] Dennis Adcock - New Pedal Boat
+References: <35483DDF-FC7B-49BB-ADD4-BD8D637331E2@bigpond.net.au>
+Message-ID: <A6768B2F0E6541BDA8760C7244E7E422@den>
+
+Hi Rick
+My new pedal boat "FAST 3" is now great at wave  hanging on the wake of 
+passing river pleasure boats.
+The following mods. have been undertaken;
+1.     2 off ball bearing races fitted to prop strutt.
+2.     New flat bottomed out riggers set to be just clear of the water have 
+greatly improved the stability.
+3.      Simple GPS fitted, but indicates very slow disappointing speed
+4.    Prop calibrated, indicates 20% slipbased on pitch helix with no 
+allowance for angle of attack
+5    Peak speed momentery 12kph average 6.8 kph  I think that my cat is 
+faster and will try the GPS on this.
+6.    Rudder still to be sorted after many attemps.
+7.     Folding prop is working well shedding weed, but failed after I hit a 
+rock as it jammed with one blade shut.
+
+Your sisters boat looks good, with a good turn of speed for a boat of that 
+length.
+
+Dennis
+
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Friday, September 10, 2010 7:44 AM
+Subject: [hpv-boats] Dennis Adcock - New Pedal Boat
+
+
+> Dennis
+> I am wondering if you still follow this list.
+>
+> I am interested to know if you got your new boat going well.
+>
+> Rick Willoughby
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+
+
+--------------------------------------------------------------------------------
+
+
+
+No virus found in this incoming message.
+Checked by AVG - www.avg.com
+Version: 8.5.445 / Virus Database: 271.1.1/3128 - Release Date: 09/11/10 
+06:34:00
+
+
+From brucegseidner at mac.com  Mon Sep 13 14:00:33 2010
+From: brucegseidner at mac.com (Bruce G. Seidner)
+Date: Mon, 13 Sep 2010 17:00:33 -0400
+Subject: [hpv-boats] Dennis Adcock - New Pedal Boat
+In-Reply-To: <A6768B2F0E6541BDA8760C7244E7E422@den>
+References: <35483DDF-FC7B-49BB-ADD4-BD8D637331E2@bigpond.net.au>
+	<A6768B2F0E6541BDA8760C7244E7E422@den>
+Message-ID: <7C71033C-0AA1-4628-97FA-E53E171B75F2@mac.com>
+
+Dennis,
+
+I have been unsuccessful getting any of my cats to do useful work in any context or contingency. 
+
+What behavioral and design parameters have you introduced to get your cat to peddle your boat?
+
+I think you are definitely on to something revolutionary.
+
+Bruce
+
+On Monday09 13, , at 4:37 PM, dennis wrote:
+
+> Hi Rick
+> My new pedal boat "FAST 3" is now great at wave  hanging on the wake of passing river pleasure boats.
+> The following mods. have been undertaken;
+> 1.     2 off ball bearing races fitted to prop strutt.
+> 2.     New flat bottomed out riggers set to be just clear of the water have greatly improved the stability.
+> 3.      Simple GPS fitted, but indicates very slow disappointing speed
+> 4.    Prop calibrated, indicates 20% slipbased on pitch helix with no allowance for angle of attack
+> 5    Peak speed momentery 12kph average 6.8 kph  I think that my cat is faster and will try the GPS on this.
+> 6.    Rudder still to be sorted after many attemps.
+> 7.     Folding prop is working well shedding weed, but failed after I hit a rock as it jammed with one blade shut.
+> 
+> Your sisters boat looks good, with a good turn of speed for a boat of that length.
+> 
+> Dennis
+> 
+> 
+> ----- Original Message ----- From: "Rick Willoughby" <rickwill at bigpond.net.au>
+> To: "HPV Boat" <hpv-boats at bikelist.org>
+> Sent: Friday, September 10, 2010 7:44 AM
+> Subject: [hpv-boats] Dennis Adcock - New Pedal Boat
+> 
+> 
+>> Dennis
+>> I am wondering if you still follow this list.
+>> 
+>> I am interested to know if you got your new boat going well.
+>> 
+>> Rick Willoughby
+>> 
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+> 
+> 
+> --------------------------------------------------------------------------------
+> 
+> 
+> 
+> No virus found in this incoming message.
+> Checked by AVG - www.avg.com
+> Version: 8.5.445 / Virus Database: 271.1.1/3128 - Release Date: 09/11/10 06:34:00
+> 
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+
+Bruce
+
+Bruce G. Seidner, Ph.D.                                 
+Clinical & Forensic Psychology  
+5401 Kingston Pike
+Suite 400                                              
+Knoxville, TN 37919
+
+865-588-4232 office
+865-588-4231 fax
+**********************************************************************
+The information transmitted is intended solely for the individual
+or entity to which it is addressed and may contain confidential
+and/or privileged material.  Any review, retransmission, dissemination
+or other use of or taking action in reliance upon this information
+by persons or entities other than the intended recipient is prohibited.
+If you have received this email in error please contact the sender
+and delete the material from any computer.
+**********************************************************************
+
+
+
+
+
+
+From rickwill at bigpond.net.au  Mon Sep 13 15:28:31 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 14 Sep 2010 08:28:31 +1000
+Subject: [hpv-boats] Dennis Adcock - New Pedal Boat
+Message-ID: <F36CBC1F-2EF9-47E6-8CED-3283B36B7589@bigpond.net.au>
+
+Dennis
+I would have expected better than 6.8kph average.  8kph should be  
+easy and 9kph possible for that length.  The slip is very high  
+indicating the drag must be still quite high. I wonder how much the  
+transom is dragging.  Filming a short video of the wake can be  
+instructive or watching someone of similar weight in the boat.
+
+Also what do you mean by "simple" GPS?
+
+The 380mm prop I have on the V14 hull has about 3% slip.  The 520mm  
+on the V15 is just over 1% - not really measurable but that is  
+calculated.
+
+Mike Lampi has started building the 6m version of my V15 design.  He  
+is using 4mm ply that will be finished with glass cloth.  The ply was  
+machine cut so saves a lot of work making and cutting panels.  He is  
+updating his blog on the project:
+http://hpb-er.blogspot.com/
+
+I have been pushing the V15 boat to see how the new box would hold  
+up.  I broke it last week end.  It failed at the torque level Mitrpak  
+advised, which translated to around 350W on the boat.  It was not the  
+shear pin that failed but rather the output shaft where it has a  
+shoulder to support the small gear.  The ID of the gear is only 8mm  
+so it is not unexpected when I back calculate.  This weekend I will  
+start doing some long distance testing at sustainable power of 120 to  
+130W to see how it all holds together.  That gets the boat between 9  
+and 10kph in the current set up with outriggers set a bit low for my  
+weight.  Their height can be adjusted but not easily.
+
+
+If you can email me a drawing of the hull or photos showing the shape  
+I can do some drag predictions for you.
+
+Rick Willoughby
+
+
+Re: Dennis Adcock - New Pedal Boat
+
+Hi Rick
+My new pedal boat "FAST 3" is now great at wave  hanging on the wake of
+passing river pleasure boats.
+The following mods. have been undertaken;
+1.     2 off ball bearing races fitted to prop strutt.
+2.     New flat bottomed out riggers set to be just clear of the  
+water have
+greatly improved the stability.
+3.      Simple GPS fitted, but indicates very slow disappointing speed
+4.    Prop calibrated, indicates 20% slipbased on pitch helix with no
+allowance for angle of attack
+5    Peak speed momentery 12kph average 6.8 kph  I think that my cat is
+faster and will try the GPS on this.
+6.    Rudder still to be sorted after many attemps.
+7.     Folding prop is working well shedding weed, but failed after I  
+hit a
+rock as it jammed with one blade shut.
+
+Your sisters boat looks good, with a good turn of speed for a boat of  
+that
+length.
+
+Dennis
+
+
+From flareking at talktalk.net  Fri Sep 17 06:35:48 2010
+From: flareking at talktalk.net (dennis)
+Date: Fri, 17 Sep 2010 14:35:48 +0100
+Subject: [hpv-boats] Propeller Slip
+Message-ID: <43D953EE18AA4A4CB2A116BD42975678@den>
+
+Rick
+Your prop slip figures are similar to those given by the PropSim program.
+I will test one of  my non-folding props to see if it is the hinge zone that is causing the problem.
+My simple GPS is a Holux 245 which gives Max and current speed, distance and time.Speed/time or distance can be plotted onto my computer.
+
+Dennis
+
+From 2scott at bellsouth.net  Fri Sep 17 07:03:14 2010
+From: 2scott at bellsouth.net (2scott)
+Date: Fri, 17 Sep 2010 07:03:14 -0700 (PDT)
+Subject: [hpv-boats] Propeller Slip
+In-Reply-To: <43D953EE18AA4A4CB2A116BD42975678@den>
+Message-ID: <555617.42080.qm@web180407.mail.gq1.yahoo.com>
+
+The term or concept may be a convienent and maybe even an effective
+approach to understanding propeller behavior but it is far from
+the truth... even though the results may be usefully accurate.
+Props are foils that have an angle of attack that represents
+the best Lift/Drag ratio and anything more or less ( which
+I guess can be quantified in slip terms ) is less efficient.
+Learn what the angle of attack is of your prop blades at
+various stations from 30 percent to 90 percent of the length
+to the tip and see if at a certain prop rpm and forward
+speed the angle of attacks are to see if you need to be
+using either a larger slower ( or faster turning smaller 
+prop with more or less pitch to match that magic angle
+of attack.  remember a prop blade  is like a sailplane
+wing and the sailplane pilots know exactly what speeds
+produce the best lift and least drag for their planes.
+( all based on angle of attack for the foil )
+
+--- On Fri, 9/17/10, dennis <flareking at talktalk.net> wrote:
+
+> From: dennis <flareking at talktalk.net>
+> Subject: [hpv-boats] Propeller Slip
+> To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+> Date: Friday, September 17, 2010, 9:35 AM
+> Rick
+> Your prop slip figures are similar to those given by the
+> PropSim program.
+> I will test one of? my non-folding props to see if it
+> is the hinge zone that is causing the problem.
+> My simple GPS is a Holux 245 which gives Max and current
+> speed, distance and time.Speed/time or distance can be
+> plotted onto my computer.
+> 
+> Dennis
+> --
+> This message comes to you via the hpv-boats at bikelist.org
+> mailing list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to
+> manage your subscription.
+> 
+
+
+From atruefriend at gmail.com  Sat Sep 18 12:14:45 2010
+From: atruefriend at gmail.com (Bobby Ray)
+Date: Sat, 18 Sep 2010 15:14:45 -0400
+Subject: [hpv-boats] Right Angle Drive
+In-Reply-To: <loom.20100813T004655-949@post.gmane.org>
+References: <AA3F0316-CC05-48FE-BB71-D912F2C9699F@bigpond.net.au>
+	<loom.20100813T004655-949@post.gmane.org>
+Message-ID: <AANLkTi=Xj5DB2zPAy8HG+D_a_6O7CxSPzN1WJpSaJF4m@mail.gmail.com>
+
+Thanks for the tips on the angle grinders.  I knew that dead ones must be
+useful for something!
+
+On Thu, Aug 12, 2010 at 4:20 PM, Tony Nelson <onetonpump at gmail.com> wrote:
+
+> Rick Willoughby <rickwill at ...> writes:
+>
+> >
+> > There are a few manufacturers of angle drives.  Mitrpak are possibly
+> > the best value.
+> > http://www.mitrpak.com/product_datasheet.php?product_id=34
+> >
+> > The best size prop will be spun at 4 to 5 times cadence.  You can use
+> > a large diameter prop turned at 2 to 3 time cadence directly from a
+> > gearbox but the box costs quite a lot.
+> >
+> > You can also use twisted chain drives.
+> >
+> > You can pair two boxes with 1:2 steep up to get combined 1:4 but this
+> > ends up very expensive.
+> >
+> > There is a thread on this forum that has a huge amount of detail with
+> > photos if you care to wade through it:
+> > http://www.boatdesign.net/forums/boat-design/pedal-powered-
+> > boats-23345.html
+> >
+> > Rick Willoughby
+> > rickwill at ...
+> >
+> >
+>
+>
+> No-Worries:: the gearboxes suitable for adapting to "Human-Power" are
+> plentiful. cheap [free], rugged, but not marinised.
+> Angle-grinders provide them, burnt motors with smoothly run-in gears ; I've
+> gutted about 20 of them, they are usually 3 to 4 to one, common makita is
+> 3.3,which I find optimum. The highest ratio I've found is a 9::1, but that
+> was 'stripped'
+> The'trick' is to make an adaptor for fitting a cluster [I use 14-18 tooth]
+> onto the shaft where the disc was [maybe remove the ratchet mechanism] ;
+> struggle & fight to remove the rotor windings; cut this motor-shaft short &
+> make a coupling [about 9mm id]
+> For a pp boat, have the chainwheel on the right side of a 'crankshaft; so
+> the
+> chain passes behind the operator to a cluster [enabling variable ratios]- a
+> shaft across to the centre-line, where the g/b increases speed / changes
+> direction / feeds aft to the prop-shaft. via a seal & universal-joint.
+> Use a bigger chainwheel for higher RPM output.
+> Ok so I made one  -almo0st - figured a better solution - I'll tell you when
+> I
+> have it!
+> Surfing on the Bare island Bombora in a pp-Kayak on Botany Bay in Oz; watch
+> me
+> go!
+> Tony Nelson.
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+
+From flareking at talktalk.net  Thu Sep 23 12:30:29 2010
+From: flareking at talktalk.net (dennis)
+Date: Thu, 23 Sep 2010 20:30:29 +0100
+Subject: [hpv-boats] Prip Slip
+Message-ID: <61F1D48DADC045A4AD9637D129CF831D@den>
+
+Rick
+I checked out a rigid prop fitted to my small cat and was very surprised to find
+that the speeds and the cadence were identical to my new boat fitted with the folding prop
+It is quite difficult to get exact figures due to the river current which made a difference of 10% 
+based on 80 rpm.
+It all ended with a bang when I hit something under water and bent one arm of the prop
+back 40 mm.
+I have concluded that my props are rubbish and I am going back to the beginning on the design.
+
+Dennis  
+
+From rickwill at bigpond.net.au  Thu Sep 23 15:31:33 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 24 Sep 2010 08:31:33 +1000
+Subject: [hpv-boats] Folding Prop
+Message-ID: <1D8EDA08-1649-4424-9539-CD780CE091CB@bigpond.net.au>
+
+Dennis
+My folding prop is slightly more efficient than the fixed blades I have.
+http://www.rickwill.bigpondhosting.com/folding_prop.jpg
+
+I have a prop optimising program that I use for prop design.  It is a  
+bit more flexible than JavaProp and I can use a wide range of foil  
+sections.
+
+If you are interested in a design I can give you something that is  
+reasonably easy to make using stainless flatbar.
+rickwill at bigpond.net.au
+
+It may sound odd but I have seen quite a few people mount blades  
+backwards on boats.  They have the curved face facing aft.  This  
+alters the effective pitch considerably from what is designed.
+
+
+Rick
+I checked out a rigid prop fitted to my small cat and was very  
+surprised to find
+that the speeds and the cadence were identical to my new boat fitted  
+with the folding prop
+It is quite difficult to get exact figures due to the river current  
+which made a difference of 10%
+based on 80 rpm.
+It all ended with a bang when I hit something under water and bent  
+one arm of the prop
+back 40 mm.
+I have concluded that my props are rubbish and I am going back to the  
+beginning on the design.
+
+Dennis
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+From roger.boden at keble.ox.ac.uk  Tue Sep 28 01:57:19 2010
+From: roger.boden at keble.ox.ac.uk (Roger Boden)
+Date: Tue, 28 Sep 2010 09:57:19 +0100
+Subject: [hpv-boats] Auxilliary pedal power
+Message-ID: <620446D2314EC846B4EED9B17AFF72F050783D6044@EXMBX04.ad.oak.ox.ac.uk>
+
+I am a sailor and a cyclist.  I'm in the process of buying a 20ft mini-cruiser (for details see http://www.britishhunter.co.uk/page2.html) and I'm hoping, in my imminent retirement, to sail through Europe on its great network of waterways. The boat will have an outboard, but I'd love to be able to propel it using a bicycle - for example on days when there's no wind, or if I have a stretch of narrow water where I have to battle a headwind.
+
+Ideally, I would use my road bike, mounted in the cockpit on a stand fore and aft, with a chain on the rear-wheel cog to drive a cog on the stern of the boat, which in turn drives an outboard-style propeller.  Any suggestions as to where I might get hold of the bike-powered outboard kit would be much appreciated.
+
+Roger Boden
+
+From vgarza2 at satx.rr.com  Tue Sep 28 16:30:49 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Tue, 28 Sep 2010 18:30:49 -0500
+Subject: [hpv-boats] Auxilliary pedal power
+In-Reply-To: <620446D2314EC846B4EED9B17AFF72F050783D6044@EXMBX04.ad.oak.ox.ac.uk>
+References: <620446D2314EC846B4EED9B17AFF72F050783D6044@EXMBX04.ad.oak.ox.ac.uk>
+Message-ID: <0FD1ED819FCE4B098E70F3345C04C610@vgarzaPC>
+
+Something like this? http://www.shuttlebike.com/ There is also a version 
+made in Oz which is supposed to be more efficient discussed somewhere on 
+boat design forums discussion. The main issues are large losses when going 
+through the wheel of an existing bike. Rick Willoughby has written of a non 
+bike, dedicated drive system that can move a large vessel at about 3 knots 
+or so..
+
+Hope this helps,
+
+
+Vic
+----- Original Message ----- 
+From: "Roger Boden" <roger.boden at keble.ox.ac.uk>
+To: <hpv-boats at bikelist.org>
+Sent: Tuesday, September 28, 2010 3:57 AM
+Subject: [hpv-boats] Auxilliary pedal power
+
+
+>I am a sailor and a cyclist.  I'm in the process of buying a 20ft 
+>mini-cruiser (for details see http://www.britishhunter.co.uk/page2.html) 
+>and I'm hoping, in my imminent retirement, to sail through Europe on its 
+>great network of waterways. The boat will have an outboard, but I'd love to 
+>be able to propel it using a bicycle - for example on days when there's no 
+>wind, or if I have a stretch of narrow water where I have to battle a 
+>headwind.
+>
+> Ideally, I would use my road bike, mounted in the cockpit on a stand fore 
+> and aft, with a chain on the rear-wheel cog to drive a cog on the stern of 
+> the boat, which in turn drives an outboard-style propeller.  Any 
+> suggestions as to where I might get hold of the bike-powered outboard kit 
+> would be much appreciated.
+>
+> Roger Boden
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 865 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From roger.boden at keble.ox.ac.uk  Wed Sep 29 02:10:57 2010
+From: roger.boden at keble.ox.ac.uk (Roger Boden)
+Date: Wed, 29 Sep 2010 10:10:57 +0100
+Subject: [hpv-boats] Auxilliary pedal power
+In-Reply-To: <0FD1ED819FCE4B098E70F3345C04C610@vgarzaPC>
+References: <620446D2314EC846B4EED9B17AFF72F050783D6044@EXMBX04.ad.oak.ox.ac.uk>
+	<0FD1ED819FCE4B098E70F3345C04C610@vgarzaPC>
+Message-ID: <620446D2314EC846B4EED9B17AFF72F050783D61AE@EXMBX04.ad.oak.ox.ac.uk>
+
+Vic
+
+Many thanks for this link - it certainly has the makings of an option.
+
+Regards
+
+Roger
+
+-----Original Message-----
+From: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org] On Behalf Of v garza
+Sent: 29 September 2010 00:31
+To: Human Powered Vehicles -- Boats
+Subject: Re: [hpv-boats] Auxilliary pedal power
+
+Something like this? http://www.shuttlebike.com/ There is also a version 
+made in Oz which is supposed to be more efficient discussed somewhere on 
+boat design forums discussion. The main issues are large losses when going 
+through the wheel of an existing bike. Rick Willoughby has written of a non 
+bike, dedicated drive system that can move a large vessel at about 3 knots 
+or so..
+
+Hope this helps,
+
+
+Vic
+----- Original Message ----- 
+From: "Roger Boden" <roger.boden at keble.ox.ac.uk>
+To: <hpv-boats at bikelist.org>
+Sent: Tuesday, September 28, 2010 3:57 AM
+Subject: [hpv-boats] Auxilliary pedal power
+
+
+>I am a sailor and a cyclist.  I'm in the process of buying a 20ft 
+>mini-cruiser (for details see http://www.britishhunter.co.uk/page2.html) 
+>and I'm hoping, in my imminent retirement, to sail through Europe on its 
+>great network of waterways. The boat will have an outboard, but I'd love to 
+>be able to propel it using a bicycle - for example on days when there's no 
+>wind, or if I have a stretch of narrow water where I have to battle a 
+>headwind.
+>
+> Ideally, I would use my road bike, mounted in the cockpit on a stand fore 
+> and aft, with a chain on the rear-wheel cog to drive a cog on the stern of 
+> the boat, which in turn drives an outboard-style propeller.  Any 
+> suggestions as to where I might get hold of the bike-powered outboard kit 
+> would be much appreciated.
+>
+> Roger Boden
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 865 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+From marcopoloboats at aol.com  Wed Sep 29 04:37:47 2010
+From: marcopoloboats at aol.com (Mark Vermilion)
+Date: Wed, 29 Sep 2010 07:37:47 -0400
+Subject: [hpv-boats] MPB MitrpakDrives Now Available
+Message-ID: <54F752A2-AD60-453A-8028-C80455E445A0@aol.com>
+
+
+
+We have just received our first shipment of Mitrpak T-102-M right  
+angle drives customized for hpb use.
+
+The drives have an increaser ratio of 1:2, and have crank posts that  
+fit J.I.S. cranks (all unicycle cranks and most standard bike cranks).  
+The output shaft is 12 mm, with an offset groove for easy and  
+inexpensive cotter pin attachment to your shaft's coupler.
+
+These gearboxes have many bolt holes for different deck attachment  
+orientations, and are rated to at least 75 in.-lbs of torque. Rick  
+Willoughby pushed his one-off version to the breaking point, and  
+Mitrpak has slightly altered the pinion/gear interface to strengthen  
+it a bit.
+
+You can find details at www.marcopoloboats.com. The photo shows only  
+the standard T-102-M, not our customized version.
+
+Mark Vermilion
+Marco Polo Boats, Inc.
+
+From marcopoloboats at aol.com  Wed Sep 29 04:56:19 2010
+From: marcopoloboats at aol.com (Mark Vermilion)
+Date: Wed, 29 Sep 2010 07:56:19 -0400
+Subject: [hpv-boats] Auxilliary pedal power
+Message-ID: <DD3E81E0-D1F0-4A5A-A6E7-F6D0BCECC164@aol.com>
+
+Roger,
+
+It sounds like you are going the route of using a bicycle because you  
+wish to disconnect the cycle for land use, no? Do you have the H20 or  
+Hunter 20 Fox C?
+
+I'm not sure if it will work for you, but in six weeks I will have  
+available to the market a two meter flexible cable shaft engineered  
+for aquatic pedal use. It has a rating of 200 in.-pounds torque, made  
+of 316 stainless wire, and flexible enough to handle a 90 degree turn  
+over distance.
+
+If you used a stationary bike stand, I can envision fixing (weld) a 26  
+mm long x 12 mm diameter post to it's spinning axle. You might lose  
+efficiency between your tire and this axle, but I am going with your  
+desire to use a bike. Then it is only a matter of attaching the  
+shaft's female coupler with a 1/4 inch (6 mm) cotter pin onto the  
+post, and gradually over a distance of two feet turn the cable to the  
+stern. It looks like on either boat you could drill a hole in the  
+stern just above the deck, off center and away from the rudder. You  
+would fabricate a solid shaft and shaft support at the gradual angle  
+you need to submerge the prop. Use an Igus plastic bearing in the  
+hole, and attach the cable to the solid shaft just inside the boat,  
+again using a simple cotter pin for quick disconnect. This external  
+shaft assembly could easily be detachable when not needed.
+
+The cable has a nylon tube around it in order to fix the cable and not  
+allow it to slither, You could mount the cable either permanently with  
+closed clips or temporarily with clips that can be opened along the  
+base of the cockpit at the vertical surface.
+
+Since your road bike has a free spinning axle, you would not be able  
+to pedal in reverse.
+
+I do not yet have a price for the cable, but I am sure it will be less  
+than $250 US delivered, possibly even to Europe. This system is not as  
+elegant as the ShuttleBike, but a lot less expensive.
+
+I have tried to attach a crude sketch, but the email kicks back  
+because the message is too large. Write me directly if you would like  
+to see it.
+
+Mark A. Vermilion
+
+Marco Polo Boats, Inc.
+Exploring the past and future of small boat design
+1911 Smallbrook Drive
+Troy, Michigan 48085
+USA
+
+Tel & Fax   1-248-434-4187
+
+From curt at nauticraft.com  Wed Sep 29 06:04:21 2010
+From: curt at nauticraft.com (Curt Chambers)
+Date: Wed, 29 Sep 2010 09:04:21 -0400
+Subject: [hpv-boats] hpv-boats Digest, Vol 64, Issue 7
+In-Reply-To: <mailman.15.1285700403.78942.hpv-boats@bikelist.org>
+References: <mailman.15.1285700403.78942.hpv-boats@bikelist.org>
+Message-ID: <56F5003A2D104341B2ECC70D1488974B@DYNACON.LOCAL>
+
+Roger,
+
+There was an Italian outfit that did just what you describe on the market
+maybe 5 or 10 years ago.  Haven't heard about it recently.  You might try an
+internet search for it.
+
+Curt Chambers 
+
+-----Original Message-----
+From: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org]
+On Behalf Of hpv-boats-request at bikelist.org
+Sent: Tuesday, September 28, 2010 3:00 PM
+To: hpv-boats at bikelist.org
+Subject: hpv-boats Digest, Vol 64, Issue 7
+
+Send hpv-boats mailing list submissions to
+	hpv-boats at bikelist.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://hupi.org/mailman/listinfo/hpv-boats
+or, via email, send a message with subject or body 'help' to
+	hpv-boats-request at bikelist.org
+
+You can reach the person managing the list at
+	hpv-boats-owner at bikelist.org
+
+When replying, please edit your Subject line so it is more specific than
+"Re: Contents of hpv-boats digest..."
+
+
+Today's Topics:
+
+   1. Auxilliary pedal power (Roger Boden)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Tue, 28 Sep 2010 09:57:19 +0100
+From: Roger Boden <roger.boden at keble.ox.ac.uk>
+Subject: [hpv-boats] Auxilliary pedal power
+To: "hpv-boats at bikelist.org" <hpv-boats at bikelist.org>
+Message-ID:
+	<620446D2314EC846B4EED9B17AFF72F050783D6044 at EXMBX04.ad.oak.ox.ac.uk>
+Content-Type: text/plain; charset="us-ascii"
+
+I am a sailor and a cyclist.  I'm in the process of buying a 20ft
+mini-cruiser (for details see http://www.britishhunter.co.uk/page2.html) and
+I'm hoping, in my imminent retirement, to sail through Europe on its great
+network of waterways. The boat will have an outboard, but I'd love to be
+able to propel it using a bicycle - for example on days when there's no
+wind, or if I have a stretch of narrow water where I have to battle a
+headwind.
+
+Ideally, I would use my road bike, mounted in the cockpit on a stand fore
+and aft, with a chain on the rear-wheel cog to drive a cog on the stern of
+the boat, which in turn drives an outboard-style propeller.  Any suggestions
+as to where I might get hold of the bike-powered outboard kit would be much
+appreciated.
+
+Roger Boden
+
+
+------------------------------
+
+
+hpv-boats mailing list
+mailto:hpv-boats at bikelist.org
+http://hupi.org/mailman/listinfo/hpv-boats
+
+
+End of hpv-boats Digest, Vol 64, Issue 7
+****************************************
+
+
+From roger.boden at keble.ox.ac.uk  Wed Sep 29 06:26:03 2010
+From: roger.boden at keble.ox.ac.uk (Roger Boden)
+Date: Wed, 29 Sep 2010 14:26:03 +0100
+Subject: [hpv-boats] Auxilliary pedal power
+In-Reply-To: <DD3E81E0-D1F0-4A5A-A6E7-F6D0BCECC164@aol.com>
+References: <DD3E81E0-D1F0-4A5A-A6E7-F6D0BCECC164@aol.com>
+Message-ID: <620446D2314EC846B4EED9B17AFF72F050787E6E9C@EXMBX04.ad.oak.ox.ac.uk>
+
+Mark
+
+Thanks for this.  I'm buying the H20 Sport which has the large open cockpit.
+
+Your solution sounds gloriously simple.  I do indeed want to be able to use the bike on land.  I'm planning to put a timber seat across the centre of the cockpit which, among other things, will carry the mainsheet traveller,  I thought I might have a front wheel quick-release axle mounted on it: I would attach the front forks to that and have the rear wheel on the bike stand, with maybe lines from either side of the boat to hold the bike vertical.  If my schoolboy maths is correct, the cable shaft (assuming a smooth curve) would have a radius of approx 1.3mtrs which should fit easily in the cockpit
+
+My original thought was to drive the propeller with a chain, but that would presumably involve two sets of direction-changing cogs, which I guess would take quite a toll on the efficiency of the mechanism.  Do you have any sense of how efficient would a cable shaft turning through 90 degrees would be, compared with a chain and cog mechanism?
+
+Thanks again for your help.
+
+Roger
+
+-----Original Message-----
+From: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org] On Behalf Of Mark Vermilion
+Sent: 29 September 2010 12:56
+To: Human
+Subject: Re: [hpv-boats] Auxilliary pedal power
+
+Roger,
+
+It sounds like you are going the route of using a bicycle because you  
+wish to disconnect the cycle for land use, no? Do you have the H20 or  
+Hunter 20 Fox C?
+
+I'm not sure if it will work for you, but in six weeks I will have  
+available to the market a two meter flexible cable shaft engineered  
+for aquatic pedal use. It has a rating of 200 in.-pounds torque, made  
+of 316 stainless wire, and flexible enough to handle a 90 degree turn  
+over distance.
+
+If you used a stationary bike stand, I can envision fixing (weld) a 26  
+mm long x 12 mm diameter post to it's spinning axle. You might lose  
+efficiency between your tire and this axle, but I am going with your  
+desire to use a bike. Then it is only a matter of attaching the  
+shaft's female coupler with a 1/4 inch (6 mm) cotter pin onto the  
+post, and gradually over a distance of two feet turn the cable to the  
+stern. It looks like on either boat you could drill a hole in the  
+stern just above the deck, off center and away from the rudder. You  
+would fabricate a solid shaft and shaft support at the gradual angle  
+you need to submerge the prop. Use an Igus plastic bearing in the  
+hole, and attach the cable to the solid shaft just inside the boat,  
+again using a simple cotter pin for quick disconnect. This external  
+shaft assembly could easily be detachable when not needed.
+
+The cable has a nylon tube around it in order to fix the cable and not  
+allow it to slither, You could mount the cable either permanently with  
+closed clips or temporarily with clips that can be opened along the  
+base of the cockpit at the vertical surface.
+
+Since your road bike has a free spinning axle, you would not be able  
+to pedal in reverse.
+
+I do not yet have a price for the cable, but I am sure it will be less  
+than $250 US delivered, possibly even to Europe. This system is not as  
+elegant as the ShuttleBike, but a lot less expensive.
+
+I have tried to attach a crude sketch, but the email kicks back  
+because the message is too large. Write me directly if you would like  
+to see it.
+
+Mark A. Vermilion
+
+Marco Polo Boats, Inc.
+Exploring the past and future of small boat design
+1911 Smallbrook Drive
+Troy, Michigan 48085
+USA
+
+Tel & Fax   1-248-434-4187
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+From roger.boden at keble.ox.ac.uk  Wed Sep 29 06:41:11 2010
+From: roger.boden at keble.ox.ac.uk (Roger Boden)
+Date: Wed, 29 Sep 2010 14:41:11 +0100
+Subject: [hpv-boats] hpv-boats Digest, Vol 64, Issue 7
+In-Reply-To: <56F5003A2D104341B2ECC70D1488974B@DYNACON.LOCAL>
+References: <mailman.15.1285700403.78942.hpv-boats@bikelist.org>
+	<56F5003A2D104341B2ECC70D1488974B@DYNACON.LOCAL>
+Message-ID: <620446D2314EC846B4EED9B17AFF72F050787E6EB0@EXMBX04.ad.oak.ox.ac.uk>
+
+Curt
+
+Thanks for this.  There is indeed an Italian device, called a shuttlebike, with a fancy website showing how it operates.  The gadget itself wouldn't help me much but I'm investigating the use of its key component, which is a flexible cable shaft.
+
+Roger
+
+-----Original Message-----
+From: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org] On Behalf Of Curt Chambers
+Sent: 29 September 2010 14:04
+To: hpv-boats at bikelist.org
+Subject: Re: [hpv-boats] hpv-boats Digest, Vol 64, Issue 7
+
+Roger,
+
+There was an Italian outfit that did just what you describe on the market
+maybe 5 or 10 years ago.  Haven't heard about it recently.  You might try an
+internet search for it.
+
+Curt Chambers 
+
+-----Original Message-----
+From: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org]
+On Behalf Of hpv-boats-request at bikelist.org
+Sent: Tuesday, September 28, 2010 3:00 PM
+To: hpv-boats at bikelist.org
+Subject: hpv-boats Digest, Vol 64, Issue 7
+
+Send hpv-boats mailing list submissions to
+	hpv-boats at bikelist.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://hupi.org/mailman/listinfo/hpv-boats
+or, via email, send a message with subject or body 'help' to
+	hpv-boats-request at bikelist.org
+
+You can reach the person managing the list at
+	hpv-boats-owner at bikelist.org
+
+When replying, please edit your Subject line so it is more specific than
+"Re: Contents of hpv-boats digest..."
+
+
+Today's Topics:
+
+   1. Auxilliary pedal power (Roger Boden)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Tue, 28 Sep 2010 09:57:19 +0100
+From: Roger Boden <roger.boden at keble.ox.ac.uk>
+Subject: [hpv-boats] Auxilliary pedal power
+To: "hpv-boats at bikelist.org" <hpv-boats at bikelist.org>
+Message-ID:
+	<620446D2314EC846B4EED9B17AFF72F050783D6044 at EXMBX04.ad.oak.ox.ac.uk>
+Content-Type: text/plain; charset="us-ascii"
+
+I am a sailor and a cyclist.  I'm in the process of buying a 20ft
+mini-cruiser (for details see http://www.britishhunter.co.uk/page2.html) and
+I'm hoping, in my imminent retirement, to sail through Europe on its great
+network of waterways. The boat will have an outboard, but I'd love to be
+able to propel it using a bicycle - for example on days when there's no
+wind, or if I have a stretch of narrow water where I have to battle a
+headwind.
+
+Ideally, I would use my road bike, mounted in the cockpit on a stand fore
+and aft, with a chain on the rear-wheel cog to drive a cog on the stern of
+the boat, which in turn drives an outboard-style propeller.  Any suggestions
+as to where I might get hold of the bike-powered outboard kit would be much
+appreciated.
+
+Roger Boden
+
+
+------------------------------
+
+
+hpv-boats mailing list
+mailto:hpv-boats at bikelist.org
+http://hupi.org/mailman/listinfo/hpv-boats
+
+
+End of hpv-boats Digest, Vol 64, Issue 7
+****************************************
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+From vgarza2 at satx.rr.com  Wed Sep 29 08:25:25 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Wed, 29 Sep 2010 10:25:25 -0500
+Subject: [hpv-boats] Auxilliary pedal power
+In-Reply-To: <620446D2314EC846B4EED9B17AFF72F050783D61AE@EXMBX04.ad.oak.ox.ac.uk>
+References: <620446D2314EC846B4EED9B17AFF72F050783D6044@EXMBX04.ad.oak.ox.ac.uk><0FD1ED819FCE4B098E70F3345C04C610@vgarzaPC>
+	<620446D2314EC846B4EED9B17AFF72F050783D61AE@EXMBX04.ad.oak.ox.ac.uk>
+Message-ID: <2EF4D735820E49B9B730510C5CB3DCDE@vgarzaPC>
+
+Here's the other option which I mentioned is more efficient 
+http://www.akwakat.co.nz/index.php?page=specifications You have the front 
+sprocket driving directly to the prop thru chain and gears, so you bypass 
+frictional losses of using a tire drive.
+
+Vic
+----- Original Message ----- 
+From: "Roger Boden" <roger.boden at keble.ox.ac.uk>
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Sent: Wednesday, September 29, 2010 4:10 AM
+Subject: Re: [hpv-boats] Auxilliary pedal power
+
+
+> Vic
+>
+> Many thanks for this link - it certainly has the makings of an option.
+>
+> Regards
+>
+> Roger
+>
+> -----Original Message-----
+> From: hpv-boats-bounces at bikelist.org 
+> [mailto:hpv-boats-bounces at bikelist.org] On Behalf Of v garza
+> Sent: 29 September 2010 00:31
+> To: Human Powered Vehicles -- Boats
+> Subject: Re: [hpv-boats] Auxilliary pedal power
+>
+> Something like this? http://www.shuttlebike.com/ There is also a version
+> made in Oz which is supposed to be more efficient discussed somewhere on
+> boat design forums discussion. The main issues are large losses when going
+> through the wheel of an existing bike. Rick Willoughby has written of a 
+> non
+> bike, dedicated drive system that can move a large vessel at about 3 knots
+> or so..
+>
+> Hope this helps,
+>
+>
+> Vic
+> ----- Original Message ----- 
+> From: "Roger Boden" <roger.boden at keble.ox.ac.uk>
+> To: <hpv-boats at bikelist.org>
+> Sent: Tuesday, September 28, 2010 3:57 AM
+> Subject: [hpv-boats] Auxilliary pedal power
+>
+>
+>>I am a sailor and a cyclist.  I'm in the process of buying a 20ft
+>>mini-cruiser (for details see http://www.britishhunter.co.uk/page2.html)
+>>and I'm hoping, in my imminent retirement, to sail through Europe on its
+>>great network of waterways. The boat will have an outboard, but I'd love 
+>>to
+>>be able to propel it using a bicycle - for example on days when there's no
+>>wind, or if I have a stretch of narrow water where I have to battle a
+>>headwind.
+>>
+>> Ideally, I would use my road bike, mounted in the cockpit on a stand fore
+>> and aft, with a chain on the rear-wheel cog to drive a cog on the stern 
+>> of
+>> the boat, which in turn drives an outboard-style propeller.  Any
+>> suggestions as to where I might get hold of the bike-powered outboard kit
+>> would be much appreciated.
+>>
+>> Roger Boden
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing list,
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>> subscription.
+>
+>
+> -- 
+> I am using the free version of SPAMfighter.
+> We are a community of 7 million users fighting spam.
+> SPAMfighter has removed 865 of my spam emails to date.
+> Get the free SPAMfighter here: http://www.spamfighter.com/len
+>
+> The Professional version does not have this message
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 866 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From roger.boden at keble.ox.ac.uk  Wed Sep 29 09:11:12 2010
+From: roger.boden at keble.ox.ac.uk (Roger Boden)
+Date: Wed, 29 Sep 2010 17:11:12 +0100
+Subject: [hpv-boats] Auxilliary pedal power
+In-Reply-To: <2EF4D735820E49B9B730510C5CB3DCDE@vgarzaPC>
+References: <620446D2314EC846B4EED9B17AFF72F050783D6044@EXMBX04.ad.oak.ox.ac.uk><0FD1ED819FCE4B098E70F3345C04C610@vgarzaPC>
+	<620446D2314EC846B4EED9B17AFF72F050783D61AE@EXMBX04.ad.oak.ox.ac.uk>
+	<2EF4D735820E49B9B730510C5CB3DCDE@vgarzaPC>
+Message-ID: <620446D2314EC846B4EED9B17AFF72F050787E6F0E@EXMBX04.ad.oak.ox.ac.uk>
+
+Vic
+
+That's more like it!  Many thanks.  I think the frame will do exactly what I want, and the floats will make a handy tender.  Terrific!
+
+Roger
+
+-----Original Message-----
+From: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org] On Behalf Of v garza
+Sent: 29 September 2010 16:25
+To: Human Powered Vehicles -- Boats
+Subject: Re: [hpv-boats] Auxilliary pedal power
+
+Here's the other option which I mentioned is more efficient 
+http://www.akwakat.co.nz/index.php?page=specifications You have the front 
+sprocket driving directly to the prop thru chain and gears, so you bypass 
+frictional losses of using a tire drive.
+
+Vic
+----- Original Message ----- 
+From: "Roger Boden" <roger.boden at keble.ox.ac.uk>
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Sent: Wednesday, September 29, 2010 4:10 AM
+Subject: Re: [hpv-boats] Auxilliary pedal power
+
+
+> Vic
+>
+> Many thanks for this link - it certainly has the makings of an option.
+>
+> Regards
+>
+> Roger
+>
+> -----Original Message-----
+> From: hpv-boats-bounces at bikelist.org 
+> [mailto:hpv-boats-bounces at bikelist.org] On Behalf Of v garza
+> Sent: 29 September 2010 00:31
+> To: Human Powered Vehicles -- Boats
+> Subject: Re: [hpv-boats] Auxilliary pedal power
+>
+> Something like this? http://www.shuttlebike.com/ There is also a version
+> made in Oz which is supposed to be more efficient discussed somewhere on
+> boat design forums discussion. The main issues are large losses when going
+> through the wheel of an existing bike. Rick Willoughby has written of a 
+> non
+> bike, dedicated drive system that can move a large vessel at about 3 knots
+> or so..
+>
+> Hope this helps,
+>
+>
+> Vic
+> ----- Original Message ----- 
+> From: "Roger Boden" <roger.boden at keble.ox.ac.uk>
+> To: <hpv-boats at bikelist.org>
+> Sent: Tuesday, September 28, 2010 3:57 AM
+> Subject: [hpv-boats] Auxilliary pedal power
+>
+>
+>>I am a sailor and a cyclist.  I'm in the process of buying a 20ft
+>>mini-cruiser (for details see http://www.britishhunter.co.uk/page2.html)
+>>and I'm hoping, in my imminent retirement, to sail through Europe on its
+>>great network of waterways. The boat will have an outboard, but I'd love 
+>>to
+>>be able to propel it using a bicycle - for example on days when there's no
+>>wind, or if I have a stretch of narrow water where I have to battle a
+>>headwind.
+>>
+>> Ideally, I would use my road bike, mounted in the cockpit on a stand fore
+>> and aft, with a chain on the rear-wheel cog to drive a cog on the stern 
+>> of
+>> the boat, which in turn drives an outboard-style propeller.  Any
+>> suggestions as to where I might get hold of the bike-powered outboard kit
+>> would be much appreciated.
+>>
+>> Roger Boden
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing list,
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>> subscription.
+>
+>
+> -- 
+> I am using the free version of SPAMfighter.
+> We are a community of 7 million users fighting spam.
+> SPAMfighter has removed 865 of my spam emails to date.
+> Get the free SPAMfighter here: http://www.spamfighter.com/len
+>
+> The Professional version does not have this message
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 866 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+

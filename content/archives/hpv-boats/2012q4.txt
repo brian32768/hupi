@@ -1,0 +1,235 @@
+From rickwill at bigpond.net.au  Thu Oct 25 17:48:59 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 26 Oct 2012 08:48:59 +1100
+Subject: [hpv-boats] Echuca Mini
+Message-ID: <14D23CE5-FC38-4FE2-A9F1-725988D32C2A@bigpond.net.au>
+
+I went up to Echuca for the Murray Mini on the weekend.  It is a 50km  
+race that covers about 2/3 of Day 3 in the full Marathon.  It was a  
+good opportunity for Peter Heal to try V15-6m as he is contemplating  
+doing the full race at the end of the year.
+
+In 2010 Pete set the unassisted round Australia cycling record  
+covering 15,000km in 49 days - meaning he is a fair cyclist and a  
+specialist with recumbents.
+
+I set up his boat as well as I could from measurements and data he  
+provided.  He found the settings OK but the gearing was heavier than  
+he preferred.  I selected my stainless steel folding from V14 prop  
+for him on a 1/4" spring steel shaft.  This has done two MMs so I  
+know it can take the bumps.  However prop pitch is 620mm so there is  
+a good deal of compliance with the 1/4" inch shaft.  RMS power is  
+about 5% higher than average due to torsional compliance.   I used  
+one of the folding CF props - it only had one small knock in the race  
+and is unscathed.
+
+There were 33 boats in the Mini.  Some were in relays but majority  
+were single or doubles.  There were two OC6s.  Pete's official  
+average was 13.8km.  Mine was 11.2kph.  Current assist averaged  
+around 1.8kph.  I have only started getting fit for the MM.  Also the  
+seat cushion on V15-58 also caused me some aggravation.
+
+The link to the old records is dead at present but I think Pete's  
+average would be at record pace for unrestricted over 50yo in the  
+full Marathon - his speed would go up to 16kph on handicap.  The full  
+marathon is a handicap event with age allowance and boat allowance  
+although unrestricted boat class has a time penalty against the K1s.   
+Last weekend there were only two single paddlers faster than Pete but  
+they are 30 years younger.
+
+I have posted a photo showing the two boats in the starting area:
+http://www.rickwill.bigpondhosting.com/slide2.jpg
+
+Race results are here:
+http://my2.raceresult.com/details/results.php? 
+lang=en&page=6&eventid=13126&contest=0&name=Online%20results%7CEchuca% 
+20Mini%20Overall%20Result&CertificateLink=1&format=view
+
+
+On Sunday there was a short race up and down river at Echuca - Steam  
+v Sweat; where we raced a paddle steamer on the downriver leg from  
+the start.  There were also runners on the shore.  This was the first  
+year boats were involved and it was good fun.  Pete beat the paddle  
+steamer to the turning buoy.  I rode its wake till we had to turn to  
+come back upriver - speed drop of 3 to 4kph over the ground when  
+pushing against the current. Results for the 8km race here:
+http://my2.raceresult.com/details/results.php? 
+lang=en&page=6&eventid=13126&contest=0&name=Online%20results%7CSweat% 
+20Vs%20Steam%20Result&CertificateLink=1&format=view
+
+
+Pete did have his "Spot" on the boat for the mini but updates are too  
+slow to be of any use with the amount of meandering but gives general  
+direction:
+http://share.findmespot.com/shared/faces/viewspots.jsp? 
+glId=0RqKCD5qLLG7sVXqJqZcVV8uEmxgN23hh
+
+Rick Willoughby
+
+
+
+
+From rickwill at bigpond.net.au  Sun Dec  2 18:24:39 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 3 Dec 2012 10:24:39 +1100
+Subject: [hpv-boats] Low Weight Hull
+Message-ID: <3864BF65-A997-4BD4-9B3F-2F8192AA6527@bigpond.net.au>
+
+The first boat of my V16 pedal boat design variant is being built in  
+Maine, USA.
+
+As well as being the first V16 hull that uses the 32 parameter  
+Michlet shape function for optimisation, it is also the first to be  
+built in a female mould.
+
+The mould was made from low cost melamine coated particle board using  
+a slightly curved board for the bottom and two boards flared up from  
+the bottom to form the sides.  The mould is simple to make as it  
+comprises just three flat panels with stiffeners.
+
+The shape is drag minimised for 120kg total displacement with a  
+heayweight pilot and sustainable power output of 120W resulting in a  
+hull length of 6.4m.
+
+The shell made in the mould using glass/foam/epoxy composite and  
+vacuum bagged during cure weighs 6kg and is near perfect finish over  
+most of the area:
+http://www.rickwill.bigpondhosting.com/img_3967.jpeg
+http://www.rickwill.bigpondhosting.com/img_3969.jpeg
+The finished hull with bulkheads and deck panels should be under 10kg.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From clemens.winter at aliceadsl.fr  Mon Dec  3 14:48:59 2012
+From: clemens.winter at aliceadsl.fr (Clemens )
+Date: Mon, 3 Dec 2012 20:48:59 +0100
+Subject: [hpv-boats] Low Weight Hull
+In-Reply-To: <3864BF65-A997-4BD4-9B3F-2F8192AA6527@bigpond.net.au>
+References: <3864BF65-A997-4BD4-9B3F-2F8192AA6527@bigpond.net.au>
+Message-ID: <001101cdd18f$3dd80c30$b9882490$@winter@aliceadsl.fr>
+
+Wow, good news, Rick!
+Congratulations, the flock is g Bosch ? warum nicht? 
+Vielleicht will einer der Boschler aufs Land ziehen?rowing.
+I might have worked on the female mold where the three boards meet by
+applying some 
+resin on the joints.
+10 kg - really means an ultralight hull.
+
+Cheers Clemens 
+
+   
+
+
+
+-----Urspr?ngliche Nachricht-----
+Von: hpv-boats-bounces at hupi.org [mailto:hpv-boats-bounces at hupi.org] Im
+Auftrag von Rick Willoughby
+Gesendet: Montag, 3. Dezember 2012 00:25
+An: HPV
+Betreff: [hpv-boats] Low Weight Hull
+
+The first boat of my V16 pedal boat design variant is being built in Maine,
+USA.
+
+As well as being the first V16 hull that uses the 32 parameter Michlet shape
+function for optimisation, it is also the first to be built in a female
+mould.
+
+The mould was made from low cost melamine coated particle board using a
+slightly curved board for the bottom and two boards flared up from the
+bottom to form the sides.  The mould is simple to make as it comprises just
+three flat panels with stiffeners.
+
+The shape is drag minimised for 120kg total displacement with a heayweight
+pilot and sustainable power output of 120W resulting in a hull length of
+6.4m.
+
+The shell made in the mould using glass/foam/epoxy composite and vacuum
+bagged during cure weighs 6kg and is near perfect finish over most of the
+area:
+http://www.rickwill.bigpondhosting.com/img_3967.jpeg
+http://www.rickwill.bigpondhosting.com/img_3969.jpeg
+The finished hull with bulkheads and deck panels should be under 10kg.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+--
+This message comes to you via the hpv-boats at hupi.org mailing list.
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+subscription.
+
+
+From clemens.winter at aliceadsl.fr  Mon Dec  3 14:55:30 2012
+From: clemens.winter at aliceadsl.fr (Clemens )
+Date: Mon, 3 Dec 2012 20:55:30 +0100
+Subject: [hpv-boats] Low Weight Hull
+In-Reply-To: <001101cdd18f$3dd80c30$b9882490$@winter@aliceadsl.fr>
+References: <3864BF65-A997-4BD4-9B3F-2F8192AA6527@bigpond.net.au>
+	<001101cdd18f$3dd80c30$b9882490$@winter@aliceadsl.fr>
+Message-ID: <001801cdd190$27029970$7507cc50$@winter@aliceadsl.fr>
+
+Wow, good news, Rick!
+Congratulations, your flock is growing. 
+I might have worked on the female mold where the three boards meet by
+applying some resin on the joints.
+10 kg - really means an ultralight hull.
+
+Cheers Clemens
+
+-----Urspr?ngliche Nachricht-----
+Von: hpv-boats-bounces at hupi.org [mailto:hpv-boats-bounces at hupi.org] Im
+Auftrag von Rick Willoughby
+Gesendet: Montag, 3. Dezember 2012 00:25
+An: HPV
+Betreff: [hpv-boats] Low Weight Hull
+
+The first boat of my V16 pedal boat design variant is being built in Maine,
+USA.
+
+As well as being the first V16 hull that uses the 32 parameter Michlet shape
+function for optimisation, it is also the first to be built in a female
+mould.
+
+The mould was made from low cost melamine coated particle board using a
+slightly curved board for the bottom and two boards flared up from the
+bottom to form the sides.  The mould is simple to make as it comprises just
+three flat panels with stiffeners.
+
+The shape is drag minimised for 120kg total displacement with a heayweight
+pilot and sustainable power output of 120W resulting in a hull length of
+6.4m.
+
+The shell made in the mould using glass/foam/epoxy composite and vacuum
+bagged during cure weighs 6kg and is near perfect finish over most of the
+area:
+http://www.rickwill.bigpondhosting.com/img_3967.jpeg
+http://www.rickwill.bigpondhosting.com/img_3969.jpeg
+The finished hull with bulkheads and deck panels should be under 10kg.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+--
+This message comes to you via the hpv-boats at hupi.org mailing list.
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+subscription.
+
+--
+This message comes to you via the hpv-boats at hupi.org mailing list.
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+subscription.
+
+

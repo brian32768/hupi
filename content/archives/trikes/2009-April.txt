@@ -1,0 +1,1019 @@
+From be_dal at yahoo.se  Thu Apr  2 02:45:21 2009
+From: be_dal at yahoo.se (B D)
+Date: Thu, 2 Apr 2009 10:45:21 +0000
+Subject: [trikes] Delta trike RWD axle
+Message-ID: <680823.6422.qm@web27001.mail.ukl.yahoo.com>
+
+
+Hello,
+
+I am searching for ideas and practical solutions and instructions how to build RWD on a delta trike. I prefer not to use any mid drive, if possible but I could live with it if it is the simplest way to do this. Maybe there are bolt on assemblies available out there for bike to trike or trike to quad conversion that one could use for a trike/quad project?
+
+/Bruno
+
+
+      ___________________________________________________
+S?k efter k?rleken!
+Hitta din tvillingsj?l p? Yahoo! Dejting: http://ad.doubleclick.net/clk;185753627;24584539;x?http://se.meetic.yahoo.net/index.php?mtcmk=148783
+
+From legs_larry at yahoo.com  Thu Apr  2 23:41:51 2009
+From: legs_larry at yahoo.com (Dave Larrington)
+Date: Fri, 3 Apr 2009 08:41:51 +0100
+Subject: [trikes] Delta trike RWD axle
+Message-ID: <011301c9b42f$c8103de0$8078400a@PCROOT.COM>
+
+http://www.trykit.com/ my be of some use, though it would not be cheap.
+
+-- 
+Dave Larrington
+<http://www.legslarry.beerdrinkers.co.uk>
+The onward interchange factor will be unity except for journeys 
+to Chesham, Croxley or Watford.
+
+
+
+From be_dal at yahoo.se  Fri Apr  3 00:51:07 2009
+From: be_dal at yahoo.se (B D)
+Date: Fri, 3 Apr 2009 08:51:07 +0000
+Subject: [trikes] Delta trike RWD axle
+Message-ID: <796831.46958.qm@web27006.mail.ukl.yahoo.com>
+
+
+--- Den fre 2009-04-03 skrev Dave Larrington <legs_larry at yahoo.com>:
+> http://www.trykit.com/ my be of some use,
+> though it would not be cheap.
+
+True. Looks great though. Not a real differential, it is the "posidrive" type as I understand it, built in to the casette body, very clever indeed!
+
+This must be very lightweight for being a 2WD RWD. The freewheel differential helps when it comes to traction. A real differential may be better for comfortable turning, but has the disadvantage that it is the wheel with least traction that gets the power. A freewheel differential works the other way around...
+
+I would need only a plain rear axle as it is intended to have suspension. No need for attachment bars for bicycle.
+
+Utah trike sells a 2WD RWD kit as well. Price seems to be approx. the same. as kit above, including middrive. Heavier system though, and middrive, and not as neat.
+
+It will be interesting to see the lightfootcycles new RWD with direct drive!
+
+/Bruno
+
+
+      __________________________________________________________
+G?r det l?ngsamt? Skaffa dig en snabbare bredbandsuppkoppling. 
+S?k och j?mf?r priser hos Kelkoo.
+http://www.kelkoo.se/c-100015813-bredband.html?partnerId=96914325
+
+From gilesp at iinet.net.au  Fri Apr  3 02:02:28 2009
+From: gilesp at iinet.net.au (Giles Puckett)
+Date: Fri, 3 Apr 2009 21:02:28 +1100
+Subject: [trikes] Delta trike RWD axle
+In-Reply-To: <796831.46958.qm@web27006.mail.ukl.yahoo.com>
+References: <796831.46958.qm@web27006.mail.ukl.yahoo.com>
+Message-ID: <49D5DEB4.1040509@iinet.net.au>
+
+B D wrote:
+> --- Den fre 2009-04-03 skrev Dave Larrington <legs_larry at yahoo.com>:
+>> http://www.trykit.com/ my be of some use,
+>> though it would not be cheap.
+> 
+> True. Looks great though. Not a real differential, it is the "posidrive" type as I understand it, built in to the casette body, very clever indeed!
+> 
+> This must be very lightweight for being a 2WD RWD. The freewheel differential helps when it comes to traction. A real differential may be better for comfortable turning, but has the disadvantage that it is the wheel with least traction that gets the power. A freewheel differential works the other way around...
+
+A proper limited-slip diff would be magical, but I've never seen one. 
+Not that I'm volunteering to make the first one, mind you :-)
+
+G.
+
+From be_dal at yahoo.se  Fri Apr  3 02:30:36 2009
+From: be_dal at yahoo.se (B D)
+Date: Fri, 3 Apr 2009 10:30:36 +0000
+Subject: [trikes] Delta trike RWD axle
+Message-ID: <579940.14720.qm@web27004.mail.ukl.yahoo.com>
+
+
+--- Den fre 2009-04-03 skrev Giles Puckett <gilesp at iinet.net.au>:
+> A proper limited-slip diff would be magical, but I've never
+> seen one. Not that I'm volunteering to make the first one,
+> mind you :-)
+
+True. 
+
+When I was a kid I had a pretty large three wheeler with real bike wheels. It was 2WD and had no differential. The tyres sqweeked at tight turns but it worked great actually. If keeping the track narrow and requirement for turning radius not too tight it may work? I think the Mochet velocar quad had the same concept - 2WD, narrow rear track and no differential at all.
+
+/Bruno
+
+
+      ___________________________________________________
+S?k efter k?rleken!
+Hitta din tvillingsj?l p? Yahoo! Dejting: http://ad.doubleclick.net/clk;185753627;24584539;x?http://se.meetic.yahoo.net/index.php?mtcmk=148783
+
+From SerxnerLa at aol.com  Fri Apr  3 18:41:49 2009
+From: SerxnerLa at aol.com (SerxnerLa at aol.com)
+Date: Fri, 3 Apr 2009 22:41:49 -0400
+Subject: [trikes] Tandem trike to donate
+Message-ID: <c23.5b8ea8fc.370822ed@aol.com>
+
+On a recent trip, the touring company dropped our GS tandem off the roof of  
+its van.  We were able to make it ridable, but it is definitely tweaked,  with 
+some scrapes as well.  The trike has about 2000 miles on it, and is  about 3 
+years old, with 5 S&S couplings.
+ 
+Anyway, we have new tandem on order, because we don't feel we can rely on  
+this one to take us across the USA.
+ 
+I would like to donate this trike to a charity in the Los Angeles  area.  I 
+think an institute that works with the blind could make great use  of it.   
+With a sighted captain, a blind stoker could have a lot of  fun.  The trike would 
+be fine for day trips. Maybe Ronald MacDonald  house?
+ 
+We would be grateful for any suggestions or connections to a legitimate  
+charity venue.  Any thoughts?
+ 
+Thanks, Keith in Los Angeles
+**************Hurry! April 15th is almost here. File your Federal taxes FREE 
+with TaxACT. 
+(http://pr.atwola.com/promoclk/100126575x1220714320x1201367638/aol?redir=http:%2F%2Fwww.taxact.com%2F08tax.asp%3Fsc%3D084102950001%26p%3D82)
+
+From list at moz.geek.nz  Sat Apr  4 13:03:07 2009
+From: list at moz.geek.nz (Moz)
+Date: Sat, 4 Apr 2009 14:03:07 -0700
+Subject: [trikes] Tandem trike to donate
+In-Reply-To: <c23.5b8ea8fc.370822ed@aol.com>
+References: <c23.5b8ea8fc.370822ed@aol.com>
+Message-ID: <1703153430.20090404140307@moz.geek.nz>
+
+SerxnerLa said:
+> With a sighted captain, a blind stoker could have a lot of  fun.
+
+With a sighted stoker, a blind captain can have a lot of fun. Much
+more fun than the other way round. Of course, it's also more scary
+but hey, we can cope.
+
+Moz
+
+
+From rgb at tricolour.net  Fri Apr  3 23:28:06 2009
+From: rgb at tricolour.net (Richard Guy Briggs)
+Date: Sat, 4 Apr 2009 03:28:06 -0400
+Subject: [trikes] Tandem trike to donate
+In-Reply-To: <1703153430.20090404140307@moz.geek.nz>
+References: <c23.5b8ea8fc.370822ed@aol.com>
+	<1703153430.20090404140307@moz.geek.nz>
+Message-ID: <20090404072806.GB29649@embryo.tricolour.net>
+
+On Sat, Apr 04, 2009 at 02:03:07PM -0700, Moz wrote:
+> SerxnerLa said:
+> > With a sighted captain, a blind stoker could have a lot of  fun.
+> 
+> With a sighted stoker, a blind captain can have a lot of fun. Much
+> more fun than the other way round. Of course, it's also more scary
+> but hey, we can cope.
+
+That reminds me of when I let Eric S. Raymond (Open Source folks will know who
+ESR is) captain my trike while I was stoking.  I'm glad we were on the local
+Multi-Use Recreational Pathway and not on a street...
+
+> Moz
+
+	slainte mhath, RGB
+
+--
+Richard Guy Briggs               --  ~\    -- ~\            <hpv.tricolour.net>
+<www.TriColour.net>                --  \___   o \@       @       Ride yer bike!
+Ottawa, ON, CANADA                  --  Lo_>__M__\\/\%__\\/\%
+Vote! -- <greenparty.ca>_____GTVS6#790__(*)__(*)________(*)(*)_________________
+
+From rob at wrhpv.com  Sat Apr  4 07:05:30 2009
+From: rob at wrhpv.com (Rob Hague)
+Date: Sat, 4 Apr 2009 16:05:30 +0100
+Subject: [trikes] Tandem trike to donate
+In-Reply-To: <20090404072806.GB29649@embryo.tricolour.net>
+References: <c23.5b8ea8fc.370822ed@aol.com>
+	<1703153430.20090404140307@moz.geek.nz>
+	<20090404072806.GB29649@embryo.tricolour.net>
+Message-ID: <A1584424-1CE4-4010-B7B5-DDB1267102AE@wrhpv.com>
+
+
+On 4 Apr 2009, at 08:28, Richard Guy Briggs wrote:
+
+> On Sat, Apr 04, 2009 at 02:03:07PM -0700, Moz wrote:
+>> SerxnerLa said:
+>>> With a sighted captain, a blind stoker could have a lot of  fun.
+>>
+>> With a sighted stoker, a blind captain can have a lot of fun. Much
+>> more fun than the other way round. Of course, it's also more scary
+>> but hey, we can cope.
+>
+> That reminds me of when I let Eric S. Raymond (Open Source folks  
+> will know who
+> ESR is) captain my trike while I was stoking.  I'm glad we were on  
+> the local
+> Multi-Use Recreational Pathway and not on a street...
+>
+>>
+
+
+Can't be as bad as riding 'blind' on the back of one of those back-to- 
+back tandem bike things!
+Never again!
+
+Rob
+Westcountry Recumbents
+
+From rgb at tricolour.net  Sat Apr  4 07:25:21 2009
+From: rgb at tricolour.net (Richard Guy Briggs)
+Date: Sat, 4 Apr 2009 11:25:21 -0400
+Subject: [trikes] Tandem trike to donate
+In-Reply-To: <A1584424-1CE4-4010-B7B5-DDB1267102AE@wrhpv.com>
+References: <c23.5b8ea8fc.370822ed@aol.com>
+	<1703153430.20090404140307@moz.geek.nz>
+	<20090404072806.GB29649@embryo.tricolour.net>
+	<A1584424-1CE4-4010-B7B5-DDB1267102AE@wrhpv.com>
+Message-ID: <20090404152521.GA1870@embryo.tricolour.net>
+
+On Sat, Apr 04, 2009 at 04:05:30PM +0100, Rob Hague wrote:
+> On 4 Apr 2009, at 08:28, Richard Guy Briggs wrote:
+>> On Sat, Apr 04, 2009 at 02:03:07PM -0700, Moz wrote:
+>>> SerxnerLa said:
+>>>> With a sighted captain, a blind stoker could have a lot of  fun.
+>>>
+>>> With a sighted stoker, a blind captain can have a lot of fun. Much more fun
+>>> than the other way round. Of course, it's also more scary but hey, we can
+>>> cope.
+>>
+>> That reminds me of when I let Eric S. Raymond (Open Source folks will know
+>> who ESR is) captain my trike while I was stoking.  I'm glad we were on the
+>> local Multi-Use Recreational Pathway and not on a street...
+>
+> Can't be as bad as riding 'blind' on the back of one of those back-to- back
+> tandem bike things!  Never again!
+
+http://www.bentrideronline.com/features/backtoback/backtoback.html
+
+Farah said her being able to make eye contact with motorists overtaking made a
+difference in safety because it made their vehicle more human.
+
+I did try theirs and was intrigued...
+
+> Rob
+> Westcountry Recumbents
+
+	slainte mhath, RGB
+
+--
+Richard Guy Briggs               --  ~\    -- ~\            <hpv.tricolour.net>
+<www.TriColour.net>                --  \___   o \@       @       Ride yer bike!
+Ottawa, ON, CANADA                  --  Lo_>__M__\\/\%__\\/\%
+Vote! -- <greenparty.ca>_____GTVS6#790__(*)__(*)________(*)(*)_________________
+
+From sk8ski2004 at yahoo.ca  Sat Apr  4 08:01:54 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Sat, 4 Apr 2009 09:01:54 -0700
+Subject: [trikes] Tandem trike to donate
+In-Reply-To: <A1584424-1CE4-4010-B7B5-DDB1267102AE@wrhpv.com>
+References: <c23.5b8ea8fc.370822ed@aol.com>
+	<1703153430.20090404140307@moz.geek.nz>
+	<20090404072806.GB29649@embryo.tricolour.net>
+	<A1584424-1CE4-4010-B7B5-DDB1267102AE@wrhpv.com>
+Message-ID: <777169.94680.qm@web50603.mail.re2.yahoo.com>
+
+Hmm.  I actually got quite comfortable stoking a friend's back-to-back recumbent bike.  I'm thinking of making a back-to-back trike, for my spouse and myself.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+Fatalities per one million hours;
+skydiving 128.7
+on-road motorcycling	8.8
+scuba-diving	2.0
+living (all causes of death) 1.5
+snowmobiling 0.9
+passenger cars	0.5
+bicycling	0.3
+
+
+cyclingedinburgh.info
+
+
+
+
+________________________________
+From: Rob Hague <rob at wrhpv.com>
+To: trikes at bikelist.org
+Sent: Saturday, April 4, 2009 8:05:30 AM
+Subject: Re: [trikes] Tandem trike to donate
+
+
+On 4 Apr 2009, at 08:28, Richard Guy Briggs wrote:
+
+> On Sat, Apr 04, 2009 at 02:03:07PM -0700, Moz wrote:
+>> SerxnerLa said:
+>>> With a sighted captain, a blind stoker could have a lot of  fun.
+>> 
+>> With a sighted stoker, a blind captain can have a lot of fun. Much
+>> more fun than the other way round. Of course, it's also more scary
+>> but hey, we can cope.
+> 
+> That reminds me of when I let Eric S. Raymond (Open Source folks will know who
+> ESR is) captain my trike while I was stoking.  I'm glad we were on the local
+> Multi-Use Recreational Pathway and not on a street...
+> 
+>> 
+
+
+Can't be as bad as riding 'blind' on the back of one of those back-to-back tandem bike things!
+Never again!
+
+Rob
+Westcountry Recumbents
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+      __________________________________________________________________
+Looking for the perfect gift? Give the gift of Flickr! 
+
+http://www.flickr.com/gift/
+
+From ian at greenspeed.com.au  Sat Apr  4 20:06:42 2009
+From: ian at greenspeed.com.au (Ian Sims)
+Date: Sun, 5 Apr 2009 14:06:42 +1000
+Subject: [trikes] Delta trike RWD axle
+References: <mailman.13.1238788804.53488.trikes@bikelist.org>
+Message-ID: <E871C56B24E642CDA2643216AF4A7695@ASUSA6J>
+
+The Velocar sociable did not have a rear live axle, and thus did not need a differential. It simply had two independent drives!
+
+One problem with having a clutch or freewheel to each rear wheel to obtain two wheel drive is that it increases the gearing as you 
+turn, making it harder to turn sharp corners at low speed.
+
+Regards, Ian
+
+Ian Sims, Director
+Greenspeed Pty., Ltd.,
+69 Mountain Gate Drive,
+Ferntree Gully VIC 3156
+AUSTRALIA
+Phone +61 3 9758 5541 Fax +61 3 9752 4115
+Email ian at greenspeed.com.au
+Web www.greenspeed.com.au
+
+
+> From: B D <be_dal at yahoo.se>
+> Subject: Re: [trikes] Delta trike RWD axle
+> To: <trikes at bikelist.org>, Giles Puckett <gilesp at iinet.net.au>
+> When I was a kid I had a pretty large three wheeler with real bike wheels. It was 2WD and had no differential. The tyres sqweeked 
+> at tight turns but it worked great actually. If keeping the track narrow and requirement for turning radius not too tight it may 
+> work? I think the Mochet velocar quad had the same concept - 2WD, narrow rear track and no differential at all.
+>
+> /Bruno
+
+
+From list at moz.geek.nz  Sat Apr  4 21:29:14 2009
+From: list at moz.geek.nz (Moz)
+Date: Sun, 5 Apr 2009 15:29:14 +1000
+Subject: [trikes] Delta trike RWD axle
+In-Reply-To: <E871C56B24E642CDA2643216AF4A7695@ASUSA6J>
+References: <mailman.13.1238788804.53488.trikes@bikelist.org>
+	<E871C56B24E642CDA2643216AF4A7695@ASUSA6J>
+Message-ID: <224723468.20090405152914@moz.geek.nz>
+
+Ian Sims said:
+> One problem with having a clutch or freewheel to each rear wheel to
+> obtain two wheel drive is that it increases the gearing as you 
+> turn, making it harder to turn sharp corners at low speed.
+
+My quad is set up like that. In practice the inside wheel tends to
+skid slightly each time I pedal when cornering at low speed if there's
+any loose material at all. Or sometimes if there's not. I'm not sure
+why if happens, but it does mitigate the gearing effect (which is
+noticeable). Despite that it's still the front tyres that wear out
+faster than the rear ones.
+
+I have to say that this style of two wheel drive works a treat. It's
+heavy (over 1kg) and expensive (the freewheels in their industrial
+bearings are ~$AUS500 each) but it hasn't broken yet and it
+dramatically improves traction. For that matter, the Rohloff hasn't
+broken yet either :)
+
+Moz
+
+
+From mgta4 at aol.com  Thu Apr  2 16:44:03 2009
+From: mgta4 at aol.com (mgta4 at aol.com)
+Date: Thu, 2 Apr 2009 20:44:03 -0400
+Subject: [trikes] Tomorrow is the big day
+Message-ID: <8CB820C6B7762A1-E44-24C4@webmail-dx05.sysops.aol.com>
+
+Finally after 4 years attempting my first tour that didn't work out because I got sick first day out I am starting out again. You can see my rig at www.lightfootcycles.com . Go to the trailers and scroll down to the bottom I think? . Anyway it is 6 ft long and in the? photo I had not finished putting the sides on it. It is totally enclosed now. I will leave in the morning and head east for about 150 miles then north. Have no timetable. Fran
+
+From sk8ski2004 at yahoo.ca  Mon Apr  6 12:45:56 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Mon, 6 Apr 2009 12:45:56 -0700
+Subject: [trikes] Tomorrow is the big day
+In-Reply-To: <8CB820C6B7762A1-E44-24C4@webmail-dx05.sysops.aol.com>
+References: <8CB820C6B7762A1-E44-24C4@webmail-dx05.sysops.aol.com>
+Message-ID: <755368.17439.qm@web50607.mail.re2.yahoo.com>
+
+Have a great tour Fran!  I love the "no timetable" schedule.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+Fatalities per one million hours;
+skydiving 128.7
+on-road motorcycling	8.8
+scuba-diving	2.0
+living (all causes of death) 1.5
+snowmobiling 0.9
+passenger cars	0.5
+bicycling	0.3
+
+
+cyclingedinburgh.info
+
+
+
+
+________________________________
+From: "mgta4 at aol.com" <mgta4 at aol.com>
+To: mgta4 at aol.com
+Sent: Thursday, April 2, 2009 5:44:03 PM
+Subject: [trikes] Tomorrow is the big day
+
+Finally after 4 years attempting my first tour that didn't work out because I got sick first day out I am starting out again. You can see my rig at www.lightfootcycles.com . Go to the trailers and scroll down to the bottom I think? . Anyway it is 6 ft long and in the? photo I had not finished putting the sides on it. It is totally enclosed now. I will leave in the morning and head east for about 150 miles then north. Have no timetable. Fran
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+      __________________________________________________________________
+Connect with friends from any web browser - no download required. Try the new Yahoo! Canada Messenger for the Web BETA at http://ca.messenger.yahoo.com/webmessengerpromo.php
+
+From sadie984 at yahoo.com  Tue Apr  7 08:57:35 2009
+From: sadie984 at yahoo.com (Kate Peterson)
+Date: Tue, 7 Apr 2009 08:57:35 -0700
+Subject: [trikes] Trip
+Message-ID: <511710.57234.qm@web52504.mail.re2.yahoo.com>
+
+
+Good Luck, Fran.  I hope you have lots of success and fun this time.   Kathy in Cincinnati
+
+
+
+      
+
+From mgta4 at aol.com  Tue Apr 14 16:41:11 2009
+From: mgta4 at aol.com (mgta4 at aol.com)
+Date: Tue, 14 Apr 2009 19:41:11 -0400
+Subject: [trikes] Fwd: 1week 42 mile tour- not completed
+In-Reply-To: <8CB8B6F8AE23CB5-1430-119A@WEBMAIL-MC02.sysops.aol.com>
+References: <8CB8B6D3B25414A-1430-10F1@WEBMAIL-MC02.sysops.aol.com>
+	<8CB8B6E1CB1D608-1430-1128@WEBMAIL-MC02.sysops.aol.com>
+	<8CB8B6F2DF4ADD7-1430-117D@WEBMAIL-MC02.sysops.aol.com>
+	<8CB8B6F8AE23CB5-1430-119A@WEBMAIL-MC02.sysops.aol.com>
+Message-ID: <8CB8B71A03D4B9D-1180-A9C@webmail-md15.sysops.aol.com>
+
+
+I wrote this for the bike touring list. If you don't want to read it just click DELETE. 
+
+
+
+
+
+
+
+This is a report of a tour I started and will start again probably Sunday when the weather is not storming. I was going to leave Friday but that is the worst day of the storm according to the weatherman and we should get 2-4 inches of rain. Not good riding weather. 
+
+Ok. I left home on a Lightfootcycles Greenway trike(I changed the cassette under the seat so I could get even?lower gears then they put on there)?pulling a 6 ft trailer weighing approx. 270 lbs. I was totally self contained and could survive probably a couple weeks without any more stuff or food. Yea I know it was heavy. All the roads after I got on the hiway (5 miles from home)?have very wide shoulders plus it is nothing but rolling hills. I averaged 2.4 mph with my fastest being 20 mph going down 1 hill and usually 1.9 going uphill. That was for the 42 miles. The first night I stayed at the Cowboy church in Kosse and was very tired. Also the wind never stopped and I was heading right into it. I traveled 10.8 miles that day. The cowboy church had a brand new metal bldg. with a porch about 20x20 and covered. Guess where I pitched my tent. The bathroom was brand new and was about 100 ft behind the church near the rodeo arena. Really neat. All new cedar and trimmed with about 6 inch bark side of the trees. I had elec. on a pole there also where I could charge my phone. My dau and her hus came by and we talked about my route. They said there weren't any shoulders they was I wanted to go so I changed my route where I had shoulders as wide as the road lanes. 
+
+The wind was relentless. Never stopped. Didn't even slow down. I was in it from Friday til I left Monday morning. I wanted to go to church Sunday so stayed another day so I could. Since they had a work day Sunday after church I had company all day. 
+
+Monday morning took me a little over an hour to pack up. Was going to be in the 30's so decided to set up my stove and water for oatmeal(Sunday night)?Monday morning and I wouldn't have to be up so much in the cold morning just getting breakfast ready. I have a coleman stove that screws on top of a bottle and it worked really well. Don't know how long it will last tho. 
+
+The wind was blowing out of the north very hard and that was the way I was heading. The next town Kosse was only about 5 miles away. I got there about 1:30?? and decided to eat at the cafe at the corner of hwy 7 and 14. I have a fairing on my trike so I didn't get hit so hard with the wind ( my torso)but it still made riding a little slower. I was ready to call it a day and had a friend who lives there so figured I could camp in her yard. Of course she would't hear of it cause it was going to get 27 during the night and I stayed in the house. Went to a church meeting with her and then got home and was ready to crash. My bedtime has really changed in this last week. To bed at 8 was unheard of before but not now. 
+
+Got up and went outside about 8 and had frost on my blue tarp? that covered the trailer and on the top of the canopy on the trike. Was 50 when I left and headed to the next town 9 miles away which was Thornton. There was an old man who was driving a pick up real slow (speed limit is 70) back and forth and kept looking at me. Well my pastor was coming back from somewhere and stopped ( he passed me on his way to whereever he went) and we were talking and he brought me some gatorade and some chex bars. Figured I need some electrolites. Anyway that old fellow came by again and I told him he had been cruising back and forth. 
+
+About a quarter mile from the intersection to the Thornton he came back only this time with a women. They were slowing down and I saw her door open so I knew they were stopping. I stopped and she asked if she could take a picture. Sure so we got to talking and I asked about a church my pastor told me about as I was looking for a place to stay the night. I told her my mission and she said "You can stay with me if you want". I was concerned about how far off the hwy she lived because I had to go 1.5 miles out of the way the night before. At 1.9 mph thats a long time. Just so happened she lived right on the next corner. The old man asked me if I needed any money and I said I would next week. He pulled a $20 bill out and handed it to me. Was glad to get that too. ?So they left and it took several minutes to get there. The old man was here dad and he was 80. He told her she had to come and see "this thing" and didn't know if I was man or woman. I ride with my face partially covered to stay out of the wind.)I could see her running around to a travel trailer and wondered if that is where I would stay. Turned out it was and so? niceeeeeee. Private, comfortable. I showered in her house and she washed my clothes. Fed me supper and by 8 I was about to pass out again. I threw my sleeping bag on the bed and that was it for the night.? 
+
+She furnished the trailer with milk and cereal for breakfast and then for supper she fed me tuna sandwiches and fried chicken the first night. I ended up staying the night , the next day and night. She said I could stay as long as I wanted. I was pretty rested by then and left out of there at 8 the next morning. I call her my road angel. 
+
+Figured I would stay in Groesbeck the next night as it was about 8 miles away. Seemed like 10 miles was about all I was going to be able to make in a day with that trailer. I had the wind at my back for the first time and it was so nice. I was in Groesbeck by 10:30 and decided it was way too early to stop. I did stop at the first place I found to potty tho. It was a donut store and I got 1 choc covered donut. When I returned to pay he just waved me on so I had my first free donut. I walked around in the parking lot eating it so I could exercise a little. I would try to stop at least once every hour to get off the trike and move around some and of course find a snack too. 
+I knew there was a Subway there and was going to stop and eat lunch and take the other half sandwich with me. Before I got there I saw a fellow across the street taking my picture. When I stopped along the curb at Subway another fellow asked if he could take my picture. Sure. He ran and got his camera on a tripod. He owned a book store around the corner. After I got my food he was still there and wanted to know if I would mind riding around the block so his wife could see the trike.They both rode Specilized bikes. ?She worked in a clinic and I said sure, why not. I did and he walked beside me. Thats how fast I rode. You could probably walk faster then I pedal. Ok so she sees my rig but can't stay. She has a patient and I am off again. I need to eat so find the back parking lot of a big church and eat. Some senior citizens must have been having some activities in there because I saw a couple people drive up and look kinda strange at me. When I finished I wanted to go potty and wash my hands before I left and asked a lady going in where the restroom was. I am not too sure what she thought about me. Maybe I looked homeless.
+
+I had just returned to the trike and started up and a fellow parked in front of me and got out and asked if I had a few minutes. Said sure. (why not) Turned out he was the same fellow taking my picture from across the street. He was the newspaper man. Oh so now I am famous huh? We talked a minute and I told him why I was trikeing and he asked about me being a cancer survivor( 7 year breast cancer survivor). The lady I had stayed with in the travel trailer called him and alerted him I was going thru the town so he found me. I will be interested in seeing the paper Wed. and see whats there. 
+
+I continue heading north toward Mexia and start looking for a place to stay about 1:30 ish. Getting tired. There is a state park called Fort Parker so I decided to try that. I had passed a couple trailer parks right on the road but didn't want to pay to stay. Didn't know I would have to pay at the park. LOL Not very smart. Anyway I paid and then asked how far the camping was and he said not far. Probably a mile. Ohhhhh. I was beat and another mile to pedal. Uggg. I did and it was hilly and not long sloping hills but shorter and steeper. Gravely in places. Not good for my rig and me. I did encounter a place I couldn't get up and had to turn around and go a little farther to turn. I realized I would not be able to get out of there in the morning. What a thought. I continued to the primitive campground and called my son. He was going to be gone for the next 2 days so that day was the only day I had of getting out. He hooked the trailer up and came and picked me up.? We stopped at the office and I didn't know if I would get my $11 back but got lucky and did. I don' t think the other lady would have given it to me. 
+
+I got home and unloaded and the next day changed trailers out. My son had worked so hard getting my blue trailer ready for me to take and he kept telling me "mom you're not as young as these 20 year olds and you need more stuff" so I just finally gave up and decided I would take the blue trailer as far as I could take it. 42 miles and 1 week was it. It was not hard to pull just heavy and too many hills. 
+
+I have since packed a Burley Nomad I have had for about 7 years and never used. It weighs about #70 loaded and don't know how much I have on the trike.Not that much. Maybe half. ?I think my blue trailer weighs about #65 unloaded. I have packed about twice getting what I can survive with. All the luxury items will stay home this time. I will continue from where I stopped. My son will drive me back to the park entrance and I will continue from there. As long as I have a shoulder to ride on I will keep going. In Mexia I will turn east on 84 and see how far that will take me. I planned to leave Friday but now we are expecting 2-4 inches of rain so guess I'll wait til that overwith. I shoud be able to go twice as fast as last time. Thats fast for me. I know its not for you bicyclists. 
+
+6 1/2 years ago God spoke to me and told me I would ride my trike town to town and give my testimony in the different churches. I haven't told many people this and most just think I am touring. This is my second attempt at this as my first trip lasted 11 miles and 5 hours. I got sick first night out and it was 11-3-04 and it was 40 degrees and? very windy. I couldn't get my tent up and had bonked and started shivering and decided I had to bite the bullet and called my husband to come and get me before I got hypothermia. I was going to go to Virginia to visit my son and his family. 1 year exactly to the day later his wife died from bone cancer . She was 39 with a 5 year old son. Strange timing. Anyway he came back home and is here with us now. 
+
+So now you know my story . I thought I might have someone to ride part of the way with but looks like maybe not now. Company would be a plus. I will be 71 in May so hopefully I will still be pedaling somewhere and can celebrate on the road. I like that idea. 
+
+So if anyone is interested in seeing what I ride both my trike and both trailers on the lightfoot website under trailers. www.lightfootcycles.com. I don't know how to put the info on her for you to click. I will update you probably when I get back or find a computer somewhere to use. Fran 
+
+Save money by eating out! Find great dining coupons in your area. 
+
+
+
+Save money by eating out! Find great dining coupons in your area. 
+
+
+
+Save money by eating out! Find great dining coupons in your area. 
+
+
+
+A Good Credit Score is 700 or Above. See yours in just 2 easy steps! 
+
+
+From sk8ski2004 at yahoo.ca  Thu Apr 16 15:47:36 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Thu, 16 Apr 2009 15:47:36 -0700
+Subject: [trikes] Fwd: 1week 42 mile tour- not completed
+In-Reply-To: <8CB8B71A03D4B9D-1180-A9C@webmail-md15.sysops.aol.com>
+References: <8CB8B6D3B25414A-1430-10F1@WEBMAIL-MC02.sysops.aol.com>
+	<8CB8B6E1CB1D608-1430-1128@WEBMAIL-MC02.sysops.aol.com>
+	<8CB8B6F2DF4ADD7-1430-117D@WEBMAIL-MC02.sysops.aol.com>
+	<8CB8B6F8AE23CB5-1430-119A@WEBMAIL-MC02.sysops.aol.com>
+	<8CB8B71A03D4B9D-1180-A9C@webmail-md15.sysops.aol.com>
+Message-ID: <459055.69248.qm@web50605.mail.re2.yahoo.com>
+
+It sounds like you're fine tuning your travels, each time you head out.  I'm glad to hear you're switching to the lighter trailer.  It'll make a huge difference. 
+
+-- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: "mgta4 at aol.com" <mgta4 at aol.com>
+To: trikes at bikelist.org
+Sent: Tuesday, April 14, 2009 4:41:11 PM
+Subject: [trikes] Fwd: 1week 42 mile tour- not completed
+
+
+I wrote this for the bike touring list. If you don't want to read it just click DELETE. 
+
+
+
+
+
+
+
+This is a report of a tour I started and will start again probably Sunday when the weather is not storming. I was going to leave Friday but that is the worst day of the storm according to the weatherman and we should get 2-4 inches of rain. Not good riding weather. 
+
+Ok. I left home on a Lightfootcycles Greenway trike(I changed the cassette under the seat so I could get even?lower gears then they put on there)?pulling a 6 ft trailer weighing approx. 270 lbs. I was totally self contained and could survive probably a couple weeks without any more stuff or food. Yea I know it was heavy. All the roads after I got on the hiway (5 miles from home)?have very wide shoulders plus it is nothing but rolling hills. I averaged 2.4 mph with my fastest being 20 mph going down 1 hill and usually 1.9 going uphill. That was for the 42 miles. The first night I stayed at the Cowboy church in Kosse and was very tired. Also the wind never stopped and I was heading right into it. I traveled 10.8 miles that day. The cowboy church had a brand new metal bldg. with a porch about 20x20 and covered. Guess where I pitched my tent. The bathroom was brand new and was about 100 ft behind the church near the rodeo arena. Really neat. All new cedar
+ and trimmed with about 6 inch bark side of the trees. I had elec. on a pole there also where I could charge my phone. My dau and her hus came by and we talked about my route. They said there weren't any shoulders they was I wanted to go so I changed my route where I had shoulders as wide as the road lanes. 
+
+The wind was relentless. Never stopped. Didn't even slow down. I was in it from Friday til I left Monday morning. I wanted to go to church Sunday so stayed another day so I could. Since they had a work day Sunday after church I had company all day. 
+
+Monday morning took me a little over an hour to pack up. Was going to be in the 30's so decided to set up my stove and water for oatmeal(Sunday night)?Monday morning and I wouldn't have to be up so much in the cold morning just getting breakfast ready. I have a coleman stove that screws on top of a bottle and it worked really well. Don't know how long it will last tho. 
+
+The wind was blowing out of the north very hard and that was the way I was heading. The next town Kosse was only about 5 miles away. I got there about 1:30?? and decided to eat at the cafe at the corner of hwy 7 and 14. I have a fairing on my trike so I didn't get hit so hard with the wind ( my torso)but it still made riding a little slower. I was ready to call it a day and had a friend who lives there so figured I could camp in her yard. Of course she would't hear of it cause it was going to get 27 during the night and I stayed in the house. Went to a church meeting with her and then got home and was ready to crash. My bedtime has really changed in this last week. To bed at 8 was unheard of before but not now. 
+
+Got up and went outside about 8 and had frost on my blue tarp? that covered the trailer and on the top of the canopy on the trike. Was 50 when I left and headed to the next town 9 miles away which was Thornton. There was an old man who was driving a pick up real slow (speed limit is 70) back and forth and kept looking at me. Well my pastor was coming back from somewhere and stopped ( he passed me on his way to whereever he went) and we were talking and he brought me some gatorade and some chex bars. Figured I need some electrolites. Anyway that old fellow came by again and I told him he had been cruising back and forth. 
+
+About a quarter mile from the intersection to the Thornton he came back only this time with a women. They were slowing down and I saw her door open so I knew they were stopping. I stopped and she asked if she could take a picture. Sure so we got to talking and I asked about a church my pastor told me about as I was looking for a place to stay the night. I told her my mission and she said "You can stay with me if you want". I was concerned about how far off the hwy she lived because I had to go 1.5 miles out of the way the night before. At 1.9 mph thats a long time. Just so happened she lived right on the next corner. The old man asked me if I needed any money and I said I would next week. He pulled a $20 bill out and handed it to me. Was glad to get that too. ?So they left and it took several minutes to get there. The old man was here dad and he was 80. He told her she had to come and see "this thing" and didn't know if I was man or woman. I ride with my
+ face partially covered to stay out of the wind.)I could see her running around to a travel trailer and wondered if that is where I would stay. Turned out it was and so? niceeeeeee. Private, comfortable. I showered in her house and she washed my clothes. Fed me supper and by 8 I was about to pass out again. I threw my sleeping bag on the bed and that was it for the night.? 
+
+She furnished the trailer with milk and cereal for breakfast and then for supper she fed me tuna sandwiches and fried chicken the first night. I ended up staying the night , the next day and night. She said I could stay as long as I wanted. I was pretty rested by then and left out of there at 8 the next morning. I call her my road angel. 
+
+Figured I would stay in Groesbeck the next night as it was about 8 miles away. Seemed like 10 miles was about all I was going to be able to make in a day with that trailer. I had the wind at my back for the first time and it was so nice. I was in Groesbeck by 10:30 and decided it was way too early to stop. I did stop at the first place I found to potty tho. It was a donut store and I got 1 choc covered donut. When I returned to pay he just waved me on so I had my first free donut. I walked around in the parking lot eating it so I could exercise a little. I would try to stop at least once every hour to get off the trike and move around some and of course find a snack too. 
+I knew there was a Subway there and was going to stop and eat lunch and take the other half sandwich with me. Before I got there I saw a fellow across the street taking my picture. When I stopped along the curb at Subway another fellow asked if he could take my picture. Sure. He ran and got his camera on a tripod. He owned a book store around the corner. After I got my food he was still there and wanted to know if I would mind riding around the block so his wife could see the trike.They both rode Specilized bikes. ?She worked in a clinic and I said sure, why not. I did and he walked beside me. Thats how fast I rode. You could probably walk faster then I pedal. Ok so she sees my rig but can't stay. She has a patient and I am off again. I need to eat so find the back parking lot of a big church and eat. Some senior citizens must have been having some activities in there because I saw a couple people drive up and look kinda strange at me. When I finished I
+ wanted to go potty and wash my hands before I left and asked a lady going in where the restroom was. I am not too sure what she thought about me. Maybe I looked homeless.
+
+I had just returned to the trike and started up and a fellow parked in front of me and got out and asked if I had a few minutes. Said sure. (why not) Turned out he was the same fellow taking my picture from across the street. He was the newspaper man. Oh so now I am famous huh? We talked a minute and I told him why I was trikeing and he asked about me being a cancer survivor( 7 year breast cancer survivor). The lady I had stayed with in the travel trailer called him and alerted him I was going thru the town so he found me. I will be interested in seeing the paper Wed. and see whats there. 
+
+I continue heading north toward Mexia and start looking for a place to stay about 1:30 ish. Getting tired. There is a state park called Fort Parker so I decided to try that. I had passed a couple trailer parks right on the road but didn't want to pay to stay. Didn't know I would have to pay at the park. LOL Not very smart. Anyway I paid and then asked how far the camping was and he said not far. Probably a mile. Ohhhhh. I was beat and another mile to pedal. Uggg. I did and it was hilly and not long sloping hills but shorter and steeper. Gravely in places. Not good for my rig and me. I did encounter a place I couldn't get up and had to turn around and go a little farther to turn. I realized I would not be able to get out of there in the morning. What a thought. I continued to the primitive campground and called my son. He was going to be gone for the next 2 days so that day was the only day I had of getting out. He hooked the trailer up and came and
+ picked me up.? We stopped at the office and I didn't know if I would get my $11 back but got lucky and did. I don' t think the other lady would have given it to me. 
+
+I got home and unloaded and the next day changed trailers out. My son had worked so hard getting my blue trailer ready for me to take and he kept telling me "mom you're not as young as these 20 year olds and you need more stuff" so I just finally gave up and decided I would take the blue trailer as far as I could take it. 42 miles and 1 week was it. It was not hard to pull just heavy and too many hills. 
+
+I have since packed a Burley Nomad I have had for about 7 years and never used. It weighs about #70 loaded and don't know how much I have on the trike.Not that much. Maybe half. ?I think my blue trailer weighs about #65 unloaded. I have packed about twice getting what I can survive with. All the luxury items will stay home this time. I will continue from where I stopped. My son will drive me back to the park entrance and I will continue from there. As long as I have a shoulder to ride on I will keep going. In Mexia I will turn east on 84 and see how far that will take me. I planned to leave Friday but now we are expecting 2-4 inches of rain so guess I'll wait til that overwith. I shoud be able to go twice as fast as last time. Thats fast for me. I know its not for you bicyclists. 
+
+6 1/2 years ago God spoke to me and told me I would ride my trike town to town and give my testimony in the different churches. I haven't told many people this and most just think I am touring. This is my second attempt at this as my first trip lasted 11 miles and 5 hours. I got sick first night out and it was 11-3-04 and it was 40 degrees and? very windy. I couldn't get my tent up and had bonked and started shivering and decided I had to bite the bullet and called my husband to come and get me before I got hypothermia. I was going to go to Virginia to visit my son and his family. 1 year exactly to the day later his wife died from bone cancer . She was 39 with a 5 year old son. Strange timing. Anyway he came back home and is here with us now. 
+
+So now you know my story . I thought I might have someone to ride part of the way with but looks like maybe not now. Company would be a plus. I will be 71 in May so hopefully I will still be pedaling somewhere and can celebrate on the road. I like that idea. 
+
+So if anyone is interested in seeing what I ride both my trike and both trailers on the lightfoot website under trailers. www.lightfootcycles.com. I don't know how to put the info on her for you to click. I will update you probably when I get back or find a computer somewhere to use. Fran 
+
+Save money by eating out! Find great dining coupons in your area. 
+
+
+
+Save money by eating out! Find great dining coupons in your area. 
+
+
+
+Save money by eating out! Find great dining coupons in your area. 
+
+
+
+A Good Credit Score is 700 or Above. See yours in just 2 easy steps! 
+
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+      __________________________________________________________________
+Looking for the perfect gift? Give the gift of Flickr! 
+
+http://www.flickr.com/gift/
+
+From 25hz at rogers.com  Wed Apr 22 20:20:05 2009
+From: 25hz at rogers.com (25hz)
+Date: Wed, 22 Apr 2009 23:20:05 -0400
+Subject: [trikes] Delta trike RWD axle
+In-Reply-To: <49D5DEB4.1040509@iinet.net.au>
+References: <796831.46958.qm@web27006.mail.ukl.yahoo.com>
+	<49D5DEB4.1040509@iinet.net.au>
+Message-ID: <25298C756289441C8418B23DFACF6980@25hzPC>
+
+Go check out the pictures on the Brit pedal car forum.  There are a number 
+of dual drive setups with limited slip using freewheels.
+
+
+>B D wrote:
+>> --- Den fre 2009-04-03 skrev Dave Larrington <legs_larry at yahoo.com>:
+>>> http://www.trykit.com/ my be of some use,
+>>> though it would not be cheap.
+>>
+>> True. Looks great though. Not a real differential, it is the "posidrive" 
+>> type as I understand it, built in to the casette body, very clever 
+>> indeed!
+>>
+>> This must be very lightweight for being a 2WD RWD. The freewheel 
+>> differential helps when it comes to traction. A real differential may be 
+>> better for comfortable turning, but has the disadvantage that it is the 
+>> wheel with least traction that gets the power. A freewheel differential 
+>> works the other way around...
+>
+> A proper limited-slip diff would be magical, but I've never seen one. Not 
+> that I'm volunteering to make the first one, mind you :-)
+>
+> G.
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+> subscription. 
+
+
+From gtikhiy at hotmail.com  Thu Apr 23 14:06:35 2009
+From: gtikhiy at hotmail.com (Gregory  Tikhiy)
+Date: Thu, 23 Apr 2009 23:06:35 +0200
+Subject: [trikes] Delta1FWD2RWS"G.Thun" in action
+Message-ID: <COL0-DAV269C5FF0C4577082CC9EFBA6750@phx.gbl>
+
+Naw my homepage has been renewed and added link Video. CLIK on if you like
+www.geocities.com/Colosseum/Bench/1135
+
+From mgta4 at aol.com  Fri Apr 24 10:30:47 2009
+From: mgta4 at aol.com (mgta4 at aol.com)
+Date: Fri, 24 Apr 2009 13:30:47 -0400
+Subject: [trikes] Fwd: Fran's second week
+In-Reply-To: <8CB9318AE6EC70B-17A4-C4@webmail-mf18.sysops.aol.com>
+References: <8CB9290D9A79417-880-6B5@MBLK-M40.sysops.aol.com>
+	<8CB92F62A5147B9-1104-2B3B@WEBMAIL-MC17.sysops.aol.com>
+	<8CB930AED3BA244-14B4-1453@mblk-d10.sysops.aol.com>
+	<8CB9318AE6EC70B-17A4-C4@webmail-mf18.sysops.aol.com>
+Message-ID: <8CB93198A279193-17A4-108@webmail-mf18.sysops.aol.com>
+
+
+
+
+
+
+
+
+Well it turned out? to be only 2 days. Dissapointing ,but so is life sometimes. I started my ride from where I left off the week before. It was kinda exciting. I saw a car trying to pass on a hill with a solid stripe and wondered if he was trying to mess up his nice car. A car from the other direction came over the hill and he was partially passed the car but decided not to continue. He hit his brakes, left black marks across the lane and into the shoulder about 50 ft in front of me and I am sure peed in his pants too as his car rocked back and forth. Then a short time later saw the same kind of crazy person trying and suceeding this time but passed 2 cars just floor boarding it because a dump truck was coming at him from the other direction. I wonder what people think that solid yellow line is for on the road.
+
+Did have a dog want to chase me in Mexia. He had chewed his rope and I didn't know where he belonged. He seemed to be visiting another dog that was fenced. I used my marine horn when he started coming at me and I hollered and he took off like he wanted to race. Me, I am only going at a snails pace not racing. Anyway about 2 blocks down the road he starts barking again but this time is in his own yard and stays way back from me. Didn't hurt my feelings at all. 
+
+Was going pretty fast down a hill and saw a homeless man, young but had the whitest beard I have ever seen except on Santa. He was looking at me like I was an alien and probably looked like that to him and I could see him watching me to the bottom of the hill. I had to laugh but understood why he looked so puzzled. No one looks like me?and ?my trike. 
+
+I stopped at Subway and got a foot long and proceeded to Wal Mart to eat half and save half for supper. I was looking for a shade tree but the only shade I could find was under my canopy. Nice to have. 
+
+Onward to somewhere else and about 2:30 I found a church enclosed in a 6 ft fence and it was open so I went in. The bldg is a huge metal bldg that was some kind of business at one time. I tried to get someone attention but a young man was in there playing some kind of rock music you could hear it a block away. After a time he heard me and I asked about staying there. He called the pastor (maybe his dad) and agreed I could. I Iooked around and the whole yard close to the bldg was rock. A once upon a time parking lot for?the business.Not good for a tent and staking it. Out back (about 3 acres big) there was dirt(mud) and I figured that would be it when I set up the tent. I was really hoping to stay inside because the pastor said he was coming out later. I didn't unpack with that in mind. From 2:30 til about 6:30 I just sat in the shade and watched a a few birds jumped around on a telephone wire. Nothing there but a field but I was resting? and didnt have anything to read or listed to so it got a little boring. 
+
+I was beginning to have to use the restroom really bad and thinking about setting up the tent for privacy but wondered if maybe the door I was sitting in front of was open. The boy had left earlier. Whalaaa. It was. They had a restroom too. I had just come out and saw the pastor thru the front door entering the? place so I got out fast and sat down and there he was. Anyway we talked a bit and he wasn't going to let me inside to stay but after a bit and reading a letter I carry from my pastor he changed his mind. I ended up on the carpeted floor of the santuary . Was better then the cement floor in the kitchen. I called my son and told him to call me at 6:30 because this pastor was feeding 4 other pastors at 10 and I wanted to be out of there before that all got started. I boiled some water and made my oatmeal and packed as I ate. At 8 I was out the door and he was just coming in. Good timing. 
+
+That was my first night with my small Burley Nomad trailer. I had all I needed just couldn't find anything,. I didn't want to empty it but seems thats what it would take just to get what I needed. I am in the process of thinning out more and taking nothing except absolute necessities. Too hard to dig around finding stuff when you just need 1 thing. 
+
+The pastor gave me the name of a church and pastor in Fairfield about 20 miles up the road. I figured my limit would be about 10 miles so didn't think I would need it . About 2:30 I was ready to stop and found a Cowboy church setting way back off the road and someone was there. Perfect place. Almost. There was no one that could give permission to stay and they locked the gate at night. They were going to have supper and a service and it would have been perfect. So after spending about 20 minutes talking to the fellow getting it ready for the evening I left.?If they didn't have a gate I woulda stayed anyway. ?I rode on. Dumb me , I forgot to use the restroom when there so was looking for an approriate spot to pull off. I saw a house that looked trashed and didn't think anyone lived there. Could go around the back take care of business and be off again. Surprise. Someone did live there and I saw a little boy peering out the window so figured that was a bad idea to stop. Found a gate and kinda hideway place where cars didn't see my trike ?til they were right there..I climbed the pipe gate and lots of poison ivy. Good thing I know what it looks like. Everything is good. I didn't squat in it. 
+
+?So now I am off to Fairfield which is only a short distance (3 miles)(nothing is short when I am that tired) away. I saw an RV park and decided to see what they charged to stay. $35 for a rock parking spot with power and water. Told them that was far beyond my budget but could stay in the covered patio area with the picnic table. She called her boss and after about 10 minutes waiting decided I better get on down the road. They thought I would have better facilities at the church. Wrong. 
+
+I called the preacher as instructed when I got to town and he said I was still 2 miles away. Ugh! He said he didn't want a tent up in the front of the church but could put up in the back under a big tree. He didn't really sound very receptive to me camping out on the church grounds but at that point I didn't care I?just wanted to eat and go to bed. It was only about 5:15 but I had been 20 miles already. Twice what I figured I could handle. 
+
+Next stop. Ahhhh a fruit stand. It was open and air conditioned at that. I stopped and got an 85 cent apple as big as a softball and a 60 cent orange. I talked a minute about my trip and I laid a dollar on the counter and asked how much. He said that was enough as that is what he paid for them. Nice. 
+
+?I pulled over about 50 ft onto an empty service station I think. Shade. Ate my big apple as I needed some energy and headed on. Saw another RV park but no one to talk to. The store by the same name across the street didn't know anything about it so away I go again. 
+
+As I rode across the street I noticed the area looked like a park. It turned out to be a where the livestock show did their thing and a ball park. I stopped a young girl jogging and asked if you could camp there. She didn't know as she hadn't lived there long ?and was interested in my rig and what I was doing . I told her I was on a Journey for God and going to churches to give my testimony( haven't done any as yet but thats what its all about. ) Anyway as soon as I said testimony she lit up like a Christmas tree and said "What is your testimony?" Ohhhhh thats the last thing I want to do is talk. I am totally wiped out and want to? go to bed. Anyway I gave her a very short version and she said I think I know someone who can help you. Those were sweet words to hear. She is jogging and has to go somewhere to call a friend. I rode up in the park under a shade tree and waited. Seemed forever and I was getting a headache by now and wondered if she was coming back. Probably 10 minutes had passed. ?Now I am needing a restroom and started looking around. Saw a bldg in the next corner (same park) and it looked hopeful. Rode over there and just as I stopped a car entered and it was the girl and a friend. She said "Tuesday nights we meet at a friends house and have dinner and a bible meeting and you are invited" Oooookaaaaaay . So I asked how far. Only about a mile. Do you think you can make it. She said I can jog or walk with you. So I pedaled and she walked some and jogged some depending on hills. As we arrived I saw this beautiful large house on maybe 5 acres and lots of cars. There was about a dozen people there and they were waiting on us to arrive. By this time I am nearly unconcious from fatigue. We ate and by 6:30 started the study. I asked the owner to please show me where I could put up my tent as I needed to do it soon. He looked at me and asked"do you really want to sleep in the tent?' Well of course I told him no. I knew his wife was hussling around getting a place ready for me to stay and hated to see her hav
+
+
+e to do that but I really needed to go to bed. As I sat in their study period my I realized my heart was racing. 125 is way too fast for it to be beating so I figured it was just because I was more tired then I had ever been before. After the study I was invited to stay and socialize but zombies don't make good company. I was shown the shower and room etc and all I could think of was bed. I hadn't showered in 2 days but at that time it didn't matter. I just pulled back the covers and collapased into bed dirty clothes and all. If I had been thinking better I would have just thrown a pillow on the floor and saved her from having to change linens again after I left. 
+
+
+The next morning I got up and saw no one. Figured they were still sleeping. Went out and called my son to come and get me again. Now I am about 70 miles from home. I was 35 miles from the Palestine and they had a bike shop and that was also the next town. Thats 3 days riding for me. I thought my cassette cable in the rear had broken. Figured if I was home I could leave more stuff behind and go to a bike shop in College Station. After unpacking the trike realized the cable was ok but the bag on the back of the trike was preventing it from going into my higher gears because it was bumping it. So have solved that problem now. 
+
+Not sure about another departure date now as husband has such a bad knee and may need surgery. Will find out today. I am afraid he will fall if he doesn't do something drastic and soon. So for now this is it but I plan to keep riding around home just to try to get into better shape than I am now. I know looseing weight is not good when touring but I have have lost 10 lbs and am not complaining. Maybe I can ride farther then 10 miles next time. My total miles now is about 75+ and average 3.4 and fastest 19+ that is going down a nice long hill. 
+Fran
+
+PS I knew a family that lived in Fairfield and their name was Fair. They were evangelists and had 3 children that traveled with them. The dad played the guitar , the son a bass and the 2 girls and wife sang. I think the first time I saw them the youngest girl was maybe about 10. They gave revivals at our church about 4 times.When I was about 6 mos into ?recovering from chemo they came to our church and I hadn't been going to church because I had been so sick from chemo but really wanted to see them. So I went. I was bald as an eagle and still not well.
+
+When I got to the place where I stayed with the large church group I figured maybe some of them had heard of them. I knew the older girl had gotten married some time ago. Then the son. The younger girl went to Criswell college in Dallas with my grandson. I asked the owner of the house (Regi Davis) if he had heard of them. He said "my son married their daughter". I was shocked. . After all I had gone thru that day and then ending up at his house. Coulda never planned it. 30 seconds later and the young jogger(ended up being 22 and not about 15 like I thought and is a gym teacher for the Jr Hi there )?would have been somewhere else. 
+For those interested they are now in San Angelo TX and so is the youngest daughter and she is married and now is a hair stylist. I understand he has his own Baptist church there. Sure do miss his chalk drawings he did. You had to have a black light to view them after he finished. Amazing. 
+
+
+
+
+
+
+From sk8ski2004 at yahoo.ca  Fri Apr 24 10:42:09 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Fri, 24 Apr 2009 10:42:09 -0700
+Subject: [trikes] Trike rental in North America
+Message-ID: <885711.66357.qm@web50602.mail.re2.yahoo.com>
+
+Hi All,
+
+We'll soon be vacationing in Chicago (Miracle Mile area), New York (Sutton Place, near Central Park) and Toronto (City Airport).  Does anybody know if tadpole trikes are available for rental in those cities?  We'll need to ride in low/no traffic areas, due to vision problems.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+      __________________________________________________________________
+Make your browsing faster, safer, and easier with the new Internet Explorer? 8. Optimized for Yahoo! Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+
+From sk8ski2004 at yahoo.ca  Fri Apr 24 13:11:52 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Fri, 24 Apr 2009 13:11:52 -0700
+Subject: [trikes] Delta1FWD2RWS"G.Thun" in action
+In-Reply-To: <COL0-DAV269C5FF0C4577082CC9EFBA6750@phx.gbl>
+References: <COL0-DAV269C5FF0C4577082CC9EFBA6750@phx.gbl>
+Message-ID: <759722.88946.qm@web50606.mail.re2.yahoo.com>
+
+Congratulations Gregory.  It's always nice to see new ideas developing.  That's a tidy, effective looking fairing.
+
+A few questions;
+
+	* Do you think you can improve upon the 3.6m turning radius?
+	* How is manoeuvring in small spaces, with the rear wheel steering?  Do you ever find yourself unable to steer away from objects, because doing so requires the rear end to first move closer?
+	* Have you considered making it a "twisted chain drive" to the front wheel only?
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Gregory Tikhiy <gtikhiy at hotmail.com>
+To: trikes at bikelist.org
+Sent: Thursday, April 23, 2009 2:06:35 PM
+Subject: [trikes] Delta1FWD2RWS"G.Thun" in action
+
+Naw my homepage has been renewed and added link Video. CLIK on if you like
+www.geocities.com/Colosseum/Bench/1135
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+      __________________________________________________________________
+Looking for the perfect gift? Give the gift of Flickr! 
+
+http://www.flickr.com/gift/
+
+From jlewis at uic.edu  Fri Apr 24 17:31:23 2009
+From: jlewis at uic.edu (Jeff E. Lewis)
+Date: Fri, 24 Apr 2009 19:31:23 -0500
+Subject: [trikes] Trike rental in North America
+In-Reply-To: <mailman.21.1240599605.19016.trikes@bikelist.org>
+References: <mailman.21.1240599605.19016.trikes@bikelist.org>
+Message-ID: <6.2.1.2.2.20090424192800.05b4deb0@mail.uic.edu>
+
+In Chicago, try calling Rapid Transit Cycle Shop +1(773) 227-2288.
+
+There is a nice bike path along the lakefront.
+
+Best regards,
+Jeff E. Lewis
+
+At 02:00 PM 4/24/2009, you wrote:
+>From: Colin Bryant <sk8ski2004 at yahoo.ca>
+>Subject: [trikes] Trike rental in North America
+>To: <trikes at bikelist.org>
+>Hi All,
+>
+>We'll soon be vacationing in Chicago (Miracle Mile area), New York (Sutton 
+>Place, near Central Park) and Toronto (City Airport).  Does anybody know 
+>if tadpole trikes are available for rental in those cities?  We'll need to 
+>ride in low/no traffic areas, due to vision problems.
+>
+>  --
+>Colin Bryant
+>Vancouver, Canada
+
+
+From gtikhiy at hotmail.com  Wed Apr 29 13:35:42 2009
+From: gtikhiy at hotmail.com (Gregory  Tikhiy)
+Date: Wed, 29 Apr 2009 22:35:42 +0200
+Subject: [trikes] trikes Digest, Vol 57, Issue 11
+References: <mailman.17.1240686003.35554.trikes@bikelist.org>
+Message-ID: <COL0-DAV518AC05219916D0A2B1897A66F0@phx.gbl>
+
+Hi All
+Thanks Coln Bryant's comment.
+I tasted steering upon the 2.5m turning radius and that gave not moore 
+conviniant but sensibility of handlbar became higher.I should say the rear 
+steering more sansebl than front and incresing not desiered. Very seldom if 
+need to make sharp turn I stand up, take up front part by pedal ,put in 
+correct position/derection and go on.
+I have built the prototyp "G.Thun" more than 10 yars ago, rided more than 
+20th.km. on the daily commuting at speed 15-20km/h and had never any problem 
+with steering/stability.
+Sorry, I do not know what does "twisted chain drive'' mean,if it's mean 
+somthing complicaited I say No.One of my motto is "the simpler the better" 
+anouther "Pass from petrol to cholestirol"
+Gregory Tikhiy
+----- Original Message ----- 
+From: <trikes-request at bikelist.org>
+To: <trikes at bikelist.org>
+Sent: Saturday, April 25, 2009 9:00 PM
+Subject: trikes Digest, Vol 57, Issue 11
+
+
+> Send trikes mailing list submissions to
+> trikes at bikelist.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> http://hupi.org/mailman/listinfo/trikes
+> or, via email, send a message with subject or body 'help' to
+> trikes-request at bikelist.org
+>
+> You can reach the person managing the list at
+> trikes-owner at bikelist.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of trikes digest..."
+>
+>
+> Today's Topics:
+>
+>   1. Re: Delta1FWD2RWS"G.Thun" in action (Colin Bryant)
+>   2. Re: Trike rental in North America (Jeff E. Lewis)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Fri, 24 Apr 2009 13:11:52 -0700
+> From: Colin Bryant <sk8ski2004 at yahoo.ca>
+> Subject: Re: [trikes] Delta1FWD2RWS"G.Thun" in action
+> To: <trikes at bikelist.org>
+> Message-ID: <759722.88946.qm at web50606.mail.re2.yahoo.com>
+> Content-Type: text/plain; charset="us-ascii"
+>
+> Congratulations Gregory.  It's always nice to see new ideas developing. 
+> That's a tidy, effective looking fairing.
+>
+> A few questions;
+>
+> * Do you think you can improve upon the 3.6m turning radius?
+> * How is manoeuvring in small spaces, with the rear wheel steering?  Do 
+> you ever find yourself unable to steer away from objects, because doing so 
+> requires the rear end to first move closer?
+> * Have you considered making it a "twisted chain drive" to the front wheel 
+> only?
+> -- 
+> Colin Bryant
+> Vancouver, Canada
+>
+>
+>
+>
+> ________________________________
+> From: Gregory Tikhiy <gtikhiy at hotmail.com>
+> To: trikes at bikelist.org
+> Sent: Thursday, April 23, 2009 2:06:35 PM
+> Subject: [trikes] Delta1FWD2RWS"G.Thun" in action
+>
+> Naw my homepage has been renewed and added link Video. CLIK on if you like
+> www.geocities.com/Colosseum/Bench/1135
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+> subscription.
+>
+>
+>
+>      __________________________________________________________________
+> Looking for the perfect gift? Give the gift of Flickr!
+>
+> http://www.flickr.com/gift/
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Fri, 24 Apr 2009 19:31:23 -0500
+> From: "Jeff E. Lewis" <jlewis at uic.edu>
+> Subject: Re: [trikes] Trike rental in North America
+> To: <trikes at bikelist.org>
+> Message-ID: <6.2.1.2.2.20090424192800.05b4deb0 at mail.uic.edu>
+> Content-Type: text/plain; charset="us-ascii"; format=flowed
+>
+> In Chicago, try calling Rapid Transit Cycle Shop +1(773) 227-2288.
+>
+> There is a nice bike path along the lakefront.
+>
+> Best regards,
+> Jeff E. Lewis
+>
+> At 02:00 PM 4/24/2009, you wrote:
+>>From: Colin Bryant <sk8ski2004 at yahoo.ca>
+>>Subject: [trikes] Trike rental in North America
+>>To: <trikes at bikelist.org>
+>>Hi All,
+>>
+>>We'll soon be vacationing in Chicago (Miracle Mile area), New York (Sutton
+>>Place, near Central Park) and Toronto (City Airport).  Does anybody know
+>>if tadpole trikes are available for rental in those cities?  We'll need to
+>>ride in low/no traffic areas, due to vision problems.
+>>
+>>  --
+>>Colin Bryant
+>>Vancouver, Canada
+>
+>
+>
+> ------------------------------
+>
+> This message digest comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+> subscription.
+>
+> End of trikes Digest, Vol 57, Issue 11
+> **************************************
+> 
+
+
+From gilesp at iinet.net.au  Thu Apr 30 00:44:21 2009
+From: gilesp at iinet.net.au (Giles Puckett)
+Date: Thu, 30 Apr 2009 17:44:21 +1000
+Subject: [trikes] trikes Digest, Vol 57, Issue 11
+In-Reply-To: <COL0-DAV518AC05219916D0A2B1897A66F0@phx.gbl>
+References: <mailman.17.1240686003.35554.trikes@bikelist.org>
+	<COL0-DAV518AC05219916D0A2B1897A66F0@phx.gbl>
+Message-ID: <49F956D5.2080008@iinet.net.au>
+
+Gregory Tikhiy wrote:
+> Hi All
+> Thanks Coln Bryant's comment.
+> I tasted steering upon the 2.5m turning radius and that gave not moore 
+> conviniant but sensibility of handlbar became higher.I should say the 
+> rear steering more sansebl than front and incresing not desiered. Very 
+> seldom if need to make sharp turn I stand up, take up front part by 
+> pedal ,put in correct position/derection and go on.
+> I have built the prototyp "G.Thun" more than 10 yars ago, rided more 
+> than 20th.km. on the daily commuting at speed 15-20km/h and had never 
+> any problem with steering/stability.
+> Sorry, I do not know what does "twisted chain drive'' mean,if it's mean 
+> somthing complicaited I say No.One of my motto is "the simpler the 
+> better" anouther "Pass from petrol to cholestirol"
+> Gregory Tikhiy
+
+Twisting-chain FWD is not complex - it works quite well and saves having 
+to pivot the pedals with the steering. I've built one in the past and it 
+worked very nicely. Here's some examples:
+
+http://www.toxy.de/1_Produkte/ZR_2_en.html
+http://www.fleettrikes.com/nitro%20clone.htm
+
+they are efficent too - all the fast speedbikes use them.
+
+G.
+

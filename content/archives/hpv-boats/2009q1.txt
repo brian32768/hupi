@@ -1,0 +1,495 @@
+From bruceplazyk at fauxfishtechnologies.com  Sun Jan 11 17:25:46 2009
+From: bruceplazyk at fauxfishtechnologies.com (bruceplazyk at fauxfishtechnologies.com)
+Date: Sun, 11 Jan 2009 17:25:46 -0800
+Subject: [hpv-boats] V11J Shaft
+Message-ID: <244313.54168.qm@web37308.mail.mud.yahoo.com>
+
+Hi Rick,
+
+Congratulations on a successful completion of the Murray Marathon and a great fund raising event for a worthy cause. That's a fine looking boat you have built but I can't wait to see the next one. Your report on the race was excellent, keep up the good work.
+
+Bruce Plazyk
+
+--- On Sat, 1/10/09, Rick Willoughby <rickwill at bigpond.net.au> wrote:
+From: Rick Willoughby <rickwill at bigpond.net.au>
+Subject: [hpv-boats] V11J Shaft
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Date: Saturday, January 10, 2009, 7:51 PM
+
+re Rick,
+
+A very cool looking setup.
+
+Is the shaft simply a flexible rod, or is it a cable of some sort?
+
+Thank you,
+
+Mark A. Vermilion
+
+Shaft is 8mm thick spring steel.  In the configuration shown it is expected to
+achieve infinite fatigue life. I paint it to reduce corrosion.  There are some
+high strength stainless steels available but I have
+ not been able to readily
+procure them in the size I need.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list,
+sponsored by http://ihpva.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+subscription.
+
+From flareking at talktalk.net  Fri Jan 16 11:49:31 2009
+From: flareking at talktalk.net (flareking at talktalk.net)
+Date: Fri, 16 Jan 2009 19:49:31 +0000
+Subject: [hpv-boats] Murray Marathon
+References: <37457731-1DDF-4F82-BDDD-0DF6DBE62E94@bigpond.net.au>
+Message-ID: <5E7F82E826854D30A47E24F8CFA737FA@annden>
+
+Rick
+This was a great result and report and i have only 2 comments
+
+I would have thought that you would have had  a spare prop that could be 
+easily fitted.
+
+I have commented this before but consider if it did not increase the drag 
+then a folding prop could have been an addvantage
+.
+Dennis A.
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Saturday, January 10, 2009 10:43 PM
+Subject: [hpv-boats] Murray Marathon
+
+
+> This list has been very quiet but as there are some still active I
+> have provided links to my 2008 Murray Marathon Report and a photo of
+> the boat just prior to setting off.
+>
+> I managed to finish this year in good shape. The side mounted prop
+> set up is hard to beat for ease of inspection and log jumping.  With
+> the dipping rudders and flexible shaft I am able to sit the boat flat
+> on the ground without concern for the appendages.  The boat can be
+> operated in 6" of water if I lift the prop up.
+>
+> http://www.rickwill.bigpondhosting.com/v11j.jpg
+>
+> http://www.rickwill.bigpondhosting.com/mm_2008_rw.pdf
+>
+> The latter is a 3.8Mb file.
+>
+> Rick Willoughby
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://ihpva.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+
+
+--------------------------------------------------------------------------------
+
+
+
+No virus found in this incoming message.
+Checked by AVG - http://www.avg.com
+Version: 8.0.176 / Virus Database: 270.10.5/1883 - Release Date: 1/8/2009 
+6:05 PM
+
+
+From rickwill at bigpond.net.au  Fri Jan 16 13:53:48 2009
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sat, 17 Jan 2009 08:53:48 +1100
+Subject: [hpv-boats] Murray Marathon
+Message-ID: <C57973F6-B574-4B8A-980E-38994158D632@bigpond.net.au>
+
+Dennis
+The spare prop - I did think about this.  I had a spare and shaft  
+made up complete with coupling for gearbox and flexible strut.  I  
+carried it in the car but of course I would still need to finish the  
+day if I was going to use it.  I carried a paddle on the boat as this  
+covers all propulsion contingencies including things like broken  
+chain or gearbox failure.   By the way I never used the paddle in the  
+entire time.  I never carry on at the local lake.  The boat operates  
+in less than 6" of water so I can launch faster than most kayaks.   
+Fitting my cycling shoes takes a bit of time because I wear socks to  
+avoid blisters.  (The paddlers have to wear gloves.  Some end up with  
+sores on their backside from sitting in water for long periods and  
+resulting abrasion.)
+
+Most boats carry a roll of duct tape to do quick hull repairs and I  
+also carry some basic tools such as keys to tighten the prop and  
+multi-tool for anything else.  Of course spares and tools add weight  
+but my shaft and prop are lighter than most paddles.
+
+I have a few thousand kilometers on the gearbox I use most and It is  
+usually operated within its rating so is proving very reliable.  I  
+should renew the chain a bit before the race if I do it again.  So I  
+am giving serious thought to ditching the paddle and just carry a  
+spare shaft and prop.  I am also thinking about a more compliant  
+prop, a smaller diameter prop and a stronger carbon fibre prop.  The  
+existing one is low temper 304 stainless steel so was not real  
+difficult to straighten.
+
+The current 8mm shaft should give infinite fatigue life but I only  
+had time to get about 500km on the original shaft.  I fitted a new  
+one before the race so I had some confidence it would do the race.   
+However I would also carry a spare shaft if I had a spare prop.  I  
+was surprised I did not bend it when I bent the blade.  8mm diameter  
+is quite thin but being spring steel it has tremendous toughness and  
+high yield stress.
+
+Folding prop- I have not really thought about the folding prop.  I am  
+hopeful of buying a benchtop lathe this year and a folding prop  
+sounds like a good idea for an early project.  It may actually shed  
+weed very well if I just stop spinning.  It will also coast better  
+but still run in reverse.  These are real advantages.  I am sure I  
+can fabricate one that would not lose much performance.
+
+It is interesting with weed and even leaves on the prop.  They are  
+guided down the shaft into the prop.  The shaft shields the strut.   
+So most weed wraps around the prop blades rather than just getting  
+caught  on the strut.  If it did this it would be cut up by the prop  
+but it just trails off the blades.  On the hot part of the day the  
+trees shed leaves and these are driven to some points in the river by  
+the wind such that they form a complete carpet. These are small  
+leaves about 4" long and quite stiff because they are sun baked but I  
+still manage to get a few caught on the blades.  The water is soil  
+laden and murky so you have to stop rotating and pull the prop up to  
+see if it is fouled in any way.  It would be great to just stop  
+pedalling and have it shed weed without much loss in speed.
+
+If you look at my speed plots you will see regular speed dips to  
+about 5kph. Most of these are the times I inspect the prop. I usually  
+combined it with taking a sip of water and maybe having a snack.   
+Most kayakers use a drinking tube but with my free hands I just use  
+an ordinary drinking bottle.  I even have the cycle style holder for  
+the standard bottle.  I usually carried five of these but always had  
+at least one left.  It was relatively cool this year.
+
+Rick Willoughby
+
+
+
+From omalon13 at yahoo.com  Sat Jan 17 07:29:28 2009
+From: omalon13 at yahoo.com (Neal Smith)
+Date: Sat, 17 Jan 2009 07:29:28 -0800
+Subject: [hpv-boats] Murray Marathon
+In-Reply-To: <C57973F6-B574-4B8A-980E-38994158D632@bigpond.net.au>
+Message-ID: <316964.9089.qm@web35107.mail.mud.yahoo.com>
+
+Rick,
+?
+Can't you pedal backwards to rmove the weeds & leaves?
+?
+Neal
+
+It is interesting with weed and even leaves on the prop.? They are guided down the shaft into the prop.? The shaft shields the strut.? So most weed wraps around the prop blades rather than just getting caught? on the strut.? If it did this it would be cut up by the prop but it just trails off the blades.? On the hot part of the day the trees shed leaves and these are driven to some points in the river by the wind such that they form a complete carpet. These are small leaves about 4" long and quite stiff because they are sun baked but I still manage to get a few caught on the blades.
+?
+
+--- On Fri, 1/16/09, Rick Willoughby <rickwill at bigpond.net.au> wrote:
+
+From: Rick Willoughby <rickwill at bigpond.net.au>
+Subject: Re: [hpv-boats] Murray Marathon
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Date: Friday, January 16, 2009, 4:53 PM
+
+Dennis
+The spare prop - I did think about this.  I had a spare and shaft made up
+complete with coupling for gearbox and flexible strut.  I carried it in the car
+but of course I would still need to finish the day if I was going to use it.  I
+carried a paddle on the boat as this covers all propulsion contingencies
+including things like broken chain or gearbox failure.   By the way I never used
+the paddle in the entire time.  I never carry on at the local lake.  The boat
+operates in less than 6" of water so I can launch faster than most kayaks. 
+Fitting my cycling shoes takes a bit of time because I wear socks to avoid
+blisters.  (The paddlers have to wear gloves.  Some end up with sores on their
+backside from sitting in water for long periods and resulting abrasion.)
+
+Most boats carry a roll of duct tape to do quick hull repairs and I also carry
+some basic tools such as keys to tighten the prop and multi-tool for anything
+else.  Of course spares and tools add weight but my shaft and prop are lighter
+than most paddles.
+
+I have a few thousand kilometers on the gearbox I use most and It is usually
+operated within its rating so is proving very reliable.  I should renew the
+chain a bit before the race if I do it again.  So I am giving serious thought to
+ditching the paddle and just carry a spare shaft and prop.  I am also thinking
+about a more compliant prop, a smaller diameter prop and a stronger carbon fibre
+prop.  The existing one is low temper 304 stainless steel so was not real
+difficult to straighten.
+
+The current 8mm shaft should give infinite fatigue life but I only had time to
+get about 500km on the original shaft.  I fitted a new one before the race so I
+had some confidence it would do the race.  However I would also carry a spare
+shaft if I had a spare prop.  I was surprised I did not bend it when I bent the
+blade.  8mm diameter is quite thin but being spring steel it has tremendous
+toughness and high yield stress.
+
+Folding prop- I have not really thought about the folding prop.  I am hopeful
+of buying a benchtop lathe this year and a folding prop sounds like a good idea
+for an early project.  It may actually shed weed very well if I just stop
+spinning.  It will also coast better but still run in reverse.  These are real
+advantages.  I am sure I can fabricate one that would not lose much performance.
+
+It is interesting with weed and even leaves on the prop.  They are guided down
+the shaft into the prop.  The shaft shields the strut.  So most weed wraps
+around the prop blades rather than just getting caught  on the strut.  If it did
+this it would be cut up by the prop but it just trails off the blades.  On the
+hot part of the day the trees shed leaves and these are driven to some points in
+the river by the wind such that they form a complete carpet. These are small
+leaves about 4" long and quite stiff because they are sun baked but I still
+manage to get a few caught on the blades.  The water is soil laden and murky so
+you have to stop rotating and pull the prop up to see if it is fouled in any
+way.  It would be great to just stop pedalling and have it shed weed without
+much loss in speed.
+
+If you look at my speed plots you will see regular speed dips to about 5kph.
+Most of these are the times I inspect the prop. I usually combined it with
+taking a sip of water and maybe having a snack.  Most kayakers use a drinking
+tube but with my free hands I just use an ordinary drinking bottle.  I even have
+the cycle style holder for the standard bottle.  I usually carried five of these
+but always had at least one left.  It was relatively cool this year.
+
+Rick Willoughby
+
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list,
+sponsored by http://ihpva.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+subscription.
+
+
+
+      
+
+From rickwill at bigpond.net.au  Sat Jan 17 13:38:44 2009
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 18 Jan 2009 08:38:44 +1100
+Subject: [hpv-boats] re Murray Marathon
+Message-ID: <2713F56D-0796-4DFE-864D-CA6D17834994@bigpond.net.au>
+
+Rick,
+?
+Can't you pedal backwards to rmove the weeds & leaves?
+?
+Neal
+
+Pedaling backwards is never reliable.  It will normally remove leaves  
+but not long marine weed.  Also it means you have to go in reverse to  
+reverse the flow.  By lifting the prop clear of the water I can  
+maintain some speed in coast and I am guaranteed the weed is clear.   
+You have to be able to see the prop to make sure it is clean.   
+Actually removing the weed by hand is the fastest way.  Weed is a  
+serious issue for a pedal boat compared with a paddles boat.
+
+If you are pushing hard for a long period with variable wind with  
+variable current it is hard to get the required inputs to know the  
+prop is fouled. It s very depressing if you get around to inspecting  
+the prop and find it fouled.  You know you have wasted energy and  
+that is the last thing you want to know in an endurance event.  I had  
+a practice of checking the prop at least every hour and if there was  
+a lot of weed I would do it more often.
+
+If you are pacing with another boat of very similar ability it is  
+possible to detect something on the prop as you find heart rate is  
+building but still just pacing.  If there is variable head wind then  
+this does not work because the paddler loses more speed than I do.
+
+Rick Willoughby
+
+
+
+From bobstuart at sasktel.net  Thu Feb  5 11:35:06 2009
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Thu, 5 Feb 2009 13:35:06 -0600
+Subject: [hpv-boats] First HPV - Submarine Ocean crossing
+Message-ID: <C9F480A0-B921-459F-B8CF-AD3BA17B147F@sasktel.net>
+
+http://www.newscientist.com/article/mg20126936.900-across-the-ocean- 
+in-a-pedalpowered-submarine.html
+
+It is odd that the oceanographers and biologists are getting so  
+excited about this trip.  They learned a tremendous amount from the  
+Kon-Tiki and Ra voyages, close to the surface of the water, but  
+didn't repeat them.  They could easily equip a sailboat with a bulb  
+keel for continuous observation of the type this sub affords.  People  
+just don't buy glass-bottom boats, or even simple through-surface  
+viewers.
+
+Best,
+Bob Stuart
+
+We seem to have grown impatient with robbing our children, and  
+resorted to selling them.
+Bailout Bill
+
+
+
+
+From curt at nauticraft.com  Thu Feb  5 12:43:50 2009
+From: curt at nauticraft.com (Curt Chambers)
+Date: Thu, 5 Feb 2009 15:43:50 -0500
+Subject: [hpv-boats] New Pedal Boat
+In-Reply-To: <mailman.17.1233864002.74309.hpv-boats@bikelist.org>
+References: <mailman.17.1233864002.74309.hpv-boats@bikelist.org>
+Message-ID: <5B0019F9770941458F34450072890490@DYNACON.LOCAL>
+
+Hi Everybody,
+
+This is to let you know that we are in the process of developing a new pedal
+boat to go with our Escapade and Encore (the Sprite is now out of production
+but this new boat may also be called Sprite).
+
+This boat will also be a "cruising" boat - as are our others - rather than
+"performance" as many of you focus on.
+
+In philosophical size it will fall between the Escapade and Encore, but will
+actually be shorter than the Escapade at 11 feet long.  It will be a two
+person boat, sitting side by side, with a 4 foot beam.
+
+The big difference is that the drive system(s)will be a composite, drop in,
+swing down/up type rather than the built-in system of our other boats.  The
+main reason for doing this so we can have a boat that can be packaged and
+shipped reasonably.  (An Encore can cost $1000 or more to ship in today's
+freight market, and this doesn't work for a $3500 product.)
+
+This boat will be rotomolded as are our others.  It was designed by Tom
+Parker of Parker Designs (who also did the original Sprite and Encore).  The
+mold is now being built and should be in our plant in a month or so.
+Development of it is expected to take most of the season but hopefully will
+become production worthy later on in the summer.
+
+Best Wishes to everyone.
+
+Curt Chambers
+Nauticraft Corp.
+
+ 
+
+-----Original Message-----
+From: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org]
+On Behalf Of hpv-boats-request at bikelist.org
+Sent: Thursday, February 05, 2009 3:00 PM
+To: hpv-boats at bikelist.org
+Subject: hpv-boats Digest, Vol 52, Issue 1
+
+Send hpv-boats mailing list submissions to
+	hpv-boats at bikelist.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://hupi.org/mailman/listinfo/hpv-boats
+or, via email, send a message with subject or body 'help' to
+	hpv-boats-request at bikelist.org
+
+You can reach the person managing the list at
+	hpv-boats-owner at bikelist.org
+
+When replying, please edit your Subject line so it is more specific than
+"Re: Contents of hpv-boats digest..."
+
+
+Today's Topics:
+
+   1. First HPV - Submarine Ocean crossing (Bob Stuart)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Thu, 5 Feb 2009 13:35:06 -0600
+From: Bob Stuart <bobstuart at sasktel.net>
+Subject: [hpv-boats] First HPV - Submarine Ocean crossing
+To: Human Powered Vehicles -- Boats <hpv-boats at bikelist.org>
+Message-ID: <C9F480A0-B921-459F-B8CF-AD3BA17B147F at sasktel.net>
+Content-Type: text/plain; charset="US-ASCII"; delsp=yes; format=flowed
+
+http://www.newscientist.com/article/mg20126936.900-across-the-ocean-
+in-a-pedalpowered-submarine.html
+
+It is odd that the oceanographers and biologists are getting so excited
+about this trip.  They learned a tremendous amount from the Kon-Tiki and Ra
+voyages, close to the surface of the water, but didn't repeat them.  They
+could easily equip a sailboat with a bulb keel for continuous observation of
+the type this sub affords.  People just don't buy glass-bottom boats, or
+even simple through-surface viewers.
+
+Best,
+Bob Stuart
+
+We seem to have grown impatient with robbing our children, and resorted to
+selling them.
+Bailout Bill
+
+
+
+
+
+------------------------------
+
+_______________________________________________
+IHPVA Events page: http://www.ihpva.org/calendar/ <><><><><><><> hpv-boats
+mailing list mailto:hpv-boats at bikelist.org
+http://hupi.org/mailman/listinfo/hpv-boats
+
+
+End of hpv-boats Digest, Vol 52, Issue 1
+****************************************
+
+
+From vgarza at mail.accd.edu  Thu Feb  5 13:17:44 2009
+From: vgarza at mail.accd.edu (GARZA, VICTOR)
+Date: Thu, 5 Feb 2009 13:17:44 -0800
+Subject: [hpv-boats] First HPV - Submarine Ocean crossing
+References: <C9F480A0-B921-459F-B8CF-AD3BA17B147F@sasktel.net>
+Message-ID: <F2E57720AD5FEA47986CF20B7BC3F2946FEB1F@ACCDMAIL3.ad.root>
+
+South American drug runners have been using large, powered dry versions of craft that run just below the surface for long distances. Hard to spot from patrolling planes and quick to scuttle the damning evidence if necessary.
+
+Vic
+
+  _____
+
+From: hpv-boats-bounces at bikelist.org on behalf of Bob Stuart
+Sent: Thu 2/5/2009 1:35 PM
+To: Human Powered Vehicles -- Boats
+Subject: [hpv-boats] First HPV - Submarine Ocean crossing
+
+
+
+http://www.newscientist.com/article/mg20126936.900-across-the-ocean-
+in-a-pedalpowered-submarine.html
+
+It is odd that the oceanographers and biologists are getting so
+excited about this trip.  They learned a tremendous amount from the
+Kon-Tiki and Ra voyages, close to the surface of the water, but
+didn't repeat them.  They could easily equip a sailboat with a bulb
+keel for continuous observation of the type this sub affords.  People
+just don't buy glass-bottom boats, or even simple through-surface
+viewers.
+
+Best,
+Bob Stuart
+
+We seem to have grown impatient with robbing our children, and
+resorted to selling them.
+Bailout Bill
+
+
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://ihpva.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+
+

@@ -1,0 +1,158 @@
+head	1.1;
+access;
+symbols;
+locks
+	bwilson:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2004.08.19.07.57.36;	author bwilson;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>HP Issues</title>
+</head>
+<body>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" width="95%"
+ height="100%" align="left">
+  <tbody>
+    <tr>
+      <td width="100" height="100" bgcolor="#ccd9fd">
+      <p align="center"> </p>
+      <br>
+      </td>
+      <td width="843" height="68" colspan="5">
+      <p align="center"><font face="Arial"><img
+ style="border: 0px solid ; width: 600px; height: 100px;"
+ src="archiveLogo.gif" align="left" title="" alt="logo"></font></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;" width="100" rowspan="2"
+ height="31" bgcolor="#ccd9fd">
+      <p align="center">&nbsp;</p>
+      <p align="center"><font face="Arial"><a href="index.htm">Intro</a></font></p>
+      <p align="center"><a href="download.htm"><font face="Arial">Index</font></a></p>
+      <p align="center"><font face="Arial">Issues</font></p>
+      <p align="center"><a href="cdrom.htm"><font face="Arial">CD-ROM</font></a></p>
+      <p align="center"><a href="http://www.hupi.org" target="_blank"><font
+ face="Arial">HuPI</font></a></p>
+<p align="center"><a href="http://www.ihpva.org"><img src="/graphics/home.icon.gif" width=39 height=65 border=0></a></p>
+      <p align="center">&nbsp;</p>
+      </td>
+      <td style="vertical-align: top;" width="763" height="1"
+ colspan="4">
+      <blockquote>
+        <hr>
+        <p align="left"><font face="Arial">Each  PDF file represents
+one issue of Human Power.&nbsp; The file sizes range between 400kB and 6
+MB.&nbsp; We are linking files one by one as copyright issues are being
+resolved and are sorry for the inconvenience caused by the as yet very
+incomplete archive!<br>
+        </font></p>
+      </blockquote>
+      </td>
+      <td style="vertical-align: top;" width="78" rowspan="2"
+ height="31"> <br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;" width="51" height="54"> <br>
+      </td>
+      <td style="vertical-align: top;" width="239" height="54"> <font
+ face="Arial"> 01-v1n1-1977.pdf<br>
+02-winter-1978.pdf<br>
+03-summer-1979.pdf<br>
+04-fall-1979.pdf<br>
+05-spring-1980.pdf<br>
+06-winter-1981.pdf<br>
+07-fall-1981.pdf<br>
+08-v2n1-1982.pdf<br>
+09-v2n2-1983.pdf<br>
+10-v3n1-1984.pdf<br>
+11-v3n2-1984.pdf<br>
+12-v3n3-1985.pdf<br>
+13-v3n4-1985.pdf<br>
+14-v4n1-1985.pdf&nbsp;<br>
+15-v5n1-1985.pdf<br>
+16-v5n2-1986.pdf<br>
+17-v5n3-1986.pdf<br>
+18-v5n4-1986.pdf<br>
+19-v6n1-1987.pdf<br>
+20-v6n2-1987.pdf</font>
+      <p><font face="Arial">&nbsp;</font></p>
+      <p><font face="Arial">&nbsp;</font></p>
+      <p><font face="Arial">&nbsp;</font></p>
+      <p><font face="Arial">&nbsp;</font></p>
+      <p><font face="Arial">&nbsp;</font></p>
+      <p><font face="Arial">&nbsp;</font></p>
+      <p>&nbsp;</p>
+      </td>
+      <td style="vertical-align: top;" width="232" height="54"> <font
+ face="Arial">21-v6n3-1987.pdf<br>
+22-v7n1-1988.pdf<br>
+23-v7n2-1988.pdf<br>
+24-v7n3-1989.pdf<br>
+25-v7n4-1989.pdf<br>
+26-v8n2-1-1990.pdf<br>
+27-v8vn1-2-1990.pdf<br>
+28-v8n4-1990.pdf<br>
+29-v9n1-1991.pdf<br>
+30-v9n2-1991.pdf<br>
+31-v9n3-1991.pdf<br>
+32-v10n1-1992.pdf<br>
+33-v10n2-1992.pdf<br>
+34-v10n3-1993.pdf<br>
+35-v10n4-1993.pdf<br>
+36-v11n1-1994.pdf<br>
+37-v11n2-1994.pdf<br>
+38-v11n3-1994.pdf<br>
+39-v11n4-1994.pdf<br>
+40-v12n1-1995.pdf</font>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      </td>
+      <td style="vertical-align: top;" width="241" height="54"> <font
+ face="Arial">41-v12n2-1995.pdf<br>
+42-v12n3-1996.pdf<br>
+43-v12n4-1997.pdf<br>
+44-v13n1-1997.pdf<br>
+45-v13n2-1998.pdf<br>
+46-v13n3-1998.pdf<br>
+hp47-n46-1998.pdf<br>
+      <a href="http://www.umwelteinsatz.ch/IBS/HumanPower/hp48-1999.pdf">
+hp48-1999.pdf</a> (750 kB)<br>
+hp49-1999.pdf<br>
+hp50-2000.pdf<br>
+      <a href="http://www.umwelteinsatz.ch/IBS/HumanPower/hp51-2001.pdf">
+hp51-2001.pdf</a> (4.5 MB)<br>
+hp52-2001.pdf<br>
+      <a href="http://www.umwelteinsatz.ch/IBS/HumanPower/hp53-2002.pdf">
+hp53-2002.pdf</a> (750 kB)<br>
+hp54-2003.pdf<br>
+hp55-2004.pdf<br>
+      <br>
+      <br>
+      </font> </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</body>
+</html>
+@

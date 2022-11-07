@@ -1,0 +1,4393 @@
+From rickwill at bigpond.net.au  Wed Jan  5 00:59:46 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Wed, 5 Jan 2011 19:59:46 +1100
+Subject: [hpv-boats] Nice Waterways
+Message-ID: <2A4C5733-DA0E-45DA-BA58-354AF5C77B67@bigpond.net.au>
+
+I delivered V15-5m to my sister on the Gold Coast in southern  
+Queensland.
+
+We had some nice time on the water near her home on the Gold Coast.
+
+This is a series of clips taken on the Nerang River:
+http://www.youtube.com/watch?v=_fBLi40q4pU
+She has hundreds of kilometers of similar waterways all connected and  
+many launching points only a few minutes drive from her house.
+
+The warmer water was nice for some speed runs.  I hit 18.4kph during  
+this run:
+http://www.youtube.com/watch?v=2s5jmnqNpIA
+If you look closely the lift due to dynamic forces is apparent.  The  
+small waves amplify it in the clip.  In calm water I get the first  
+600mm of the bow clear of the water.
+
+Rick Willoughby
+
+
+
+From iancassell at optusnet.com.au  Wed Jan  5 03:09:23 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Wed, 5 Jan 2011 22:09:23 +1100
+Subject: [hpv-boats] V15
+Message-ID: <B1E42844BCEE4C70A8321D2401C65320@HOME1>
+
+Rick
+         V15 looks good, must be a great place for these
+sort of boats. Is the gearbox the original Mitrepak one
+or have you upgraded it?
+         
+Ian Cassell
+
+From vgarza2 at satx.rr.com  Wed Jan  5 08:40:45 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Wed, 5 Jan 2011 10:40:45 -0600
+Subject: [hpv-boats] Nice Waterways
+In-Reply-To: <2A4C5733-DA0E-45DA-BA58-354AF5C77B67@bigpond.net.au>
+References: <2A4C5733-DA0E-45DA-BA58-354AF5C77B67@bigpond.net.au>
+Message-ID: <E740377DBB5B4613AC21EEDEB0A9FFC7@vgarzaPC>
+
+Cool design. Up higher from the water, yet the fairing behind the seat would 
+appear to reduce wind resistance. Seems to give a dry ride to the pedaller. 
+Thanks for posting.
+
+Vic
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Wednesday, January 05, 2011 2:59 AM
+Subject: [hpv-boats] Nice Waterways
+
+
+>I delivered V15-5m to my sister on the Gold Coast in southern  Queensland.
+>
+> We had some nice time on the water near her home on the Gold Coast.
+>
+> This is a series of clips taken on the Nerang River:
+> http://www.youtube.com/watch?v=_fBLi40q4pU
+> She has hundreds of kilometers of similar waterways all connected and 
+> many launching points only a few minutes drive from her house.
+>
+> The warmer water was nice for some speed runs.  I hit 18.4kph during  this 
+> run:
+> http://www.youtube.com/watch?v=2s5jmnqNpIA
+> If you look closely the lift due to dynamic forces is apparent.  The 
+> small waves amplify it in the clip.  In calm water I get the first  600mm 
+> of the bow clear of the water.
+>
+> Rick Willoughby
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+--
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 1088 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From rickwill at bigpond.net.au  Wed Jan  5 14:08:13 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 6 Jan 2011 09:08:13 +1100
+Subject: [hpv-boats] V15 Gearbox & Seating
+Message-ID: <6A093303-6A45-4139-A9F8-B77099F836D8@bigpond.net.au>
+
+Ian
+I made the gearbox from a purchased 1:4 gearset.  They are straight  
+cut bevel gears that cost USD100.
+
+The gearbox is noisier than spiral bevel gears but similar efficiency.
+
+This one weighed 2.8kg however I have since modified the design and  
+will use spiral bevel gears for the next one. The gearset is heavier  
+but the box will be lighter.
+
+I repaired one of the Mitrpak boxes I broke using higher strength  
+steel.  It will take at least 300W now.  In the end I did not like  
+the 1:2 ratio for such a light boat.  The big prop is a nuisance for  
+a variety of reasons. One less obvious problem is the induced roll  
+due to the higher torque.  It also has a greater tendency to "walk"  
+sideways than a higher speed prop.
+
+As far as gear ratio goes I determine a step up ratio between 4 to 5  
+to be near optimum for an easily driven boat.  Your 1:3.3 is not far  
+off optimum - way better than 1:2.  You only problem is getting a  
+shaft that is stiff enough torsionally while still able to curve.
+
+Vic
+The height of the seat on V15 is not much different to V14.  The step  
+in the deckline gives the impression of the seat being higher.
+
+The low deck at the cranks means the seating can be more upright,  
+which is something my sister wanted.  I prefer being more reclined  
+but like the low deck at the crank to keep the feet lower.  Helps  
+with blood flow to the feet.  Once moving there is little tendency  
+for water to wash onto the lower deck in waves because the divergent  
+wave from the bow forms a trough along the side of the hull. This  
+will be less so with a 6m long hull because the divergent waves are  
+smaller.
+
+I have continued to play with the V15 design mainly to simplify  
+construction and improve load paths for strength.  There are a few  
+people building various alternatives of this design.
+
+I would not recommend the extended fairing behind the seat.  It does  
+reduce frontal windage but this can be achieved with a shorter tail- 
+box.  It increases the roll force when side on to wind.  With wind on  
+the bow quarter there is a noticeable tendency to sail but this has  
+limited application.
+
+The V15 design has a distinct advantage over V14 when pushing into  
+wind and waves.  There is no tendency for water to wash back over the  
+bow when it buries and the reduced windage is significant in even  
+slight wind.  It also surfs better because the bow does not dive and  
+it does not flop roll with the outriggers set aft.
+
+The flat rocker increases the turning circle over V14 and this  
+requires making allowance when in tight spaces.  For this reason it  
+does have quite good reverse because I have limited the angle of  
+folding on the prop.  It is quite easy to get up to 5kph in reverse.   
+So in narrow canals she needs to execute a 3-point turn and think  
+about how the boat will be affected by any wind.  Her Hobie turned  
+much better but she averaged half the speed and had a few scares in  
+strong currents where she could not make headway.
+
+
+Rick Willoughby
+
+
+
+
+From bobstuart at sasktel.net  Wed Jan  5 14:40:09 2011
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Wed, 05 Jan 2011 16:40:09 -0600
+Subject: [hpv-boats] V15 Gearbox & Seating
+In-Reply-To: <6A093303-6A45-4139-A9F8-B77099F836D8@bigpond.net.au>
+References: <6A093303-6A45-4139-A9F8-B77099F836D8@bigpond.net.au>
+Message-ID: <DEC7F726-6FA8-4A78-B6B8-40429DA21BAF@sasktel.net>
+
+I think the advice on a step up of 1:5 or less only pertains to a  
+situation where the fluctuating torque of a single rider is used.  It  
+reduces the loss during the low-power parts of the cycle.  The high  
+pitch is a compromise, pushing water around as much as back.   
+Usually, the best efficiency is found when the pitch and diameter are  
+nearly the same, leading to a step-up of around 1:10 for a tandem  
+with the pedals out of phase.
+
+Bob Stuart
+
+On 5-Jan-11, at 4:08 PM, Rick Willoughby wrote:
+
+> Ian
+> I made the gearbox from a purchased 1:4 gearset.  They are straight  
+> cut bevel gears that cost USD100.
+>
+> The gearbox is noisier than spiral bevel gears but similar efficiency.
+>
+> This one weighed 2.8kg however I have since modified the design and  
+> will use spiral bevel gears for the next one. The gearset is  
+> heavier but the box will be lighter.
+>
+> I repaired one of the Mitrpak boxes I broke using higher strength  
+> steel.  It will take at least 300W now.  In the end I did not like  
+> the 1:2 ratio for such a light boat.  The big prop is a nuisance  
+> for a variety of reasons. One less obvious problem is the induced  
+> roll due to the higher torque.  It also has a greater tendency to  
+> "walk" sideways than a higher speed prop.
+>
+> As far as gear ratio goes I determine a step up ratio between 4 to  
+> 5 to be near optimum for an easily driven boat.  Your 1:3.3 is not  
+> far off optimum - way better than 1:2.  You only problem is getting  
+> a shaft that is stiff enough torsionally while still able to curve.
+>
+> Vic
+> The height of the seat on V15 is not much different to V14.  The  
+> step in the deckline gives the impression of the seat being higher.
+>
+> The low deck at the cranks means the seating can be more upright,  
+> which is something my sister wanted.  I prefer being more reclined  
+> but like the low deck at the crank to keep the feet lower.  Helps  
+> with blood flow to the feet.  Once moving there is little tendency  
+> for water to wash onto the lower deck in waves because the  
+> divergent wave from the bow forms a trough along the side of the  
+> hull. This will be less so with a 6m long hull because the  
+> divergent waves are smaller.
+>
+> I have continued to play with the V15 design mainly to simplify  
+> construction and improve load paths for strength.  There are a few  
+> people building various alternatives of this design.
+>
+> I would not recommend the extended fairing behind the seat.  It  
+> does reduce frontal windage but this can be achieved with a shorter  
+> tail-box.  It increases the roll force when side on to wind.  With  
+> wind on the bow quarter there is a noticeable tendency to sail but  
+> this has limited application.
+>
+> The V15 design has a distinct advantage over V14 when pushing into  
+> wind and waves.  There is no tendency for water to wash back over  
+> the bow when it buries and the reduced windage is significant in  
+> even slight wind.  It also surfs better because the bow does not  
+> dive and it does not flop roll with the outriggers set aft.
+>
+> The flat rocker increases the turning circle over V14 and this  
+> requires making allowance when in tight spaces.  For this reason it  
+> does have quite good reverse because I have limited the angle of  
+> folding on the prop.  It is quite easy to get up to 5kph in  
+> reverse.  So in narrow canals she needs to execute a 3-point turn  
+> and think about how the boat will be affected by any wind.  Her  
+> Hobie turned much better but she averaged half the speed and had a  
+> few scares in strong currents where she could not make headway.
+>
+>
+> Rick Willoughby
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+
+
+From rickwill at bigpond.net.au  Wed Jan  5 23:04:59 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 6 Jan 2011 18:04:59 +1100
+Subject: [hpv-boats] V15 Gearbox & Seating
+Message-ID: <DB073EBA-07B7-46B4-B748-0ABDD7C78EF6@bigpond.net.au>
+
+I am discussing a single person easily driven displacement hull.
+
+The optimisation around a ratio of 4 to 5 considers many factors:
+1.  I am running a 390mm diameter prop achieving 3.1m/s at 75rpm on  
+the crank.  Pitch of current prop is nominally 620mm. So P/D is 1.6.
+2. The optimum P/D is a function of the L/D of the blades.  The lower  
+the L/D the higher the P/D for best efficiency.  I am achieving an L/ 
+D around 20 at my operating condition over the working portion of the  
+blade. The most efficient part of the blade is toward the outside of  
+the blade.  My current blades have slightly larger chord toward the  
+outside but it is not much better than just constant chord blades,  
+which I often use.
+3. With the large diameter to thrust, I have very low disc loading so  
+this results in low slip - or high actuator disc efficiency.
+4.  The large diameter enables me to use only two blade prop while  
+still keeping high aspect blades.  This reduces induced drag on the  
+blades.  These two blades have sufficient strength to transmit the  
+thrust without flexing noticeably.  The minimum chord for a steel  
+blade capable of taking full sprint thrust of say 100N is not less  
+than 20mm.
+5. The torsional stiffness of the drive train favours spinning the  
+prop faster to avoid poor RMS to average power.  This was a key  
+factor with my dislike for the 1:2 ratio.  For this reason I consider  
+1:4 about the minimum ratio with a shaft drive system although there  
+may be some layup of carbon fibre that would work at lower ratios  
+without becoming unreasonably heavy.
+
+I could not imagine the circumstances with a displacement boat where  
+a ratio of 1:10 would result in the best efficiency.  There may be a  
+situation with very easily driven boat such as a hydrofoil where 1:10  
+could be close to optimum.  With my boat using a 250mm diameter prop  
+I would throw away 7% in disc losses compared with 3% with the 390mm  
+prop.
+
+If anyone is interested in prop optimisation they might find these  
+notes of interest:
+http://ocw.mit.edu/courses/mechanical-engineering/2-23-hydrofoils-and- 
+propellers-spring-2007/readings/kerwin_notes.pdf
+There are some useful curves toward the end that can be applied even  
+to the lightly loaded case of a pedal boat prop.
+
+Rick
+
+
+
+
+I think the advice on a step up of 1:5 or less only pertains to a
+situation where the fluctuating torque of a single rider is used.  It
+reduces the loss during the low-power parts of the cycle.  The high
+pitch is a compromise, pushing water around as much as back.
+Usually, the best efficiency is found when the pitch and diameter are
+nearly the same, leading to a step-up of around 1:10 for a tandem
+with the pedals out of phase.
+
+Bob Stuart
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+
+From iancassell at optusnet.com.au  Thu Jan  6 23:20:10 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Fri, 7 Jan 2011 18:20:10 +1100
+Subject: [hpv-boats] hpb boat
+Message-ID: <CC5069FC472D40F4B6FAF528BCD2EB12@HOME1>
+
+Rick
+       Have been playing around a bit with shafts and
+have got a straight 16mm aluminium shaft held in
+place with a skeg. The angle is 16 deg which is way
+off optimum but makes setting up easier. The flex 
+shafts always hit a dead spot at high revs and limits
+the top speed. I can lower the gearbox another 100mm
+by cutting out part of the hull for my feet and this improves
+the angle to 11deg. Don't know if the effort of doing this
+will greatly improve the performance, a bit of work and
+more weight.
+        Will be at the lake tomorrow.
+
+Ian
+
+
+
+
+
+
+
+
+
+
+
+From rickwill at bigpond.net.au  Fri Jan  7 00:58:59 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 7 Jan 2011 19:58:59 +1100
+Subject: [hpv-boats] Prop Shaft
+Message-ID: <1AFB1402-980A-4E98-BF1D-A39389DA2AD9@bigpond.net.au>
+
+Ian
+The angle does not affect efficiency greatly.  The main problem is  
+the vibration and high bending loads.  If you have to go to a heavy  
+shaft to reduce torsional compliance then it will be strong enough to  
+take the bending loads.  However I once bent a 12mm aluminium shaft  
+when going hard with a 1:3.5 reduction.
+
+My main issue with the inclined shaft is the ever present vibration.   
+It gets more noticeable as you go faster.  If this is not annoying  
+you then live with the current inclination.  You are probably looking  
+at hull number 3 to do the stepped deck.  I keep simplifying this  
+arrangement so it is easier to make.
+
+I have had a carbon fibre shaft wound for me with only diagonal  
+fibres so it is stiff torsionally but compliant in bending.  I am yet  
+to install it on anything.  It weighs a fraction of steel and even  
+lighter than aluminium but 4 times stiffer torsionally than my  
+current steel shaft.
+
+I have a reasonably accurate model now for assessing the impact of  
+shaft compliance.  A 12mm Al shaft that is 3m long, using your 1:3.3  
+ratio, will be robbing around 8% of your power input due to the shaft  
+torsional compliance.
+
+I should see you at the lake tomorrow.
+
+
+Rick
+        Have been playing around a bit with shafts and
+have got a straight 16mm aluminium shaft held in
+place with a skeg. The angle is 16 deg which is way
+off optimum but makes setting up easier. The flex
+shafts always hit a dead spot at high revs and limits
+the top speed. I can lower the gearbox another 100mm
+by cutting out part of the hull for my feet and this improves
+the angle to 11deg. Don't know if the effort of doing this
+will greatly improve the performance, a bit of work and
+more weight.
+         Will be at the lake tomorrow.
+
+Ian
+
+
+Rick Willoughby
+
+
+
+From rickwill at bigpond.net.au  Fri Jan  7 01:28:05 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 7 Jan 2011 20:28:05 +1100
+Subject: [hpv-boats] Prop Shaft
+Message-ID: <38AFFAC9-3E42-4153-BE09-1B0FB0AA135A@bigpond.net.au>
+
+Ian
+I forgot to add that going up to 16mm reduces the apparent loss to  
+the compliance to 1%.  So it is a significant improvement and close  
+to as good as you can get with a shaft drive system.  It will feel  
+very well connected to the prop.
+
+Your 16mm shaft has 60% of the stiffness of the 13.7mm OD, 10mm ID CF  
+shaft I have to test.
+
+If you are interested I can show you the dynamic analysis at my place  
+later in the day. Also the CF shaft and other things I am playing with.
+
+Rick Willoughby
+
+
+
+
+From marcopoloboats at aol.com  Fri Jan  7 05:51:51 2011
+From: marcopoloboats at aol.com (Mark Vermilion)
+Date: Fri, 7 Jan 2011 08:51:51 -0500
+Subject: [hpv-boats] Flex Shafts
+Message-ID: <1B1F97A6-653E-47AF-BE5C-205F2EA6CEE9@aol.com>
+
+Rick, Ian, et al,
+
+I now have delivery of the flexible cable shafts I ordered. They are 2  
+meters long, have a 7.94 wound core, and are made of 316 stainless  
+steel. The female couplers on each end accept 12 mm  shafts and have  
+an offset 6.35 mm hole drilled for a cotter pin to hold the shaft with  
+a corresponding half cut (per Rick's suggestion). The cable is covered  
+with a .5" o.d. nylon tube so that the cable can be clamped at various  
+points.
+
+These shafts can flex around objects and can even bend to 90 degrees  
+with enough curve radius. Possible advantages include using the prop  
+for steering and easy prop raising for shallow water.
+
+I am just now setting one up in my workshop, along with an MPB  
+MitrpakDrive and our PlanetDrive to see how well they work together.  
+All our water is frozen here, so I cannot test outside.
+
+Rick, if you are interested, I will send you one for free given all  
+the help you have provided. The shafts can be purchased for US $225,  
+US shipping included.
+
+Email me if you are interested and I will send photos.
+
+
+Thank  you,
+
+Mark A. Vermilion
+
+Marco Polo Boats, Inc.
+Exploring the past and future of small boat design
+1911 Smallbrook Drive
+Troy, Michigan 48085
+USA
+
+Tel & Fax   1-248-434-4187
+
+The information provided in this e-mail and any attachments is  
+proprietary to Marco Polo Boats, and is covered by the confidentiality  
+agreement on file with your company.  If you have received this e-mail  
+by mistake, please notify sender immediately and destroy the e-mail  
+and attachments.
+
+From greg at pedaltheocean.com  Fri Jan  7 12:05:17 2011
+From: greg at pedaltheocean.com (Greg Kolodziejzyk)
+Date: Fri, 7 Jan 2011 13:05:17 -0700
+Subject: [hpv-boats] The most basic approach to pedal powered boating
+Message-ID: <AANLkTimbkzADHFiMkah+OS9Xj1-sWx98==kEMkjg3CN0@mail.gmail.com>
+
+My buddy Binch Shin from South Korea sent me these videos:
+
+http://dynafeel.blog.me/120121342060
+
+From rickwill at bigpond.net.au  Fri Jan  7 12:51:03 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sat, 8 Jan 2011 07:51:03 +1100
+Subject: [hpv-boats] re Flex Shaft
+Message-ID: <55B1E9E9-4601-4156-AC46-7A4AF58853A5@bigpond.net.au>
+
+Mark
+While you are testing in the workshop can you measure the torsional  
+stiffness.  If you just give me the degrees it flexes with a certain  
+load at a known radius I can calculate the torsional stiffness.
+
+ From this value I can work out the apparent loss in the drive  
+train.  If this is similar to the CF shaft I have I will be  
+interested in testing one.
+
+My CF shaft is 3.1m long but it only needs to curve over 1.2m of its  
+length.  It would be easy to make a rigid extension from your shaft  
+to get the required length for an aft mounted prop.  The one-off CF  
+shaft cost me AUD300 but the cost would reduce for higher quantity.
+
+I am now mounting the prop behind the hull so it can easily flex  
+upward if it hits something solid.  I used a 10mm X 3mm tension strut  
+on V15 that can slide upward.
+
+A friend, building a pedal boat here, copied one of my fixed bladed  
+props and has moulded aluminium and bronze blades from the resulting  
+pattern.  He is also working on a lighter nylon/glass version.  He  
+only has a couple at this stage and he gave me one with aluminium  
+blades for testing.  It suits a ratio around 1:4 or a bit lower if  
+the hull moves easily.  The linked image gives an idea of what the  
+bronze one looks like:
+http://www.rickwill.bigpondhosting.com/Bronze_Folding_Prop.png
+He has talked about selling them if there is enough interest.
+
+Rick
+
+
+I now have delivery of the flexible cable shafts I ordered. They are 2
+meters long, have a 7.94 wound core, and are made of 316 stainless
+steel. The female couplers on each end accept 12 mm  shafts and have
+an offset 6.35 mm hole drilled for a cotter pin to hold the shaft with
+a corresponding half cut (per Rick's suggestion). The cable is covered
+with a .5" o.d. nylon tube so that the cable can be clamped at various
+points.
+
+These shafts can flex around objects and can even bend to 90 degrees
+with enough curve radius. Possible advantages include using the prop
+for steering and easy prop raising for shallow water.
+
+I am just now setting one up in my workshop, along with an MPB
+MitrpakDrive and our PlanetDrive to see how well they work together.
+All our water is frozen here, so I cannot test outside.
+
+Rick, if you are interested, I will send you one for free given all
+the help you have provided. The shafts can be purchased for US $225,
+US shipping included.
+
+Email me if you are interested and I will send photos.
+
+Thank  you,
+
+Mark A. Vermilion
+
+
+
+
+From giuseppe.carignani at gmail.com  Sun Jan  9 04:17:38 2011
+From: giuseppe.carignani at gmail.com (Giuseppe Carignani)
+Date: Sun, 9 Jan 2011 13:17:38 +0100
+Subject: [hpv-boats] re Flex Shaft
+In-Reply-To: <55B1E9E9-4601-4156-AC46-7A4AF58853A5@bigpond.net.au>
+References: <55B1E9E9-4601-4156-AC46-7A4AF58853A5@bigpond.net.au>
+Message-ID: <AANLkTikUr5oLfz1at0t4QBCk4HT5GgLXNRo_2xppouEb@mail.gmail.com>
+
+>
+>
+>
+Hi Rick, Mark and all
+I believe there is 'enough interest' both for the propeller and a complete
+flex shaft propulsion system.
+This opinion comes from the sustained growth of the Open Waterbike Project:
+the community is still tiny (just over ten thousand unique vistors, just a
+few hundreds members)  but autonomously growing nothwhitstanding our very
+limited resources. We have requests from individuals and firms, coming in
+ from countries as different as Brasil, Turkey, India (but now the
+baricenter has shifted from Europe to the US). Most people and perspective
+dealers and manufacturers are intersted in buying the drive system, while it
+seems appealing to most is the possibility of building locally  hulls and
+other less critical and cumbersome parts, and they seek technical support
+for that.
+I reckon the availability of a complete high performance drive system will
+be the turning point: maybe the dream of an 'Open' high performance pedal
+boat has a real possibility of becoming reality after all..m.
+
+Giuseppe Carignani
+Initiator, The Open Waterbike Project
+
+
+Rick Willoughby wrote:
+...
+A friend, building a pedal boat here, copied one of my fixed bladed props
+and has moulded aluminium and bronze blades from the resulting pattern.  He
+is also working on a lighter nylon/glass version.  He only has a couple at
+this stage and he gave me one with aluminium blades for testing.  It suits a
+ratio around 1:4 or a bit lower if the hull moves easily.  The linked image
+gives an idea of what the bronze one looks like:
+http://www.rickwill.bigpondhosting.com/Bronze_Folding_Prop.png
+He has talked about selling them if there is enough interest.
+
+Rick
+
+From flareking at talktalk.net  Mon Jan 10 15:26:12 2011
+From: flareking at talktalk.net (dennis)
+Date: Mon, 10 Jan 2011 23:26:12 -0000
+Subject: [hpv-boats] Single person easily driven displacement hull drive
+	systems
+Message-ID: <90BDD3CD29494158B816729DA2D55540@den>
+
+Hi Rick
+
+As you are aware I have suffered several design failures on my manufactured props caused by excessive slipping of up to 30%.
+This stalling was virtually throughout the operational range and predicted by Theo Schmidt in his 1999 paper on Propsim.
+He advises slender type blades with high pitch /dia ratios are subject to stalling.
+My APC 16 x16 only slipped a maximum of  2 to 3 % but when I made a new version with a pitch of 24" the problem started.
+Your design for the constant cord prop suffered slightly worse, but the problem was over come by widening the cord which I did to the extreme ( this I believe created increased drag due to the larger surface area).
+The slipping is created by the greater resistance of my boat compared to your V14 boat
+What this really shows is that there can be no hard and fast rules as the prop must be tuned to the application ie the boat.
+I like you feel that a 4 to 1 gear ratio is about right, bur like Bob Stuart I also feel that  if the pitch and dia are equal the prop is more flexible 
+and even though the revs would be higher the efficiency might be better.  To sum it up regardless of the prop design programmes, prop design it still very trial and error
+
+Dennis a   
+
+From rickwill at bigpond.net.au  Mon Jan 10 16:17:19 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 11 Jan 2011 11:17:19 +1100
+Subject: [hpv-boats] Single person easily driven displacement hull drive
+	systems
+Message-ID: <46A96D97-4EF1-478C-A492-E4B817121533@bigpond.net.au>
+
+Dennis
+I expect when you get your stabilisers mounted at the right height  
+you will find the narrow chord, high pitch prop will work fine.  They  
+may need a redesign to work well.
+
+Right now your boat has much more drag than it should.  In your  
+summer I hope you get the opportunity to set it up correctly.  The  
+stabilisers should literally skim the surface once at design speed.   
+My stabilises sit about 20mm above the surface when at rest.  At  
+11kph the sinkage and bow wave combine to get their stern just  
+touching.  This is what you should aim for.
+
+The prop design can be done with great precision but it is reliant on  
+accurate determination of the boat drag, which equals the prop  
+thrust.  Your main hull is not draggy but your stabilises will be if  
+continually loaded in any way.
+
+I have found flat bottom stabilises, 2m long and 100mm wide to be  
+about the best.  They achieve close to maximum stability as soon as  
+they hit the surface. So there is little tendency to flop roll even  
+though they sit above the surface most of the time in calm water or  
+clip waves in rougher water.
+
+If you cannot reduce the drag then you would be better off going to a  
+slightly larger diameter prop with similar pitch and slightly large  
+blade area.  But you should fix the high drag problem before going to  
+this measure.
+
+My prop blades usually operate with a negative angle of attack so are  
+a long way from stalling.  The 25mm chord is a little more forgiving  
+in strong wind than a wider blade.
+
+You will note that the prop my friend has copied and turned into a  
+folding prop has a maximum chord of 45mm.  This will work OK on quite  
+draggy hulls but is not as efficient as my 25mm chord on V14.
+
+I am glad you find 1:4 a nice ratio and look forward to some more  
+performance results when you get decent stabilises properly set.   
+This is where you will get the most immediate gain.  Then try the  
+25mm chord prop.
+
+Rick
+
+Single person easily driven displacement hull drive systems
+
+Hi Rick
+
+As you are aware I have suffered several design failures on my  
+manufactured props caused by excessive
+slipping of up to 30%.
+This stalling was virtually throughout the operational range and  
+predicted by Theo Schmidt in his 1999
+paper on Propsim.
+He advises slender type blades with high pitch /dia ratios are  
+subject to stalling.
+My APC 16 x16 only slipped a maximum of  2 to 3 % but when I made a  
+new version with a pitch of 24" the problem started.
+Your design for the constant cord prop suffered slightly worse, but  
+the problem was over come by widening
+the cord which I did to the extreme ( this I believe created  
+increased drag due to the larger surface area).
+The slipping is created by the greater resistance of my boat compared  
+to your V14 boat
+What this really shows is that there can be no hard and fast rules as  
+the prop must be tuned to the application
+ie the boat.
+I like you feel that a 4 to 1 gear ratio is about right, bur like Bob  
+Stuart I also feel that  if the pitch and dia
+are equal the prop is more flexible
+and even though the revs would be higher the efficiency might be  
+better.  To sum it up regardless of the prop
+design programmes, prop design it still very trial and error
+
+Dennis a
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+
+From vgarza2 at satx.rr.com  Mon Jan 10 16:26:37 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Mon, 10 Jan 2011 18:26:37 -0600
+Subject: [hpv-boats] Single person easily driven displacement hull
+	drivesystems
+In-Reply-To: <90BDD3CD29494158B816729DA2D55540@den>
+References: <90BDD3CD29494158B816729DA2D55540@den>
+Message-ID: <BB36050D9F1241ADAB0AEED09CB7335A@vgarzaPC>
+
+
+> What this really shows is that there can be no hard and fast rules as the 
+> prop must be tuned to the application ie the boat.
+> I like you feel that a 4 to 1 gear ratio is about right, bur like Bob 
+> Stuart I also feel that  if the pitch and dia are equal the prop is more 
+> flexible
+> and even though the revs would be higher the efficiency might be better. 
+> To sum it up regardless of the prop design programmes, prop design it 
+> still very trial and error
+>
+> Dennis a
+
+Dennis, I think the statements above are a good summary.  I would approach 
+it by defining the end goal first and consider the motor you have to work 
+with, then work backwards. Prioritize the main goal whether it is sprinting, 
+endurance, draft, weight,  durability, etc. Computer design programs can be 
+helpful but tweaking through dynamic testing can be used for further 
+improvement.  I think
+Rick does that on some level, otherwise why all the different creations? His 
+sister's boat uses a limited range folder and perhaps has other changes 
+compared to his own...
+
+Vic 
+
+
+--
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 1101 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From vgarza2 at satx.rr.com  Mon Jan 10 16:36:21 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Mon, 10 Jan 2011 18:36:21 -0600
+Subject: [hpv-boats] Single person easily driven displacement
+	hulldrivesystems
+In-Reply-To: <BB36050D9F1241ADAB0AEED09CB7335A@vgarzaPC>
+References: <90BDD3CD29494158B816729DA2D55540@den>
+	<BB36050D9F1241ADAB0AEED09CB7335A@vgarzaPC>
+Message-ID: <E43E5442B0CB4140947C7FCD72F64E1C@vgarzaPC>
+
+OOPs, didn't know Rick was there when I posted. Apologies for answering 
+someone else's question.
+
+Vic
+----- Original Message ----- 
+From: "v garza" <vgarza2 at satx.rr.com>
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Sent: Monday, January 10, 2011 6:26 PM
+Subject: Re: [hpv-boats] Single person easily driven displacement 
+hulldrivesystems
+
+
+>
+>> What this really shows is that there can be no hard and fast rules as the 
+>> prop must be tuned to the application ie the boat.
+>> I like you feel that a 4 to 1 gear ratio is about right, bur like Bob 
+>> Stuart I also feel that  if the pitch and dia are equal the prop is more 
+>> flexible
+>> and even though the revs would be higher the efficiency might be better. 
+>> To sum it up regardless of the prop design programmes, prop design it 
+>> still very trial and error
+>>
+>> Dennis a
+>
+> Dennis, I think the statements above are a good summary.  I would approach 
+> it by defining the end goal first and consider the motor you have to work 
+> with, then work backwards. Prioritize the main goal whether it is 
+> sprinting, endurance, draft, weight,  durability, etc. Computer design 
+> programs can be helpful but tweaking through dynamic testing can be used 
+> for further improvement.  I think
+> Rick does that on some level, otherwise why all the different creations? 
+> His sister's boat uses a limited range folder and perhaps has other 
+> changes compared to his own...
+>
+> Vic
+>
+> --
+> I am using the free version of SPAMfighter.
+> We are a community of 7 million users fighting spam.
+> SPAMfighter has removed 1101 of my spam emails to date.
+> Get the free SPAMfighter here: http://www.spamfighter.com/len
+>
+> The Professional version does not have this message
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> 
+
+
+--
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 1101 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From rickwill at bigpond.net.au  Mon Jan 10 16:59:10 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 11 Jan 2011 11:59:10 +1100
+Subject: [hpv-boats] Stabilisers
+Message-ID: <25BF31F5-8A1E-41DF-9A41-995038CBD486@bigpond.net.au>
+
+Dennis
+Some time ago I took a clip of one of my stabilises operating in calm  
+water.
+
+The boat is doing about 10kph in this clip:
+http://www.rickwill.bigpondhosting.com/Stabiliser.wmv
+The port stabiliser is doing exactly the same because the boat was  
+level.  That is all they should be doing if set up right.  In waves  
+they can be even set higher but I do not have easy adjustment to  
+enable that.
+
+The initial stability is related to the second moment of area of the  
+water plane alone.  So what counts is how much moment you gain with a  
+slight list.  Having a long flat stabiliser set about 1m from the  
+centre of the main hull will rapidly increase the second moment of  
+area with very little list.  Being long and slender the drag does not  
+increase much if it is lightly loaded.  That is the objective I set  
+out to achieve with the shape of my stabilisers.
+
+
+Rick Willoughby
+
+
+
+From vgarza2 at satx.rr.com  Tue Jan 11 08:39:19 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Tue, 11 Jan 2011 10:39:19 -0600
+Subject: [hpv-boats] re Flex Shaft
+In-Reply-To: <AANLkTikUr5oLfz1at0t4QBCk4HT5GgLXNRo_2xppouEb@mail.gmail.com>
+References: <55B1E9E9-4601-4156-AC46-7A4AF58853A5@bigpond.net.au>
+	<AANLkTikUr5oLfz1at0t4QBCk4HT5GgLXNRo_2xppouEb@mail.gmail.com>
+Message-ID: <3AF1DB95D1034805967CD266AA998AEC@vgarzaPC>
+
+This commercial product is not a flex shaft, but is available for those 
+inquires looking for a drive system. http://www.prophish.com/pedalboats.html 
+It appears to be a rugged (Jose's adventure NY-Rio), somewhat adaptable unit 
+with built in steering and easy lift and lower. Don't know the drive ratio, 
+but possibly adaptable to a version of Rick's prop which would improve 
+efficiency.
+
+Hope this helps.
+
+Vic
+----- Original Message ----- 
+From: "Giuseppe Carignani" <giuseppe.carignani at gmail.com>
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Sent: Sunday, January 09, 2011 6:17 AM
+Subject: Re: [hpv-boats] re Flex Shaft
+
+
+> >
+>>
+>>
+> Hi Rick, Mark and all
+> I believe there is 'enough interest' both for the propeller and a complete
+> flex shaft propulsion system.
+> This opinion comes from the sustained growth of the Open Waterbike 
+> Project:
+> the community is still tiny (just over ten thousand unique vistors, just a
+> few hundreds members)  but autonomously growing nothwhitstanding our very
+> limited resources. We have requests from individuals and firms, coming in
+> from countries as different as Brasil, Turkey, India (but now the
+> baricenter has shifted from Europe to the US). Most people and perspective
+> dealers and manufacturers are intersted in buying the drive system, while 
+> it
+> seems appealing to most is the possibility of building locally  hulls and
+> other less critical and cumbersome parts, and they seek technical support
+> for that.
+> I reckon the availability of a complete high performance drive system will
+> be the turning point: maybe the dream of an 'Open' high performance pedal
+> boat has a real possibility of becoming reality after all..m.
+>
+> Giuseppe Carignani
+> Initiator, The Open Waterbike Project
+>
+>
+> Rick Willoughby wrote:
+> ...
+> A friend, building a pedal boat here, copied one of my fixed bladed props
+> and has moulded aluminium and bronze blades from the resulting pattern. 
+> He
+> is also working on a lighter nylon/glass version.  He only has a couple at
+> this stage and he gave me one with aluminium blades for testing.  It suits 
+> a
+> ratio around 1:4 or a bit lower if the hull moves easily.  The linked 
+> image
+> gives an idea of what the bronze one looks like:
+> http://www.rickwill.bigpondhosting.com/Bronze_Folding_Prop.png
+> He has talked about selling them if there is enough interest.
+>
+> Rick
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+--
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 1105 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From lhsmith at wvi.com  Tue Jan 11 11:55:30 2011
+From: lhsmith at wvi.com (Larry H. Smith)
+Date: Tue, 11 Jan 2011 11:55:30 -0800
+Subject: [hpv-boats] Single person easily driven displacement hull /
+	planing stabilizers
+In-Reply-To: <46A96D97-4EF1-478C-A492-E4B817121533@bigpond.net.au>
+References: <46A96D97-4EF1-478C-A492-E4B817121533@bigpond.net.au>
+Message-ID: <efe082ade960649704495620e088efac@wvi.com>
+
+
+On Jan 10, 2011, at 4:17 PM, Rick Willoughby wrote:
+> I have found flat bottom stabilisers, 2m long and 100mm wide to be 
+> about the best.  They achieve close to maximum stability as soon as 
+> they hit the surface.
+
+Hello Rick,
+
+Though I mostly "lurk" in this forum these days, i always appreciate 
+the contributions of you and others who have much more understanding of
+the design use of math, computers, etc., than myself. Prop-stuff is way 
+over my head. ;-)
+
+Regarding your suggestion for stabilizer shape:  I am wondering whether 
+facts related to "planing" conditions entered into your "flat bottom" 
+decision, ...i.e. when visualizing the stabilizer as an independent 
+hull, the speed/length ratio of the immersed portion of the stabilizer 
+is very much greater than that of the main hull, and thus into commonly 
+accepted "planing" territory. Also, as the main hull bow rises with 
+speed, the stabilizer angle of attack may approach (or could be 
+designed to approach) nearly ideal planing angles (4-5 degrees?)?
+
+Of course choppy water changes the AofA constantly, but it seems likely 
+that in calm water these observations would be pertinent.
+
+Unless the hull is momentarily overly unstable, only the rearmost 
+undersurface of the stabilizer should be in contact, so the aspect 
+ratio of the contact area should also be in a favorable range for 
+planing.
+
+I'd value your thoughts,
+
+PS - I remain in awe of your speed of implementation of ideas and 
+fabrication of models!
+
+Larry
+
+
+From flareking at talktalk.net  Tue Jan 11 12:49:46 2011
+From: flareking at talktalk.net (dennis)
+Date: Tue, 11 Jan 2011 20:49:46 -0000
+Subject: [hpv-boats] Single person easily driven displacement Hull
+Message-ID: <358B485C61974DAE8A7E3DF362415253@den>
+
+Rick
+
+Sorry , but I must have confused you slightly, the boat was fitted with narrow flat bottomed stabilisers for the last few tests. These were mounted about 30 mm clear of the water surface and parallel to the boat bottom
+.
+I still suspect the 185 mm wide square stern and have been thinking of raising this up by moving the my seat and drive system 75 mm forward. which intern would lower the front slightly. 
+
+From rickwill at bigpond.net.au  Wed Jan 12 13:54:57 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 13 Jan 2011 08:54:57 +1100
+Subject: [hpv-boats] Planing Stabilisers
+Message-ID: <02E2379A-A611-4CD8-9EDA-F2A23519AC98@bigpond.net.au>
+
+Larry
+You are right about the stabilisers operating primarily with dynamic  
+lift at typical operating speed because they are very lightly loaded.
+
+I consider the shape I have arrived at hard to better for all round  
+performance.  There would be advantage in being able to trim the  
+height when in operation but mine are set at a suitable average.
+
+Wide transoms on planing hulls actually suck the stern down at semi- 
+planing speed so readily trim bow-up and then provide a high aspect  
+lifting surface at the transom when at high speed.  So they are  
+beneficial where there is a lot of power to get on the plane and then  
+operate at high speed.  A wide transom would not offer any benefit on  
+my stabilisers and would add extra drag when pushing through waves.
+
+Rick Willoughby
+
+
+
+From rickwill at bigpond.net.au  Wed Jan 12 14:30:27 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 13 Jan 2011 09:30:27 +1100
+Subject: [hpv-boats] Single person easily driven displacement Hull
+Message-ID: <05C0337A-BC94-444F-AE21-DEFDD4627332@bigpond.net.au>
+
+Dennis
+I had not realised you had built new stabilisers.
+
+When you get back on the water I would be interested in seeing some  
+video of your boat in operation.
+
+There is some potential for aft-down trim to add noticeable drag.   
+There would be considerable turbulence associated with the sort of  
+energy you are losing and a video will help identify where the  
+problem is.
+
+If the stabilisders are no longer dragging then your proposal to  
+shift weight forward to lift the stern is a good option for next trial.
+
+The tools are there to optimise your hull shape for minimum drag and  
+this will be a much faster method of arriving at the best hull than  
+endless trial and error.
+
+
+
+
+
+Rick
+
+Sorry , but I must have confused you slightly, the boat was fitted  
+with narrow flat bottomed stabilisers for
+the last few tests. These were mounted about 30 mm clear of the water  
+surface and parallel to the boat bottom
+.
+I still suspect the 185 mm wide square stern and have been thinking  
+of raising this up by moving the my seat and
+drive system 75 mm forward. which intern would lower the front slightly.
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+
+From iancassell at optusnet.com.au  Sun Jan 16 03:35:32 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Sun, 16 Jan 2011 22:35:32 +1100
+Subject: [hpv-boats] Outriggers
+Message-ID: <BF2D3040AD8F486DB37D3ADB219A5BCA@HOME1>
+
+Rick
+       Had the boat out on Saturday afternoon at the lake.
+Weather was calm so I raised the outriggers another
+20mm. The boat boat felt a bit unstable with the outriggers
+just touching the water. Cranked the speed up for a few
+sprints but as I don't have a GPS couldn't tell you the
+speed. The straight shaft enables me to push hard without
+hitting a dead spot, the shaft angle of 16 deg means a 
+loss in efficiency. Quite a bit of weed about so I mainly 
+stayed down the southern end trying to pace the sailing boats. Current setup has a skeg which adds to the drag 
+and might try a smaller rudder next time. Overall pleased
+with the way the boat is, light to carry and quick and
+easy to setup. 
+
+Ian
+
+From rickwill at bigpond.net.au  Sun Jan 16 13:05:02 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 17 Jan 2011 08:05:02 +1100
+Subject: [hpv-boats] Outriggers
+Message-ID: <910D13D5-259A-43E9-AE1E-F56A166C0475@bigpond.net.au>
+
+Ian
+I left the lake around midday Saturday - a pity I did not see you.
+
+I thought your outriggers were reasonably well adjusted previously.   
+You want them positioned so you your are stable when moving.  This  
+will mean a little flop roll at rest.
+
+The 16mm shaft is 3X stiffer torsionally than the 12mm and improves  
+RMS to average power input substantially.  You could still get a  
+curved shaft of similar torsional stiffness by combining the 16mm  
+aluminium through the hull with 8mm spring steel below the hull.  The  
+length of steel just enough to give the curve. I can help with the  
+join.  This is what I ended up doing on V15.
+
+I did a couple of full length runs of the lake now that it is near  
+full height but weed was a nuisance.  The folding prop sheds it OK  
+but it means regularly coasting to fold the blades.
+
+You need to get a GPS so you can get some measured data.   Maybe next  
+weekend we can have good weather and be somewhere at the same time.
+
+How bad is the prop vibration?
+
+Rick Willoughby
+
+
+From iancassell at optusnet.com.au  Mon Jan 17 02:16:57 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Mon, 17 Jan 2011 21:16:57 +1100
+Subject: [hpv-boats] Rigid Shaft
+Message-ID: <53583018087644B4B02407330E855758@HOME1>
+
+Rick
+       When I first used the 16mm rigid shaft it vibrated 
+a bit but its something I don't notice now. Inside the 16mm
+aluminium tube I have a wooden rod glued into place.
+I kept coating the rod with an expanding glue as I 
+pushed it into the tube. This makes the shaft more rigid 
+as well as a bit stiffer torsionally.
+        With the 16mm shaft angle I am thinking of making
+another prop with a different pitch. For example the prop
+at one point is angled at 55 deg but with the 16 deg shaft
+angle the actual angle is 71 deg. The prop is only at
+optimum in the horizontal and looses in the vertical. If
+I made a 4 blade prop with a different pitch to suit the
+shaft angle there would be more prop at optimum thrust.
+I might be way out here but it would be interesting to see
+how such a prop would work.
+        Where I often go at the rowing course and the river 
+weed is not a problem, just bump into a jellyfish now
+and then.
+         Had a lot of expenses of late so the GPS has 
+been put on the backburner. Have to do timed runs at 
+the rowing course.
+
+Ian
+
+From flareking at talktalk.net  Mon Jan 17 14:16:02 2011
+From: flareking at talktalk.net (dennis)
+Date: Mon, 17 Jan 2011 22:16:02 -0000
+Subject: [hpv-boats] Rigid Shaft
+Message-ID: <1CD970955A444C9C962D764A17B01FF4@den>
+
+Ian
+if you are using a rigid prop,it is possible to modify the prop mounting so that you achieve no vibration and get the full power out of the prop. This requires a small slot in the prop hub so that it can pivot around a pin and be vertical when in the vertical plain.  This is a sort of restricted universal joint that was developed by David Witt at Oxford university.
+
+I have wondered if this system could be further refined so that it would operate on a folding prop with suitable positioned stops.
+
+Dennis   
+
+From rickwill at bigpond.net.au  Mon Jan 17 23:08:41 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 18 Jan 2011 18:08:41 +1100
+Subject: [hpv-boats] Magnetic Transmission
+Message-ID: <70077A14-7E30-49BF-9DF1-7DBC27769DF5@bigpond.net.au>
+
+I have been playing around with the idea of making a magnetic right  
+angle drive unit for a while.  Over the past few months I invested in  
+some magnets and built a prototype:
+http://www.youtube.com/watch?v=jCuCmzcjpao
+
+The video shows the torque test.  I have a 5kg weight suspended on a  
+lever arm connected to the output shaft.  The lever gets out to 230mm  
+before the magnets let go. This particular variant has a ratio of  
+1:3.3 and gives in at 11Nm on the output shaft.
+
+The torque at this ratio is ample for cruising to speed of up to  
+12.5kph but would give out in a sprint.
+
+The unit was not executed to the initial design because I could not  
+get the quantity of magnets of the particular size I wanted.  It was  
+intended as a 1:5 step up but I could not get the alignment right  
+with only 4 magnets on the output so went up to 6 thus reducing the  
+ratio.  However I got better than a commensurate increase in torque.
+
+This unit is extremely robust and heavier than I would want in a  
+boat.  One feature is that the weight is distributed at a large  
+radius so the crank and output both have high rotational inertia -  
+flywheels if you like.  This leads to smoother pedaling and can  
+compensate a little for a torsionally compliant prop shaft.   Another  
+feature is the load limiting on the prop shaft.
+
+If I made it to tighter tolerance I could get higher torque.  In a  
+way this would defeat the original idea because I was exploring the  
+concept for ease of building without need for precision machining.
+
+I expect with ideal magnet selection and simple method of  
+construction this arrangement could be built for under AUD200.
+
+Rick Willoughby
+
+
+
+From iancassell at optusnet.com.au  Tue Jan 18 02:09:49 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Tue, 18 Jan 2011 21:09:49 +1100
+Subject: [hpv-boats] Universal Joint
+Message-ID: <B47E0A6F37F945FA8F074B42739331DB@HOME1>
+
+Dennis
+          On my first boat I had two universal joints
+to get the prop vertical. The shaft coming off the
+gearbox was 25 deg and it resulted in the first change
+in angle at 14 deg and the second at 11 deg. I broke
+both universal joints at different times. After upgrading 
+to stronger ones I still had problems with the pins
+working loose. Also it was not a smooth pedalling
+action because of the angle. 
+         Would be interested to have a look at the
+restricted universal joint you mentioned. Has he a
+website or any info on the internet?
+
+Ian 
+
+From flareking at talktalk.net  Tue Jan 18 12:58:36 2011
+From: flareking at talktalk.net (dennis)
+Date: Tue, 18 Jan 2011 20:58:36 -0000
+Subject: [hpv-boats] Pivoting prop
+Message-ID: <3F939F874CC24A9DA2831DF09C6D1880@den>
+
+Ian
+ 
+David Witt has several published articles on his boats.These can be found under David Witt pedal boats in google. 
+The pivoting prop is not really a universal joint and is not very well described but can be found in his article published by Human Power  44V 13n1 1997.
+This can be found at BHPC.org Human Power Journals.
+It is simply a slot and a pivot so that the prop can find its own vertical position. I would have thought that a 6 to 8 mm pin would be strong enough for the prop to pivot on but a collar should be used to prevent the prop falling off if the pin broke as did your u-joints.
+
+Dennis
+
+From vgarza2 at satx.rr.com  Tue Jan 18 16:57:29 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Tue, 18 Jan 2011 18:57:29 -0600
+Subject: [hpv-boats] Magnetic Transmission
+In-Reply-To: <70077A14-7E30-49BF-9DF1-7DBC27769DF5@bigpond.net.au>
+References: <70077A14-7E30-49BF-9DF1-7DBC27769DF5@bigpond.net.au>
+Message-ID: <C7965C064A374819984504F6420041F5@vgarzaPC>
+
+Thanks for the film clip, great concept. I use these guys who have a large 
+selection of neodymium magnets to grade 52 http://www.kjmagnetics.com/  Some 
+of their smaller magnets are very lightweight and low cost and so strong 
+they can't be pulled apart. Plating may be a little thin for your type of 
+project, though.
+
+Vic
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Tuesday, January 18, 2011 1:08 AM
+Subject: [hpv-boats] Magnetic Transmission
+
+
+>I have been playing around with the idea of making a magnetic right  angle 
+>drive unit for a while.  Over the past few months I invested in  some 
+>magnets and built a prototype:
+> http://www.youtube.com/watch?v=jCuCmzcjpao
+>
+> The video shows the torque test.  I have a 5kg weight suspended on a 
+> lever arm connected to the output shaft.  The lever gets out to 230mm 
+> before the magnets let go. This particular variant has a ratio of  1:3.3 
+> and gives in at 11Nm on the output shaft.
+>
+> The torque at this ratio is ample for cruising to speed of up to  12.5kph 
+> but would give out in a sprint.
+>
+> The unit was not executed to the initial design because I could not  get 
+> the quantity of magnets of the particular size I wanted.  It was  intended 
+> as a 1:5 step up but I could not get the alignment right  with only 4 
+> magnets on the output so went up to 6 thus reducing the  ratio.  However I 
+> got better than a commensurate increase in torque.
+>
+> This unit is extremely robust and heavier than I would want in a  boat. 
+> One feature is that the weight is distributed at a large  radius so the 
+> crank and output both have high rotational inertia -  flywheels if you 
+> like.  This leads to smoother pedaling and can  compensate a little for a 
+> torsionally compliant prop shaft.   Another  feature is the load limiting 
+> on the prop shaft.
+>
+> If I made it to tighter tolerance I could get higher torque.  In a  way 
+> this would defeat the original idea because I was exploring the  concept 
+> for ease of building without need for precision machining.
+>
+> I expect with ideal magnet selection and simple method of  construction 
+> this arrangement could be built for under AUD200.
+>
+> Rick Willoughby
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> 
+
+
+--
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 1117 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From vgarza2 at satx.rr.com  Tue Jan 18 17:09:56 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Tue, 18 Jan 2011 19:09:56 -0600
+Subject: [hpv-boats] Rigid Shaft
+In-Reply-To: <53583018087644B4B02407330E855758@HOME1>
+References: <53583018087644B4B02407330E855758@HOME1>
+Message-ID: <D03285F49E3F4025A0092B5CA9A306B4@vgarzaPC>
+
+If that 71 degrees is off the horizontal, seems like a long, untethered flex 
+shaft could be used to correct, since it always remain at the optimum. I 
+don't know the configuration of your boat, so you may have already 
+considered and rejected due to your arrangement. When Greg K set his 24 hour 
+distance record with an untethered shaft, it only amounted to about a 2% 
+improvement compared to a skeg and inclined rigid shaft, but I don't know if 
+the angle of inclination was ever as great as 71 degrees...
+
+Hope this helps.
+
+Vic
+----- Original Message ----- 
+From: "Ian Cassell" <iancassell at optusnet.com.au>
+To: "Human Powered Vehicles --Boats" <hpv-boats at bikelist.org>
+Sent: Monday, January 17, 2011 4:16 AM
+Subject: [hpv-boats] Rigid Shaft
+
+
+> Rick
+>       When I first used the 16mm rigid shaft it vibrated
+> a bit but its something I don't notice now. Inside the 16mm
+> aluminium tube I have a wooden rod glued into place.
+> I kept coating the rod with an expanding glue as I
+> pushed it into the tube. This makes the shaft more rigid
+> as well as a bit stiffer torsionally.
+>        With the 16mm shaft angle I am thinking of making
+> another prop with a different pitch. For example the prop
+> at one point is angled at 55 deg but with the 16 deg shaft
+> angle the actual angle is 71 deg. The prop is only at
+> optimum in the horizontal and looses in the vertical. If
+> I made a 4 blade prop with a different pitch to suit the
+> shaft angle there would be more prop at optimum thrust.
+> I might be way out here but it would be interesting to see
+> how such a prop would work.
+>        Where I often go at the rowing course and the river
+> weed is not a problem, just bump into a jellyfish now
+> and then.
+>         Had a lot of expenses of late so the GPS has
+> been put on the backburner. Have to do timed runs at
+> the rowing course.
+>
+> Ian
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+--
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 1117 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From iancassell at optusnet.com.au  Wed Jan 19 04:01:43 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Wed, 19 Jan 2011 23:01:43 +1100
+Subject: [hpv-boats] Rigid Shaft
+Message-ID: <6C7EA5395F354869B2934BF36CA8C3A2@HOME1>
+
+Vic
+      I have previously been using a flex shaft but I could
+never do a flat out sprint because of the shaft going
+through the dead spot. The rigid shaft allows me to
+go as hard as I can but the prop is not at the vertical.
+I use an involute gearbox connected directly to the
+shaft, this makes things simple to build and setup.
+I could improve the angle but would get 11 deg max.
+and involve a bit of work on the boat. 
+       My prop blade starts at 20 deg off the horizontal
+next to the hub and gradually increases to 55 deg at 
+the tip. The prop is 400mm dia, with the prop angled
+at 16 deg off the vertical the angle of the blades to
+the water increases. If I make a prop with the blades
+at 36 deg next to the hub and increase to 71 deg at
+the tip the blade should be at the same angle as a
+vertical prop. However on the other side of the prop
+the angles will be way out and may cause drag on 
+the prop. A four blade prop might be better in this
+regard as there would be more prop blades closer
+to the optimum.
+        I don't have any data worked out as prop design
+is a bit over my head, I use java prop for sizing.
+
+Ian 
+
+From vgarza2 at satx.rr.com  Wed Jan 19 05:18:16 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Wed, 19 Jan 2011 07:18:16 -0600
+Subject: [hpv-boats] Rigid Shaft
+In-Reply-To: <6C7EA5395F354869B2934BF36CA8C3A2@HOME1>
+References: <6C7EA5395F354869B2934BF36CA8C3A2@HOME1>
+Message-ID: <135CDA0AE19044238EBB87645C50361D@vgarzaPC>
+
+Why a dead spot with the flex and not the rigid is what I am wondering? If 
+it because of the torsional difference, then a stiffer flex shaft (CF) like 
+Rick is using might be a consideration. Or perhaps a thicker but longer 
+steel shaft with some flex might be a consideration, if it can bring the 
+prop closer to the horizontal. Flywheels either with a heavy prop or crank 
+or eliptical? sprockets might be a consideration to take up a dead spot but 
+seem like a lot of trouble and introduce other issues.  A 4 blade may give 
+you more flywheel effect but also not be as efficient under HP due to 
+increased water friction on the blade surface, from what I have gathered. 
+The 4 blade alone will not change the angle and you will still have the 
+other side of even more blades not aligned to the horizontal at any one 
+time,  it would seem to me.
+
+Hope there's some ideas you can use in there, but again you may have 
+considered and rejected due to cost or negative trade offs in your design.
+
+Vic
+----- Original Message ----- 
+From: "Ian Cassell" <iancassell at optusnet.com.au>
+To: "Human Powered Vehicles --Boats" <hpv-boats at bikelist.org>
+Sent: Wednesday, January 19, 2011 6:01 AM
+Subject: [hpv-boats] Rigid Shaft
+
+
+> Vic
+>      I have previously been using a flex shaft but I could
+> never do a flat out sprint because of the shaft going
+> through the dead spot. The rigid shaft allows me to
+> go as hard as I can but the prop is not at the vertical.
+> I use an involute gearbox connected directly to the
+> shaft, this makes things simple to build and setup.
+> I could improve the angle but would get 11 deg max.
+> and involve a bit of work on the boat.
+>       My prop blade starts at 20 deg off the horizontal
+> next to the hub and gradually increases to 55 deg at
+> the tip. The prop is 400mm dia, with the prop angled
+> at 16 deg off the vertical the angle of the blades to
+> the water increases. If I make a prop with the blades
+> at 36 deg next to the hub and increase to 71 deg at
+> the tip the blade should be at the same angle as a
+> vertical prop. However on the other side of the prop
+> the angles will be way out and may cause drag on
+> the prop. A four blade prop might be better in this
+> regard as there would be more prop blades closer
+> to the optimum.
+>        I don't have any data worked out as prop design
+> is a bit over my head, I use java prop for sizing.
+>
+> Ian
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+--
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 1117 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From rickwill at bigpond.net.au  Sun Feb 13 02:35:08 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 13 Feb 2011 21:35:08 +1100
+Subject: [hpv-boats] Pedal Thruster
+Message-ID: <716C598F-2B8D-4016-AF9A-3473EF7C2A22@bigpond.net.au>
+
+We did some testing of the pedal thrusters I made for the sailing  
+catamaran today.
+
+Here is a video of one in operation:
+http://www.rickwill.bigpondhosting.com/pedal_power.wmv
+I was pedalling as well while videoing hence the camera movement.  We  
+were able to sustain 2kts into a mild headwind.  In calm conditions  
+we got to 2.3kts at sustainable power.  Sprint speed was 3kts.  Not  
+very impressive speed but the boat weighs 8 tonne.
+
+The thrusters fold up when not in use:
+http://www.rickwill.bigpondhosting.com/folded_pedal_thruster.jpg
+Each unit has two Mitrpak gearboxes.  The top box with the cranks has  
+a 1:2 ratio.  The bottom box is 1:1.  Prop is 30X20 model aircraft.   
+Each unit weighs 11kg.
+
+Rick Willoughby
+
+
+
+From vgarza2 at satx.rr.com  Sun Feb 13 12:05:59 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Sun, 13 Feb 2011 14:05:59 -0600
+Subject: [hpv-boats] Pedal Thruster
+In-Reply-To: <716C598F-2B8D-4016-AF9A-3473EF7C2A22@bigpond.net.au>
+References: <716C598F-2B8D-4016-AF9A-3473EF7C2A22@bigpond.net.au>
+Message-ID: <C37CCBD1C91945D29A85AE7F17FDB918@vgarzaPC>
+
+Cool, thanks for the video and pics, Rick. Where did you find a model air 
+prop that was stiff enough, or did the standard fiberglass type work well 
+enough?
+
+Vic
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Cc: <georgeabbott at mitrpak.com>
+Sent: Sunday, February 13, 2011 4:35 AM
+Subject: [hpv-boats] Pedal Thruster
+
+
+> We did some testing of the pedal thrusters I made for the sailing 
+> catamaran today.
+>
+> Here is a video of one in operation:
+> http://www.rickwill.bigpondhosting.com/pedal_power.wmv
+> I was pedalling as well while videoing hence the camera movement.  We 
+> were able to sustain 2kts into a mild headwind.  In calm conditions  we 
+> got to 2.3kts at sustainable power.  Sprint speed was 3kts.  Not  very 
+> impressive speed but the boat weighs 8 tonne.
+>
+> The thrusters fold up when not in use:
+> http://www.rickwill.bigpondhosting.com/folded_pedal_thruster.jpg
+> Each unit has two Mitrpak gearboxes.  The top box with the cranks has  a 
+> 1:2 ratio.  The bottom box is 1:1.  Prop is 30X20 model aircraft.   Each 
+> unit weighs 11kg.
+>
+> Rick Willoughby
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> 
+
+
+--
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 1166 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From rickwill at bigpond.net.au  Mon Feb 14 00:21:17 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 14 Feb 2011 19:21:17 +1100
+Subject: [hpv-boats] Pedal Thruster - prop
+Message-ID: <F2A8D933-9A3E-4F3B-91C1-B573D4A4D532@bigpond.net.au>
+
+Vic
+The props were on special at Hobby City.  They were $13 each plus  
+postage:
+http://www.hobbycity.com/hobbycity/store/uh_viewItem.asp?idProduct=8293
+They handle the thrust quite easily.  The continuous power on each  
+prop translates to around 100N thrust on each.  Force gets up to  
+maybe 200N but still within their capacity.
+
+Rick Willoughby
+
+
+
+From iancassell at optusnet.com.au  Mon Feb 14 03:37:43 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Mon, 14 Feb 2011 22:37:43 +1100
+Subject: [hpv-boats] Wetted Surface Area
+Message-ID: <1A541AA065674C03944718251C000630@HOME1>
+
+Rick
+        Have been thinking about what you said about
+wetted surface area. I did some sums based on a
+canoe shaped hull wth flat bottom 5m long and with
+a load of 100kg.
+I worked out the wetted surface areas for different beams
+from 200mm up to 400mm.
+Beam  200mm WSA  2.14m2  Draft 145mm
+Beam  250mm WSA  2.02m2  Draft 116mm
+Beam  300mm  WSA  2.00m2  Draft 97mm
+Beam  350mm  WSA  2.00m2  Draft 80mm
+Beam  400mm  WSA  2.10m2  Draft 72mm
+>From this the 350mm hull might be the best as it
+has the lowest draft to WSA. Shows that the narrower
+you go does not always give you the fastest hull.
+
+Ian
+
+From rickwill at bigpond.net.au  Mon Feb 14 11:47:18 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 15 Feb 2011 06:47:18 +1100
+Subject: [hpv-boats] Wetted Surface Area
+Message-ID: <B3147F8E-62C2-4659-A290-6DFECEE4333D@bigpond.net.au>
+
+Ian
+Somewhere between the 250mm and 300mm will give the lowest drag  
+hull.  The wider you go the more wavemaking so you are better off  
+staying on the narrow side of the lowest wetted surface.
+
+You can do a little better with a rounded section but then the beam  
+goes up unless you go longer.  For speed under 12kph the round  
+section will be 1 to 2% better then the rectangular in total drag if  
+the same weight but I find it possible to build the boat lighter with  
+flat sections.  You also get a slight advantage from the flat bottom  
+with planing forces above 14kph.
+
+There is some fine tuning in the ends to get the best combination of  
+friction resistance (wetted surface) and wave drag but what you have  
+is not far off it.
+
+Rick
+
+Rick
+         Have been thinking about what you said about
+wetted surface area. I did some sums based on a
+canoe shaped hull wth flat bottom 5m long and with
+a load of 100kg.
+I worked out the wetted surface areas for different beams
+from 200mm up to 400mm.
+Beam  200mm WSA  2.14m2  Draft 145mm
+Beam  250mm WSA  2.02m2  Draft 116mm
+Beam  300mm  WSA  2.00m2  Draft 97mm
+Beam  350mm  WSA  2.00m2  Draft 80mm
+Beam  400mm  WSA  2.10m2  Draft 72mm
+ >From this the 350mm hull might be the best as it
+has the lowest draft to WSA. Shows that the narrower
+you go does not always give you the fastest hull.
+
+Ian
+
+
+
+
+
+From batdorf2004 at yahoo.com  Thu Feb 24 07:31:47 2011
+From: batdorf2004 at yahoo.com (Kevin Batdorf)
+Date: Thu, 24 Feb 2011 07:31:47 -0800 (PST)
+Subject: [hpv-boats] Prop
+Message-ID: <750179.33292.qm@web65603.mail.ac4.yahoo.com>
+
+Hi guys, thanks for the web page. I was wondering where I can get info on how to 
+build a propeller for a man powered boat I am building. Thanks Kevin
+
+
+      
+
+From brian at wildsong.biz  Thu Feb 24 11:45:17 2011
+From: brian at wildsong.biz (Brian Wilson)
+Date: Thu, 24 Feb 2011 11:45:17 -0800
+Subject: [hpv-boats] [hpv] lists migration
+In-Reply-To: <4026A3783F43C8418BCACC723574CDE7157454@BL2PRD0103MB009.prod.exchangelabs.com>
+References: <20110221183326.GC28497@bobcat.bobcatos.com>
+	<4026A3783F43C8418BCACC723574CDE7153300@BL2PRD0103MB009.prod.exchangelabs.com>
+	<87k4gpo4c0.fsf@pobox.com>
+	<4026A3783F43C8418BCACC723574CDE7157454@BL2PRD0103MB009.prod.exchangelabs.com>
+Message-ID: <AANLkTin5w7nUmD0aUugs1aJi4OhYshVMZpLgVKOciJ-b@mail.gmail.com>
+
+> On Thu, Feb 24, 2011 at 7:55 AM, Alex Wetmore <alex at phred.org> wrote:
+>
+> I think Brian Wilson has the list migration under control. >?I'll let him announce his plans when he is ready.
+>
+> alex
+
+Sorry, I talked about this with Alex off-list and I should have
+written everyone especially so the list admins would know details.
+
+I have tried out GoogleGroups with other projects and don't like it. I
+prefer to continue with mailman.
+
+I intend to ramp up some projects at HuPI.org over the next months. I
+am planning on moving the hpv lists to hupi.org.
+
+I am in the process of setting up a new server for HuPI.org that can
+handle more traffic. It will probably be at tektonic.net which worked
+well for ihpva.org/whpva.org before I backed out of that fray.
+
+Other than the domain name changing AGAIN... (what is this the 4th
+time?) sticking with mailman should make the move relatively painless.
+Archives are always a problem but they can continue to live at
+bikelist.org at least for now.
+
+Thanks Moz and Bob for offering hosting space. Thanks also to the list
+admins for their continued support.
+
+Brian
+
+From rickwill at bigpond.net.au  Thu Feb 24 12:51:49 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Fri, 25 Feb 2011 07:51:49 +1100
+Subject: [hpv-boats] Prop
+In-Reply-To: <mailman.19.1298577603.94137.hpv-boats@bikelist.org>
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org>
+Message-ID: <32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>
+
+Kevin
+If you want a good result then the starting point is to determine the  
+hull drag characteristics and the engine power curve.
+
+As an example I usually design for my sustainainable output of 120 to  
+130W.  My slender stabilised monohulls have a total drag around 38N  
+at a speed of 3m/s which gives me that power at the cranks.  The prop  
+design process is iterative.
+
+The best freely available prop design software is JavaProp:
+http://www.mh-aerotools.de/airfoils/jp_applet.htm
+You need to set the values on the options page to suit water rather  
+than air.  You then select the airfoil section.  The E193 at Re# of  
+100,000 is a realistic starting point.  You can enter the design  
+information you have on the design page and click the design command  
+button to get a design.
+
+I use my own design software that has more flexibility than  
+JavaProp.  This allows me to produce somewhat simpler designs.
+
+All my latest props have been folding to make weed removal a matter  
+of momentary coasting:
+http://www.rickwill.bigpondhosting.com/Folding_Prop.png
+There is little drag when they coast so you can stop pedalling and  
+keep moving.  They still have some limited reversing if you spin fast  
+enough.
+
+This design avoids welding.  The hub can be toughened nylon or other  
+plastic material rather than aluminium.  You do not need a lathe or  
+mill to make the hub.  It can be done using a bench drill and decent  
+file.  The prop pictured took me 4 hours.  It has efficiency of 85%  
+at its design condition, which it is capable of achieving most of the  
+time because there is no lost time in removing any fouling.  When you  
+have 130W to play with a single piece of weed can easily reduce  
+performance.
+
+You can often find model aircraft propellers that will do the job  
+such as an APC 16X16.  You will need to select gearing to suit it.
+
+I used a big model plane prop on this application:
+http://www.rickwill.bigpondhosting.com/Folded_Pedal_Thruster.JPG
+http://www.rickwill.bigpondhosting.com/Pedal_Power.wmv
+These props cost $14.  The smaller ones for a single person boat are  
+usually around $8.
+
+Rick Willoughby
+
+
+
+
+Hi guys, thanks for the web page. I was wondering where I can get  
+info on how to
+build a propeller for a man powered boat I am building. Thanks Kevin
+
+
+From batdorf2004 at yahoo.com  Fri Feb 25 11:48:17 2011
+From: batdorf2004 at yahoo.com (Kevin Batdorf)
+Date: Fri, 25 Feb 2011 11:48:17 -0800 (PST)
+Subject: [hpv-boats] Prop
+In-Reply-To: <32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org>
+	<32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>
+Message-ID: <227562.57579.qm@web65601.mail.ac4.yahoo.com>
+
+Hi Rick,
+thanks for the info.It is very helpful. I really like the folding prop and the 
+boat prop system. I have built a few recumbent bikes in the past and would like 
+to build a recumbent for two on water. Something not to complicated. We live in 
+the Dominican Republic at present and would use it on the ocean or lakes near 
+by. Things are not so easy to find here but some things can be built fairly 
+cheap. Where can I find information on the drive shaft and prop system. Much 
+like what you have done.? I was looking at this hydrofoil bike but thought I 
+should start with something without hydrofoils and try to get the prop system 
+first. 
+http://www.human-powered-hydrofoils.com/hydrofoils/project-pedal-aquaskipper/ 
+
+What kind of drive shaft and prop system was Alexander G?bler using at this site 
+http://www.human-powered-hydrofoils.com/hydrofoils/haiflyike/ 
+
+Thanks again for your help. Kevin 
+
+
+
+
+________________________________
+From: Rick Willoughby <rickwill at bigpond.net.au>
+To: hpv-boats at bikelist.org
+Sent: Thu, February 24, 2011 4:51:49 PM
+Subject: Re: [hpv-boats] Prop
+
+Kevin
+If you want a good result then the starting point is to determine the hull drag 
+characteristics and the engine power curve.
+
+As an example I usually design for my sustainainable output of 120 to 130W.? My 
+slender stabilised monohulls have a total drag around 38N at a speed of 3m/s 
+which gives me that power at the cranks.? The prop design process is iterative.
+
+The best freely available prop design software is JavaProp:
+http://www.mh-aerotools.de/airfoils/jp_applet.htm
+You need to set the values on the options page to suit water rather than air.? 
+You then select the airfoil section.? The E193 at Re# of 100,000 is a realistic 
+starting point.? You can enter the design information you have on the design 
+page and click the design command button to get a design.
+
+I use my own design software that has more flexibility than JavaProp.? This 
+allows me to produce somewhat simpler designs.
+
+All my latest props have been folding to make weed removal a matter of momentary 
+coasting:
+http://www.rickwill.bigpondhosting.com/Folding_Prop.png
+There is little drag when they coast so you can stop pedalling and keep moving.? 
+They still have some limited reversing if you spin fast enough.
+
+This design avoids welding.? The hub can be toughened nylon or other plastic 
+material rather than aluminium.? You do not need a lathe or mill to make the 
+hub.? It can be done using a bench drill and decent file.? The prop pictured 
+took me 4 hours.? It has efficiency of 85% at its design condition, which it is 
+capable of achieving most of the time because there is no lost time in removing 
+any fouling.? When you have 130W to play with a single piece of weed can easily 
+reduce performance.
+
+You can often find model aircraft propellers that will do the job such as an APC 
+16X16.? You will need to select gearing to suit it.
+
+I used a big model plane prop on this application:
+http://www.rickwill.bigpondhosting.com/Folded_Pedal_Thruster.JPG
+http://www.rickwill.bigpondhosting.com/Pedal_Power.wmv
+These props cost $14.? The smaller ones for a single person boat are usually 
+around $8.
+
+Rick Willoughby
+
+
+
+
+Hi guys, thanks for the web page. I was wondering where I can get info on how to
+build a propeller for a man powered boat I am building. Thanks Kevin
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored 
+by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+subscription.
+
+
+
+      
+
+From bobstuart at sasktel.net  Fri Feb 25 12:08:09 2011
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Fri, 25 Feb 2011 14:08:09 -0600
+Subject: [hpv-boats] Prop
+In-Reply-To: <227562.57579.qm@web65601.mail.ac4.yahoo.com>
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org>
+	<32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>
+	<227562.57579.qm@web65601.mail.ac4.yahoo.com>
+Message-ID: <C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>
+
+I used to make pedal-propeller drive units.  They were quite  
+successful, but perfection as a product became quite expensive.  One  
+peculiarity of human power is the fluctuating torque, so that most of  
+the time, the propeller is operating far from its most efficient  
+rate.  The fin-based drive on the Hobie Mirage has to reverse  
+direction at the end of each stroke, but this probably involves less  
+friction than keeping a propeller moving at a constant speed.  If I  
+were building another boat now, I would use some kind of fin drive,  
+and try to design the basic unit so that it could be built and  
+maintained wherever wooden boats are made, without any purchased  
+hardware.  I have sketched out several possibilities of varying  
+complexity, size, and efficiency.  I expect that they would be as  
+fast as propeller drives, and better around shallows and weeds.
+
+Bob Stuart
+
+On 25-Feb-11, at 1:48 PM, Kevin Batdorf wrote:
+
+> Hi Rick,
+> thanks for the info.It is very helpful. I really like the folding  
+> prop and the
+> boat prop system. I have built a few recumbent bikes in the past  
+> and would like
+> to build a recumbent for two on water. Something not to  
+> complicated. We live in
+> the Dominican Republic at present and would use it on the ocean or  
+> lakes near
+> by. Things are not so easy to find here but some things can be  
+> built fairly
+> cheap. Where can I find information on the drive shaft and prop  
+> system. Much
+> like what you have done.  I was looking at this hydrofoil bike but  
+> thought I
+> should start with something without hydrofoils and try to get the  
+> prop system
+> first.
+> http://www.human-powered-hydrofoils.com/hydrofoils/project-pedal- 
+> aquaskipper/
+>
+> What kind of drive shaft and prop system was Alexander G?bler using  
+> at this site
+> http://www.human-powered-hydrofoils.com/hydrofoils/haiflyike/
+>
+> Thanks again for your help. Kevin
+>
+>
+>
+>
+> ________________________________
+> From: Rick Willoughby <rickwill at bigpond.net.au>
+> To: hpv-boats at bikelist.org
+> Sent: Thu, February 24, 2011 4:51:49 PM
+> Subject: Re: [hpv-boats] Prop
+>
+> Kevin
+> If you want a good result then the starting point is to determine  
+> the hull drag
+> characteristics and the engine power curve.
+>
+> As an example I usually design for my sustainainable output of 120  
+> to 130W.  My
+> slender stabilised monohulls have a total drag around 38N at a  
+> speed of 3m/s
+> which gives me that power at the cranks.  The prop design process  
+> is iterative.
+>
+> The best freely available prop design software is JavaProp:
+> http://www.mh-aerotools.de/airfoils/jp_applet.htm
+> You need to set the values on the options page to suit water rather  
+> than air.
+> You then select the airfoil section.  The E193 at Re# of 100,000 is  
+> a realistic
+> starting point.  You can enter the design information you have on  
+> the design
+> page and click the design command button to get a design.
+>
+> I use my own design software that has more flexibility than  
+> JavaProp.  This
+> allows me to produce somewhat simpler designs.
+>
+> All my latest props have been folding to make weed removal a matter  
+> of momentary
+> coasting:
+> http://www.rickwill.bigpondhosting.com/Folding_Prop.png
+> There is little drag when they coast so you can stop pedalling and  
+> keep moving.
+> They still have some limited reversing if you spin fast enough.
+>
+> This design avoids welding.  The hub can be toughened nylon or  
+> other plastic
+> material rather than aluminium.  You do not need a lathe or mill to  
+> make the
+> hub.  It can be done using a bench drill and decent file.  The prop  
+> pictured
+> took me 4 hours.  It has efficiency of 85% at its design condition,  
+> which it is
+> capable of achieving most of the time because there is no lost time  
+> in removing
+> any fouling.  When you have 130W to play with a single piece of  
+> weed can easily
+> reduce performance.
+>
+> You can often find model aircraft propellers that will do the job  
+> such as an APC
+> 16X16.  You will need to select gearing to suit it.
+>
+> I used a big model plane prop on this application:
+> http://www.rickwill.bigpondhosting.com/Folded_Pedal_Thruster.JPG
+> http://www.rickwill.bigpondhosting.com/Pedal_Power.wmv
+> These props cost $14.  The smaller ones for a single person boat  
+> are usually
+> around $8.
+>
+> Rick Willoughby
+>
+>
+>
+>
+> Hi guys, thanks for the web page. I was wondering where I can get  
+> info on how to
+> build a propeller for a man powered boat I am building. Thanks Kevin
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored
+> by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+
+
+From rickwill at bigpond.net.au  Fri Feb 25 13:47:36 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sat, 26 Feb 2011 08:47:36 +1100
+Subject: [hpv-boats] Prop
+Message-ID: <5A8E8C51-F55E-4C21-80EF-C1E4034DF0FC@bigpond.net.au>
+
+Kevin
+To get any advantage using hydrofoils each rider of average weight  
+would need to be able to get to 250W at a miniumum.  Most people can  
+only get this power for very short periods.  If you could produce  
+this power level then the design speed would be something over  
+14kph.  You can get lift off using bigger foils at lower speed and  
+less power but what is the point when you could go faster with less  
+power and much less complexity in displacement mode!
+
+Hydrofoils increase the susceptibility to fouling with weeds and  
+other litter.  They also require considerably greater draft such that  
+beach launchings becomes a wet affair.
+
+A key step is to decide what you intend to do with the boat.  If it  
+is purely sprinting then hydrofoils would be worth consideration.  If  
+you want to do longer distance cruising (anything over 5km at a time)  
+then hydrofoils would not be in the mix unless you are a trained  
+athlete.
+
+An important element in the design is to establish the power output  
+of the engines.  If you do not have this from bike data then it can  
+be determined in a gym on a recumbent cycling machine.  You will then  
+have a better idea of the possibilities.
+
+Setting up any pedal boat for two people involves more complexity  
+than a single person drive.  The best configuration from a hull  
+efficiency point of view is the stabilised monohull or possibly a  
+monohull without stabilisers with a single drive shaft.  Setting up  
+the mechanical system to get the two cranks to drive the common shaft  
+is a challenge.
+
+I personally think two boats would be better than one but with two  
+people in a single boat you will be able to go a bit faster.  The  
+problem is you will most likely need two people all the time because  
+the weight of the boat will be greater than a single person can  
+manage.  Also performance with one person will be down on what could  
+be achieved with a single person in a boat specifically designed for  
+the person.
+
+I am currently making my own 1:4 gearboxes.  The first of them are on  
+the boat I made for my sister seen here:
+http://www.youtube.com/watch?v=_fBLi40q4pU
+The box is painted yellow so it is easy to see in the clip.  The  
+parts for this box cost a little over AUD300 including the cranks and  
+pedals.  It weighs 2.8kg.  I have now made a second one with more  
+expensive gear set that weighs 2.3kg.
+
+The selection of the prop shaft is quite important.  If you use high  
+aspect props to get the efficiency then they need to be run in line  
+with water flow to avoid vibration.  I use mostly spring steel or  
+machinable aluminium or a combination of these in a curved  
+arrangement.  I have a yet to be tested shaft made from carbon fibre  
+and wound to my specification to get high torsional stiffness but  
+compliant in bending.
+
+I have tested most possibilities over the years and can give you a  
+reasonable idea of the weaknesses or advantages of any set up.  More  
+importantly I can determine the performance you can expect in  
+whatever configuration you come up with providing you know the weight  
+of the engines, what you want to carry and the output of the  
+engines.  This can save a lot of trial and error with the associated  
+cost and time.  I provide free design for non-commercial applications.
+
+Rick
+
+Re: Prop
+
+Hi Rick,
+thanks for the info.It is very helpful. I really like the folding  
+prop and the
+boat prop system. I have built a few recumbent bikes in the past and  
+would like
+to build a recumbent for two on water. Something not to complicated.  
+We live in
+the Dominican Republic at present and would use it on the ocean or  
+lakes near
+by. Things are not so easy to find here but some things can be built  
+fairly
+cheap. Where can I find information on the drive shaft and prop  
+system. Much
+like what you have done.  I was looking at this hydrofoil bike but  
+thought I
+should start with something without hydrofoils and try to get the  
+prop system
+first.
+http://www.human-powered-hydrofoils.com/hydrofoils/project-pedal- 
+aquaskipper/
+
+What kind of drive shaft and prop system was Alexander G?bler using  
+at this site
+http://www.human-powered-hydrofoils.com/hydrofoils/haiflyike/
+
+Thanks again for your help. Kevin
+
+
+
+
+From capnjimbo at hotmail.com  Sat Feb 26 07:51:22 2011
+From: capnjimbo at hotmail.com (Capn Jimbo)
+Date: Sat, 26 Feb 2011 10:51:22 -0500
+Subject: [hpv-boats] Prop
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org><32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au><227562.57579.qm@web65601.mail.ac4.yahoo.com>
+	<C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>
+Message-ID: <BLU0-SMTP2090282C79B55977468BEC7B0DC0@phx.gbl>
+
+I'm mostly a reader, but just had to respond to this one.  The fin vs prop 
+comparison has been well done and the efficiency of the Hobie flippers is 
+really pretty awful - nowhere even close to a human driven prop.
+
+Unless you anticipate tripling the efficiency of the flippers you are 
+destined to repeat the past...
+
+
+----- Original Message ----- 
+From: "Bob Stuart" <bobstuart at sasktel.net>
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Sent: Friday, February 25, 2011 3:08 PM
+Subject: Re: [hpv-boats] Prop
+
+
+I used to make pedal-propeller drive units.  They were quite
+successful, but perfection as a product became quite expensive.  One
+peculiarity of human power is the fluctuating torque, so that most of
+the time, the propeller is operating far from its most efficient
+rate.  The fin-based drive on the Hobie Mirage has to reverse
+direction at the end of each stroke, but this probably involves less
+friction than keeping a propeller moving at a constant speed.  If I
+were building another boat now, I would use some kind of fin drive,
+and try to design the basic unit so that it could be built and
+maintained wherever wooden boats are made, without any purchased
+hardware.  I have sketched out several possibilities of varying
+complexity, size, and efficiency.  I expect that they would be as
+fast as propeller drives, and better around shallows and weeds.
+
+Bob Stuart
+
+On 25-Feb-11, at 1:48 PM, Kevin Batdorf wrote:
+
+> Hi Rick,
+> thanks for the info.It is very helpful. I really like the folding  prop 
+> and the
+> boat prop system. I have built a few recumbent bikes in the past  and 
+> would like
+> to build a recumbent for two on water. Something not to  complicated. We 
+> live in
+> the Dominican Republic at present and would use it on the ocean or  lakes 
+> near
+> by. Things are not so easy to find here but some things can be  built 
+> fairly
+> cheap. Where can I find information on the drive shaft and prop  system. 
+> Much
+> like what you have done.  I was looking at this hydrofoil bike but 
+> thought I
+> should start with something without hydrofoils and try to get the  prop 
+> system
+> first.
+> http://www.human-powered-hydrofoils.com/hydrofoils/project-pedal- 
+> aquaskipper/
+>
+> What kind of drive shaft and prop system was Alexander G?bler using  at 
+> this site
+> http://www.human-powered-hydrofoils.com/hydrofoils/haiflyike/
+>
+> Thanks again for your help. Kevin
+>
+>
+>
+>
+> ________________________________
+> From: Rick Willoughby <rickwill at bigpond.net.au>
+> To: hpv-boats at bikelist.org
+> Sent: Thu, February 24, 2011 4:51:49 PM
+> Subject: Re: [hpv-boats] Prop
+>
+> Kevin
+> If you want a good result then the starting point is to determine  the 
+> hull drag
+> characteristics and the engine power curve.
+>
+> As an example I usually design for my sustainainable output of 120  to 
+> 130W.  My
+> slender stabilised monohulls have a total drag around 38N at a  speed of 
+> 3m/s
+> which gives me that power at the cranks.  The prop design process  is 
+> iterative.
+>
+> The best freely available prop design software is JavaProp:
+> http://www.mh-aerotools.de/airfoils/jp_applet.htm
+> You need to set the values on the options page to suit water rather  than 
+> air.
+> You then select the airfoil section.  The E193 at Re# of 100,000 is  a 
+> realistic
+> starting point.  You can enter the design information you have on  the 
+> design
+> page and click the design command button to get a design.
+>
+> I use my own design software that has more flexibility than  JavaProp. 
+> This
+> allows me to produce somewhat simpler designs.
+>
+> All my latest props have been folding to make weed removal a matter  of 
+> momentary
+> coasting:
+> http://www.rickwill.bigpondhosting.com/Folding_Prop.png
+> There is little drag when they coast so you can stop pedalling and  keep 
+> moving.
+> They still have some limited reversing if you spin fast enough.
+>
+> This design avoids welding.  The hub can be toughened nylon or  other 
+> plastic
+> material rather than aluminium.  You do not need a lathe or mill to  make 
+> the
+> hub.  It can be done using a bench drill and decent file.  The prop 
+> pictured
+> took me 4 hours.  It has efficiency of 85% at its design condition,  which 
+> it is
+> capable of achieving most of the time because there is no lost time  in 
+> removing
+> any fouling.  When you have 130W to play with a single piece of  weed can 
+> easily
+> reduce performance.
+>
+> You can often find model aircraft propellers that will do the job  such as 
+> an APC
+> 16X16.  You will need to select gearing to suit it.
+>
+> I used a big model plane prop on this application:
+> http://www.rickwill.bigpondhosting.com/Folded_Pedal_Thruster.JPG
+> http://www.rickwill.bigpondhosting.com/Pedal_Power.wmv
+> These props cost $14.  The smaller ones for a single person boat  are 
+> usually
+> around $8.
+>
+> Rick Willoughby
+>
+>
+>
+>
+> Hi guys, thanks for the web page. I was wondering where I can get  info on 
+> how to
+> build a propeller for a man powered boat I am building. Thanks Kevin
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  list, 
+> sponsored
+> by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list, 
+sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+subscription.
+
+
+From lhsmith at wvi.com  Sat Feb 26 09:26:16 2011
+From: lhsmith at wvi.com (Larry H. Smith)
+Date: Sat, 26 Feb 2011 09:26:16 -0800
+Subject: [hpv-boats] Fin-drive redux
+In-Reply-To: <C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org>
+	<32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>	<227562.57579.qm@web65601.mail.ac4.yahoo.com>
+	<C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>
+Message-ID: <e99cf95c0b7793bde38aeb73c4583b25@wvi.com>
+
+Hi Bob,
+
+I'm confident that  Rick is right on top of propellor-stuff, but I'd 
+like to hear more about your fin-drive ideas.
+
+Max efficiency is less of an issue when "messing about " is the goal, 
+and freedom from weed-wrapped props with the convenience of a kick-up 
+drive, combined with the fish-like grace of a flexible fin appeals to 
+me.
+
+I wouldn't mind resorting to a paddle for the occasional reverse 
+requirement.
+
+I liked the relative simplicity of Harry Bryan's rig, as opposed to the 
+bulkier drive that was later developed and discussed for awhile on this 
+list. Seems I remember some sort of transparent flex fin on Harry's 
+early experiment. I like the esthetics. ;-)
+
+Harry ultimately used a forward fin(skeg) to counter yaw effects, ...I 
+was wondering if you had any other ideas on yaw control.
+
+I was wondering whether a split fin with stacked halves in opposed 
+motion  would be feasible, or would turbulence between the flow between 
+the fin-halves interfere too much to be useful? (Picture a swim-finned 
+diver swimming on his side)
+
+I would value any comments you might make (Others' opinions welcome 
+too.)
+
+Larry (Bob, I'm not sure if we have communicated via e-mail since your 
+move(s?). [ My e-address is lhsmith at wvi.com ]
+
+> I used to make pedal-propeller drive units.  They were quite 
+> successful, but perfection as a product became quite expensive.  One 
+> peculiarity of human power is the fluctuating torque, so that most of 
+> the time, the propeller is operating far from its most efficient rate. 
+>  The fin-based drive on the Hobie Mirage has to reverse direction at 
+> the end of each stroke, but this probably involves less friction than 
+> keeping a propeller moving at a constant speed.  If I were building 
+> another boat now, I would use some kind of fin drive, and try to 
+> design the basic unit so that it could be built and maintained 
+> wherever wooden boats are made, without any purchased hardware.  I 
+> have sketched out several possibilities of varying complexity, size, 
+> and efficiency.  I expect that they would be as fast as propeller 
+> drives, and better around shallows and weeds.
+>
+> Bob Stuart
+>
+
+
+
+From capnjimbo at hotmail.com  Sat Feb 26 10:39:51 2011
+From: capnjimbo at hotmail.com (Capn Jimbo)
+Date: Sat, 26 Feb 2011 13:39:51 -0500
+Subject: [hpv-boats] Fin-drive redux
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org><32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>	<227562.57579.qm@web65601.mail.ac4.yahoo.com><C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>
+	<e99cf95c0b7793bde38aeb73c4583b25@wvi.com>
+Message-ID: <BLU0-SMTP8737DFB573985E75D6C271B0DC0@phx.gbl>
+
+Thought it well to post the results of the definitive HPB study of Hobie 
+breakdown prone flipper system.  However successful the marketing concept 
+the results were dismal.  I quote:
+
+"At 3.5 mph the Mirage drive was only 22% efficient (heart rate 107). The 
+drive doesn't really get efficient until it reaches 5.3 mph at 46% (heart 
+rate 132). Now when you realize that many prop driven HPB's approach 
+efficiencies are closer to 70-80% efficient, it's no wonder that in fair, 
+head to flipper competitions the Hobie sucks hind teat."
+
+Rick has designed some systems on flexible drives that are easily raised, or 
+reversed in cases of heavy weed.  Keep in mind that flipper drives are not 
+immune to the same issues.  I am a lifelong kayaker and I can assure you 
+that weed is rarely an issue, unless you are in extremely shallow water, 
+when neither system is practical.  Try "flipping" in 1 foot of water.  In 
+these cases a flex drive prop system can be created that is easily and 
+temporarily lifted out of the water.  Compare to the Hobie flipper system. 
+which is a trial to remove and replace.
+
+To me anyway, and even under the best of conditions, props are so much more 
+efficient, simpler and far less subject to breakdown.  Chasing the flipper 
+concept is like trying to replicate sharkskin or whale fin tubercles. 
+Nature simply does these better.
+
+But have fun... but if Hobie couldn't do it...
+
+
+----- Original Message ----- 
+From: "Larry H. Smith" <lhsmith at wvi.com>
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Sent: Saturday, February 26, 2011 12:26 PM
+Subject: [hpv-boats] Fin-drive redux
+
+
+> Hi Bob,
+>
+> I'm confident that  Rick is right on top of propellor-stuff, but I'd like 
+> to hear more about your fin-drive ideas.
+>
+> Max efficiency is less of an issue when "messing about " is the goal, and 
+> freedom from weed-wrapped props with the convenience of a kick-up drive, 
+> combined with the fish-like grace of a flexible fin appeals to me.
+>
+> I wouldn't mind resorting to a paddle for the occasional reverse 
+> requirement.
+>
+> I liked the relative simplicity of Harry Bryan's rig, as opposed to the 
+> bulkier drive that was later developed and discussed for awhile on this 
+> list. Seems I remember some sort of transparent flex fin on Harry's early 
+> experiment. I like the esthetics. ;-)
+>
+> Harry ultimately used a forward fin(skeg) to counter yaw effects, ...I was 
+> wondering if you had any other ideas on yaw control.
+>
+> I was wondering whether a split fin with stacked halves in opposed motion 
+> would be feasible, or would turbulence between the flow between the 
+> fin-halves interfere too much to be useful? (Picture a swim-finned diver 
+> swimming on his side)
+>
+> I would value any comments you might make (Others' opinions welcome too.)
+>
+> Larry (Bob, I'm not sure if we have communicated via e-mail since your 
+> move(s?). [ My e-address is lhsmith at wvi.com ]
+>
+>> I used to make pedal-propeller drive units.  They were quite successful, 
+>> but perfection as a product became quite expensive.  One peculiarity of 
+>> human power is the fluctuating torque, so that most of the time, the 
+>> propeller is operating far from its most efficient rate. The fin-based 
+>> drive on the Hobie Mirage has to reverse direction at the end of each 
+>> stroke, but this probably involves less friction than keeping a propeller 
+>> moving at a constant speed.  If I were building another boat now, I would 
+>> use some kind of fin drive, and try to design the basic unit so that it 
+>> could be built and maintained wherever wooden boats are made, without any 
+>> purchased hardware.  I have sketched out several possibilities of varying 
+>> complexity, size, and efficiency.  I expect that they would be as fast as 
+>> propeller drives, and better around shallows and weeds.
+>>
+>> Bob Stuart
+>>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> 
+
+
+From sertier.bruno at wanadoo.fr  Sat Feb 26 10:49:56 2011
+From: sertier.bruno at wanadoo.fr (Bruno Sertier)
+Date: Sat, 26 Feb 2011 19:49:56 +0100
+Subject: [hpv-boats] Fin-drive redux
+In-Reply-To: <e99cf95c0b7793bde38aeb73c4583b25@wvi.com>
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org><32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>	<227562.57579.qm@web65601.mail.ac4.yahoo.com><C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>
+	<e99cf95c0b7793bde38aeb73c4583b25@wvi.com>
+Message-ID: <3CF756F9412E4FCCB9E7CA049903101E@ACER>
+
+Hello people!
+
+Very interesting discussion here!
+I'm brand new on this blog but I'm currently working on a pedal + propeller 
+moved small wet submarine and have a couple of remarks/suggestions on this 
+topic :
+Good remark about variable torque (and RPM) when pedaling for actuating the 
+propeller. Some inventors designed solutions to improve this : an "ovale" 
+leading gear to compensate legs dead stroke and make the motion more regular 
+and with a better efficiency already proven on traditional racing bikes (+10 
+to +20% depending on promoted solutions : See http://osymetric.com)
+An other way to damp this RPM variation is to adapt a rotation speed 
+regulator and increase the angular inertia (it's mechanically very simple 
+and cheap to implement). Only drawback : It's increasing a bit the overall 
+weight and required some extra torque and time to speed up when starting 
+motion.
+
+Other question : I'm looking for a CFD software (such as Fluent+Gambit from 
+Ansys or Flow-3D) else than the opensource ones, free but not always easy to 
+use. Has anyone a clue about how to get an efficient and pro class one 
+without spending a fortune (or downloading cracked, uncomplete, and of high 
+risk of malware infection)?
+
+Thanks
+
+Bruno Sertier
+http://www.scubster.org
+
+
+
+--------------------------------------------------
+From: "Larry H. Smith" <lhsmith at wvi.com>
+Sent: Saturday, February 26, 2011 6:26 PM
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Subject: [hpv-boats] Fin-drive redux
+
+> Hi Bob,
+>
+> I'm confident that  Rick is right on top of propellor-stuff, but I'd like 
+> to hear more about your fin-drive ideas.
+>
+> Max efficiency is less of an issue when "messing about " is the goal, and 
+> freedom from weed-wrapped props with the convenience of a kick-up drive, 
+> combined with the fish-like grace of a flexible fin appeals to me.
+>
+> I wouldn't mind resorting to a paddle for the occasional reverse 
+> requirement.
+>
+> I liked the relative simplicity of Harry Bryan's rig, as opposed to the 
+> bulkier drive that was later developed and discussed for awhile on this 
+> list. Seems I remember some sort of transparent flex fin on Harry's early 
+> experiment. I like the esthetics. ;-)
+>
+> Harry ultimately used a forward fin(skeg) to counter yaw effects, ...I was 
+> wondering if you had any other ideas on yaw control.
+>
+> I was wondering whether a split fin with stacked halves in opposed motion 
+> would be feasible, or would turbulence between the flow between the 
+> fin-halves interfere too much to be useful? (Picture a swim-finned diver 
+> swimming on his side)
+>
+> I would value any comments you might make (Others' opinions welcome too.)
+>
+> Larry (Bob, I'm not sure if we have communicated via e-mail since your 
+> move(s?). [ My e-address is lhsmith at wvi.com ]
+>
+>> I used to make pedal-propeller drive units.  They were quite successful, 
+>> but perfection as a product became quite expensive.  One peculiarity of 
+>> human power is the fluctuating torque, so that most of the time, the 
+>> propeller is operating far from its most efficient rate. The fin-based 
+>> drive on the Hobie Mirage has to reverse direction at the end of each 
+>> stroke, but this probably involves less friction than keeping a propeller 
+>> moving at a constant speed.  If I were building another boat now, I would 
+>> use some kind of fin drive, and try to design the basic unit so that it 
+>> could be built and maintained wherever wooden boats are made, without any 
+>> purchased hardware.  I have sketched out several possibilities of varying 
+>> complexity, size, and efficiency.  I expect that they would be as fast as 
+>> propeller drives, and better around shallows and weeds.
+>>
+>> Bob Stuart
+>>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+From hpv_of_earth at yahoo.com  Sat Feb 26 19:36:59 2011
+From: hpv_of_earth at yahoo.com (mark McWilliams)
+Date: Sat, 26 Feb 2011 19:36:59 -0800 (PST)
+Subject: [hpv-boats] converting pedal power to prop power right angles
+Message-ID: <7999.52337.qm@web114703.mail.gq1.yahoo.com>
+
+How do you change the angle of drive the 90 degrees needed to change the pedal power which is 90 degrees to the direction of the propeller ? 
+
+pedals 
+pedals >>>O < possible bike gears
+????????????????? v
+????????????????? v
+????????????????? v
+????????????????? v
+? ? ? ? ? ? ? ? ? v>>> propeller
+
+If I wanted two 90 degree turns one going into the water and the second to the propeller then how would this be achieved in an application that will certainly get very wet and stay wet. 
+Are there bevel gears that can be purchased ?
+Have any of you made your own bevel or helical gears? 
+If any of you have made bevel or helical gears how did you do it and how well has it worked?
+
+
+
+
+      
+
+From lhsmith at wvi.com  Sat Feb 26 19:42:45 2011
+From: lhsmith at wvi.com (Larry H. Smith)
+Date: Sat, 26 Feb 2011 19:42:45 -0800
+Subject: [hpv-boats] Fin-drive redux
+In-Reply-To: <BLU0-SMTP8737DFB573985E75D6C271B0DC0@phx.gbl>
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org><32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>
+	<227562.57579.qm@web65601.mail.ac4.yahoo.com><C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>
+	<e99cf95c0b7793bde38aeb73c4583b25@wvi.com>
+	<BLU0-SMTP8737DFB573985E75D6C271B0DC0@phx.gbl>
+Message-ID: <31117eccc29e68b95e6c81e7173a7b85@wvi.com>
+
+Hello Jimbo,
+
+Boating in internet waters is fraught with the icebergs of 
+misunderstandings, misperceptions, and misinterpretations. To attempt 
+to dodge a few of these mis'es, let me state that my own interest in 
+the fin drive discussion is almost completely curiosity-driven 
+(sometimes a very inefficient drive-system itself ;-). I have no 
+"dog-in-the-fight", particularly not the Mirage system, which has never 
+appealed to me. Hobie or not, I don't accept that their drive is the 
+be-all, end-all of fin systems. Of the systems I am aware of, only the 
+Harry Bryan fin I mentioned caught my fancy at all, and I considered 
+the yaw issue the greatest drawback, which was an entirely subjective 
+objection on my part. It seemed to be a fly in the soup of what was 
+otherwise the simple fish tail on-a-boat concept that intrigued me. 
+Thus my question about a possibly yaw-balancing "split-fin drive"  ( no 
+comments yet on this).
+
+As regards the Bryan fin-system, specifically, I would submit that it 
+is hardly more complex or subject to breakage than a prop system. (IF 
+comparing them was the topic - see next to last sentence below)
+
+As  tongue-in-cheek observation, I note that the Hobie effort , while 
+solving the yaw issue, seems to me a fish trying to swim with its 
+ventral fins as the main propulsors, rather than the tail. Other fish, 
+smarter, I think, have chosen the tail as a better way to go.
+
+I have watched Parker McReady on his Preposterous Pogofoil,  one of the 
+earliest whale-tail creations and the horizontal fluke drive, at least 
+in his hydrofoiling configuration,  was definitely a high-effort 
+short-term proposition. Nothing relaxed about it.  Same goes for 
+similar-but-simpler hydrofoil jumping-jack drive craft recently 
+marketed (name escapes me at the moment.) Any horizontal fin "fluke" 
+drive, introduces "vertical yaw"(pitching) which hurts efficiency also, 
+of course.
+
+Harry Bryan's simple displacement hull with a swish-tail fin flexing 
+gracefully behind the boat much better suits my fantasy concept of a 
+fin-craft for easy-does-it messing about. (Another marketing attempt, 
+the Pacific Tail-fin, seems to have stalled, - the latest web-site 
+update is dated 2006, I think. This is the "more bulky" unit I first 
+mentioned, when compared with Harry's rig. Yaw is also evident in the 
+site's videos.)
+
+For elegant simplicity in a prop drive, Bob Stuart's drop-in Spin-Fin, 
+which I have tried in his own kayak, very much impressed me, and if 
+production/marketing considerations had been favorable enough that Bob 
+had chosen to continue pursuing its development, I believe it would 
+have become very popular. (More so than the larger Sea-Cycle units, 
+IMO.)
+
+(Relatively) recent progress in design and experimentation with 
+flex-shaft propellor units, as exemplified by Rick's successes, with 
+some collaboration by one or more others, I believe,  seem to me to 
+represent the state of the prop-drive art at present, along with the 
+interesting recent attempts at hp folding props. I also think the 
+"kissing outrigger" stabilized monohull, again highly developed by 
+Rick, Bob and others, has been adequately demonstrated to be the way to 
+go for displacement speed.
+
+In any case, I make no case for a fin's efficiency compared with a 
+prop. Apples and oranges, I believe.  The trophy for ultimate speed, 
+which I suppose is the highest measure of hp "efficiency" as we seem to 
+be measuring things, seems still to be held by an air-prop driven 
+hydrofoil (Decavitator) unless I am too far behind the times.
+
+But the maximum-speed efficiency machines are not what I, at 70, am 
+interested in spending my time on. Thus my intent in pursuing "fin 
+discussion" is not to compare/compete with prop drives, but to explore 
+fins as a separate subject.
+
+I am slowing down, but still enjoy reading about and watching the 
+experiments and progress achieved by all the human-power group, 
+whatever their goals.  So I add my encouragements to all, whatever 
+envelope they may be pushing. ;-)
+
+Best wishes,
+
+Larry
+
+
+
+
+
+
+On Feb 26, 2011, at 10:39 AM, Capn Jimbo wrote:
+
+> Thought it well to post the results of the definitive HPB study of 
+> Hobie breakdown prone flipper system.  However successful the 
+> marketing concept the results were dismal.  I quote:
+>
+> "At 3.5 mph the Mirage drive was only 22% efficient (heart rate 107). 
+> The drive doesn't really get efficient until it reaches 5.3 mph at 46% 
+> (heart rate 132). Now when you realize that many prop driven HPB's 
+> approach efficiencies are closer to 70-80% efficient, it's no wonder 
+> that in fair, head to flipper competitions the Hobie sucks hind teat."
+>
+> Rick has designed some systems on flexible drives that are easily 
+> raised, or reversed in cases of heavy weed.  Keep in mind that flipper 
+> drives are not immune to the same issues.  I am a lifelong kayaker and 
+> I can assure you that weed is rarely an issue, unless you are in 
+> extremely shallow water, when neither system is practical.  Try 
+> "flipping" in 1 foot of water.  In these cases a flex drive prop 
+> system can be created that is easily and temporarily lifted out of the 
+> water.  Compare to the Hobie flipper system. which is a trial to 
+> remove and replace.
+>
+> To me anyway, and even under the best of conditions, props are so much 
+> more efficient, simpler and far less subject to breakdown.  Chasing 
+> the flipper concept is like trying to replicate sharkskin or whale fin 
+> tubercles. Nature simply does these better.
+>
+> But have fun... but if Hobie couldn't do it...
+>
+>
+> ----- Original Message ----- From: "Larry H. Smith" <lhsmith at wvi.com>
+> To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+> Sent: Saturday, February 26, 2011 12:26 PM
+> Subject: [hpv-boats] Fin-drive redux
+>
+>
+>> Hi Bob,
+>>
+>> I'm confident that  Rick is right on top of propellor-stuff, but I'd 
+>> like to hear more about your fin-drive ideas.
+>>
+>> Max efficiency is less of an issue when "messing about " is the goal, 
+>> and freedom from weed-wrapped props with the convenience of a kick-up 
+>> drive, combined with the fish-like grace of a flexible fin appeals to 
+>> me.
+>>
+>> I wouldn't mind resorting to a paddle for the occasional reverse 
+>> requirement.
+>>
+>> I liked the relative simplicity of Harry Bryan's rig, as opposed to 
+>> the bulkier drive that was later developed and discussed for awhile 
+>> on this list. Seems I remember some sort of transparent flex fin on 
+>> Harry's early experiment. I like the esthetics. ;-)
+>>
+>> Harry ultimately used a forward fin(skeg) to counter yaw effects, 
+>> ...I was wondering if you had any other ideas on yaw control.
+>>
+>> I was wondering whether a split fin with stacked halves in opposed 
+>> motion would be feasible, or would turbulence between the flow 
+>> between the fin-halves interfere too much to be useful? (Picture a 
+>> swim-finned diver swimming on his side)
+>>
+>> I would value any comments you might make (Others' opinions welcome 
+>> too.)
+>>
+>> Larry (Bob, I'm not sure if we have communicated via e-mail since 
+>> your move(s?). [ My e-address is lhsmith at wvi.com ]
+>>
+>>> I used to make pedal-propeller drive units.  They were quite 
+>>> successful, but perfection as a product became quite expensive.  One 
+>>> peculiarity of human power is the fluctuating torque, so that most 
+>>> of the time, the propeller is operating far from its most efficient 
+>>> rate. The fin-based drive on the Hobie Mirage has to reverse 
+>>> direction at the end of each stroke, but this probably involves less 
+>>> friction than keeping a propeller moving at a constant speed.  If I 
+>>> were building another boat now, I would use some kind of fin drive, 
+>>> and try to design the basic unit so that it could be built and 
+>>> maintained wherever wooden boats are made, without any purchased 
+>>> hardware.  I have sketched out several possibilities of varying 
+>>> complexity, size, and efficiency.  I expect that they would be as 
+>>> fast as propeller drives, and better around shallows and weeds.
+>>>
+>>> Bob Stuart
+>>>
+>>
+>>
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing 
+>> list, sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+>> subscription.
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+>
+
+
+
+From bobstuart at sasktel.net  Sat Feb 26 19:58:21 2011
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Sat, 26 Feb 2011 21:58:21 -0600
+Subject: [hpv-boats] Fin-drive redux
+In-Reply-To: <BLU0-SMTP8737DFB573985E75D6C271B0DC0@phx.gbl>
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org>
+	<32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>
+	<227562.57579.qm@web65601.mail.ac4.yahoo.com>
+	<C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>
+	<e99cf95c0b7793bde38aeb73c4583b25@wvi.com>
+	<BLU0-SMTP8737DFB573985E75D6C271B0DC0@phx.gbl>
+Message-ID: <83188F5C-8659-4C78-8837-EADF78139CA3@sasktel.net>
+
+Thanks for the data on the Hobie drive.  I wouldn't have bothered  
+thinking about fin drives if I had not seen a lot of room for  
+improvement in all previous systems.
+
+Starting from the fin, the usual scheme has been a rigid leading  
+edge, with a flexible wing.  This gives a shape like an airplane wing  
+flying upside down.  The first level of improvement is a rigid,  
+symmetrical foil, as on an aerobatic aircraft, with a pivot that lets  
+it automatically flip over to the best angle of attack for each  
+stroke.  This pivot can have a second degree of freedom under manual  
+control that lets it be set for reverse thrust.  For greater   
+efficiency, we can use two wing spars, fore and aft, so that a  
+flexible fin assumes nearly the ideal camber for each direction.
+
+Next, the fins should be placed so that there is no yaw imposed on  
+the boat.  The Hobie is fine in this respect, whereas Harry Bryan's  
+boat was getting thrust from all three fins as it wiggled through the  
+water.  Two fins off the stern with opposite motions are one  
+solution, but I prefer having a compact arrangement, with the fins  
+nearer the pedals.  Three options are: a single fin, with the side   
+force reacted against the mass and shapes of a multihull, two opposed  
+fins mounted like bilge keels or leeboards, or fins on the tips of  
+sweeps, like oars on their way to being parked on the gunwales.
+The single fin can be mechanically simple, with force in each  
+direction coming from one pedal.  The bilge-keel mounting emulates  
+the pectoral fins of whales and penguins, and avoids disturbing the  
+surface of the water.  The leeboard style avoids a through-hull  
+fitting and gives a longer sweep, but makes waves of it's own.  It  
+might achieve a constructive interference with the hull, giving a bit  
+of jet propulsion and suction at the hull end of the stroke.  Only  
+the sweep mounting gives a really decent angle of attack, applying  
+most of its force in the proper direction.  My propeller tips could  
+move over 15' per pedal stroke (half rotation of cranks.)  However,  
+sweeps need compliance and surface-followers to keep the fin working  
+properly on most boats and sea conditions, and rigid parts to  
+minimize hysteresis  losses.  They probably need an extra link to  
+maintain a parallelogram to keep the fin angle accurate.  They might  
+also want a compact-operation mode for use within a marina where oars  
+are a clearance problem.
+
+The single-fin type requires a separate rudder, but the others are  
+able to handle steering duties.  The leeboard style would allow  
+course corrections, or errors, depending on the listing of a single  
+hull.  The double fin types, with reversing switches, would allow the  
+boat to turn with no forward motion.  Various degrees of adjustment  
+could be applied for course keeping, saving the drag of a rudder.   
+Ideally, steering could be done by either varying the force on each  
+leg, or, preferably, by touching the reversing switch or trim  
+adjustment with the sides of the heels.
+
+In shallow water, the fins could drag on the ground and still work,  
+and when surfing onto a beach, they would dig in and resist the  
+retreating wave.  They could also just swing back to shed weed if any  
+drag built up.
+
+One great advantage of pedal cranks is that they conserve momentum.   
+Linear drives often waste energy by requiring muscle power for  
+deceleration, like shadow boxing.  I have not tried it yet, but a  
+system like the Hobie drive, but with the pivot at the top might work  
+well, like a pendulum.  If the natural frequency works out to the  
+right range, it could be a sweet deal, combining easily with the  
+sweep or leeboard schemes for a neat, drop-in installation.  The mass  
+of the whole system would affect the frequency.  It could probably  
+benefit from springs for adjustment to different speeds or leg weights.
+
+Bob Stuart
+
+
+On 26-Feb-11, at 12:39 PM, Capn Jimbo wrote:
+
+> Thought it well to post the results of the definitive HPB study of  
+> Hobie breakdown prone flipper system.  However successful the  
+> marketing concept the results were dismal.  I quote:
+>
+> "At 3.5 mph the Mirage drive was only 22% efficient (heart rate  
+> 107). The drive doesn't really get efficient until it reaches 5.3  
+> mph at 46% (heart rate 132). Now when you realize that many prop  
+> driven HPB's approach efficiencies are closer to 70-80% efficient,  
+> it's no wonder that in fair, head to flipper competitions the Hobie  
+> sucks hind teat."
+>
+> Rick has designed some systems on flexible drives that are easily  
+> raised, or reversed in cases of heavy weed.  Keep in mind that  
+> flipper drives are not immune to the same issues.  I am a lifelong  
+> kayaker and I can assure you that weed is rarely an issue, unless  
+> you are in extremely shallow water, when neither system is  
+> practical.  Try "flipping" in 1 foot of water.  In these cases a  
+> flex drive prop system can be created that is easily and  
+> temporarily lifted out of the water.  Compare to the Hobie flipper  
+> system. which is a trial to remove and replace.
+>
+> To me anyway, and even under the best of conditions, props are so  
+> much more efficient, simpler and far less subject to breakdown.   
+> Chasing the flipper concept is like trying to replicate sharkskin  
+> or whale fin tubercles. Nature simply does these better.
+>
+> But have fun... but if Hobie couldn't do it...
+>
+>
+> ----- Original Message ----- From: "Larry H. Smith" <lhsmith at wvi.com>
+> To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+> Sent: Saturday, February 26, 2011 12:26 PM
+> Subject: [hpv-boats] Fin-drive redux
+>
+>
+>> Hi Bob,
+>>
+>> I'm confident that  Rick is right on top of propellor-stuff, but  
+>> I'd like to hear more about your fin-drive ideas.
+>>
+>> Max efficiency is less of an issue when "messing about " is the  
+>> goal, and freedom from weed-wrapped props with the convenience of  
+>> a kick-up drive, combined with the fish-like grace of a flexible  
+>> fin appeals to me.
+>>
+>> I wouldn't mind resorting to a paddle for the occasional reverse  
+>> requirement.
+>>
+>> I liked the relative simplicity of Harry Bryan's rig, as opposed  
+>> to the bulkier drive that was later developed and discussed for  
+>> awhile on this list. Seems I remember some sort of transparent  
+>> flex fin on Harry's early experiment. I like the esthetics. ;-)
+>>
+>> Harry ultimately used a forward fin(skeg) to counter yaw  
+>> effects, ...I was wondering if you had any other ideas on yaw  
+>> control.
+>>
+>> I was wondering whether a split fin with stacked halves in opposed  
+>> motion would be feasible, or would turbulence between the flow  
+>> between the fin-halves interfere too much to be useful? (Picture a  
+>> swim-finned diver swimming on his side)
+>>
+>> I would value any comments you might make (Others' opinions  
+>> welcome too.)
+>>
+>> Larry (Bob, I'm not sure if we have communicated via e-mail since  
+>> your move(s?). [ My e-address is lhsmith at wvi.com ]
+>>
+>>> I used to make pedal-propeller drive units.  They were quite  
+>>> successful, but perfection as a product became quite expensive.   
+>>> One peculiarity of human power is the fluctuating torque, so that  
+>>> most of the time, the propeller is operating far from its most  
+>>> efficient rate. The fin-based drive on the Hobie Mirage has to  
+>>> reverse direction at the end of each stroke, but this probably  
+>>> involves less friction than keeping a propeller moving at a  
+>>> constant speed.  If I were building another boat now, I would use  
+>>> some kind of fin drive, and try to design the basic unit so that  
+>>> it could be built and maintained wherever wooden boats are made,  
+>>> without any purchased hardware.  I have sketched out several  
+>>> possibilities of varying complexity, size, and efficiency.  I  
+>>> expect that they would be as fast as propeller drives, and better  
+>>> around shallows and weeds.
+>>>
+>>> Bob Stuart
+>>>
+>>
+>>
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing  
+>> list, sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage  
+>> your subscription.
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+
+
+From rickwill at bigpond.net.au  Sat Feb 26 20:17:45 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 27 Feb 2011 15:17:45 +1100
+Subject: [hpv-boats] converting pedal power to prop power right angles
+Message-ID: <0F618B5B-D985-43C8-B862-E21D5BCEACD3@bigpond.net.au>
+
+Mark
+There are quite a few right angle gearbox manufactures.
+
+You can use smaller boxes with 1:1 ratio and bicycle chain speed  
+increase on the input.  Mitrpay range is probably the best value around:
+http://www.mitrpak.com/product_results.php
+
+Marcoplo boats are offering a modified Mitrpak box that accepts cranks:
+
+http://marcopoloboats.com/MitrpakDrive.html
+
+This box has a 1:2 ratio that is a bit low for a fast boat.  I prefer  
+a minimum of 1:4.
+
+You can purchase nice gearsets from this place:
+
+http://www.qtcgears.com/RFQ/BevelGears.htm
+
+
+
+I have used two Mitrpak boxes to make complete drive legs for a few  
+applications now.  These are really nice but also end up expensive  
+per the unit pictured here:
+
+http://www.rickwill.bigpondhosting.com/folded_pedal_thruster.jpg
+
+These units use a modified T-122 for the top box that accepts cranks  
+and a standard R-101 on the bottom.  This gives an overall ratio of  
+1:2, which is ideal for swinging the 30X20 prop with two units  
+pushing the 8t sailing catamaran.
+
+You can get 1:4 ratio using two of the Mitrpak boxes as seen here:
+
+http://www.youtube.com/watch?v=OXSZLt_6eFg&feature=related
+
+You need to get to 6 minutes in before you see the top box.  The  
+bottom box and prop are partially visible in the shots on the trailer  
+at the beginning.
+
+There are other ways to get the right angle drive including twisted  
+chain, twisted belts, flexible shaft and magnets. Each method has  
+pros and cons.
+
+
+
+Rick
+
+From rickwill at bigpond.net.au  Sat Feb 26 21:23:14 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 27 Feb 2011 16:23:14 +1100
+Subject: [hpv-boats] CFD
+Message-ID: <26F80B10-DE06-4663-BC2B-C8FAA2A5A3D6@bigpond.net.au>
+
+Bruno
+re you question:
+Other question : I'm looking for a CFD software (such as Fluent 
++Gambit from
+Ansys or Flow-3D) else than the opensource ones, free but not always  
+easy to
+use. Has anyone a clue about how to get an efficient and pro class one
+without spending a fortune (or downloading cracked, uncomplete, and  
+of high
+risk of malware infection)?
+
+
+I had a look at your sub.  I expect that you could get performance  
+gains simply by working to minimise wetted surface and enclosed  
+volume.  You can calculate the drag reasonably accurately for  
+operating in deep water by using the ITTC57 skin friction line:
+Cf = 0.075/(log10 (Re#)-2)2
+
+The drag can then be approximated to:
+
+Rv=1/2*rho*U2*S*Cf
+
+Where U is speed and S is surface area both in compatible units with  
+rho.
+
+You need to do these calculation for the entire wetted surface  
+including the fins and the prop protectors.  Each fin and protector  
+should be treated as separate for determining its Re#. Remember to  
+allow for both sides.
+
+Further comments:
+1. This simple analysis excludes form factors, which will be low  
+unless you have some abrupt transition in section.  The optimum  
+fineness ratio for water is around 8 but the main aim is to keep the  
+volume and overall surface area as small as possible while having the  
+room to operate.  Fineness of less than 4 would start to make form  
+more significant.
+2. If you are near the surface then there will be waves.  There is  
+freely available thin ship software called Michlet that gives  
+accurate wave data fore fineness down to around 5.  Michlet will also  
+calculate the skin friction based on the ITTC line.
+3. The ITTC friction calculation assumes turbulent flow over the  
+surface. There are so-called laminar flow hulls that give favourable  
+pressure profiles to maintain laminar flow but I doubt whether they  
+can achieve this in a hull disturb by pedalling.  Some info on that  
+here:
+http://www.iag.uni-stuttgart.de/luftfahrzeugaerodynamik/paper/ 
+melbourne_9_98_lutz.pdf
+
+One area where you might gain efficiencies is to consider less  
+turbulent methods of power input than cycling. I have done  
+biomechanical modelling of swing arm system in air compared with  
+cycling.  In the harmonic regime, up to moderate power, it is more  
+efficient than cycling.  I tested that system on the boat seen here:
+http://www.youtube.com/watch?v=PYoW3XjHRbw
+It is not suited to energetic power level and the harmonics are  
+probably less beneficial when the legs are buoyant but it still  
+offers lower velocity of the moving parts - predominantly legs.
+
+I expect you would get reasonable drag results for your existing sub  
+using this approach.
+
+You should find there are more efficient ways to adjust pitch and  
+roll using moveable ballast (or air) at low speed and fins for higher  
+speed rather than the twin side thrusters.
+
+Rick
+
+From sertier.bruno at wanadoo.fr  Sun Feb 27 00:36:03 2011
+From: sertier.bruno at wanadoo.fr (Bruno Sertier)
+Date: Sun, 27 Feb 2011 09:36:03 +0100
+Subject: [hpv-boats] CFD
+In-Reply-To: <26F80B10-DE06-4663-BC2B-C8FAA2A5A3D6@bigpond.net.au>
+References: <26F80B10-DE06-4663-BC2B-C8FAA2A5A3D6@bigpond.net.au>
+Message-ID: <CFE555890082428F96AB6F9ED913F298@ACER>
+
+Hello Rick,
+
+Thank you for your recommandations and advices. Actually my CFD quest is not 
+only for the submarine drag reduction and estimation aims but for more 
+general questions such as sizing of the tail and interaction with hull and 
+transcient analysis when pitching, yawling and rolling.
+
+Your point about efficiency with an arm swinging system for propulsion is 
+interesting but looking at the video on your weblink it seems that you are 
+pedaling (with high speed results!) or did I miss something? Could you be 
+more specific about this system please?
+
+Thank you.
+Bruno
+--------------------------------------------------
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+Sent: Sunday, February 27, 2011 6:23 AM
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Subject: [hpv-boats] CFD
+
+> Bruno
+> re you question:
+> Other question : I'm looking for a CFD software (such as Fluent +Gambit 
+> from
+> Ansys or Flow-3D) else than the opensource ones, free but not always  easy 
+> to
+> use. Has anyone a clue about how to get an efficient and pro class one
+> without spending a fortune (or downloading cracked, uncomplete, and  of 
+> high
+> risk of malware infection)?
+>
+>
+> I had a look at your sub.  I expect that you could get performance  gains 
+> simply by working to minimise wetted surface and enclosed  volume.  You 
+> can calculate the drag reasonably accurately for  operating in deep water 
+> by using the ITTC57 skin friction line:
+> Cf = 0.075/(log10 (Re#)-2)2
+>
+> The drag can then be approximated to:
+>
+> Rv=1/2*rho*U2*S*Cf
+>
+> Where U is speed and S is surface area both in compatible units with  rho.
+>
+> You need to do these calculation for the entire wetted surface  including 
+> the fins and the prop protectors.  Each fin and protector  should be 
+> treated as separate for determining its Re#. Remember to  allow for both 
+> sides.
+>
+> Further comments:
+> 1. This simple analysis excludes form factors, which will be low  unless 
+> you have some abrupt transition in section.  The optimum  fineness ratio 
+> for water is around 8 but the main aim is to keep the  volume and overall 
+> surface area as small as possible while having the  room to operate. 
+> Fineness of less than 4 would start to make form  more significant.
+> 2. If you are near the surface then there will be waves.  There is  freely 
+> available thin ship software called Michlet that gives  accurate wave data 
+> fore fineness down to around 5.  Michlet will also  calculate the skin 
+> friction based on the ITTC line.
+> 3. The ITTC friction calculation assumes turbulent flow over the  surface. 
+> There are so-called laminar flow hulls that give favourable  pressure 
+> profiles to maintain laminar flow but I doubt whether they  can achieve 
+> this in a hull disturb by pedalling.  Some info on that  here:
+> http://www.iag.uni-stuttgart.de/luftfahrzeugaerodynamik/paper/ 
+> melbourne_9_98_lutz.pdf
+>
+> One area where you might gain efficiencies is to consider less  turbulent 
+> methods of power input than cycling. I have done  biomechanical modelling 
+> of swing arm system in air compared with  cycling.  In the harmonic 
+> regime, up to moderate power, it is more  efficient than cycling.  I 
+> tested that system on the boat seen here:
+> http://www.youtube.com/watch?v=PYoW3XjHRbw
+> It is not suited to energetic power level and the harmonics are  probably 
+> less beneficial when the legs are buoyant but it still  offers lower 
+> velocity of the moving parts - predominantly legs.
+>
+> I expect you would get reasonable drag results for your existing sub 
+> using this approach.
+>
+> You should find there are more efficient ways to adjust pitch and  roll 
+> using moveable ballast (or air) at low speed and fins for higher  speed 
+> rather than the twin side thrusters.
+>
+> Rick
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+From rickwill at bigpond.net.au  Sun Feb 27 02:00:52 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 27 Feb 2011 21:00:52 +1100
+Subject: [hpv-boats] CFD & Swing Arms
+Message-ID: <E29C5220-2A37-40C4-8FF8-F7F35AC96B89@bigpond.net.au>
+
+Bruno
+You can get good results for foil modelling using JavaFoil or Xfoil.   
+I prefer JavaFoil because it has friendlier front end:
+http://www.mh-aerotools.de/airfoils/jf_applet.htm
+It is a 2-D analysis but it has corrections in the options page for  
+the foil aspect ratio.  It gives good results for a wide range of  
+sections that can be selected and modified if required.  You can  
+simply add the drag components of each element.  You might get  
+different results with full 3D CFD analysis but you could not rely on  
+them anyhow.
+
+For a foil mounted of a large flattish surface double the selected  
+aspect to allow for the end plane.
+
+The high velocity body element with pedalling is the feet.  If they  
+are moving in a high density fluid such as water then there is a lot  
+of wasted energy in stirring the water with the motion of the feet.  
+With the swing arm system the power stroke is more effective.  The  
+force is in line with the movement of the power stroke of each foot.   
+For example if the thrust is applied in a horizontal direction then  
+the feet mostly move back and forth horizontally with a small  
+vertical lift at either end.  With a crank the feet travel both  
+vertically and horizontally at the same velocity.  In a recumbent  
+position the vertical component of the motion does not delivery much  
+force to the cranks - per your observation for the elliptical  
+cranks.  Hence the feet travel at high velocity for 4 quadrants of  
+the cycle with roughly only 1 quadrant being effective power delivery  
+or 75% of feet spinning energy just to make the next power stroke.   
+With a swing arm system it is closer to 50% of feet moving energy to  
+make the next power stroke.
+
+In air there is the benefit of the harmonic motion if the swing arms  
+are set up right so there is negligible cost in the reversal.  That  
+may be more evident in this clip courtesy of now departed colleague  
+Warren Loomis:
+http://www.rickwill.bigpondhosting.com/Warren_HC.wmv
+The reason I played around with this drive system on my V12 boat was  
+to lower the centre of gravity of the engine such that it was  
+compatible with unstabilised slender hull.  I have also contemplated  
+its use on a faired trike for endurance record setting because it  
+requires less volume than cranks and chainrings commonly used - hence  
+lower wind resistance.  It is a compact arrangement for delivering  
+power that still permits the HUFF configuration.   I have seen other  
+configurations that try to reduce frontal area but they look  
+incredibly awkward to operate.
+
+Rick
+
+
+Re: CFD
+
+Hello Rick,
+
+Thank you for your recommandations and advices. Actually my CFD quest  
+is not
+only for the submarine drag reduction and estimation aims but for more
+general questions such as sizing of the tail and interaction with  
+hull and
+transcient analysis when pitching, yawling and rolling.
+
+Your point about efficiency with an arm swinging system for  
+propulsion is
+interesting but looking at the video on your weblink it seems that  
+you are
+pedaling (with high speed results!) or did I miss something? Could  
+you be
+more specific about this system please?
+
+Thank you.
+Bruno
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+
+
+From brian at wildsong.biz  Sun Feb 27 21:38:45 2011
+From: brian at wildsong.biz (Brian Wilson)
+Date: Sun, 27 Feb 2011 21:38:45 -0800
+Subject: [hpv-boats] mailing list move update
+In-Reply-To: <AANLkTikKpCXgLvcDYCBrtps6dtksZMpsLsvsDUXv6LEm@mail.gmail.com>
+References: <AANLkTikKpCXgLvcDYCBrtps6dtksZMpsLsvsDUXv6LEm@mail.gmail.com>
+Message-ID: <AANLkTikU2S0YqzsUTPQ5Pp5O7CU1C=qZs0as0rkcoYO9@mail.gmail.com>
+
+Greetings --
+
+This mailing list "hpv-boats at bikelist.org" is moving to "hpv-boats at hupi.org".
+
+The move will probably commence on Monday or Tuesday, depending on how
+busy we are. When Alex (at bikelist.org) is ready, he will turn off
+the list at bikelist.org so no new messages will be accepted there
+(this includes commands such as subscribe/unsubscribe requests). Alex
+will then send the list data to me and I will install it and
+reactivate the list at hupi.org.
+
+We're using the same software at both servers so in theory this should
+be a simple move.
+
+You don't have to do anything -- except start using the new address
+after the move.
+I will send another message when the list is running at hupi.org.
+
+--
+Brian Wilson
+bwilson at hupi.org
+
+Sorry, but if you're on more than one 'hpv' list you will be reading
+this message more than once!
+
+From lhsmith at wvi.com  Mon Feb 28 10:19:02 2011
+From: lhsmith at wvi.com (Larry H. Smith)
+Date: Mon, 28 Feb 2011 10:19:02 -0800
+Subject: [hpv-boats] Fin-drive redux
+In-Reply-To: <83188F5C-8659-4C78-8837-EADF78139CA3@sasktel.net>
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org>
+	<32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>	<227562.57579.qm@web65601.mail.ac4.yahoo.com>
+	<C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>	<e99cf95c0b7793bde38aeb73c4583b25@wvi.com>
+	<BLU0-SMTP8737DFB573985E75D6C271B0DC0@phx.gbl>
+	<83188F5C-8659-4C78-8837-EADF78139CA3@sasktel.net>
+Message-ID: <475cb52b06c6ac77127288efcd1b1c6b@wvi.com>
+
+Terrific overview, Bob, ... thanks for taking the time!
+
+Plenty of food for thought.
+
+As a side observation (OT), your reference to "sea conditions" brought 
+to mind a similar issue with one of my FrontRower rigs, where the 
+changing freeboard with lighter/heavier loadings, and the varying 
+surface height with chop, dictated differering "settings" of the 
+mechanism, to insure proper oar-blade immersion. ( I built an 
+adjustment feature which helps with the freeboard issue, ...somewhat 
+less helpful with chop, but helps a bit.)
+
+Your idea re. multihull yaw resistance interests me. Considering the 
+added advantage of inherent stability(no outrigger drag at any speed or 
+degree of list), and the overall desirability of a single fin's 
+simplicity, do you believe that the lateral resistance of two hulls 
+would effectively reduce the overall drag, yaw plus hulls, enough to 
+equal-or-better that of a monohull with yaw-countering and stabilizing 
+appendages? I envision hulls each optimized for its half of the total 
+displacement at expected speeds, and an overall beam dictated by 
+Godzilla(etc.) for minimum intra-hull wave interference.) My weight 
+hovers around 200 pounds these days, so I generally think in terms of 
+about 325-350 for all-up weight of a "pleasure" craft with lunch, 
+camera, etc.)
+
+I took pleasure in watching the relatively slow-turning 18" prop as Jon 
+Knapp's Sea Saber moved away from the dock, which of course the rider 
+could not see. There seemed to be a somewhat magical amount of forward 
+motion from the prop activity.  I had a similar impression while 
+watching the (8 ft.?) air prop on the (Steve Ball's?)Dragonfly 
+hovercraft at (14-15mph? IHPVA Championships - Visalia Ca.) speed. I 
+imagine similar pleasure from watching the fin working between the cat 
+hulls, in this case perhaps visible to the rider, in a configuration 
+which placed the fin closer beneath the pedals, minimizing linkages, 
+etc.
+
+Maybe a "Feathercraft" type kayak  drop-rudder(s) to assist turns, but 
+raised for straight runs, minimizing appendage drag?
+
+Jimbo,
+Could you link-to or reference the source from which you took the quote 
+re. Hobie efficiency? (i.e., the "definitive study")
+Thanks.
+
+
+
+On Feb 26, 2011, at 7:58 PM, Bob Stuart wrote:
+
+> Thanks for the data on the Hobie drive.  I wouldn't have bothered 
+> thinking about fin drives if I had not seen a lot of room for 
+> improvement in all previous systems.
+>
+> Starting from the fin, the usual scheme has been a rigid leading edge, 
+> with a flexible wing.  This gives a shape like an airplane wing flying 
+> upside down.  The first level of improvement is a rigid, symmetrical 
+> foil, as on an aerobatic aircraft, with a pivot that lets it 
+> automatically flip over to the best angle of attack for each stroke.  
+> This pivot can have a second degree of freedom under manual control 
+> that lets it be set for reverse thrust.  For greater  efficiency, we 
+> can use two wing spars, fore and aft, so that a flexible fin assumes 
+> nearly the ideal camber for each direction.
+>
+> Next, the fins should be placed so that there is no yaw imposed on the 
+> boat.  The Hobie is fine in this respect, whereas Harry Bryan's boat 
+> was getting thrust from all three fins as it wiggled through the 
+> water.  Two fins off the stern with opposite motions are one solution, 
+> but I prefer having a compact arrangement, with the fins nearer the 
+> pedals.  Three options are: a single fin, with the side  force reacted 
+> against the mass and shapes of a multihull, two opposed fins mounted 
+> like bilge keels or leeboards, or fins on the tips of sweeps, like 
+> oars on their way to being parked on the gunwales.
+> The single fin can be mechanically simple, with force in each 
+> direction coming from one pedal.  The bilge-keel mounting emulates the 
+> pectoral fins of whales and penguins, and avoids disturbing the 
+> surface of the water.  The leeboard style avoids a through-hull 
+> fitting and gives a longer sweep, but makes waves of it's own.  It 
+> might achieve a constructive interference with the hull, giving a bit 
+> of jet propulsion and suction at the hull end of the stroke.  Only the 
+> sweep mounting gives a really decent angle of attack, applying most of 
+> its force in the proper direction.  My propeller tips could move over 
+> 15' per pedal stroke (half rotation of cranks.)  However, sweeps need 
+> compliance and surface-followers to keep the fin working properly on 
+> most boats and sea conditions, and rigid parts to minimize hysteresis  
+> losses.  They probably need an extra link to maintain a parallelogram 
+> to keep the fin angle accurate.  They might also want a 
+> compact-operation mode for use within a marina where oars are a 
+> clearance problem.
+>
+> The single-fin type requires a separate rudder, but the others are 
+> able to handle steering duties.  The leeboard style would allow course 
+> corrections, or errors, depending on the listing of a single hull.  
+> The double fin types, with reversing switches, would allow the boat to 
+> turn with no forward motion.  Various degrees of adjustment could be 
+> applied for course keeping, saving the drag of a rudder.  Ideally, 
+> steering could be done by either varying the force on each leg, or, 
+> preferably, by touching the reversing switch or trim adjustment with 
+> the sides of the heels.
+>
+> In shallow water, the fins could drag on the ground and still work, 
+> and when surfing onto a beach, they would dig in and resist the 
+> retreating wave.  They could also just swing back to shed weed if any 
+> drag built up.
+>
+> One great advantage of pedal cranks is that they conserve momentum.  
+> Linear drives often waste energy by requiring muscle power for 
+> deceleration, like shadow boxing.  I have not tried it yet, but a 
+> system like the Hobie drive, but with the pivot at the top might work 
+> well, like a pendulum.  If the natural frequency works out to the 
+> right range, it could be a sweet deal, combining easily with the sweep 
+> or leeboard schemes for a neat, drop-in installation.  The mass of the 
+> whole system would affect the frequency.  It could probably benefit 
+> from springs for adjustment to different speeds or leg weights.
+>
+> Bob Stuart
+>
+>
+> On 26-Feb-11, at 12:39 PM, Capn Jimbo wrote:
+>
+>> Thought it well to post the results of the definitive HPB study of 
+>> Hobie breakdown prone flipper system.  However successful the 
+>> marketing concept the results were dismal.  I quote:
+>>
+>> "At 3.5 mph the Mirage drive was only 22% efficient (heart rate 107). 
+>> The drive doesn't really get efficient until it reaches 5.3 mph at 
+>> 46% (heart rate 132). Now when you realize that many prop driven 
+>> HPB's approach efficiencies are closer to 70-80% efficient, it's no 
+>> wonder that in fair, head to flipper competitions the Hobie sucks 
+>> hind teat."
+
+
+
+From lhsmith at wvi.com  Mon Feb 28 10:27:50 2011
+From: lhsmith at wvi.com (Larry H. Smith)
+Date: Mon, 28 Feb 2011 10:27:50 -0800
+Subject: [hpv-boats] CFD
+In-Reply-To: <26F80B10-DE06-4663-BC2B-C8FAA2A5A3D6@bigpond.net.au>
+References: <26F80B10-DE06-4663-BC2B-C8FAA2A5A3D6@bigpond.net.au>
+Message-ID: <ae1c1cc6f9e35e99106d269a47d1c0f6@wvi.com>
+
+I assume mine is not the only dropped-jaw about the knowledge (and  
+materials/technique/sources info) possessed and shared here by the HPB  
+Wizard of Oz.
+
+Speechless as usual, but still able to type. ;-)
+
+Thanks Rick!
+
+
+
+
+On Feb 26, 2011, at 9:23 PM, Rick Willoughby wrote:
+
+> Bruno
+> re you question:
+> Other question : I'm looking for a CFD software (such as Fluent+Gambit  
+> from
+> Ansys or Flow-3D) else than the opensource ones, free but not always  
+> easy to
+> use. Has anyone a clue about how to get an efficient and pro class one
+> without spending a fortune (or downloading cracked, uncomplete, and of  
+> high
+> risk of malware infection)?
+>
+>
+> I had a look at your sub.  I expect that you could get performance  
+> gains simply by working to minimise wetted surface and enclosed  
+> volume.  You can calculate the drag reasonably accurately for  
+> operating in deep water by using the ITTC57 skin friction line:
+> Cf = 0.075/(log10 (Re#)-2)2
+>
+> The drag can then be approximated to:
+>
+> Rv=1/2*rho*U2*S*Cf
+>
+> Where U is speed and S is surface area both in compatible units with  
+> rho.
+>
+> You need to do these calculation for the entire wetted surface  
+> including the fins and the prop protectors.  Each fin and protector  
+> should be treated as separate for determining its Re#. Remember to  
+> allow for both sides.
+>
+> Further comments:
+> 1. This simple analysis excludes form factors, which will be low  
+> unless you have some abrupt transition in section.  The optimum  
+> fineness ratio for water is around 8 but the main aim is to keep the  
+> volume and overall surface area as small as possible while having the  
+> room to operate.  Fineness of less than 4 would start to make form  
+> more significant.
+> 2. If you are near the surface then there will be waves.  There is  
+> freely available thin ship software called Michlet that gives accurate  
+> wave data fore fineness down to around 5.  Michlet will also calculate  
+> the skin friction based on the ITTC line.
+> 3. The ITTC friction calculation assumes turbulent flow over the  
+> surface. There are so-called laminar flow hulls that give favourable  
+> pressure profiles to maintain laminar flow but I doubt whether they  
+> can achieve this in a hull disturb by pedalling.  Some info on that  
+> here:
+> http://www.iag.uni-stuttgart.de/luftfahrzeugaerodynamik/paper/ 
+> melbourne_9_98_lutz.pdf
+>
+> One area where you might gain efficiencies is to consider less  
+> turbulent methods of power input than cycling. I have done  
+> biomechanical modelling of swing arm system in air compared with  
+> cycling.  In the harmonic regime, up to moderate power, it is more  
+> efficient than cycling.  I tested that system on the boat seen here:
+> http://www.youtube.com/watch?v=PYoW3XjHRbw
+> It is not suited to energetic power level and the harmonics are  
+> probably less beneficial when the legs are buoyant but it still offers  
+> lower velocity of the moving parts - predominantly legs.
+>
+> I expect you would get reasonable drag results for your existing sub  
+> using this approach.
+>
+> You should find there are more efficient ways to adjust pitch and roll  
+> using moveable ballast (or air) at low speed and fins for higher speed  
+> rather than the twin side thrusters.
+>
+> Rick
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,  
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+>
+
+
+
+From bobstuart at sasktel.net  Mon Feb 28 12:19:17 2011
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Mon, 28 Feb 2011 14:19:17 -0600
+Subject: [hpv-boats] Fin-drive redux
+In-Reply-To: <475cb52b06c6ac77127288efcd1b1c6b@wvi.com>
+References: <mailman.19.1298577603.94137.hpv-boats@bikelist.org>
+	<32CFFEE2-C63B-407D-90DC-5DA46C45521D@bigpond.net.au>
+	<227562.57579.qm@web65601.mail.ac4.yahoo.com>
+	<C914920C-4DC8-4FF8-83D0-0FFB3576FE81@sasktel.net>
+	<e99cf95c0b7793bde38aeb73c4583b25@wvi.com>
+	<BLU0-SMTP8737DFB573985E75D6C271B0DC0@phx.gbl>
+	<83188F5C-8659-4C78-8837-EADF78139CA3@sasktel.net>
+	<475cb52b06c6ac77127288efcd1b1c6b@wvi.com>
+Message-ID: <799E6274-40C6-4546-B86B-11998226822B@sasktel.net>
+
+Hi Larry,
+
+I'd have to get serious about the math to work out the relative  
+efficiency of hulls vs fins at resisting the side force of a single  
+fin drive.  At least, having it in between the center of resistance  
+and center of gravity lengthwise should keep yaw to a minimum,  
+although there would be some sideways wiggling.  Hobie-cat style V  
+bottoms would do much better than minimum-resistance round bottoms,  
+too.  With round bottoms, a foil-shaped skeg would take much of the  
+load, and add a bit of thrust itself. The skeg might be all the way  
+forward, to balance the side force provided by the rudder.
+
+The Sea Saber was my first good HPB ride, and it did feel like magic  
+once I centered the rudder.  High pitch numbers give a magic  
+appearance, too, but they do add a lot more invisible spin to the  
+wake than is ideal.  OTOH, they waste less power at the low-torque  
+parts of the pedal cycle.
+
+My recall was that the Dragonflier had a 10' prop, but I'd have to  
+check.
+
+There are two general approaches to the whole efficiency debate.  One  
+is the sailor's definition of "A Race"- two boats within sight on  
+approximately the same heading.  The other is from my friend Gary  
+Marshall, regarding our kayaks - "But Bob, once I'm on the water, I'm  
+THERE!"  That didn't stop him from spending weeks inventing a new  
+rudder style, though.  Boats are what sculptors do to avoid art dealers.
+
+Bob
+
+On 28-Feb-11, at 12:19 PM, Larry H. Smith wrote:
+
+> Terrific overview, Bob, ... thanks for taking the time!
+>
+> Plenty of food for thought.
+>
+> As a side observation (OT), your reference to "sea conditions"  
+> brought to mind a similar issue with one of my FrontRower rigs,  
+> where the changing freeboard with lighter/heavier loadings, and the  
+> varying surface height with chop, dictated differering "settings"  
+> of the mechanism, to insure proper oar-blade immersion. ( I built  
+> an adjustment feature which helps with the freeboard  
+> issue, ...somewhat less helpful with chop, but helps a bit.)
+>
+> Your idea re. multihull yaw resistance interests me. Considering  
+> the added advantage of inherent stability(no outrigger drag at any  
+> speed or degree of list), and the overall desirability of a single  
+> fin's simplicity, do you believe that the lateral resistance of two  
+> hulls would effectively reduce the overall drag, yaw plus hulls,  
+> enough to equal-or-better that of a monohull with yaw-countering  
+> and stabilizing appendages? I envision hulls each optimized for its  
+> half of the total displacement at expected speeds, and an overall  
+> beam dictated by Godzilla(etc.) for minimum intra-hull wave  
+> interference.) My weight hovers around 200 pounds these days, so I  
+> generally think in terms of about 325-350 for all-up weight of a  
+> "pleasure" craft with lunch, camera, etc.)
+>
+> I took pleasure in watching the relatively slow-turning 18" prop as  
+> Jon Knapp's Sea Saber moved away from the dock, which of course the  
+> rider could not see. There seemed to be a somewhat magical amount  
+> of forward motion from the prop activity.  I had a similar  
+> impression while watching the (8 ft.?) air prop on the (Steve  
+> Ball's?)Dragonfly hovercraft at (14-15mph? IHPVA Championships -  
+> Visalia Ca.) speed. I imagine similar pleasure from watching the  
+> fin working between the cat hulls, in this case perhaps visible to  
+> the rider, in a configuration which placed the fin closer beneath  
+> the pedals, minimizing linkages, etc.
+>
+> Maybe a "Feathercraft" type kayak  drop-rudder(s) to assist turns,  
+> but raised for straight runs, minimizing appendage drag?
+>
+> Jimbo,
+> Could you link-to or reference the source from which you took the  
+> quote re. Hobie efficiency? (i.e., the "definitive study")
+> Thanks.
+>
+>
+>
+> On Feb 26, 2011, at 7:58 PM, Bob Stuart wrote:
+>
+>> Thanks for the data on the Hobie drive.  I wouldn't have bothered  
+>> thinking about fin drives if I had not seen a lot of room for  
+>> improvement in all previous systems.
+>>
+>> Starting from the fin, the usual scheme has been a rigid leading  
+>> edge, with a flexible wing.  This gives a shape like an airplane  
+>> wing flying upside down.  The first level of improvement is a  
+>> rigid, symmetrical foil, as on an aerobatic aircraft, with a pivot  
+>> that lets it automatically flip over to the best angle of attack  
+>> for each stroke.  This pivot can have a second degree of freedom  
+>> under manual control that lets it be set for reverse thrust.  For  
+>> greater  efficiency, we can use two wing spars, fore and aft, so  
+>> that a flexible fin assumes nearly the ideal camber for each  
+>> direction.
+>>
+>> Next, the fins should be placed so that there is no yaw imposed on  
+>> the boat.  The Hobie is fine in this respect, whereas Harry  
+>> Bryan's boat was getting thrust from all three fins as it wiggled  
+>> through the water.  Two fins off the stern with opposite motions  
+>> are one solution, but I prefer having a compact arrangement, with  
+>> the fins nearer the pedals.  Three options are: a single fin, with  
+>> the side  force reacted against the mass and shapes of a  
+>> multihull, two opposed fins mounted like bilge keels or leeboards,  
+>> or fins on the tips of sweeps, like oars on their way to being  
+>> parked on the gunwales.
+>> The single fin can be mechanically simple, with force in each  
+>> direction coming from one pedal.  The bilge-keel mounting emulates  
+>> the pectoral fins of whales and penguins, and avoids disturbing  
+>> the surface of the water.  The leeboard style avoids a through- 
+>> hull fitting and gives a longer sweep, but makes waves of it's  
+>> own.  It might achieve a constructive interference with the hull,  
+>> giving a bit of jet propulsion and suction at the hull end of the  
+>> stroke.  Only the sweep mounting gives a really decent angle of  
+>> attack, applying most of its force in the proper direction.  My  
+>> propeller tips could move over 15' per pedal stroke (half rotation  
+>> of cranks.)  However, sweeps need compliance and surface-followers  
+>> to keep the fin working properly on most boats and sea conditions,  
+>> and rigid parts to minimize hysteresis  losses.  They probably  
+>> need an extra link to maintain a parallelogram to keep the fin  
+>> angle accurate.  They might also want a compact-operation mode for  
+>> use within a marina where oars are a clearance problem.
+>>
+>> The single-fin type requires a separate rudder, but the others are  
+>> able to handle steering duties.  The leeboard style would allow  
+>> course corrections, or errors, depending on the listing of a  
+>> single hull.  The double fin types, with reversing switches, would  
+>> allow the boat to turn with no forward motion.  Various degrees of  
+>> adjustment could be applied for course keeping, saving the drag of  
+>> a rudder.  Ideally, steering could be done by either varying the  
+>> force on each leg, or, preferably, by touching the reversing  
+>> switch or trim adjustment with the sides of the heels.
+>>
+>> In shallow water, the fins could drag on the ground and still  
+>> work, and when surfing onto a beach, they would dig in and resist  
+>> the retreating wave.  They could also just swing back to shed weed  
+>> if any drag built up.
+>>
+>> One great advantage of pedal cranks is that they conserve  
+>> momentum.  Linear drives often waste energy by requiring muscle  
+>> power for deceleration, like shadow boxing.  I have not tried it  
+>> yet, but a system like the Hobie drive, but with the pivot at the  
+>> top might work well, like a pendulum.  If the natural frequency  
+>> works out to the right range, it could be a sweet deal, combining  
+>> easily with the sweep or leeboard schemes for a neat, drop-in  
+>> installation.  The mass of the whole system would affect the  
+>> frequency.  It could probably benefit from springs for adjustment  
+>> to different speeds or leg weights.
+>>
+>> Bob Stuart
+>>
+>>
+>> On 26-Feb-11, at 12:39 PM, Capn Jimbo wrote:
+>>
+>>> Thought it well to post the results of the definitive HPB study  
+>>> of Hobie breakdown prone flipper system.  However successful the  
+>>> marketing concept the results were dismal.  I quote:
+>>>
+>>> "At 3.5 mph the Mirage drive was only 22% efficient (heart rate  
+>>> 107). The drive doesn't really get efficient until it reaches 5.3  
+>>> mph at 46% (heart rate 132). Now when you realize that many prop  
+>>> driven HPB's approach efficiencies are closer to 70-80%  
+>>> efficient, it's no wonder that in fair, head to flipper  
+>>> competitions the Hobie sucks hind teat."
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing  
+> list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+
+
+From marcopoloboats at aol.com  Mon Mar 14 08:35:56 2011
+From: marcopoloboats at aol.com (Mark Vermilion)
+Date: Mon, 14 Mar 2011 12:35:56 -0400
+Subject: [hpv-boats] converting pedal power to prop power right angles
+In-Reply-To: <7999.52337.qm@web114703.mail.gq1.yahoo.com>
+References: <7999.52337.qm@web114703.mail.gq1.yahoo.com>
+Message-ID: <6EF5F621-98E3-4273-9A37-C0DE8C48E5B3@aol.com>
+
+Mark,
+
+Marco Polo Boats has both a Mitrpak right angle gear box at a 1:2 increaser ratio made specifically for HPB, as well as a very flexible cable shaft that can bend 90 degrees over its length. Photos of the Mitrpak are on our website, and write if you would like photos of the cable shaft.
+
+In addition, we are working on a redesign of our PlanetDrive with a 1:4 increaser ratio and 300 in-lbs of torque rating. The PlanetDrive will now be directly attached to Mitrpak drive for a total of 1:8 increaser ratio.
+
+Rick Willoughby has tried the flex cable drive, and found it fine until 11 kph, at which point it kicks back, but we are working on a solution to that. The cable shafts are not yet on the website (marcopoloboats.com), but they are 316 Stainless Steel and two meters long. The cost is $225 delivered in the U.S. Figure about another $50 for delivery outside of the U.S.
+
+We will be working on website updates this week, but if you want more information, please contact us directly.
+
+Thanks,
+
+Mark Vermilion
+Marco Polo Boats, Inc.
+
+On Feb 26, 2011, at 10:36 PM, mark McWilliams wrote:
+
+> How do you change the angle of drive the 90 degrees needed to change the pedal power which is 90 degrees to the direction of the propeller ? 
+> 
+> pedals 
+> pedals >>>O < possible bike gears
+>                   v
+>                   v
+>                   v
+>                   v
+>                   v>>> propeller
+> 
+> If I wanted two 90 degree turns one going into the water and the second to the propeller then how would this be achieved in an application that will certainly get very wet and stay wet. 
+> Are there bevel gears that can be purchased ?
+> Have any of you made your own bevel or helical gears? 
+> If any of you have made bevel or helical gears how did you do it and how well has it worked?
+> 
+> 
+> 
+> 
+> 
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+
+From rickwill at bigpond.net.au  Mon Mar 14 14:23:37 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 15 Mar 2011 09:23:37 +1100
+Subject: [hpv-boats] converting pedal power to prop power right angles
+Message-ID: <4E56F5B7-8C23-400D-9E4B-7D0817A2D5C2@bigpond.net.au>
+
+A while ago I decided to do a dynamic model of the crank drive and  
+curved shaft system for a pedal boat.  This was so I could determine  
+how a drive would feel before it was made rather than doing it by  
+trial and error.
+
+The model is able to produce time based data on the important  
+parameters of a drive system.
+
+This trace shows what my current 8mm curved shaft does with a 1:4  
+ratio on V14 hull:
+http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to4%20_solid.pdf
+ From a feel perspective the black curve is the most important.  The  
+closer it is to a straight line the better.  At 3m/s average boat  
+speed the crank speed is varying between 60 and 80 rpm.
+
+This is the trace with Mark's flex shaft:
+http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to4%20_flex.pdf
+For the average boat speed of 3m/s the crank speed is going from  
+slight reversal up to 140rpm.  With 170mm cranks 140rpm corresponds  
+with my maximum foot velocity so that was my speed limit with the  
+flex shaft.  I have video that shows the stop-start nature of the  
+pedaling so the model is reasonably close to reality.
+
+I have also modeled what the flex shaft would be like with a 1:8  
+ratio driving a 12X12 prop:
+http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to8%20_flex.pdf
+Here the crank speed variation is from 40rpm to 120rpm.  This would  
+feel tolerable and I could get slightly faster than 3m/s before  
+hitting my 140rpm limit.
+
+So with higher gear ratio the flex shaft system looks to be an  
+economic means of getting a right angle drive and mounting the prop  
+within reach beside the hull.
+
+Also with practice at spinning, the crank speed would be smoother.   
+Even with the 1:4 ratio I could hold quite steady foot speed with the  
+flex shaft up to about 8kph. I do not have enough training to "spin"  
+as I load up.
+
+The dynamics depends on the boat and prop as well as the shaft and  
+gear ratio.  If anyone wants a shaft system modeled in this way it  
+does not take long to do.
+
+
+Rick Willoughby
+
+
+
+
+From giuseppe.carignani at gmail.com  Mon Mar 14 23:39:35 2011
+From: giuseppe.carignani at gmail.com (Giuseppe Carignani)
+Date: Tue, 15 Mar 2011 08:39:35 +0100
+Subject: [hpv-boats] converting pedal power to prop power right angles
+In-Reply-To: <4E56F5B7-8C23-400D-9E4B-7D0817A2D5C2@bigpond.net.au>
+References: <4E56F5B7-8C23-400D-9E4B-7D0817A2D5C2@bigpond.net.au>
+Message-ID: <AANLkTimjAkJe9j_qyGnc5C92vE=6b8k8uAnPQ_o6L3wu@mail.gmail.com>
+
+Thanks Rick
+your report is highly informative and seems very accurate, as usual.
+I'm just wondering about Mark Drela's flex shaft propulsion system, the one
+he donated to The Open Waterbike Project
+
+http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system
+
+<http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system>The
+shaft is olid but pretty thin (just 3 mm !); nonetheless he says it was
+builit and worked very well.
+Do your calculations confirm this?
+
+As you know I believe the availability of a commercial flex-shaft propulsion
+system could be the turning point in marketable high performance pedal
+boats, so I'm really looking foward to this!
+
+Best
+Giuseppe
+
+Giuseppe Carignani
+Founder, The Open Waterbike Project
+
+On Mon, Mar 14, 2011 at 11:23 PM, Rick Willoughby
+<rickwill at bigpond.net.au>wrote:
+
+> A while ago I decided to do a dynamic model of the crank drive and curved
+> shaft system for a pedal boat.  This was so I could determine how a drive
+> would feel before it was made rather than doing it by trial and error.
+>
+> The model is able to produce time based data on the important parameters of
+> a drive system.
+>
+> This trace shows what my current 8mm curved shaft does with a 1:4 ratio on
+> V14 hull:
+> http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to4%20_solid.pdf
+> From a feel perspective the black curve is the most important.  The closer
+> it is to a straight line the better.  At 3m/s average boat speed the crank
+> speed is varying between 60 and 80 rpm.
+>
+> This is the trace with Mark's flex shaft:
+> http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to4%20_flex.pdf
+> For the average boat speed of 3m/s the crank speed is going from slight
+> reversal up to 140rpm.  With 170mm cranks 140rpm corresponds with my maximum
+> foot velocity so that was my speed limit with the flex shaft.  I have video
+> that shows the stop-start nature of the pedaling so the model is reasonably
+> close to reality.
+>
+> I have also modeled what the flex shaft would be like with a 1:8 ratio
+> driving a 12X12 prop:
+> http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to8%20_flex.pdf
+> Here the crank speed variation is from 40rpm to 120rpm.  This would feel
+> tolerable and I could get slightly faster than 3m/s before hitting my 140rpm
+> limit.
+>
+> So with higher gear ratio the flex shaft system looks to be an economic
+> means of getting a right angle drive and mounting the prop within reach
+> beside the hull.
+>
+> Also with practice at spinning, the crank speed would be smoother.  Even
+> with the 1:4 ratio I could hold quite steady foot speed with the flex shaft
+> up to about 8kph. I do not have enough training to "spin" as I load up.
+>
+> The dynamics depends on the boat and prop as well as the shaft and gear
+> ratio.  If anyone wants a shaft system modeled in this way it does not take
+> long to do.
+>
+>
+> Rick Willoughby
+>
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+
+From rickwill at bigpond.net.au  Tue Mar 15 02:48:55 2011
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 15 Mar 2011 21:48:55 +1100
+Subject: [hpv-boats] converting pedal power to prop power right angles
+Message-ID: <21497975-01B7-4E23-A07E-1615FBB1EB13@bigpond.net.au>
+
+shaft is olid but pretty thin (just 3 mm !); nonetheless he says it was
+builit and worked very well.
+Do your calculations confirm this?
+
+If they could have achieved the design performance in terms of drag  
+then the 3mm shaft would be OK spinning at higher cadence than I am  
+capable of now.
+
+The biomechanical efficiency drops off above 300W with a 300mm pitch  
+prop at 6m/s.  It is a slippery slope when drag is higher than design  
+and would require a trained "spinner" to overcome the inherent losses  
+of a compliant shaft.
+
+I expect if they had taken the design further they would have  
+increased the shaft diameter once they understood the problem.  From  
+the videos I have seen of Skeeter in operation the pilot seems to be  
+delivering a great deal more than the target 250W to get it to fly.   
+Hence I would question the comment "worked very well".  My  
+understanding is that it performed well short of design objective.
+
+There are other ways to improve the efficiency such as more rotating  
+inertia on the driving end of the shaft to provide carry through the  
+dead spot.
+
+The biomechanical efficiency is not an illusion.  I can drop my heart  
+rate from say 140bpm to 137bpm for the same boat speed by  
+concentrating on spinning rather than just pushing the pedals.  The  
+problem for me  is it involves untrained muscles that tire quicker  
+than the better trained ones. And this is using drive system with  
+little compliance.  The benefit of spinning is even greater with a  
+compliant shaft.  Spinning is about 10% more efficient than push-push  
+on any crank drive.
+
+
+Rick Willoughby
+
+
+
+From hpv_of_earth at yahoo.com  Wed Mar 16 16:14:55 2011
+From: hpv_of_earth at yahoo.com (mark McWilliams)
+Date: Wed, 16 Mar 2011 17:14:55 -0700 (PDT)
+Subject: [hpv-boats] http://www.openwaterbike.com
+Message-ID: <491813.55948.qm@web114713.mail.gq1.yahoo.com>
+
+The web site " http://www.openwaterbike.com/ " is not working on an Apple using FireFox as the browser.
+
+
+
+
+
+      
+
+From lhsmith at wvi.com  Wed Mar 16 19:48:15 2011
+From: lhsmith at wvi.com (Larry H. Smith)
+Date: Wed, 16 Mar 2011 20:48:15 -0700
+Subject: [hpv-boats] http://www.openwaterbike.com
+In-Reply-To: <491813.55948.qm@web114713.mail.gq1.yahoo.com>
+References: <491813.55948.qm@web114713.mail.gq1.yahoo.com>
+Message-ID: <b0de696bd24add37926f75139d3bbbb1@wvi.com>
+
+Safari works on my Powerbook OSX 10.3.9
+
+
+On Mar 16, 2011, at 5:14 PM, mark McWilliams wrote:
+
+> The web site " http://www.openwaterbike.com/ " is not working on an 
+> Apple using FireFox as the browser.
+>
+
+
+
+From iancassell at optusnet.com.au  Sun Mar 20 02:21:35 2011
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Sun, 20 Mar 2011 21:21:35 +1100
+Subject: [hpv-boats] Directional Prop
+Message-ID: <010FAF033FC64EC4BCB91B580C66FF4A@HOME1>
+
+Have just got one of Rick's folding props with shaft.
+The shaft is 16mm aluminium solid rod 2m long,
+and the flex section is 9mm epoxy reinforced flexible
+steel rod. Had the idea if a flexible shaft can go up
+and down to avoid snags why not move it side to side
+to steer the boat. Tried it out this week and works well,
+turns better than with the rudder I had. The shaft is at
+an angle of 11deg so curve is quite shallow, even so
+needs a bit of leverage to turn it. Have put a post in
+the boat design website with some pics and a video.
+http://www.boatdesign.net/forums/boat-design/pedal-powered-boats-23345-71.html
+
+Ian
+
+From blarsenb at seanet.com  Sun Mar 20 09:02:14 2011
+From: blarsenb at seanet.com (Brad Larsen)
+Date: Sun, 20 Mar 2011 10:02:14 -0700
+Subject: [hpv-boats] converting pedal power to prop power right angles
+In-Reply-To: <AANLkTimjAkJe9j_qyGnc5C92vE=6b8k8uAnPQ_o6L3wu@mail.gmail.com>
+References: <4E56F5B7-8C23-400D-9E4B-7D0817A2D5C2@bigpond.net.au>
+	<AANLkTimjAkJe9j_qyGnc5C92vE=6b8k8uAnPQ_o6L3wu@mail.gmail.com>
+Message-ID: <005401cbe720$8f8e0490$aeaa0db0$@com>
+
+I haven't been active on this list for years but recently got mixed up in an
+effort to build a boat that will go around the world autonomously.
+
+I remember figures on human wattage from this list along with other useful
+numbers.  Can anyone recall the average sustained wattage and peak wattage
+for a human?
+
+
+
+Brad Larsen
+
+
+-----Original Message-----
+From: hpv-boats-bounces+blarsenb=seanet.com at bikelist.org
+[mailto:hpv-boats-bounces+blarsenb=seanet.com at bikelist.org] On Behalf Of
+Giuseppe Carignani
+Sent: Tuesday, March 15, 2011 12:40 AM
+To: Human Powered Vehicles -- Boats
+Subject: Re: [hpv-boats] converting pedal power to prop power right angles
+
+Thanks Rick
+your report is highly informative and seems very accurate, as usual.
+I'm just wondering about Mark Drela's flex shaft propulsion system, the one
+he donated to The Open Waterbike Project
+
+http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system
+
+<http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system
+>The
+shaft is olid but pretty thin (just 3 mm !); nonetheless he says it was
+builit and worked very well.
+Do your calculations confirm this?
+
+As you know I believe the availability of a commercial flex-shaft propulsion
+system could be the turning point in marketable high performance pedal
+boats, so I'm really looking foward to this!
+
+Best
+Giuseppe
+
+Giuseppe Carignani
+Founder, The Open Waterbike Project
+
+On Mon, Mar 14, 2011 at 11:23 PM, Rick Willoughby
+<rickwill at bigpond.net.au>wrote:
+
+> A while ago I decided to do a dynamic model of the crank drive and curved
+> shaft system for a pedal boat.  This was so I could determine how a drive
+> would feel before it was made rather than doing it by trial and error.
+>
+> The model is able to produce time based data on the important parameters
+of
+> a drive system.
+>
+> This trace shows what my current 8mm curved shaft does with a 1:4 ratio on
+> V14 hull:
+> http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to4%20_solid.pdf
+> From a feel perspective the black curve is the most important.  The closer
+> it is to a straight line the better.  At 3m/s average boat speed the crank
+> speed is varying between 60 and 80 rpm.
+>
+> This is the trace with Mark's flex shaft:
+> http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to4%20_flex.pdf
+> For the average boat speed of 3m/s the crank speed is going from slight
+> reversal up to 140rpm.  With 170mm cranks 140rpm corresponds with my
+maximum
+> foot velocity so that was my speed limit with the flex shaft.  I have
+video
+> that shows the stop-start nature of the pedaling so the model is
+reasonably
+> close to reality.
+>
+> I have also modeled what the flex shaft would be like with a 1:8 ratio
+> driving a 12X12 prop:
+> http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to8%20_flex.pdf
+> Here the crank speed variation is from 40rpm to 120rpm.  This would feel
+> tolerable and I could get slightly faster than 3m/s before hitting my
+140rpm
+> limit.
+>
+> So with higher gear ratio the flex shaft system looks to be an economic
+> means of getting a right angle drive and mounting the prop within reach
+> beside the hull.
+>
+> Also with practice at spinning, the crank speed would be smoother.  Even
+> with the 1:4 ratio I could hold quite steady foot speed with the flex
+shaft
+> up to about 8kph. I do not have enough training to "spin" as I load up.
+>
+> The dynamics depends on the boat and prop as well as the shaft and gear
+> ratio.  If anyone wants a shaft system modeled in this way it does not
+take
+> long to do.
+>
+>
+> Rick Willoughby
+>
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list,
+sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+subscription.
+
+
+From giuseppe.carignani at gmail.com  Sun Mar 20 09:10:31 2011
+From: giuseppe.carignani at gmail.com (Giuseppe Carignani)
+Date: Sun, 20 Mar 2011 18:10:31 +0100
+Subject: [hpv-boats] converting pedal power to prop power right angles
+In-Reply-To: <005401cbe720$8f8e0490$aeaa0db0$@com>
+References: <4E56F5B7-8C23-400D-9E4B-7D0817A2D5C2@bigpond.net.au>
+	<AANLkTimjAkJe9j_qyGnc5C92vE=6b8k8uAnPQ_o6L3wu@mail.gmail.com>
+	<005401cbe720$8f8e0490$aeaa0db0$@com>
+Message-ID: <AANLkTi=RnZ5uM5VQFOUfcLLRS=zutGojgDGuTAq7AXwd@mail.gmail.com>
+
+Brad
+there are some useful figures and a reference here
+
+http://www.openwaterbike.com/architecture/human-power
+
+<http://www.openwaterbike.com/architecture/human-power>Best
+Giuseppe
+Founder, The Open Waterbike Project
+
+From blarsenb at seanet.com  Sun Mar 20 09:39:18 2011
+From: blarsenb at seanet.com (Brad Larsen)
+Date: Sun, 20 Mar 2011 10:39:18 -0700
+Subject: [hpv-boats] converting pedal power to prop power right angles
+In-Reply-To: <AANLkTi=RnZ5uM5VQFOUfcLLRS=zutGojgDGuTAq7AXwd@mail.gmail.com>
+References: <4E56F5B7-8C23-400D-9E4B-7D0817A2D5C2@bigpond.net.au>	<AANLkTimjAkJe9j_qyGnc5C92vE=6b8k8uAnPQ_o6L3wu@mail.gmail.com>	<005401cbe720$8f8e0490$aeaa0db0$@com>
+	<AANLkTi=RnZ5uM5VQFOUfcLLRS=zutGojgDGuTAq7AXwd@mail.gmail.com>
+Message-ID: <005501cbe725$bd2584f0$37708ed0$@com>
+
+Thanks!
+
+
+Its looks likes like 120wats is a sustainable figure.
+  
+Now I will attempt to convert meters/seconds to kilometers/hour to miles per
+hour.  Yes I'm working with the unfortunate American scale.
+
+
+The figure I'm most interested in is 
+
+speed/watts sustained 
+
+speed/watts in a sprint 
+
+
+with a mono-hull design.
+
+
+
+
+Brad
+
+
+
+
+
+
+
+
+
+-----Original Message-----
+From: hpv-boats-bounces+blarsenb=seanet.com at bikelist.org
+[mailto:hpv-boats-bounces+blarsenb=seanet.com at bikelist.org] On Behalf Of
+Giuseppe Carignani
+Sent: Sunday, March 20, 2011 10:11 AM
+To: Human Powered Vehicles -- Boats
+Subject: Re: [hpv-boats] converting pedal power to prop power right angles
+
+Brad
+there are some useful figures and a reference here
+
+http://www.openwaterbike.com/architecture/human-power
+
+<http://www.openwaterbike.com/architecture/human-power>Best
+Giuseppe
+Founder, The Open Waterbike Project
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list,
+sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+subscription.
+
+
+From vgarza2 at satx.rr.com  Sun Mar 20 11:39:19 2011
+From: vgarza2 at satx.rr.com (v garza)
+Date: Sun, 20 Mar 2011 14:39:19 -0500
+Subject: [hpv-boats] converting pedal power to prop power right angles
+In-Reply-To: <005401cbe720$8f8e0490$aeaa0db0$@com>
+References: <4E56F5B7-8C23-400D-9E4B-7D0817A2D5C2@bigpond.net.au><AANLkTimjAkJe9j_qyGnc5C92vE=6b8k8uAnPQ_o6L3wu@mail.gmail.com>
+	<005401cbe720$8f8e0490$aeaa0db0$@com>
+Message-ID: <A9D663A9ABC64CCFA4A69A34C3791C05@vgarzaPC>
+
+Don't know what you mean by autonomously, is it large enough for living 
+quarters like the old microship projects.
+
+Here's some old links that might be interesting along the same lines:
+
+http://microship.com/microship/index.html
+
+http://www.prophish.com/nyrio.html
+
+Hope this helps.
+
+Vic
+----- Original Message ----- 
+From: "Brad Larsen" <blarsenb at seanet.com>
+To: "'Human Powered Vehicles -- Boats'" <hpv-boats at bikelist.org>
+Sent: Sunday, March 20, 2011 12:02 PM
+Subject: Re: [hpv-boats] converting pedal power to prop power right angles
+
+
+>I haven't been active on this list for years but recently got mixed up in 
+>an
+> effort to build a boat that will go around the world autonomously.
+>
+> I remember figures on human wattage from this list along with other useful
+> numbers.  Can anyone recall the average sustained wattage and peak wattage
+> for a human?
+>
+>
+>
+> Brad Larsen
+>
+>
+> -----Original Message-----
+> From: hpv-boats-bounces+blarsenb=seanet.com at bikelist.org
+> [mailto:hpv-boats-bounces+blarsenb=seanet.com at bikelist.org] On Behalf Of
+> Giuseppe Carignani
+> Sent: Tuesday, March 15, 2011 12:40 AM
+> To: Human Powered Vehicles -- Boats
+> Subject: Re: [hpv-boats] converting pedal power to prop power right angles
+>
+> Thanks Rick
+> your report is highly informative and seems very accurate, as usual.
+> I'm just wondering about Mark Drela's flex shaft propulsion system, the 
+> one
+> he donated to The Open Waterbike Project
+>
+> http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system
+>
+> <http://www.openwaterbike.com/components/drive-units/mark-drela-drive-system
+>>The
+> shaft is olid but pretty thin (just 3 mm !); nonetheless he says it was
+> builit and worked very well.
+> Do your calculations confirm this?
+>
+> As you know I believe the availability of a commercial flex-shaft 
+> propulsion
+> system could be the turning point in marketable high performance pedal
+> boats, so I'm really looking foward to this!
+>
+> Best
+> Giuseppe
+>
+> Giuseppe Carignani
+> Founder, The Open Waterbike Project
+>
+> On Mon, Mar 14, 2011 at 11:23 PM, Rick Willoughby
+> <rickwill at bigpond.net.au>wrote:
+>
+>> A while ago I decided to do a dynamic model of the crank drive and curved
+>> shaft system for a pedal boat.  This was so I could determine how a drive
+>> would feel before it was made rather than doing it by trial and error.
+>>
+>> The model is able to produce time based data on the important parameters
+> of
+>> a drive system.
+>>
+>> This trace shows what my current 8mm curved shaft does with a 1:4 ratio 
+>> on
+>> V14 hull:
+>> http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to4%20_solid.pdf
+>> From a feel perspective the black curve is the most important.  The 
+>> closer
+>> it is to a straight line the better.  At 3m/s average boat speed the 
+>> crank
+>> speed is varying between 60 and 80 rpm.
+>>
+>> This is the trace with Mark's flex shaft:
+>> http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to4%20_flex.pdf
+>> For the average boat speed of 3m/s the crank speed is going from slight
+>> reversal up to 140rpm.  With 170mm cranks 140rpm corresponds with my
+> maximum
+>> foot velocity so that was my speed limit with the flex shaft.  I have
+> video
+>> that shows the stop-start nature of the pedaling so the model is
+> reasonably
+>> close to reality.
+>>
+>> I have also modeled what the flex shaft would be like with a 1:8 ratio
+>> driving a 12X12 prop:
+>> http://www.rickwill.bigpondhosting.com/Boat_Shaft_1to8%20_flex.pdf
+>> Here the crank speed variation is from 40rpm to 120rpm.  This would feel
+>> tolerable and I could get slightly faster than 3m/s before hitting my
+> 140rpm
+>> limit.
+>>
+>> So with higher gear ratio the flex shaft system looks to be an economic
+>> means of getting a right angle drive and mounting the prop within reach
+>> beside the hull.
+>>
+>> Also with practice at spinning, the crank speed would be smoother.  Even
+>> with the 1:4 ratio I could hold quite steady foot speed with the flex
+> shaft
+>> up to about 8kph. I do not have enough training to "spin" as I load up.
+>>
+>> The dynamics depends on the boat and prop as well as the shaft and gear
+>> ratio.  If anyone wants a shaft system modeled in this way it does not
+> take
+>> long to do.
+>>
+>>
+>> Rick Willoughby
+>>
+>>
+>>
+>>
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing list,
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>> subscription.
+>>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+--
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 1235 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+

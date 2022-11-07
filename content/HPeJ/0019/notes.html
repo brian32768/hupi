@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/1.1-latest/MathJax.js?config=default"></script>
+    <title>notes to HPeJ article 19, issue 7</title>
+  </head>
+  <body>
+    <p align="center"> <img src="HPeJ-sml.gif" alt="Human Power eJournal" height="50"
+        border="0" width="400"> <br>
+      <a href="http://www.hupi.org/HPeJ/index.htm">Contents</a> | <a href="http://www.hupi.org/HPeJ/about.htm">About</a>
+      | <a href="http://www.hupi.org/HPeJ/contact.htm">Contact</a> </p>
+    <p align="center"> <a href="0019.html">back to article <br>
+      </a> <br>
+    </p>
+    <blockquote> <font size="5">Closed-form Method to Evaluate Bike Braking
+        Performance: Editor's Notes<br>
+      </font>
+      <p></p>
+      <div style="margin-left: 40px;"> </div>
+      <p> </p>
+      <h3></h3>
+      <h3></h3>
+      <h3></h3>
+      <h3><span style="font-weight: bold;">Introduction</span></h3>
+      <p>HPeJ is pleased to publish this ground-breaking paper by Junghsen Lieh!
+        While the basic assumptions are well known, his method of analysis and
+        the resulting equations are probably unique. Most readers will not be
+        able to follow the derivations and may find the resulting equations too
+        cumbersome to use with a manual calculator, but the provided script(s)
+        readily allow the detailed evaluation of the braking performance of most
+        vehicles by changing input values&nbsp; and running on a PC. These notes
+        show that the scope is not just road vehicles, but also guided rail
+        vehicles and by some stretch of imagination, even human powered tree
+        climbing apparatus!<br>
+      </p>
+      <h3>Scripts</h3>
+      <p>The original script is <a target="_blank" href="closed_form_brake_bike_sample.m">closed_form_brake_bike_sample.m</a>.
+        Unaltered, it will plot the four diagrams shown in <a target="_blank" href="02.png">figure
+          2</a> of the paper using <a target="_blank" href="http://www.mathworks.com">Matlab</a>.
+        Other similar programs can also run the script, but may not be able to
+        plot the four graphs. The following modified scripts plot one diagram
+        each and have been tested to work with the open source program <a target="_blank"
+          class="moz-txt-link-freetext" href="http://www.gnu.org/software/octave/">Octave</a>.
+        They sometimes also run on this <a target="_blank" class="moz-txt-link-freetext"
+          href="http://hughesbennett.co.uk/Octave">online-version</a>.</p>
+      <p>&nbsp; <a target="_blank" href="closed_form_brake_bike_velocity.m">closed_form_brake_bike_velocity.m</a>
+        plots velocity vs. time.<br>
+      </p>
+      <p>&nbsp; <a target="_blank" href="closed_form_brake_bike_braking_distance.m">closed_form_brake_bike_braking_distance.m</a>
+        plots distance vs. time.</p>
+      <p>&nbsp; <a target="_blank" href="closed_form_brake_bike_deceleration.m">closed_form_brake_bike_deceleration.m</a>
+        plots deceleration vs. time.</p>
+      <p>&nbsp; <a target="_blank" href="closed_form_brake_bike_braking_efficiency.m">closed_form_brake_bike_braking_efficiency.m</a>
+        plots braking efficiency vs. time.</p>
+      <p>The output diagrams show three distinct cases: front (axis) braking <span
+          style="font-style: italic;">only</span>, rear (axis) braking <span style="font-style: italic;">only</span>,
+        and <span style="font-style: italic;">simultaneous</span> both axis
+        braking. They do <span style="font-style: italic;">not</span> show the
+        simultaneous front and rear brake performance during the full brake
+        case.<br>
+      </p>
+      <h3>Scope</h3>
+      <p>The paper concentrates on vehicles which do not slide or tip over. The
+        first condition is simply defined by the invariant choice of the
+        coefficient of friction μ, both front and rear. The second condition has
+        to do with μ and the mass and geometry of the vehicle, in particular the
+        height of the center of mass (or center of gravity) h, to some extent
+        also the aerodynamic parameters and the road gradient. In particular, if
+        Wr (equation 2a in the full paper) becomes zero, the tip-over condition
+        is reached and a cyclist would either have to ease up on the brakes or
+        be tipped over the front wheel. How can this condition be identified?</p>
+      <p>Using the original data in the sample file, h is 0.4 m and the vehicle
+        cannot tip. It is seen in <a target="_blank" href="02.png">figure 2</a>
+        that if only one axis can be braked, the rear brake is the more
+        effective one. Leaving all parameters as they are except h and changing
+        this to 1 m, gives the following figure 5, which shows that the front
+        brake alone is now more effective than the rear brake alone; the green
+        (front brake) and red (rear brake) curves have roughly switched
+        positions. The full brake (blue) curve is always the same, as this shows
+        the maximum braking possible for a non-tipping road vehicle with the
+        specified coefficient of friction. This implies that the distribution
+        between front and rear braking is optimal.<br>
+      </p>
+      <p style="text-align: center;"><img alt="figure 5" src="05.png"><br>
+      </p>
+      <p style="text-align: center;"><small>Figure 5: Vehicle with higher center
+          of mass: h = 1.0 m</small></p>
+      <p><small></small><br>
+        <small></small>If h is increased further to 1.2 m, figure 6 below shows
+        the front-brake-alone curve approaching the full-brake curve. This means
+        the rear wheel is almost completely unweighted and the tip-over
+        condition almost reached. Actually it probably is already reached at
+        high speeds in this graph, as we didn't adjust the height ha of the
+        aerodynamic center of effort.<br>
+      </p>
+      <p style="text-align: center;"><img alt="Figure 6" src="06.png"><br>
+      </p>
+      <p style="text-align: center;"><small>Figure 6: Vehicle nearing the
+          tip-over condition with h = 1.2m<br>
+          <br>
+        </small></p>
+      <p>(Do not be confused as I was, that the rear wheel curve is not much
+        flatter, tending toward very long times : this is the rear brake <span
+          style="font-style: italic;">only</span> curve and has nothing to do
+        with the other cases. In fact, this curve shows that a vehicle will
+        never tip over if only the rear brake is used, as the braking force is
+        automatically diminished as the rear axis is unweighted. However this
+        should not be used as an argument for not using front brakes.)</p>
+      <p>What happens if we increase h even further? Obviously at some point a
+        normal road vehicle will tip over with hard front braking. In the case
+        of a rail vehicle with vertically guided rear wheel(s), the vehicle can
+        however not tip over. This might be for example a car from a roller
+        coaster. The rear restraint allows the deceleration force to load up the
+        front wheel(s) more and achieve a higher braking force. Figure 7 below
+        shows the result when h increased to 1.5 m: the time needed to brake the
+        vehicle is more than halved using the front brake alone. The rear brake
+        alone however has become a little less effective (for a non-tipping road
+        vehicle). The curve for full braking is no longer applicable, neither
+        for road nor rail.<br>
+      </p>
+      <div style="text-align: center;">&nbsp;<small><img alt="figure 7" src="07.png"></small><br>
+        <small> </small></div>
+      <p style="text-align: center;"><small>Figure 7: Tip-over condition
+          exceeded with front-only braking with h = 1.5 m<br>
+          <br>
+        </small></p>
+      <p>What happens if the height of the center of mass is increased even
+        further? The following figure 8 shows the result of h = 1.74 m. The
+        stopping time with front-only braking is approaching zero, as almost all
+        deceleration force is turned into braking force. Therefore by adjusting
+        the vehicle geometry, a vertically-guided rail vehicle can achieve any
+        desired braking force, even with poor coefficients of friction and
+        without resorting to brakes which clamp onto the rails. Provided of
+        course that the structure (and passengers) can withstand the large
+        forces!<br>
+      </p>
+      <p style="margin-left: 40px; text-align: center;"> <small><img alt="figure 8"
+            src="08.png"><br>
+        </small></p>
+      <div style="margin-left: 40px;">
+        <div style="text-align: center;"><small>Figure 8: h= 1.74 m, indicating
+            a very large front braking force and jamming above this value.</small><br>
+          <small> </small></div>
+        <div style="margin-left: 40px;"><br>
+        </div>
+        <small> </small></div>
+      <p style="margin-left: 40px;">What happens if h is increased further?
+        Using h = 1.75 m or more gives no more curves to plot, indicating a
+        singularity. In practice it means the vehicle has jammed itself onto its
+        rails. Clearly this is of no use dynamically, as huge inertial forces
+        break the structure. However the principle is useful for quasi-static
+        mechanical friction-lock devices e.g. for pulling ropes or climbing
+        poles and trees. With a bit of lateral thinking, the script could be
+        used to evaluate the required geometry of such a clamp, even if it could
+        be considered a misuse of the elegant equations including inertial and
+        aerodynamic forces, to solve a problem of statics!</p>
+      <p style="margin-left: 40px;">Theo Schmidt 6.5.2013 (ed.)<br>
+      </p>
+      <p> </p>
+      <div style="text-align: center;"><a href="file:///home/theo/HPV/Hupi/0019/0019.html">back
+          to article</a></div>
+      <p> </p>
+      <h3></h3>
+      <h3></h3>
+      <p style="text-align: center; font-weight: bold;">Human Power eJournal<!-- empty paragraph allows References to be at top of page when accessed via hyperlink --></p>
+    </blockquote>
+  </body>
+</html>

@@ -1,0 +1,100 @@
+body { 
+	background: #FFFFFF; 
+	}
+table#maintable { 
+	background: #FFFFFF; 
+	}
+td#titlebanner { 
+	background: #FFFFFF; 
+	color: #FFFFFF; 
+	}
+span#datestamp { 
+	color: #000000; 
+	}
+td#links { 
+	background: #FFFFFF; 
+	border-bottom: solid 1px #4499CC; 
+	}
+td#links a { 
+	background: #FFFFFF url('images/1x23fade.gif'); 
+	border: solid 1px #CCCCCC; 
+	border-bottom: solid 1px #4499CC; 
+	color: #999999; 
+	}
+td#links a:hover { 
+	background: #FFFFFF url('images/1x23fade.gif'); 
+	color: #000000; 
+	border: solid 1px #4499CC; 
+	}
+td#links a.open { 
+	background: #FFFFFF; 
+	color: #000000; 
+	border: solid 1px #4499CC; 
+	border-bottom: solid 1px #FFFFFF; 
+	}
+td#links a.open:hover { 
+	background: #FFFFFF; 
+	color: #000000; 
+	border: solid 1px #CCCCCC; 
+	border-bottom: solid 1px #FFFFFF; 
+	}
+td#leftsidebar { 
+	background: #FFFFFF; 
+	border-right: solid 1px #4499CC; 
+	}
+div#datedisplay {	
+	color: #000000;
+	}
+div#linkslsb a {
+	background: #FFFFFF url('images/1x23fade.gif'); 
+	border: solid 1px #CCCCCC; 
+	}
+td#content { 
+	color: #000000; 
+	}
+div#infoblock { 
+	background: #FFFFFF; 
+	border: solid 1px #CCCCCC; 
+	}
+div#infotitle { 
+	background: #F7FBFF; 
+	border: 0; 
+	border-bottom: solid 1px #BBCCDD; 
+	color: #000000; 
+	}
+div#infotitle.warning { 
+	background: #FFFFDF; 
+	border-bottom: solid 1px #DDCCBB; 
+	color: #880000; 
+	}
+.hardwire { 
+	color: #116699; 
+	}
+div#infocredit { 
+	color: #778899; 
+	}
+div#infocontent { 
+	border: 0; 
+	border-bottom: solid 1px #F8F8F8; 
+	color: #000000; 
+	}
+div#infocontentlsb { 
+	background: #FFFFFF; 
+	border: 0; 
+	border-bottom: solid 1px #F8F8F8; 
+	color: #000000; 
+	}
+td#footer { 
+	background: #FFFFFF; 
+	color: #CCCCCC; 
+	}
+/* a:link { 
+	color: #4499CC; 
+	}
+a:visited { 
+	color: #55AADD; 
+	}
+*/
+a:hover { 
+	color: #2277AA; 
+	}

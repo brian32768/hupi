@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="utf-8">
+      <title> WatzThis.com Documentation</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1"> 
+      <link rel="stylesheet" type="text/css" href="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css" />
+      <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+      <script src="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
+   <script>
+   var light = new Array();
+   var t; 
+   var color=0; 
+   var flipping=0; 
+   var speed=1000; 
+   light[0] = "Black";
+   light[1] = "White";
+   light[2] = "Red";
+   light[3] = "Green";
+   light[4] = "Blue";
+   light[5] = "Purple";
+   light[6] = "Pink";
+   light[7] = "Orange";
+
+function flip(whichway){
+    document.getElementById("Colors").innerHTML = light[whichway];
+    document.body.style.backgroundColor = light[whichway];   
+    stopFlip(); 
+    }
+     
+function autoFlip() { 
+      document.getElementById("Colors").innerHTML = light[color];
+      document.body.style.backgroundColor = light[color];
+      if (color < light.length-1) {         
+     color++;     
+     } else {         
+      color=0;     
+     }
+   t = setTimeout("autoFlip(speed)",speed); 
+   } 
+    
+function doAutoFlip(changespeed){     
+ if (!flipping){         
+    flipping=1;   
+    speed=changespeed;      
+    autoFlip();     
+      }    
+    } 
+function stopFlip() {     
+ clearTimeout(t);     
+  flipping=0; 
+  }
+
+function getLoc(){
+var gps = navigator.geolocation.getCurrentPosition(
+function(position){
+    var latitude = position.coords.latitude;
+    var longitude = position.coords.longitude;
+    alert("Your Latitude is: " + latitude + " and your longitude is: " + longitude);
+    }
+);
+}
+
+     </script>
+<style>
+body
+{ 
+  text-align: center;
+  }
+#container {}
+#directions, #flashlight{
+  margin:4px;
+}
+ ol {
+  display: inline-block;
+  margin: 0 auto;
+  text-align:left;
+ }
+ 
+</style>
+</head>
+<body>
+<div data-role="page" id="chapter1">
+   <header data-role="header">
+    <h1 style="color:red;font-size:30px;text-align:center;">How to use WatzThis</h1>
+  </header>
+ <section data-role="content">
+      <h2>Chapter 1: Buttons</h2>
+       <li style="color:red;font-size:16px;">Use the buttons to change the colors.</li>
+      <div id="directions">
+      </div>
+      <li style="color:green;font-size:16px;">Functioning buttons in chapter 2.</li>
+ </section>
+      
+<footer data-role="footer" data-position="fixed">
+      <p>created by WatzThis Enterprises</p>
+      <div data-role="navbar" data-id="watzthisnav">
+           <ul>
+           <li><a href="#chapter1">Chapter 1</a></li>
+           <li><a href="#chapter2">Chapter 2</a></li>
+           <li><a href="#chapter3">Chapter 3</a></li>
+           </ul>
+      </div>
+</footer>
+</div>
+
+<div data-role="page" id="chapter2">
+     <header data-role="header">
+     <h1>How to use WatzThis</h1>
+     </header>
+   <section data-role="content">
+      <h2>Chapter 2: The Lights</h2>
+      
+      <li style="color:red;font-size:16px;">Press the STOP button between each function change.</li>
+      
+<div id="container" style="text-align: center"> 
+
+  <div id="flashlight"> 
+   <div id="Colors"; style="color:lime;font-size:24px;font-family:verdana;"></div>
+   <input type="button" data-inline="true" id="OFF" class="Button" value="OFF" onclick="flip(0);"> 
+   <input type="button" data-inline="true"id="ON" class="Button" value="ON" onclick="flip(1);"> 
+   <input type="button" data-inline="true"id="RED" class="Button" value="RED"  onclick="flip(2);">
+   <div>
+   <input type="button" data-inline="true"id="STOP" class="Button" value="STOP" data-icon="star" data-theme="a" onclick="stopFlip();">
+   </div>
+   
+   <input type="button" data-inline="true"id="AUTO" class="Button" value="AUTO" onclick="doAutoFlip(500);"> 
+   <input type="button" data-inline="true"id="SLOW" class="Button" value="SLOW" onclick="doAutoFlip(1000);">  
+   <input type="button" data-inline="true"id="FAST" class="Button" value="FAST" onclick="doAutoFlip(100);">
+   
+   <div id="geolocation"></div>
+   <input type="button" data-inline="true" id="latlong" class="bigButton" value="LOCATION" onclick="getLoc();"> 
+  </div>          
+
+   </section>
+   
+   <footer data-role="footer" data-position="fixed">
+    <p>created by WatzThis Enterprises</p>
+       <div data-role="navbar" data-id="watzthisnav">
+        <ul>
+        <li><a href="#chapter1">Chapter 1</a></li>
+        <li><a href="#chapter2">Chapter 2</a></li>
+        <li><a href="#chapter3">Chapter 3</a></li>
+        </ul>
+       </div>
+  </footer>
+</div>
+<div data-role="page" id="chapter3">
+        <header data-role="header">
+        <h1>How to use WatzThis</h1>
+        </header>
+  <section data-role="content">
+      <h2>Chapter 3: "Auto" Mode</h2>
+      <p>WatzThis has an automatic mode that's useful for those times when you're doing something else, such as dancing, but would still like to have changing colors on your mobile device.</p>
+  </section>
+     
+     <footer data-role="footer" data-position="fixed">
+     <p>created by WatzThis Enterprises</p>
+      <div data-role="navbar" data-id="watzthisnav">
+      <ul>
+      <li><a href="#chapter1">Chapter 1</a></li>
+      <li><a href="#chapter2">Chapter 2</a></li>
+      <li><a href="#chapter3">Chapter 3</a></li>
+      </ul>
+      </div>
+     </footer>
+</div>
+    
+</body>
+</html>

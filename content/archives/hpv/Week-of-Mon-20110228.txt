@@ -1,0 +1,296 @@
+From opusthepoet at gmail.com  Mon Feb 28 09:02:38 2011
+From: opusthepoet at gmail.com (John Clary)
+Date: Mon, 28 Feb 2011 11:02:38 -0600
+Subject: [hpv] bike chain efficiency chart
+In-Reply-To: <4D6B40DF.5060102@southslope.net>
+References: <AANLkTikj4Qo6=6xukRmO-uBfFW==FRWdcOdEC_WX7w6q@mail.gmail.com>
+	<4D6B40DF.5060102@southslope.net>
+Message-ID: <AANLkTinX-FLr2sT+7zMsWtWSzbBxGG4Z8ywBq-AvSgmR@mail.gmail.com>
+
+On Mon, Feb 28, 2011 at 12:29 AM, Tom Sherman wrote:
+> On 2/28/2011 12:13 AM, John Clary wrote:
+>>
+>> Does anyone have a link to the report from Human Power Magazine on the
+>> efficiency of a bicycle chain drive? I remember generalities from it
+>> but no hard numbers, like the losses didn't change much until the
+>> small cog was really small for the time, 11 and 12 teeth back when
+>> most freewheels had 13 teeth on their smallest cog.
+>>
+> Here is the PDF: <http://www.ihpva.org/HParchive/PDF/hp50-2000.pdf>.
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored
+> by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+>
+
+Thanks. That is a later report, but has much better data than the
+report I remembered.
+
+-- 
+Opus
+
+I ride my bike to ride my bike, and sometimes it takes me where I need to go.
+
+From twsherman at southslope.net  Mon Feb 28 16:53:19 2011
+From: twsherman at southslope.net (Tom Sherman)
+Date: Mon, 28 Feb 2011 18:53:19 -0600
+Subject: [hpv] Chain Tensioner?
+Message-ID: <4D6C437F.7090606@southslope.net>
+
+Possible HPV applications?
+
+<http://www.renold.com/Products/TransmissionChainSprockets/Roll-Ring.asp>
+
+From jeff_wills at comcast.net  Mon Feb 28 17:03:55 2011
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Tue, 1 Mar 2011 01:03:55 +0000 (UTC)
+Subject: [hpv] Chain Tensioner?
+In-Reply-To: <4D6C437F.7090606@southslope.net>
+Message-ID: <1974957608.1632524.1298941435763.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+
+That's somewhat old hat. Some tandems and single-speeds use a chainring or sprocket placed between the two straight chain runs to vary tension. This is called a "ghost chainring", per Sheldon Brown: http://www.sheldonbrown.com/tandem-build.html . You can see a video here: http://www.youtube.com/watch?v=YKmUoLPzDIc
+
+The only advantage the Roll-Ring has is that it's flexible and works with different chainring/sprocket configurations. With a rigid chainring, you need to have several different sizes available to fine-tune tension.  
+
+Jeff 
+------------------------------------------------------------
+
+----- Tom Sherman <twsherman at southslope.net> wrote:
+> Possible HPV applications?
+> 
+>
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+From list at moz.geek.nz  Mon Feb 28 17:08:18 2011
+From: list at moz.geek.nz (list at moz.geek.nz)
+Date: Mon, 28 Feb 2011 20:08:18 -0500
+Subject: [hpv] Chain Tensioner?
+In-Reply-To: <4D6C437F.7090606@southslope.net>
+References: <4D6C437F.7090606@southslope.net>
+Message-ID: <6c93c78bead02d0fe656ab4cee2a1ffc.squirrel@emailmg.ipage.com>
+
+> Possible HPV applications?
+>
+> <http://www.renold.com/Products/TransmissionChainSprockets/Roll-Ring.asp>
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored
+> by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your
+> subscription.
+>
+
+
+
+From johnriley1 at rogers.com  Mon Feb 28 19:47:18 2011
+From: johnriley1 at rogers.com (John Riley)
+Date: Mon, 28 Feb 2011 19:47:18 -0800
+Subject: [hpv] Chain Tensioner?
+In-Reply-To: <4D6C437F.7090606@southslope.net>
+References: <4D6C437F.7090606@southslope.net>
+Message-ID: <012DDEB5-DB72-4348-BAA0-FCFCBF8F0725@rogers.com>
+
+People do this all the time to tension the chain on tandems. They just  
+stick in an appropriately sized chainring.
+
+
+On Feb 28, 2011, at 4:53 PM, Tom Sherman wrote:
+
+> Possible HPV applications?
+>
+> <http://www.renold.com/Products/TransmissionChainSprockets/Roll-Ring.asp 
+> >
+> --
+> This message comes to you via the hpv at bikelist.org mailing list,  
+> sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your  
+> subscription.
+
+
+From mark at bikesmithdesign.com  Mon Feb 28 18:28:09 2011
+From: mark at bikesmithdesign.com (Mark Stonich)
+Date: Mon, 28 Feb 2011 20:28:09 -0600
+Subject: [hpv] Chain Tensioner?
+In-Reply-To: <1974957608.1632524.1298941435763.JavaMail.root@sz0158a.eme
+	ryville.ca.mail.comcast.net>
+References: <4D6C437F.7090606@southslope.net>
+	<1974957608.1632524.1298941435763.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+Message-ID: <E1PuGuD-0003Mh-MV@elasmtp-banded.atl.sa.earthlink.net>
+
+At 07:03 PM 2/28/2011, Jeff Wills wrote:
+>That's somewhat old hat. Some tandems and single-speeds use a 
+>chainring or sprocket placed between the two straight chain runs to 
+>vary tension. This is called a "ghost chainring", per Sheldon Brown: 
+>http://www.sheldonbrown.com/tandem-build.html . You can see a video 
+>here: http://www.youtube.com/watch?v=YKmUoLPzDIc
+>
+>The only advantage the Roll-Ring has is that it's flexible and works 
+>with different chainring/sprocket configurations. With a rigid 
+>chainring, you need to have several different sizes available to 
+>fine-tune tension.
+
+Not so.  You fine tune the tension by moving the ghost ring closer to 
+one or the other timing ring.  When the timing rings are the same 
+size the chain is slackest when the ghost ring is midway between them.
+
+
+Mark Stonich;
+   BikeSmith Design & Fabrication
+     5349 Elliot Ave S. Minneapolis, Minnesota 55417 USA
+       Ph. (612) 824-2372 http://bikesmithdesign.com
+
+
+From twsherman at southslope.net  Mon Feb 28 20:19:27 2011
+From: twsherman at southslope.net (Tom Sherman)
+Date: Mon, 28 Feb 2011 22:19:27 -0600
+Subject: [hpv] Chain Tensioner?
+In-Reply-To: <1974957608.1632524.1298941435763.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+References: <1974957608.1632524.1298941435763.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+Message-ID: <4D6C73CF.9020909@southslope.net>
+
+On 2/28/2011 7:03 PM, Jeff Wills wrote:
+> That's somewhat old hat. Some tandems and single-speeds use a 
+> chainring or sprocket placed between the two straight chain runs to 
+> vary tension. This is called a "ghost chainring", per Sheldon Brown: 
+> http://www.sheldonbrown.com/tandem-build.html . You can see a video 
+> here: http://www.youtube.com/watch?v=YKmUoLPzDIc
+>
+> The only advantage the Roll-Ring has is that it's flexible and works 
+> with different chainring/sprocket configurations. With a rigid 
+> chainring, you need to have several different sizes available to 
+> fine-tune tension.
+>
+> Jeff
+> ------------------------------------------------------------
+>
+> ----- Tom Sherman <twsherman at southslope.net> wrote:
+> > Possible HPV applications?
+> >
+> >
+> > --
+> > This message comes to you via the hpv at bikelist.org mailing list, 
+> sponsored by http://www.hupi.org/
+> > Visit http://hupi.org/mailman/listinfo/hpv to manage your 
+> subscription.
+>
+I was thinking that the Roll-Ring might produce useful damping on a long 
+chain run and allow for elimination of idlers in some cases.
+
+From lioninoil at yahoo.com  Tue Mar  1 14:41:57 2011
+From: lioninoil at yahoo.com (Cornel.Ormsby)
+Date: Tue, 1 Mar 2011 14:41:57 -0800 (PST)
+Subject: [hpv] Chain Tensioner?
+In-Reply-To: <mailman.7.1299009602.94364.hpv@bikelist.org>
+Message-ID: <387181.78407.qm@web113312.mail.gq1.yahoo.com>
+
+Mark Stonich wrote:
+ 
+> You fine tune the tension by moving the ghost
+> ring closer to one or the other timing ring.
+ 
+... using telekinesis??
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+
+      
+
+From list at moz.geek.nz  Tue Mar  1 15:03:35 2011
+From: list at moz.geek.nz (list at moz.geek.nz)
+Date: Tue, 1 Mar 2011 18:03:35 -0500
+Subject: [hpv] Chain Tensioner?
+In-Reply-To: <387181.78407.qm@web113312.mail.gq1.yahoo.com>
+References: <387181.78407.qm@web113312.mail.gq1.yahoo.com>
+Message-ID: <5cd3c7004e06b865601297e9c9a24ad4.squirrel@emailmg.ipage.com>
+
+Cornel Ormsby
+> Mark Stonich wrote:
+>> You fine tune the tension by moving the ghost
+>> ring closer to one or the other timing ring.
+> ... using telekinesis??
+
+I'd like to see that.
+
+The rest of us just pull the chains apart and slip the spacer ring forward
+a couple of teeth on one chain.
+
+Moz
+
+
+From twsherman at southslope.net  Tue Mar  1 16:14:32 2011
+From: twsherman at southslope.net (Tom Sherman)
+Date: Tue, 01 Mar 2011 18:14:32 -0600
+Subject: [hpv] Chain Tensioner?
+In-Reply-To: <387181.78407.qm@web113312.mail.gq1.yahoo.com>
+References: <387181.78407.qm@web113312.mail.gq1.yahoo.com>
+Message-ID: <4D6D8BE8.4070302@southslope.net>
+
+On 3/1/2011 4:41 PM, Cornel.Ormsby wrote:
+> Mark Stonich wrote:
+>
+>> You fine tune the tension by moving the ghost
+>> ring closer to one or the other timing ring.
+>
+> ... using telekinesis??
+If we had telekinetic powers, we could dispense with derailers [1] 
+altogether.  A little telekinesis on the uphills would not hurt either. ; )
+
+[1] Spelling per the late Sheldon Brown.
+
+From patf at terracycle.com  Wed Mar  2 12:29:39 2011
+From: patf at terracycle.com (Pat Franz)
+Date: Wed, 2 Mar 2011 12:29:39 -0800
+Subject: [hpv] hpv Digest, Vol 78, Issue 2
+References: <mailman.5.1299096001.18241.hpv@bikelist.org>
+Message-ID: <D2E80AB0B4AA450588DBBA7C457037F0@DellPatsDesk>
+
+> A little telekinesis on the uphills would not hurt either. ; )
+
+I dunno, it gives me a headache if I do it very long...
+
+--Pat Franz
+TerraCycle, Inc.
+3450 SE Alder, Portland OR 97214 USA
+1-800-371-5871 (N. America)
+503-231-9798 (US Pacific Coast, GMT-8)
+www.terracycle.com
+EU Distribution and Sales: www.icletta.com
+
+
+From lioninoil at yahoo.com  Wed Mar  2 15:01:55 2011
+From: lioninoil at yahoo.com (Cornel.Ormsby)
+Date: Wed, 2 Mar 2011 15:01:55 -0800 (PST)
+Subject: [hpv] Chain Tensioner?
+In-Reply-To: <mailman.5.1299096001.18241.hpv@bikelist.org>
+Message-ID: <268919.78663.qm@web113318.mail.gq1.yahoo.com>
+
+> Cornel Ormsby
+>> 
+>> Mark Stonich wrote:
+>>> 
+>>> You fine tune the tension by moving the ghost
+>>> ring closer to one or the other timing ring.
+>> 
+>> ... using telekinesis??
+> 
+> I'd like to see that.
+> 
+> The rest of us just pull the chains apart and slip the
+> spacer ring forward a couple of teeth on one chain.
+> 
+> Moz
+> 
+
+I'd like to see someone move a ghost ring either fore or aft.
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+
+      
+

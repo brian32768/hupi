@@ -1,0 +1,239 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>HPeJ article 8 issue 2</title>
+</head>
+
+<body>
+
+<p align="center"><img border="0" src="../logo/HPeJ-sml.gif" width="400" height="50"><br>
+<a href="../index.htm">Contents</a> | <a href="../about.htm">About</a> | <a href="../contact.htm">Contact</a></p>
+<p align="center">Article 08, issue 02<br>
+<br>
+</p>
+<blockquote>
+  <h2 style="font-weight: normal;">Measuring Airspeed on a Bicycle<br>
+  </h2>
+  <small>Julian Gordon<br>
+  February 22, 2005</small><br>
+  <br>
+  <p>Bicycle computers have reached a very sophisticated level considering their
+  recent ancestry as the simple cyclometer. Top of the line models now measure
+  speed, altitude, temperature, pulse rate, and power meters are also available
+  (ref 1). However, at this time, the only practical way of measuring wind
+  effects is in a wind tunnel. Wind effects and drag are important in
+  determining how much energy one is expending, and clearly it would be
+  advantageous to have real time-determination.<br>
+  </p>
+  <p>Airspeed determination is also critical to avionics, and methods of
+  determination have been established since the ‘20’s. See for example ref.
+  2. I initially considered the avionics experience would be a valuable
+  precedent, and the Pitot-static method has the advantages that (a) there are
+  no delicate moving parts (b) and that bicycle computers already utilize an air
+  pressure sensor in the form of an altimeter. However, I did not have the
+  capability of putting these ideas together in the form of a practical device.
+  Also, in order to evaluate a prototype, I needed the capability of downloading
+  data into a PC in order to establish the validity of the methodology. Once the
+  methodology is established, a real time display will be useful. I found a
+  preliminary solution in the form of an anemometer sold for use in
+  air-conditioning engineering. This device made by the company Extech has a
+  rugged fan-type anemometer device and a display which incorporates a
+  data-logger with capability of storing data and downloading to a PC ( fig.
+  1).&nbsp;</p>
+  <table border="0" width="20%" style="float: right;">
+    <tr>
+      <td width="13%"><img border="0" src="spacer20.gif"></td>
+      <td width="87%"><img border="0" src="fig1.jpg" width="241" height="214"></td>
+    </tr>
+    <tr>
+      <td width="13%"><br>
+      </td>
+      <td width="87%">
+        <h5 align="center">[Figure 1]&nbsp; </h5>
+      </td>
+    </tr>
+  </table>
+  <p>It
+  is not optimal for use on a bicycle, but could at least prove useful for
+  trying out some ideas and establishing proof of principle. I&nbsp; mounted the
+  two components on the handlebars alongside my conventional CatEye bicycle
+  computer to measure speed and distance in parallel. Thus, the anemometer gives
+  a reading of apparent or indicated airspeed (<span style="font-weight: bold;">Ias</span>)
+  and the bicycle computer routinely measures and displays groundspeed (<span style="font-weight: bold;">Gs</span>).</p>
+  <p><span style="font-weight: bold;">Ias</span> is not the same as the airspeed
+  some distance from the bicycle because to get this, the device would have to
+  be mounted clear of any parts of the bicycle influencing the air flow. This is
+  obvious from over 80 years of avionics practice, where the Pitot tube is
+  mounted ahead of the leading edge of a wing and clear of any fuselage parts
+  that may disturb the airflow. Nevertheless, if there were a monotonic
+  relationship between <span style="font-weight: bold;">Ias</span> and the
+  undisturbed airspeed one would be able to derive one from the other by
+  applying a correction factor. Thus we call this airspeed the corrected
+  airspeed or <span style="font-weight: bold;">Cas</span>. Ideally, in the
+  absence of wind,</p>
+  <p style="margin-left: 40px;"><b>Cas = Gs</b> [equation 1]</p>
+  <p>Such a condition seldom occurs in practice, especially not in the Chicago
+  area.</p>
+  I decided to attempt to average out the effect of wind by selecting a
+  straight, relatively sheltered course of about 1 km, and making the assumption
+  that wind effects would average out by being equal and opposite when
+  traversing the course successively in opposite directions. Thus, I took the
+  pairwise averages of the average <span style="font-weight: bold;">Gs</span>
+  and average <span style="font-weight: bold;">Ias</span> in each direction,
+  repeating this at speeds ranging from the lowest compatible with biking
+  stability to the fastest I could go. In the following the averages are denoted
+  as &lt;Gs&gt;, &lt;Ias&gt; and &lt;Cas&gt;.<br>
+  I set out to determine whether the averaging gave &lt;Gs&gt; as a reproducible
+  and monotonic function of &lt;Ias&gt;:
+  <p style="margin-left: 40px;"><b>&lt;Gs&gt; = f(&lt;Ias&gt;)</b> [equation 2]</p>
+  <p>If that were the case, then the function can be used in a calibration
+  procedure, and permit the determination of <span style="font-weight: bold;">Cas</span>
+  from any observed <span style="font-weight: bold;">Ias.</span></p>
+  <p>In practice, I obtained linear relationships between &lt;Ias&gt; and
+  &lt;Gs&gt;, similar for similar bicycle types, and also reproducible when done
+  under relatively calm conditions or relatively gusty conditions. This first
+  set of data with three riders and three bicycle models is summarized in Table.</p>
+  <table border="2" height="154">
+    <tr>
+      <td height="36"><br>
+      </td>
+      <td height="36"><font size="2"><b>Regression slope</b></font></td>
+      <td height="36"><font size="2"><b>&nbsp;&nbsp; Standard error</b></font></td>
+    </tr>
+    <tr>
+      <td height="18"><font size="2"><b>Rider 1, </b>Cannondale Hybrid</font></td>
+      <td align="center" height="18">1.226</td>
+      <td align="center" height="18">0.013</td>
+    </tr>
+    <tr>
+      <td height="18"><font size="2"><b>Rider 2, </b>Trek Hybrid</font></td>
+      <td align="center" height="18">1.256</td>
+      <td align="center" height="18">0.006</td>
+    </tr>
+    <tr>
+      <td height="18"><font size="2"><b>Rider 3, </b>Bianchi Road, gusty
+        conditions</font></td>
+      <td align="center" height="18">1.114</td>
+      <td align="center" height="18">0.021</td>
+    </tr>
+    <tr>
+      <td height="18"><font size="2"><b>Rider 3, </b>Bianchi Road, calmer
+        conditions</font></td>
+      <td align="center" height="18">1.083</td>
+      <td align="center" height="18">0.010</td>
+    </tr>
+    <tr>
+      <td colspan="3" height="10" valign="middle">
+        <h5 align="center">[TABLE] Linear relationship between Ias and Gs (unitless)&nbsp;</h5>
+      </td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <table border="0" width="14%" style="float: left">
+    <tr>
+      <td width="13%">
+        <h5><img border="0" src="spacer20.gif"><img border="0" src="fig2.jpg" width="96" height="213"></h5>
+      </td>
+      <td width="87%"><img border="0" src="spacer20.gif" width="20" height="20"></td>
+    </tr>
+    <tr>
+      <td width="13%">
+        <h5 align="center">[Figure 2]<br>
+        </h5>
+      </td>
+      <td width="87%">
+        <h5 align="center">&nbsp; </h5>
+        <p>&nbsp; </p>
+      </td>
+    </tr>
+  </table>
+  <p>&nbsp;In practice, it is then a simple procedure to obtain <span style="font-weight: bold;">Cas</span>
+  by multiplying <span style="font-weight: bold;">Ias</span> by the slope of
+  that linear regression. I had thus collected enough data with a non-optimal
+  device to convince myself that, in principle, an anemometer device could be
+  used for routine <span style="font-weight: bold;">Cas</span> determination.</p>
+  <p>About
+  this time, a device came on the market, which could be more practical. This
+  was a handheld weather station, the ADC (&quot;Atmospheric Data Center&quot;)
+  Summit sold in the US by Brunton and in Europe by the parent company Silva.
+  See Fig 2. It measures temperature, altitude, barometric pressure, windspeed
+  and even compass direction. It has the capability of collecting data and
+  downloading to a PC via an ir port. It also comes with a lanyard strap. I
+  removed the strap and used the slot to attach the device to the handlebars
+  with cable ties. The advances over the Extech device are:</p>
+  <p>1. One unit to mount instead of two<br>
+  2. More compact<br>
+  3. Easy mounting.</p>
+  <p></p>
+  <p>A disadvantage appears to lie in the fact, that, in order to face the frontal
+  wind squarely, it needs to be mounted vertically. In this position,
+  the display is almost unreadable. I therefore investigated the effect of tilt
+  angle. Surprisingly, the regression curve was not&nbsp; significantly different
+  between the vertical position, and a 45 degree tilted position, where the
+  display is easily readable. These results are shown plotted in Fig 3. Finally,
+  the bicycle-to-bicycle variation is much smaller than for the Extech, Fig 4.<p>&nbsp;
+  <table border="0" width="100">
+    <tr>
+      <td><img border="0" src="fig3.jpg" width="431" height="283"></td>
+      <td><img border="0" src="spacer20.gif"></td>
+      <td><img border="0" src="fig4.jpg" width="428" height="283"></td>
+    </tr>
+    <tr>
+      <td>
+        <h5 align="center">[Figure 3] Effect of tilt</h5>
+      </td>
+      <td><br>
+      </td>
+      <td>
+        <h5 align="center">[Figure 4] Road and Hybrid bicycle</h5>
+      </td>
+    </tr>
+  </table>
+  <p>&nbsp;<p>To
+  a first approximation, it may be possible to have a universal <span style="font-weight: bold;">Ias</span>
+  to <span style="font-weight: bold;">Cas</span> correction factor built into a
+  device, so one would not necessarily have to perform the calibration procedure
+  described for every individual bicycle. This would be analogous to the wheel
+  circumference measurement for a bicycle computer. One can input standard
+  values for specified tires, or, the more fastidious user can determine the
+  circumference directly.
+  <p>In summary, my experience to date shows no reason why one cannot have a
+  bicycle computer that will measure airspeed by very simple means. My plans are
+  to use it to determine drag coefficients when I get out again in warmer
+  weather, and also to persuade some bicycle computer company to incorporate
+  airspeed measurement as an adjunct to the other functions of a standard
+  bicycle computer. Then, for example, a real time display of the difference
+  between <span style="font-weight: bold;">Cas</span> and <span style="font-weight: bold;">Gs</span>
+  will give an objective measurement of whether wind is favorably or adversely
+  affecting performance.</p>
+  <p>The material in this paper has been filed as part of a US Provisional and
+  an International Patent Application, which will be published later this year.
+  The patent applications include more extensive data.</p>
+  <p>References:</p>
+  <dir>
+    <dir>
+      <p>1. Snyder, J and Schmidt, T. 2004. Determintion of Drag Parameters
+      Utilizing a Bicycle Power Meter. <i><a href="http://www.hupi.org/static/HPeJ/0005/0005.htm">Human
+      Power eJournal.</a></i><a href="http://www.hupi.org/static/HPeJ/0005/0005.htm">
+      Article 5, issue 1</a>.</p>
+      <p>2. Stewart, C.J. 1923. Measurement of Air Speed In Aeroplanes. <i>J.Sci.Instrument</i>
+      1:43-50 (PDF file available on line at <i><a href="http://www.iop.org/EJ/volume/0950-7671/1">http://www.iop.org/EJ/volume/0950-7671/1</a></i>).</p>
+      </font>
+    </dir>
+  </dir>
+  <br>
+  <p align="left"><br>
+  <br>
+  <br>
+  </p>
+  <p align="center"><a href="../index.htm">Contents</a> | <a href="../about.htm">About</a>
+  | <a href="../contact.htm">Contact</a><br>
+  <br>
+  <b>Human Power eJournal</b><br>
+  </p>
+</blockquote>
+
+</body>
+
+</html>

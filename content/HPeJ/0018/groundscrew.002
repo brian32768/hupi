@@ -1,0 +1,93 @@
+<?xml version="1.0"?><!DOCTYPE RLPlot-workbook>
+<RLPlot-data rows="57" columns="6">
+ <cell row="1" column="1">
+  <text>Depth [cm]</text>
+ </cell>
+ <cell row="1" column="2">
+  <text>Torque [Nm]</text>
+ </cell>
+ <cell row="2" column="1">
+  <text>0</text>
+ </cell>
+ <cell row="2" column="2">
+  <text>0</text>
+ </cell>
+ <cell row="3" column="1">
+  <text>15</text>
+ </cell>
+ <cell row="3" column="2">
+  <text>12</text>
+ </cell>
+ <cell row="4" column="1">
+  <text>20</text>
+ </cell>
+ <cell row="4" column="2">
+  <text>25</text>
+ </cell>
+ <cell row="5" column="1">
+  <text>26</text>
+ </cell>
+ <cell row="5" column="2">
+  <text>35</text>
+ </cell>
+ <cell row="6" column="1">
+  <text>30</text>
+ </cell>
+ <cell row="6" column="2">
+  <text>45</text>
+ </cell>
+ <cell row="7" column="1">
+  <text>40</text>
+ </cell>
+ <cell row="7" column="2">
+  <text>60</text>
+ </cell>
+ <cell row="8" column="1">
+  <text>45</text>
+ </cell>
+ <cell row="8" column="2">
+  <text>75</text>
+ </cell>
+ <cell row="9" column="1">
+  <text>50</text>
+ </cell>
+ <cell row="9" column="2">
+  <text>150</text>
+ </cell>
+ <cell row="10" column="1">
+  <text>55</text>
+ </cell>
+ <cell row="10" column="2">
+  <text>200</text>
+ </cell>
+ <cell row="11" column="1">
+  <text>60</text>
+ </cell>
+ <cell row="11" column="2">
+  <text>250</text>
+ </cell>
+ <cell row="12" column="1">
+  <text>70</text>
+ </cell>
+ <cell row="12" column="2">
+  <text>275</text>
+ </cell>
+ <cell row="13" column="1">
+  <text>80</text>
+ </cell>
+ <cell row="13" column="2">
+  <text>300</text>
+ </cell>
+ <cell row="14" column="1">
+  <text>90</text>
+ </cell>
+ <cell row="14" column="2">
+  <text>300</text>
+ </cell>
+ <cell row="15" column="1">
+  <text>100</text>
+ </cell>
+ <cell row="15" column="2">
+  <text>350</text>
+ </cell>
+</RLPlot-data>

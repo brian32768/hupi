@@ -1,0 +1,1432 @@
+From ndewey at shaw.ca  Mon Dec  7 12:12:05 2009
+From: ndewey at shaw.ca (Nelson Dewey)
+Date: Mon, 7 Dec 2009 12:12:05 -0800
+Subject: [trikes] trikes Digest, Vol 65, Issue 1
+In-Reply-To: <mailman.13.1260216000.59497.trikes@bikelist.org>
+References: <mailman.13.1260216000.59497.trikes@bikelist.org>
+Message-ID: <4FAFBFD5-771E-4313-B458-00E8DBC200EA@shaw.ca>
+
+Fran, my thoughts and condolences to you. What an especially sad thing  
+for a parent to have to go through.
+ From reading your stories here, I feel that you're a truly strong  
+person and that somehow you'll get through it. Maybe riding can be the  
+light at the end of the tunnel.
+
+Best wishes.
+
+Nelson
+
+
+
+
+
+
+
+
+
+
+
+On 7-Dec-09, at 12:00 PM, trikes-request at bikelist.org wrote:
+
+Send trikes mailing list submissions to
+	trikes at bikelist.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://hupi.org/mailman/listinfo/trikes
+or, via email, send a message with subject or body 'help' to
+	trikes-request at bikelist.org
+
+You can reach the person managing the list at
+	trikes-owner at bikelist.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of trikes digest..."
+
+
+Today's Topics:
+
+   1. Fwd: MORE TRAGEDY FOR US (mgta4 at aol.com)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Mon, 30 Nov 2009 09:01:37 -0500
+From: <mgta4 at aol.com>
+Subject: [trikes] Fwd: MORE TRAGEDY FOR US
+To: <brian at rangeley.co.uk>
+Message-ID: <8CC3FDCC44535DB-43FC-AD2D at webmail-m085.sysops.aol.com>
+Content-Type: text/plain; charset="us-ascii"
+
+
+
+
+
+
+
+
+My dau was in a car wreck and had surgery in Sept for a torn rotator  
+cuff in her shoulder. She has been in a lot pain for a couple years  
+with this. She ended it all last night . She was an RN with a masters  
+degree. Such a waste of a life. I am numb and have a funeral for my  
+son in law Thur. who died from pancreatic cancer. I am sure I will be  
+back riding when life gets back to normal. Hmmmm wonder what normal  
+is. Fran
+
+
+------------------------------
+
+This message digest comes to you via the trikes at bikelist.org mailing  
+list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your  
+subscription.
+
+End of trikes Digest, Vol 65, Issue 1
+*************************************
+
+
+From g.edgar at bigpond.com  Sun Dec 13 00:13:01 2009
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Sun, 13 Dec 2009 18:13:01 +1000
+Subject: [trikes] testing suspension trike on rough trail
+Message-ID: <001701ca7bcc$1684fec0$438efc40$@edgar@bigpond.com>
+
+Hi Folks,
+ 
+After about a 9 months' hiatus I am again back on my self-built suspension
+trike. (Hiatus due to moving interstate, changing jobs, etc.)
+ 
+Details on my trike at www.autospeed.com - search under 'Chalky' - there's a
+7 part series that covers its full development. Since that series I have
+added front dampers to go with the Firestone airbags (I've always used a
+rear damper). 
+ 
+Today I went on a very rough dirt trail that follows the railway line out of
+Bungendore (New South Wales, Australia). You can see a pic of the trike on
+the trail at
+http://i638.photobucket.com/albums/uu102/JulianEdgar/Chalkyontrail.jpg
+(with other photos of the trike development at
+http://s638.photobucket.com/albums/uu102/JulianEdgar/ )
+ 
+The photo doesn't really do the trail justice - estimated 15 per cent
+ascents, washaways (where creeks have crossed the trail and removed much
+dirt, leaving behind rocks), steep descents, one very quick black snake,
+some beautiful birds, lots of large rocks as big as a man's fist (fallen
+from the railway's ballast), etc.
+ 
+I rode with about 10-12kg of extra load - 3 litres water, RT40 Arkel
+panniers with lunch and Arkel Tailrider with tools.
+ 
+I was mightily pleased with the trike's performance: no failures, no
+punctures (I think the suspension massively protects the tyres), excellent
+handling on really treacherous surfaces, excellent ride, appropriate
+physical effort. 
+ 
+My front Watts Link scraped perhaps 5 times (need to look at this) and the
+rear derailleur scraped perhaps 10 times (not much I can do with 16 inch
+wheels and the required gear range - except use an internal gear hub with
+more than the current 3 speeds). One front damper also has a glisten of  oil
+on its shaft - perhaps a weep past the seal caused by overly high
+instantaneous internal pressures on the really big bumps. 
+ 
+Did about 10km on really rough dirt and then the return 10km on the (nice
+and smooth!) bitumen road. Tomorrow I'll inspect the (prototype) frame for
+cracks and abrasions.
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+
+From g.edgar at bigpond.com  Sun Dec 13 12:29:46 2009
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Mon, 14 Dec 2009 06:29:46 +1000
+Subject: [trikes] testing suspension trike on rough trail
+In-Reply-To: <CF618A37-126D-4F50-80C6-1BF7297D07AB@gmail.com>
+References: <001701ca7bcc$1684fec0$438efc40$@edgar@bigpond.com>
+	<CF618A37-126D-4F50-80C6-1BF7297D07AB@gmail.com>
+Message-ID: <008301ca7c33$02cc9a20$0865ce60$@edgar@bigpond.com>
+
+The springs are Firestone rolling lip airbags. The choice of this springing
+medium is covered in detail at
+http://www.autospeed.com/cms/A_108591/article.html . I think that airbags
+are superior to any other springs for an HPV. The dampers are separate and
+use oil. They are based on Yamaha R1 motorcycle steering dampers. 
+ 
+With carrier, three bidons and pedals, weight is 24kg. (Trike also has
+all-wheel brakes and 81 gears.)  
+ 
+Maximum all-up test weight has been 159kg (ie trike at 24kg,  rider at 90kg
+and test load at 45kg). This pic shows two wheel testing at full load -
+http://us1.webpublications.com.au/static/images/articles/i1112/111232_2mg.jp
+g
+ 
+ 
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+From: Philip Donahue [mailto:granpita at gmail.com] 
+Sent: Monday, 14 December 2009 12:29 AM
+To: editor at autospeed.com
+Subject: Re: [trikes] testing suspension trike on rough trail
+ 
+You do some remarkable work. What is the empty weight of the trike at this
+point?
+ 
+Also, did you consider using an elastomer suspension instead of the oil
+shocks? I ask because I have the last ICE Explorer made. I had it done with
+the rear suspension which was a Cane Creek shock but all of Trice's new
+models use elastomers. 
+ 
+Thanks,
+Phil Donahue
+Kennersley Point Marina
+410.490.0810 Cell
+ 
+ 
+ 
+On Dec 13, 2009, at 3:13 AM, Julian Edgar wrote:
+
+
+
+Hi Folks,
+
+After about a 9 months' hiatus I am again back on my self-built suspension
+trike. (Hiatus due to moving interstate, changing jobs, etc.)
+
+Details on my trike at www.autospeed.com - search under 'Chalky' - there's a
+7 part series that covers its full development. Since that series I have
+added front dampers to go with the Firestone airbags (I've always used a
+rear damper). 
+
+Today I went on a very rough dirt trail that follows the railway line out of
+Bungendore (New South Wales, Australia). You can see a pic of the trike on
+the trail at
+http://i638.photobucket.com/albums/uu102/JulianEdgar/Chalkyontrail.jpg
+(with other photos of the trike development at
+http://s638.photobucket.com/albums/uu102/JulianEdgar/ )
+
+The photo doesn't really do the trail justice - estimated 15 per cent
+ascents, washaways (where creeks have crossed the trail and removed much
+dirt, leaving behind rocks), steep descents, one very quick black snake,
+some beautiful birds, lots of large rocks as big as a man's fist (fallen
+from the railway's ballast), etc.
+
+I rode with about 10-12kg of extra load - 3 litres water, RT40 Arkel
+panniers with lunch and Arkel Tailrider with tools.
+
+I was mightily pleased with the trike's performance: no failures, no
+punctures (I think the suspension massively protects the tyres), excellent
+handling on really treacherous surfaces, excellent ride, appropriate
+physical effort. 
+
+My front Watts Link scraped perhaps 5 times (need to look at this) and the
+rear derailleur scraped perhaps 10 times (not much I can do with 16 inch
+wheels and the required gear range - except use an internal gear hub with
+more than the current 3 speeds). One front damper also has a glisten of  oil
+on its shaft - perhaps a weep past the seal caused by overly high
+instantaneous internal pressures on the really big bumps. 
+
+Did about 10km on really rough dirt and then the return 10km on the (nice
+and smooth!) bitumen road. Tomorrow I'll inspect the (prototype) frame for
+cracks and abrasions.
+
+Regards,
+
+Julian Edgar
+
+
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+ 
+No virus found in this incoming message.
+Checked by AVG - www.avg.com
+Version: 9.0.716 / Virus Database: 270.14.105/2561 - Release Date: 12/13/09
+05:39:00
+
+From g.edgar at bigpond.com  Sun Dec 13 12:59:18 2009
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Mon, 14 Dec 2009 06:59:18 +1000
+Subject: [trikes] testing suspension trike on rough trail
+In-Reply-To: <CF618A37-126D-4F50-80C6-1BF7297D07AB@gmail.com>
+References: <001701ca7bcc$1684fec0$438efc40$@edgar@bigpond.com>
+	<CF618A37-126D-4F50-80C6-1BF7297D07AB@gmail.com>
+Message-ID: <008801ca7c37$233c4b80$69b4e280$@edgar@bigpond.com>
+
+Actually, to answer in more detail  the question about using elastomers as
+springing media, I don't like them for these reasons:
+ 
+If the wheel travel is to be sufficient, elastomers require high motion
+ratios in the suspension (that is, a large wheel travel for a small spring
+deflection). This in turn creates problems in terms of gaining spring
+linearity over a decent range of wheel travel, and means frame and
+suspension arm loads are high (sometimes unbelievably high). It also means
+that any change in the spring rate (eg by the elastomer changing its loaded
+length) results in a big change in ride height. 
+ 
+Elastomers are also not easily adjusted for change in loads. 
+ 
+On the other hand, elastomers have two major advantages over other
+approaches - low cost and light weight. Some elastomers also have internal
+damping - but (and it's another story), I'd suggest that this is not very
+effective. 
+ 
+I like rolling lip airbags because they are relatively light (lighter than
+steel springs, for example); are very easily altered in pressure to maintain
+ride height, irrespective of load; have no stiction; are easily used with
+low motion ratios; and have a linear rate that becomes non-linear only near
+max deflection (a characteristic that works really well). They also don't
+need rose-joints either end - ie the spring ends don't need to stay in line
+and parallel. 
+ 
+Their disadvantages are high cost (but that depends where you source them!),
+the need to hold their length captive, and a higher weight than some other
+springing media (eg elastomers). 
+ 
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+From: Philip Donahue [mailto:granpita at gmail.com] 
+Sent: Monday, 14 December 2009 12:29 AM
+To: editor at autospeed.com
+Subject: Re: [trikes] testing suspension trike on rough trail
+ 
+You do some remarkable work. What is the empty weight of the trike at this
+point?
+ 
+Also, did you consider using an elastomer suspension instead of the oil
+shocks? I ask because I have the last ICE Explorer made. I had it done with
+the rear suspension which was a Cane Creek shock but all of Trice's new
+models use elastomers. 
+ 
+Thanks,
+Phil Donahue
+Kennersley Point Marina
+410.490.0810 Cell
+ 
+ 
+ 
+On Dec 13, 2009, at 3:13 AM, Julian Edgar wrote:
+
+
+
+Hi Folks,
+
+After about a 9 months' hiatus I am again back on my self-built suspension
+trike. (Hiatus due to moving interstate, changing jobs, etc.)
+
+Details on my trike at www.autospeed.com - search under 'Chalky' - there's a
+7 part series that covers its full development. Since that series I have
+added front dampers to go with the Firestone airbags (I've always used a
+rear damper). 
+
+Today I went on a very rough dirt trail that follows the railway line out of
+Bungendore (New South Wales, Australia). You can see a pic of the trike on
+the trail at
+http://i638.photobucket.com/albums/uu102/JulianEdgar/Chalkyontrail.jpg
+(with other photos of the trike development at
+http://s638.photobucket.com/albums/uu102/JulianEdgar/ )
+
+The photo doesn't really do the trail justice - estimated 15 per cent
+ascents, washaways (where creeks have crossed the trail and removed much
+dirt, leaving behind rocks), steep descents, one very quick black snake,
+some beautiful birds, lots of large rocks as big as a man's fist (fallen
+from the railway's ballast), etc.
+
+I rode with about 10-12kg of extra load - 3 litres water, RT40 Arkel
+panniers with lunch and Arkel Tailrider with tools.
+
+I was mightily pleased with the trike's performance: no failures, no
+punctures (I think the suspension massively protects the tyres), excellent
+handling on really treacherous surfaces, excellent ride, appropriate
+physical effort. 
+
+My front Watts Link scraped perhaps 5 times (need to look at this) and the
+rear derailleur scraped perhaps 10 times (not much I can do with 16 inch
+wheels and the required gear range - except use an internal gear hub with
+more than the current 3 speeds). One front damper also has a glisten of  oil
+on its shaft - perhaps a weep past the seal caused by overly high
+instantaneous internal pressures on the really big bumps. 
+
+Did about 10km on really rough dirt and then the return 10km on the (nice
+and smooth!) bitumen road. Tomorrow I'll inspect the (prototype) frame for
+cracks and abrasions.
+
+Regards,
+
+Julian Edgar
+
+
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+ 
+No virus found in this incoming message.
+Checked by AVG - www.avg.com
+Version: 9.0.716 / Virus Database: 270.14.105/2561 - Release Date: 12/13/09
+05:39:00
+
+From sk8ski2004 at yahoo.ca  Wed Dec 16 13:24:29 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Wed, 16 Dec 2009 13:24:29 -0800
+Subject: [trikes] hubless wheel trike
+Message-ID: <701245.19464.qm@web54409.mail.re2.yahoo.com>
+
+I've seen sketches of bicycles and motorcycles, with hubless wheels, for years, but it always seemed to be a solution, looking for a problem.  Given the high side loads on trike hubs and spokes, this could actually be a solution, to a problem.
+
+
+http://www.recumbentjournal.com/news/gear/item/53-hubless-wheels-emerge-on-recumbent-trike.html 
+
+-- 
+Colin Bryant
+Vancouver, Canada
+
+
+      __________________________________________________________________
+Make your browsing faster, safer, and easier with the new Internet Explorer? 8. Optimized for Yahoo! Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+
+From michael.e.ross at gmail.com  Wed Dec 16 16:26:25 2009
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Wed, 16 Dec 2009 19:26:25 -0500
+Subject: [trikes] hubless wheel trike
+In-Reply-To: <701245.19464.qm@web54409.mail.re2.yahoo.com>
+References: <701245.19464.qm@web54409.mail.re2.yahoo.com>
+Message-ID: <67c62c9e0912161626q73c6a874j838a67862df09bb7@mail.gmail.com>
+
+The chain out at the rim thing looks troublesome.
+
+On Wed, Dec 16, 2009 at 4:24 PM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+
+> I've seen sketches of bicycles and motorcycles, with hubless wheels, for
+> years, but it always seemed to be a solution, looking for a problem.  Given
+> the high side loads on trike hubs and spokes, this could actually be a
+> solution, to a problem.
+>
+>
+>
+> http://www.recumbentjournal.com/news/gear/item/53-hubless-wheels-emerge-on-recumbent-trike.html
+>
+> --
+> Colin Bryant
+> Vancouver, Canada
+>
+>
+>      __________________________________________________________________
+> Make your browsing faster, safer, and easier with the new Internet
+> Explorer? 8. Optimized for Yahoo! Get it Now for Free! at
+> http://downloads.yahoo.com/ca/internetexplorer/
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+                 (919) 585-5118
+           michael_ross at ncsu.edu
+         michael.e.ross at gmail.com
+  =============================
+
+From sk8ski2004 at yahoo.ca  Thu Dec 17 07:03:34 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Thu, 17 Dec 2009 07:03:34 -0800
+Subject: [trikes] hubless wheel trike
+In-Reply-To: <67c62c9e0912161626q73c6a874j838a67862df09bb7@mail.gmail.com>
+References: <701245.19464.qm@web54409.mail.re2.yahoo.com>
+	<67c62c9e0912161626q73c6a874j838a67862df09bb7@mail.gmail.com>
+Message-ID: <125704.98324.qm@web54407.mail.re2.yahoo.com>
+
+Certainly, you couldn't ride on anything but a hard surface, with their prototype and not above 2.4mph but they are a bunch of engineering students, not trike riders.  The trike has a ton of other problems too (no sweep back of cross member, right brake exposed etc.).
+
+I can see using rim mounted ring style disk brakes, like some Honda motorcycles in the 80's, to deal with brakes.  Perhaps a shaft drive, with a pinion gear working on the enclosed edge of the wheel.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Michael Ross <michael.e.ross at gmail.com>
+To: Colin Bryant <sk8ski2004 at yahoo.ca>
+Cc: trikes at bikelist.org
+Sent: Wed, December 16, 2009 4:26:25 PM
+Subject: Re: [trikes] hubless wheel trike
+
+The chain out at the rim thing looks troublesome.
+
+
+On Wed, Dec 16, 2009 at 4:24 PM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+
+I've seen sketches of bicycles and motorcycles, with hubless wheels, for years, but it always seemed to be a solution, looking for a problem.  Given the high side loads on trike hubs and spokes, this could actually be a solution, to a problem.
+>
+>
+>http://www.recumbentjournal.com/news/gear/item/53-hubless-wheels-emerge-on-recumbent-trike.html
+>
+>>--
+>>Colin Bryant
+>>Vancouver, Canada
+>
+>
+>
+>>      __________________________________________________________________
+>>Make your browsing faster, safer, and easier with the new Internet Explorer? 8. Optimized for Yahoo! Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+>>
+>
+>--
+>>This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>>Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+                 (919) 585-5118
+           michael_ross at ncsu.edu
+         michael.e.ross at gmail.com
+  =============================
+
+
+
+      __________________________________________________________________
+Yahoo! Canada Toolbar: Search from anywhere on the web, and bookmark your favourite sites. Download it now
+http://ca.toolbar.yahoo.com.
+
+From michael.e.ross at gmail.com  Thu Dec 17 07:07:37 2009
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Thu, 17 Dec 2009 10:07:37 -0500
+Subject: [trikes] hubless wheel trike
+In-Reply-To: <125704.98324.qm@web54407.mail.re2.yahoo.com>
+References: <701245.19464.qm@web54409.mail.re2.yahoo.com>
+	<67c62c9e0912161626q73c6a874j838a67862df09bb7@mail.gmail.com> 
+	<125704.98324.qm@web54407.mail.re2.yahoo.com>
+Message-ID: <67c62c9e0912170707sa1da7bcr2fb74432b3a7d4fe@mail.gmail.com>
+
+It isn't a show stopper - the rear sprocket.  A different rim that allows
+some more clearance is possible.  As we know from our low trikes the chain
+down close to the ground is not that big a deal, just not that close.
+Nothing says you have to use rimless on the back if you have them on the
+front.
+
+On Thu, Dec 17, 2009 at 10:03 AM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+
+> Certainly, you couldn't ride on anything but a hard surface, with their
+> prototype and not above 2.4mph but they are a bunch of engineering students,
+> not trike riders.  The trike has a ton of other problems too (no sweep back
+> of cross member, right brake exposed etc.).
+>
+> I can see using rim mounted ring style disk brakes, like some Honda
+> motorcycles in the 80's, to deal with brakes.  Perhaps a shaft drive, with a
+> pinion gear working on the enclosed edge of the wheel.
+>
+>  --
+> Colin Bryant
+> Vancouver, Canada
+>
+>
+>
+>
+> ________________________________
+> From: Michael Ross <michael.e.ross at gmail.com>
+> To: Colin Bryant <sk8ski2004 at yahoo.ca>
+> Cc: trikes at bikelist.org
+> Sent: Wed, December 16, 2009 4:26:25 PM
+> Subject: Re: [trikes] hubless wheel trike
+>
+> The chain out at the rim thing looks troublesome.
+>
+>
+> On Wed, Dec 16, 2009 at 4:24 PM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+>
+> I've seen sketches of bicycles and motorcycles, with hubless wheels, for
+> years, but it always seemed to be a solution, looking for a problem.  Given
+> the high side loads on trike hubs and spokes, this could actually be a
+> solution, to a problem.
+> >
+> >
+> >
+> http://www.recumbentjournal.com/news/gear/item/53-hubless-wheels-emerge-on-recumbent-trike.html
+> >
+> >>--
+> >>Colin Bryant
+> >>Vancouver, Canada
+> >
+> >
+> >
+> >>      __________________________________________________________________
+> >>Make your browsing faster, safer, and easier with the new Internet
+> Explorer? 8. Optimized for Yahoo! Get it Now for Free! at
+> http://downloads.yahoo.com/ca/internetexplorer/
+> >>
+> >
+> >--
+> >>This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> >>Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+> >
+>
+>
+> --
+>                   Michael E. Ross
+>     NC Solar Center Test Laboratory
+> =================================
+>                 (919) 585-5118
+>           michael_ross at ncsu.edu
+>         michael.e.ross at gmail.com
+>  =============================
+>
+>
+>
+>       __________________________________________________________________
+> Yahoo! Canada Toolbar: Search from anywhere on the web, and bookmark your
+> favourite sites. Download it now
+> http://ca.toolbar.yahoo.com.
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+                 (919) 585-5118
+           michael_ross at ncsu.edu
+         michael.e.ross at gmail.com
+  =============================
+
+From sk8ski2004 at yahoo.ca  Fri Dec 18 09:46:03 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Fri, 18 Dec 2009 09:46:03 -0800
+Subject: [trikes] hubless wheel trike
+In-Reply-To: <67c62c9e0912170707sa1da7bcr2fb74432b3a7d4fe@mail.gmail.com>
+References: <701245.19464.qm@web54409.mail.re2.yahoo.com>
+	<67c62c9e0912161626q73c6a874j838a67862df09bb7@mail.gmail.com>
+	<125704.98324.qm@web54407.mail.re2.yahoo.com>
+	<67c62c9e0912170707sa1da7bcr2fb74432b3a7d4fe@mail.gmail.com>
+Message-ID: <837747.70657.qm@web54410.mail.re2.yahoo.com>
+
+I know the wheel bearings wouldn't last long around here.  Navigating 20cm deep puddles is common, around here, in winter months.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Michael Ross <michael.e.ross at gmail.com>
+To: Colin Bryant <sk8ski2004 at yahoo.ca>
+Cc: trikes at bikelist.org
+Sent: Thu, December 17, 2009 7:07:37 AM
+Subject: Re: [trikes] hubless wheel trike
+
+It isn't a show stopper - the rear sprocket.  A different rim that allows some more clearance is possible.  As we know from our low trikes the chain down close to the ground is not that big a deal, just not that close.  Nothing says you have to use rimless on the back if you have them on the front.
+
+
+On Thu, Dec 17, 2009 at 10:03 AM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+
+>
+>Certainly, you couldn't ride on anything but a hard surface, with their prototype and not above 2.4mph but they are a bunch of engineering students, not trike riders.  The trike has a ton of other problems too (no sweep back of cross member, right brake exposed etc.).
+>
+>>I can see using rim mounted ring style disk brakes, like some Honda motorcycles in the 80's, to deal with brakes.  Perhaps a shaft drive, with a pinion gear working on the enclosed edge of the wheel.
+>
+>> --
+>>Colin Bryant
+>>Vancouver, Canada
+>
+>
+>
+>
+>>________________________________
+>>From: Michael Ross <michael.e.ross at gmail.com>
+>>To: Colin Bryant <sk8ski2004 at yahoo.ca>
+>>Cc: trikes at bikelist.org
+>>Sent: Wed, December 16, 2009 4:26:25 PM
+>>Subject: Re: [trikes] hubless wheel trike
+>
+>
+>>The chain out at the rim thing looks troublesome.
+>
+>
+>>On Wed, Dec 16, 2009 at 4:24 PM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+>
+>>I've seen sketches of bicycles and motorcycles, with hubless wheels, for years, but it always seemed to be a solution, looking for a problem.  Given the high side loads on trike hubs and spokes, this could actually be a solution, to a problem.
+>>
+>
+>>
+>>>
+>>>http://www.recumbentjournal.com/news/gear/item/53-hubless-wheels-emerge-on-recumbent-trike.html
+>>
+>
+>>
+>>>>--
+>>>>Colin Bryant
+>>>>Vancouver, Canada
+>>>
+>>>
+>>>
+>>>>      __________________________________________________________________
+>>>>Make your browsing faster, safer, and easier with the new Internet Explorer? 8. Optimized for Yahoo! Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+>>
+>
+>>>
+>>>
+>>>--
+>>>>This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>>>>Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>>>
+>
+>
+>>--
+>>                   Michael E. Ross
+>>     NC Solar Center Test Laboratory
+>>=================================
+>>                 (919) 585-5118
+>>           michael_ross at ncsu.edu
+>>         michael.e.ross at gmail.com
+>>  =============================
+>
+>
+>
+>
+>     __________________________________________________________________
+>>Yahoo! Canada Toolbar: Search from anywhere on the web, and bookmark your favourite sites. Download it now
+>http://ca.toolbar.yahoo.com.
+>
+>--
+>>This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>>Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+                 (919) 585-5118
+           michael_ross at ncsu.edu
+         michael.e.ross at gmail.com
+  =============================
+
+
+
+      __________________________________________________________________
+The new Internet Explorer? 8 - Faster, safer, easier.  Optimized for Yahoo!  Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+
+From granpita at gmail.com  Fri Dec 18 10:00:08 2009
+From: granpita at gmail.com (Philip Donahue)
+Date: Fri, 18 Dec 2009 13:00:08 -0500
+Subject: [trikes] hubless wheel trike
+In-Reply-To: <837747.70657.qm@web54410.mail.re2.yahoo.com>
+References: <701245.19464.qm@web54409.mail.re2.yahoo.com>
+	<67c62c9e0912161626q73c6a874j838a67862df09bb7@mail.gmail.com>
+	<125704.98324.qm@web54407.mail.re2.yahoo.com>
+	<67c62c9e0912170707sa1da7bcr2fb74432b3a7d4fe@mail.gmail.com>
+	<837747.70657.qm@web54410.mail.re2.yahoo.com>
+Message-ID: <E4283D86-219A-45A0-911B-BC91A23C9DB9@gmail.com>
+
+Well, my Trice XL and Explorer only have ground clearances of 8.2cm and 17.8cm respectively, so I imagine 20cm puddles could get uncomfortable. 
+
+Phil Donahue
+Kennersley Point Marina
+410.490.0810 Cell
+
+
+
+On Dec 18, 2009, at 12:46 PM, Colin Bryant wrote:
+
+> I know the wheel bearings wouldn't last long around here.  Navigating 20cm deep puddles is common, around here, in winter months.
+> 
+> -- 
+> Colin Bryant
+> Vancouver, Canada
+> 
+> 
+> 
+> 
+> ________________________________
+> From: Michael Ross <michael.e.ross at gmail.com>
+> To: Colin Bryant <sk8ski2004 at yahoo.ca>
+> Cc: trikes at bikelist.org
+> Sent: Thu, December 17, 2009 7:07:37 AM
+> Subject: Re: [trikes] hubless wheel trike
+> 
+> It isn't a show stopper - the rear sprocket.  A different rim that allows some more clearance is possible.  As we know from our low trikes the chain down close to the ground is not that big a deal, just not that close.  Nothing says you have to use rimless on the back if you have them on the front.
+> 
+> 
+> On Thu, Dec 17, 2009 at 10:03 AM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+> 
+>> 
+>> Certainly, you couldn't ride on anything but a hard surface, with their prototype and not above 2.4mph but they are a bunch of engineering students, not trike riders.  The trike has a ton of other problems too (no sweep back of cross member, right brake exposed etc.).
+>> 
+>>> I can see using rim mounted ring style disk brakes, like some Honda motorcycles in the 80's, to deal with brakes.  Perhaps a shaft drive, with a pinion gear working on the enclosed edge of the wheel.
+>> 
+>>> --
+>>> Colin Bryant
+>>> Vancouver, Canada
+>> 
+>> 
+>> 
+>> 
+>>> ________________________________
+>>> From: Michael Ross <michael.e.ross at gmail.com>
+>>> To: Colin Bryant <sk8ski2004 at yahoo.ca>
+>>> Cc: trikes at bikelist.org
+>>> Sent: Wed, December 16, 2009 4:26:25 PM
+>>> Subject: Re: [trikes] hubless wheel trike
+>> 
+>> 
+>>> The chain out at the rim thing looks troublesome.
+>> 
+>> 
+>>> On Wed, Dec 16, 2009 at 4:24 PM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+>> 
+>>> I've seen sketches of bicycles and motorcycles, with hubless wheels, for years, but it always seemed to be a solution, looking for a problem.  Given the high side loads on trike hubs and spokes, this could actually be a solution, to a problem.
+>>> 
+>> 
+>>> 
+>>>> 
+>>>> http://www.recumbentjournal.com/news/gear/item/53-hubless-wheels-emerge-on-recumbent-trike.html
+>>> 
+>> 
+>>> 
+>>>>> --
+>>>>> Colin Bryant
+>>>>> Vancouver, Canada
+>>>> 
+>>>> 
+>>>> 
+>>>>>     __________________________________________________________________
+>>>>> Make your browsing faster, safer, and easier with the new Internet Explorer? 8. Optimized for Yahoo! Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+>>> 
+>> 
+>>>> 
+>>>> 
+>>>> --
+>>>>> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>>>>> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>>>> 
+>> 
+>> 
+>>> --
+>>>                  Michael E. Ross
+>>>    NC Solar Center Test Laboratory
+>>> =================================
+>>>                (919) 585-5118
+>>>          michael_ross at ncsu.edu
+>>>        michael.e.ross at gmail.com
+>>> =============================
+>> 
+>> 
+>> 
+>> 
+>>    __________________________________________________________________
+>>> Yahoo! Canada Toolbar: Search from anywhere on the web, and bookmark your favourite sites. Download it now
+>> http://ca.toolbar.yahoo.com.
+>> 
+>> --
+>>> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>>> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>> 
+> 
+> 
+> -- 
+>                   Michael E. Ross
+>     NC Solar Center Test Laboratory
+> =================================
+>                 (919) 585-5118
+>           michael_ross at ncsu.edu
+>         michael.e.ross at gmail.com
+>  =============================
+> 
+> 
+> 
+>      __________________________________________________________________
+> The new Internet Explorer? 8 - Faster, safer, easier.  Optimized for Yahoo!  Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From sk8ski2004 at yahoo.ca  Fri Dec 18 10:21:08 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Fri, 18 Dec 2009 10:21:08 -0800
+Subject: [trikes] hubless wheel trike
+In-Reply-To: <E4283D86-219A-45A0-911B-BC91A23C9DB9@gmail.com>
+References: <701245.19464.qm@web54409.mail.re2.yahoo.com>
+	<67c62c9e0912161626q73c6a874j838a67862df09bb7@mail.gmail.com>
+	<125704.98324.qm@web54407.mail.re2.yahoo.com>
+	<67c62c9e0912170707sa1da7bcr2fb74432b3a7d4fe@mail.gmail.com>
+	<837747.70657.qm@web54410.mail.re2.yahoo.com>
+	<E4283D86-219A-45A0-911B-BC91A23C9DB9@gmail.com>
+Message-ID: <206935.72238.qm@web54407.mail.re2.yahoo.com>
+
+Well, my seat is usually higher, than the puddles.  The trick is having enough speed to get through, without pedaling or splashing one's self.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Philip Donahue <granpita at gmail.com>
+To: Colin Bryant <sk8ski2004 at yahoo.ca>
+Cc: trikes at bikelist.org
+Sent: Fri, December 18, 2009 10:00:08 AM
+Subject: Re: [trikes] hubless wheel trike
+
+Well, my Trice XL and Explorer only have ground clearances of 8.2cm and 17.8cm respectively, so I imagine 20cm puddles could get uncomfortable. 
+
+
+Phil Donahue
+Kennersley Point Marina
+410.490.0810 Cell
+
+
+
+On Dec 18, 2009, at 12:46 PM, Colin Bryant wrote:
+
+I know the wheel bearings wouldn't last long around here.  Navigating 20cm deep puddles is common, around here, in winter months.
+>
+>-- 
+>Colin Bryant
+>Vancouver, Canada
+>
+>
+>
+>
+>________________________________
+>From: Michael Ross <michael.e.ross at gmail.com>
+>To: Colin Bryant <sk8ski2004 at yahoo.ca>
+>Cc: trikes at bikelist.org
+>Sent: Thu, December 17, 2009 7:07:37 AM
+>Subject: Re: [trikes] hubless wheel trike
+>
+>It isn't a show stopper - the rear sprocket.  A different rim that allows some more clearance is possible.  As we know from our low trikes the chain down close to the ground is not that big a deal, just not that close.  Nothing says you have to use rimless on the back if you have them on the front.
+>
+>
+>On Thu, Dec 17, 2009 at 10:03 AM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+>
+>
+>
+>>
+>Certainly, you couldn't ride on anything but a hard surface, with their prototype and not above 2.4mph but they are a bunch of engineering students, not trike riders.  The trike has a ton of other problems too (no sweep back of cross member, right brake exposed etc.).
+>>
+>
+>>
+>I can see using rim mounted ring style disk brakes, like some Honda motorcycles in the 80's, to deal with brakes.  Perhaps a shaft drive, with a pinion gear working on the enclosed edge of the wheel.
+>>>
+>
+>>
+>--
+>>>
+>Colin Bryant
+>>>
+>Vancouver, Canada
+>>>
+>
+>>
+>
+>>
+>
+>>
+>
+>>
+>________________________________
+>>>
+>From: Michael Ross <michael.e.ross at gmail.com>
+>>>
+>To: Colin Bryant <sk8ski2004 at yahoo.ca>
+>>>
+>Cc: trikes at bikelist.org
+>>>
+>Sent: Wed, December 16, 2009 4:26:25 PM
+>>>
+>Subject: Re: [trikes] hubless wheel trike
+>>>
+>
+>>
+>
+>>
+>The chain out at the rim thing looks troublesome.
+>>>
+>
+>>
+>
+>>
+>On Wed, Dec 16, 2009 at 4:24 PM, Colin Bryant <sk8ski2004 at yahoo.ca> wrote:
+>>>
+>
+>>
+>I've seen sketches of bicycles and motorcycles, with hubless wheels, for years, but it always seemed to be a solution, looking for a problem.  Given the high side loads on trike hubs and spokes, this could actually be a solution, to a problem.
+>>>
+>
+>>>
+>
+>>
+>
+>>>
+>
+>>>>
+>http://www.recumbentjournal.com/news/gear/item/53-hubless-wheels-emerge-on-recumbent-trike.html
+>>>>
+>
+>>>
+>
+>>
+>
+>>>
+>--
+>>>>>
+>Colin Bryant
+>>>>>
+>Vancouver, Canada
+>>>>>
+>
+>>>>
+>
+>>>>
+>
+>>>>
+>    __________________________________________________________________
+>>>>>
+>Make your browsing faster, safer, and easier with the new Internet Explorer? 8. Optimized for Yahoo! Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+>>>>>
+>
+>>>
+>
+>>
+>
+>>>>
+>
+>>>>
+>--
+>>>>
+>This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>>>>>
+>Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>>>>>
+>
+>>>>
+>
+>>
+>
+>>
+>--
+>>>
+>                 Michael E. Ross
+>>>
+>   NC Solar Center Test Laboratory
+>>>
+>=================================
+>>>
+>               (919) 585-5118
+>>>
+>         michael_ross at ncsu.edu
+>>>
+>       michael.e.ross at gmail.com
+>>>
+>=============================
+>>>
+>
+>>
+>
+>>
+>
+>>
+>
+>>
+>   __________________________________________________________________
+>>
+>Yahoo! Canada Toolbar: Search from anywhere on the web, and bookmark your favourite sites. Download it now
+>>>
+>http://ca.toolbar.yahoo.com.
+>>
+>
+>>
+>--
+>>
+>This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>>>
+>Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>>>
+>
+>>
+>
+>-- 
+>                  Michael E. Ross
+>    NC Solar Center Test Laboratory
+>=================================
+>                (919) 585-5118
+>          michael_ross at ncsu.edu
+>        michael.e.ross at gmail.com
+> =============================
+>
+>
+>
+>     __________________________________________________________________
+>The new Internet Explorer? 8 - Faster, safer, easier.  Optimized for Yahoo!  Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+>--
+>This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+
+
+
+      __________________________________________________________________
+Ask a question on any topic and get answers from real people. Go to Yahoo! Answers and share what you know at http://ca.answers.yahoo.com
+
+From g.edgar at bigpond.com  Sun Dec 20 12:45:28 2009
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Mon, 21 Dec 2009 06:45:28 +1000
+Subject: [trikes] more suspension trike touring and testing
+Message-ID: <001601ca81b5$5d106660$17313320$@edgar@bigpond.com>
+
+Hi Folks,
+ 
+Went for a ride the other day on prototype suspension trike. 
+ 
+A last minute change of plans (a major bushfire in the area I'd intended to
+go to) meant I went straight over the Great Dividing Range on what turned
+out for much of the distance to be a fire trail through a national park.
+(From Hoskinstown to Braidwood, New South Wales.) 
+ 
+With the longer trip in mind I was packed for 4 days of self-supported
+touring, including 15 litres of water, food, spares, etc - 39kg of stuff. 
+ 
+Was very tough - only about 20 kilometres for this section but very steep,
+rough, and often wet and slippery dirt. Camped overnight. 
+ 
+I didn't expect the road to turn out to be a fire trail (had poor map and no
+phone reception for nav) and I certainly didn't expect it to be so deserted
+- no one passed me for 18 hours or so. So I was a bit disconcerted by the
+difficulty and lack of other people. Knowing what I now know, I would do it
+again, either in the company of others or with an epirb (even a sprained
+ankle would have been very dangerous). 
+ 
+Blew seals in all three suspension dampers (need to do more work on the
+damping) but had no punctures and no other failures. With 16 inch wheels,
+the rear derailleur was at times dragging in the mud - not good. Am now
+developing new damping system. 
+ 
+For low qual pics taken with i-phone, see first seven pics at
+http://s638.photobucket.com/albums/uu102/JulianEdgar/
+ 
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+
+From heffel at gmail.com  Mon Dec 21 05:37:24 2009
+From: heffel at gmail.com (Chris Heffel)
+Date: Mon, 21 Dec 2009 07:37:24 -0600
+Subject: [trikes] more suspension trike touring and testing
+In-Reply-To: <001601ca81b5$5d106660$17313320$@edgar@bigpond.com>
+References: <001601ca81b5$5d106660$17313320$@edgar@bigpond.com>
+Message-ID: <4B2F7A14.3030602@gmail.com>
+
+Nice pictures Julian,
+
+It looks like a fun adventure!  We have taken our tadpoles on nasty 
+trails like that, but it is difficult.  We have been looking at Ketts 
+for offroad and sticking to onroad with our non-suspended tadpoles.
+
+I am looking forward to your next tests!
+
+
+On 12/20/2009 2:45 PM, Julian Edgar wrote:
+> Hi Folks,
+>
+> Went for a ride the other day on prototype suspension trike.
+>
+> A last minute change of plans (a major bushfire in the area I'd intended to
+> go to) meant I went straight over the Great Dividing Range on what turned
+> out for much of the distance to be a fire trail through a national park.
+> (From Hoskinstown to Braidwood, New South Wales.)
+>
+> With the longer trip in mind I was packed for 4 days of self-supported
+> touring, including 15 litres of water, food, spares, etc - 39kg of stuff.
+>
+> Was very tough - only about 20 kilometres for this section but very steep,
+> rough, and often wet and slippery dirt. Camped overnight.
+>
+> I didn't expect the road to turn out to be a fire trail (had poor map and no
+> phone reception for nav) and I certainly didn't expect it to be so deserted
+> - no one passed me for 18 hours or so. So I was a bit disconcerted by the
+> difficulty and lack of other people. Knowing what I now know, I would do it
+> again, either in the company of others or with an epirb (even a sprained
+> ankle would have been very dangerous).
+>
+> Blew seals in all three suspension dampers (need to do more work on the
+> damping) but had no punctures and no other failures. With 16 inch wheels,
+> the rear derailleur was at times dragging in the mud - not good. Am now
+> developing new damping system.
+>
+> For low qual pics taken with i-phone, see first seven pics at
+> http://s638.photobucket.com/albums/uu102/JulianEdgar/
+>
+>
+> Regards,
+>
+> Julian Edgar
+>
+>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+>    
+
+From sk8ski2004 at yahoo.ca  Thu Dec 31 17:39:01 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Thu, 31 Dec 2009 17:39:01 -0800
+Subject: [trikes] more suspension trike touring and testing
+In-Reply-To: <001601ca81b5$5d106660$17313320$@edgar@bigpond.com>
+References: <001601ca81b5$5d106660$17313320$@edgar@bigpond.com>
+Message-ID: <549155.7983.qm@web54405.mail.re2.yahoo.com>
+
+Hi Julian,
+
+Are the damper seals replaceable?  If you want to stick with the 16" rear wheel, maybe an internal hub would suite better.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Julian Edgar <g.edgar at bigpond.com>
+To: trikes at bikelist.org
+Sent: Sun, December 20, 2009 12:45:28 PM
+Subject: [trikes] more suspension trike touring and testing
+
+Hi Folks,
+
+Went for a ride the other day on prototype suspension trike. 
+
+A last minute change of plans (a major bushfire in the area I'd intended to
+go to) meant I went straight over the Great Dividing Range on what turned
+out for much of the distance to be a fire trail through a national park.
+(From Hoskinstown to Braidwood, New South Wales.) 
+
+With the longer trip in mind I was packed for 4 days of self-supported
+touring, including 15 litres of water, food, spares, etc - 39kg of stuff. 
+
+Was very tough - only about 20 kilometres for this section but very steep,
+rough, and often wet and slippery dirt. Camped overnight. 
+
+I didn't expect the road to turn out to be a fire trail (had poor map and no
+phone reception for nav) and I certainly didn't expect it to be so deserted
+- no one passed me for 18 hours or so. So I was a bit disconcerted by the
+difficulty and lack of other people. Knowing what I now know, I would do it
+again, either in the company of others or with an epirb (even a sprained
+ankle would have been very dangerous). 
+
+Blew seals in all three suspension dampers (need to do more work on the
+damping) but had no punctures and no other failures. With 16 inch wheels,
+the rear derailleur was at times dragging in the mud - not good. Am now
+developing new damping system. 
+
+For low qual pics taken with i-phone, see first seven pics at
+http://s638.photobucket.com/albums/uu102/JulianEdgar/
+
+
+Regards,
+
+Julian Edgar
+
+
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+      __________________________________________________________________
+Make your browsing faster, safer, and easier with the new Internet Explorer? 8. Optimized for Yahoo! Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+
+From g.edgar at bigpond.com  Thu Dec 31 22:46:21 2009
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Fri, 1 Jan 2010 16:46:21 +1000
+Subject: [trikes] more suspension trike touring and testing
+In-Reply-To: <549155.7983.qm@web54405.mail.re2.yahoo.com>
+References: <001601ca81b5$5d106660$17313320$@edgar@bigpond.com>
+	<549155.7983.qm@web54405.mail.re2.yahoo.com>
+Message-ID: <002a01ca8aae$23119d60$6934d820$@edgar@bigpond.com>
+
+I am currently experimenting with the air springs being used as fluid
+displacers. In this approach the miniature Firestone airsprings are filled
+with water. The displaced water moves through tubes to an accumulator tank
+where the water bears against a rubber diaphragm pressurised by air. 
+
+This approach allows suspension interconnection and also allows damping
+valves to be placed in the interconnection lines. It is very similar to the
+1970s BMC Hydragas system, except using air pressure rather than nitrogen
+pressure. 
+
+Damping can be very easily driver adjusted, ride height can be easily
+adjusted, and damping can be configured to remain constant in rate with
+differing loads. 
+
+I have chosen to interconnect the front wheels, reducing roll stiffness
+(roll stiffness is provided only by a leading arm torsion bar) but giving
+potentially soft one-wheel bump performance. When going hard, the damping is
+manually adjusted upwards to provide a 'sports' suspension performance.
+After experimenting with a variety of approaches, I am using simple taps in
+the fluid lines to allow simultaneous adjustment of bump and rebound
+damping. 
+
+I am using commercially available accumulators, normally used on boat
+pressurised water systems. In my machine the max air pressure is only 30
+psi; the accumulators are rated to 120 psi. Each accumulator weighs about
+400g; including water the total weight of the suspension springing/damping
+system is about 3kg. 
+
+So my system comprises two front air springs filled with water,
+interconnected and then joined to a pressure tank with adjustable taps on
+these interconnecting pipes. At the rear, a single accumulator tank and
+displacer are used, again with an interconnecting tube with adjustable tap. 
+
+My problems now are in getting my lash-up plumbing to seal properly, but
+first results look promising. At least there are no sliding seals in this
+system!
+
+
+Regards,
+
+Julian Edgar
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of Colin Bryant
+Sent: Friday, 1 January 2010 11:39 AM
+To: trikes at bikelist.org
+Subject: Re: [trikes] more suspension trike touring and testing
+
+Hi Julian,
+
+Are the damper seals replaceable?  If you want to stick with the 16" rear
+wheel, maybe an internal hub would suite better.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Julian Edgar <g.edgar at bigpond.com>
+To: trikes at bikelist.org
+Sent: Sun, December 20, 2009 12:45:28 PM
+Subject: [trikes] more suspension trike touring and testing
+
+Hi Folks,
+
+Went for a ride the other day on prototype suspension trike. 
+
+A last minute change of plans (a major bushfire in the area I'd intended to
+go to) meant I went straight over the Great Dividing Range on what turned
+out for much of the distance to be a fire trail through a national park.
+(From Hoskinstown to Braidwood, New South Wales.) 
+
+With the longer trip in mind I was packed for 4 days of self-supported
+touring, including 15 litres of water, food, spares, etc - 39kg of stuff. 
+
+Was very tough - only about 20 kilometres for this section but very steep,
+rough, and often wet and slippery dirt. Camped overnight. 
+
+I didn't expect the road to turn out to be a fire trail (had poor map and no
+phone reception for nav) and I certainly didn't expect it to be so deserted
+- no one passed me for 18 hours or so. So I was a bit disconcerted by the
+difficulty and lack of other people. Knowing what I now know, I would do it
+again, either in the company of others or with an epirb (even a sprained
+ankle would have been very dangerous). 
+
+Blew seals in all three suspension dampers (need to do more work on the
+damping) but had no punctures and no other failures. With 16 inch wheels,
+the rear derailleur was at times dragging in the mud - not good. Am now
+developing new damping system. 
+
+For low qual pics taken with i-phone, see first seven pics at
+http://s638.photobucket.com/albums/uu102/JulianEdgar/
+
+
+Regards,
+
+Julian Edgar
+
+
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+
+
+      __________________________________________________________________
+Make your browsing faster, safer, and easier with the new Internet ExplorerR
+8. Optimized for Yahoo! Get it Now for Free! at
+http://downloads.yahoo.com/ca/internetexplorer/
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+No virus found in this incoming message.
+Checked by AVG - www.avg.com 
+Version: 9.0.725 / Virus Database: 270.14.123/2594 - Release Date: 12/31/09
+18:52:00
+
+
+From blackotter at juno.com  Thu Dec 31 22:55:39 2009
+From: blackotter at juno.com (blackotter at juno.com)
+Date: Fri, 1 Jan 2010 06:55:39 +0000
+Subject: [trikes] (no subject)
+Message-ID: <20091231.225539.11229.0@webmail19.vgs.untd.com>
+
+this on going drama of the off-road trike could only happen between folks who refer to that small island off the coast of france as the mother country.  since the invention of the dune buggy in our country we no longer refer to the 18th century as the period of profound mechanical invention and technical marvel.
+
+jim werner
+
+____________________________________________________________
+Diet Help
+Cheap Diet Help Tips. Click here.
+http://thirdpartyoffers.juno.com/TGL2131/c?cp=c5AcjA-DvMawHzBn4jwowAAAJz1e1CPRsSPvKdzUAXwwCWngAAYAAAAAAAAAAAAAAAAAAADNAAAAAAAAAAAAAAAAAAAYQAAAAAA=
+

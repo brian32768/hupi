@@ -1,0 +1,75 @@
+From brian at wildsong.biz  Thu Feb 24 11:45:17 2011
+From: brian at wildsong.biz (Brian Wilson)
+Date: Thu, 24 Feb 2011 11:45:17 -0800
+Subject: [trikes] [hpv] lists migration
+In-Reply-To: <4026A3783F43C8418BCACC723574CDE7157454@BL2PRD0103MB009.prod.exchangelabs.com>
+References: <20110221183326.GC28497@bobcat.bobcatos.com>
+	<4026A3783F43C8418BCACC723574CDE7153300@BL2PRD0103MB009.prod.exchangelabs.com>
+	<87k4gpo4c0.fsf@pobox.com>
+	<4026A3783F43C8418BCACC723574CDE7157454@BL2PRD0103MB009.prod.exchangelabs.com>
+Message-ID: <AANLkTin5w7nUmD0aUugs1aJi4OhYshVMZpLgVKOciJ-b@mail.gmail.com>
+
+> On Thu, Feb 24, 2011 at 7:55 AM, Alex Wetmore <alex at phred.org> wrote:
+>
+> I think Brian Wilson has the list migration under control. >?I'll let him announce his plans when he is ready.
+>
+> alex
+
+Sorry, I talked about this with Alex off-list and I should have
+written everyone especially so the list admins would know details.
+
+I have tried out GoogleGroups with other projects and don't like it. I
+prefer to continue with mailman.
+
+I intend to ramp up some projects at HuPI.org over the next months. I
+am planning on moving the hpv lists to hupi.org.
+
+I am in the process of setting up a new server for HuPI.org that can
+handle more traffic. It will probably be at tektonic.net which worked
+well for ihpva.org/whpva.org before I backed out of that fray.
+
+Other than the domain name changing AGAIN... (what is this the 4th
+time?) sticking with mailman should make the move relatively painless.
+Archives are always a problem but they can continue to live at
+bikelist.org at least for now.
+
+Thanks Moz and Bob for offering hosting space. Thanks also to the list
+admins for their continued support.
+
+Brian
+
+From brian at wildsong.biz  Sun Feb 27 21:40:29 2011
+From: brian at wildsong.biz (Brian Wilson)
+Date: Sun, 27 Feb 2011 21:40:29 -0800
+Subject: [trikes] Fwd: mailing list move update
+In-Reply-To: <AANLkTikKqvMvo5iPzyFATSXroHbwwOdGzZ6kAcqN9zN4@mail.gmail.com>
+References: <AANLkTikKpCXgLvcDYCBrtps6dtksZMpsLsvsDUXv6LEm@mail.gmail.com>
+	<AANLkTikU2S0YqzsUTPQ5Pp5O7CU1C=qZs0as0rkcoYO9@mail.gmail.com>
+	<AANLkTikKqvMvo5iPzyFATSXroHbwwOdGzZ6kAcqN9zN4@mail.gmail.com>
+Message-ID: <AANLkTi=_SZ6twaGfrCFZ5c1i=bX_FpO8uzq11qAFe=LF@mail.gmail.com>
+
+Greetings --
+
+This mailing list "trikes at bikelist.org" is moving to "trikes at hupi.org".
+
+The move will probably commence on Monday or Tuesday, depending on how
+busy we are. When Alex (at bikelist.org) is ready, he will turn off
+the list at bikelist.org so no new messages will be accepted there
+(this includes commands such as subscribe/unsubscribe requests). Alex
+will then send the list data to me and I will install it and
+reactivate the list at hupi.org.
+
+We're using the same software at both servers so in theory this should
+be a simple move.
+
+You don't have to do anything -- except start using the new address
+after the move.
+I will send another message when the list is running at hupi.org.
+
+--
+Brian Wilson
+bwilson at hupi.org
+
+Sorry, but if you're on more than one 'hpv' list you will be reading
+this message more than once!
+

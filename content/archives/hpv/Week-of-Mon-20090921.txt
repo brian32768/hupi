@@ -1,0 +1,425 @@
+From JCSnyder.studio at worldnet.att.net  Mon Sep 21 14:30:26 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Mon, 21 Sep 2009 15:30:26 -0600
+Subject: [hpv] Human powered flywheel motor concept
+In-Reply-To: <mailman.13.1253473202.70366.hpv@bikelist.org>
+References: <mailman.13.1253473202.70366.hpv@bikelist.org>
+Message-ID: <4AB7F072.1010903@worldnet.att.net>
+
+Here are excerpts from two different studies on the subject of 
+intermittent compared to continuous exercise and amount of energy 
+generated (work performed). These two works are representative only. The 
+subject periodically emerges in various biology and medical journals.
+
+John Snyder
+
+-------------------
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1350639/pdf/jphysiol00950-0248.pdf
+
+
+"A practical conclusion shown by the results of the present study is 
+that if the aim is to keep the physiological cost of exercise to a 
+minimum, a given amount of work is better performed continuously at an 
+low power output. If the aim is to stress adaptive mechanisms then 
+intermittent exercise is preferable. In fact intermittent exercise in 
+the form of interval training is widely used in athletics..."
+
+Edwards, R.h.T.. and others. 1973. CARDIORESPIRATORY AND METABOLIC COSTS 
+OF CONTINUOUS AND
+INTERMITTENT EXERCISE IN MAN. J. Physiol. 234:481-497.
+
+--------------------
+
+http://icb.oxfordjournals.org/cgi/content/full/41/2/219
+
+"We can use endurance curves to make predictions about continuous 
+locomotor performance. To maximize total work output (or total distance 
+traveled) before exhaustion during continuous locomotion, exercise 
+should be carried out at a low power output (e.g., at speeds/power 
+outputs to the left of the endurance curves in Fig. 2). However, to 
+maximize total work output (or distance traveled) in a given amount of 
+time, exercise should be carried out at the maximum work rate (or speed) 
+that can be sustained for that time period (i.e., a point on the 
+endurance curve; Fig. 2). These predictions assume that work is 
+performed continuously. If the work is performed intermittently, then 
+predictions should address the possible advantages of recovery from 
+prior activity and the potential trade-off between recovery time and 
+power output."
+
+Weinstein, Randi. 2001. TERRESTRIAL INTERMITTENT EXERCISE: COMMON ISSUE 
+FOR HUMAN ATHLETICS AND COMPARATIVE ANIMAL LOCOMOTION. American 
+Zoologist. 41(2):219-228.
+--------------------------------------
+
+
+From jgtetz at msn.com  Mon Sep 21 19:03:34 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Mon, 21 Sep 2009 22:03:34 -0400
+Subject: [hpv] Human powered flywheel motor concept
+In-Reply-To: <mailman.13.1253473202.70366.hpv@bikelist.org>
+	<4AB7F072.1010903@worldnet.att.net>
+References: <mailman.13.1253473202.70366.hpv@bikelist.org>
+	<4AB7F072.1010903@worldnet.att.net>
+Message-ID: <COL102-DS16966D42DAF844709BFA94D7DC0@phx.gbl>
+
+John Snyder;
+
+Excellent articles on long and short term power. 
+It verifies my use of long term Human Power Capability plots I have used in my articles. 
+
+I was quite interested in the loss of efficiency at higher power intervals. 
+
+The thing that I wonder in the Human Power article is the .6 horse power (447 watts) at 60 seconds and 10 seconds of recovery. That seems to be way way beyond my capabilities.   At 150 watts its starting to feel uncomfortable. 
+
+They didn't talk about the subjects inherent abilities in the article but mentioned a family member could do this for 1.5 hours !!!!!
+
+John Tetz 
+
+From theosch06 at yahoo.de  Tue Sep 22 09:00:56 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Tue, 22 Sep 2009 18:00:56 +0200
+Subject: [hpv] Human powered flywheel motor concept
+In-Reply-To: <COL102-DS16966D42DAF844709BFA94D7DC0@phx.gbl>
+References: <mailman.13.1253473202.70366.hpv@bikelist.org>	<4AB7F072.1010903@worldnet.att.net>
+	<COL102-DS16966D42DAF844709BFA94D7DC0@phx.gbl>
+Message-ID: <4AB8F4B8.9050602@yahoo.de>
+
+Ben Brown wrote:
+
+> The recent edition of HUMAN POWER (Number 58 Summer 2009)has an 
+> article "Application of Human Powered Flywheel Motor as an Energy 
+> Source for Generation of Electrical Energy for Rural Applications, and 
+> Computer Aided Analysis of Battery Charging Process" by Deshpande, 
+> Modak and Tarnekar.
+...
+> What puzzles me, however, is the claim that *human pedallers can 
+> produce five times the average power by sprinting for 60 seconds then 
+> resting for 15 seconds, vs. pedalling continuously.* (See p11 first 
+> paragraph.) Am I misinterpreting this? 
+...
+
+JOHN TETZ wrote:
+> The thing that I wonder in the Human Power article is the .6 horse power (447 watts) at 60 seconds and 10 seconds of recovery. That seems to be way way beyond my capabilities.   At 150 watts its starting to feel uncomfortable. 
+>
+> They didn't talk about the subjects inherent abilities in the article but mentioned a family member could do this for 1.5 hours !!!!
+>   
+I havn't seen the HP article yet, but edited a similar one in 2003:
+
+see page 21 HP54: http://www.ihpva.org/HParchive/PDF/hp54-2003.pdf
+
+The point was that one pedaller could spend a minute or so cranking up 
+the flywheel, which could then operate at five times the average 
+pedalling power for 15 seconds, e.g. to operate machinery which a single 
+person wouldn't be able to power otherwise. This would apply to certain 
+electrical tools as well, but I can't see the benefit of a "large" 
+flywheel when charging batteries at a constant rate. There is of course 
+the benefit from a "small" flywheel, because pedalling at constant 
+torque is more difficult than pedalling at constant speed - rather like 
+cycling fast is "easier" than exerting the same power cycling steep 
+uphill (apart from the cooling of course).
+
+However this still leaves a discrepancy. Human Power eJournal was also 
+offered this article, but we returned it, as the previous one had taken 
+Dave Wilson and me years to edit. There was a great deal of information, 
+but we couldn't understand much of it and left this out, so in the end 
+only three pages were left. I can imagine that there might be similar 
+issues in the present article.
+
+Cheers, Theo Schmidt
+
+From JCSnyder.studio at worldnet.att.net  Tue Sep 22 10:15:31 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Tue, 22 Sep 2009 11:15:31 -0600
+Subject: [hpv] Human powered flywheel motor concept
+In-Reply-To: <COL102-DS16966D42DAF844709BFA94D7DC0@phx.gbl>
+References: <mailman.13.1253473202.70366.hpv@bikelist.org>
+	<4AB7F072.1010903@worldnet.att.net>
+	<COL102-DS16966D42DAF844709BFA94D7DC0@phx.gbl>
+Message-ID: <4AB90633.7010804@worldnet.att.net>
+
+Howdy John Tetz,
+
+Here's a earthquake shaker of a new/old thought, power endurance is 
+influenced by both mental and physical state!
+
+Science Daily provides an excellent read.
+
+John Snyder
+---------------------
+
+http://www.sciencedaily.com/releases/2009/02/090224132915.htm
+
+Mental Fatigue Can Affect Physical Endurance
+
+ScienceDaily (Feb. 26, 2009) ? When participants performed a mentally 
+fatiguing task prior to a difficult exercise test, they reached 
+exhaustion more quickly than when they did the same exercise when 
+mentally rested, a new study finds.
+
+The study also found that mental fatigue did not cause the heart or 
+muscles to perform any differently. Instead, our ?perceived effort? 
+determines when we reach exhaustion. The researchers said the next step 
+is to look at the brain to find out exactly why people with mental 
+fatigue perceive exercise to be more difficult.
+
+Samuele M. Marcora, Walter Staiano and Victoria Manning of Bangor 
+University, Wales, the United Kingdom, did the study, ?Mental fatigue 
+impairs physical performance in humans.? The study will appear in the 
+March print edition of the Journal of Applied Physiology. The American 
+Physiological Society published the study.
+
+The study
+
+The 16 participants rode a stationary bicycle to exhaustion under two 
+conditions: once when they were mentally fatigued and once when they 
+were mentally rested. The trials took place in the laboratory on 
+different days. The participants got the same amount of sleep, drank the 
+same amount and had the same meal before each of the sessions.
+
+The mental fatigue sessions began with a challenging 90-minute mental 
+task that required close attention, memory, quick reaction and an 
+ability to inhibit a response. After undergoing this session, 
+participants reported being tired and lacking energy. The control 
+session consisted of watching neutral documentaries for 90 minutes and 
+was not mentally fatiguing.
+
+After each of the 90-minute sessions ? mentally fatiguing or 
+non-fatiguing ? the participants did an intense bout of exercise on a 
+stationary bicycle. They rode until exhaustion, defined as the point 
+when they could not maintain a cadence of at least 60 revolutions per 
+minute for more than five seconds.
+
+Throughout both exercise sessions, the researchers tracked a variety of 
+physiological measures, such as oxygen consumption, heart rate, cardiac 
+output, blood pressure, ventilation, and blood lactate levels. The 
+participants completed surveys to measure their motivation and perceived 
+effort. The researchers offered monetary prizes for the best performance 
+on the exercise and mental tasks as a way to keep motivation high.
+
+Results
+
+The participants stopped exercising 15% earlier, on average, when they 
+were mentally fatigued.
+
+The participants stopped at the same perceived effort level in both the 
+fatigued and non-fatigued trial. However, mentally fatigued participants 
+started at a higher level of perceived effort and reached the endpoint 
+sooner.
+
+The cardio-respiratory and musculo-energetic measurements did not vary 
+between the two trials when compared at specific points in time. 
+However, because the non-fatigued trials went longer, heart rate and 
+blood lactate levels were higher at the end of those trials.
+
+Motivation was the same in both trials and was not a factor.
+
+The researchers speculate that the perception of effort occurs in the 
+brain. Dr. Marcora said his team is considering two possibilities: 
+mental fatigue lowers the brain?s inhibition against quitting, or 
+mentally fatigue affects dopamine, a brain chemical that plays a role in 
+motivation and effort.
+
+One interesting note is that demanding mental tasks activate the 
+anterior cingulate cortex of the brain. Previous research has shown that 
+rats with a lesion in the anterior cingulate cortex would not work as 
+hard for a reward compared to rats with no lesion. This area of the 
+brain may be where perception of effort originates, Dr. Marcora said.
+
+Applying the results
+
+This research could provide a way to study chronic fatigue syndrome, Dr. 
+Marcora said. People with chronic fatigue report they lack energy and 
+experience ?brain fog,? just like the mentally fatigued participants in 
+this study. In addition, as in this study, people with chronic fatigue 
+perceive exercise to be more difficult despite physiological responses 
+considered normal during exercise.
+
+The research model may also be helpful for military personnel. They do 
+physically demanding tasks after long period of vigilance. Vigilance 
+produces mental fatigue.
+
+Finally, the study suggests that people doing high intensity training, 
+such as competitive athletes, should do their training while mentally 
+rested. However, people who exercise after work should continue doing 
+so, even if mentally fatigued. Most people work out at a moderate 
+intensity, which still gives plenty of physiological and psychological 
+benefit, including relief from stress and improved mental performance.
+
+Journal reference:
+
+1. Samuele Maria Marcora, Walter Staiano, and Victoria Manning. Mental 
+fatigue impairs physical performance in humans. Journal of Applied 
+Physiology, 2009; DOI: 10.1152/japplphysiol.91324.2008
+
+-----------------------------
+
+
+
+From jgtetz at msn.com  Tue Sep 22 18:18:21 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Tue, 22 Sep 2009 21:18:21 -0400
+Subject: [hpv] Human powered flywheel motor concept
+In-Reply-To: <mailman.13.1253473202.70366.hpv@bikelist.org>
+	<4AB7F072.1010903@worldnet.att.net>
+	<COL102-DS16966D42DAF844709BFA94D7DC0@phx.gbl>
+	<4AB90633.7010804@worldnet.att.net>
+References: <mailman.13.1253473202.70366.hpv@bikelist.org>
+	<4AB7F072.1010903@worldnet.att.net>
+	<COL102-DS16966D42DAF844709BFA94D7DC0@phx.gbl>
+	<4AB90633.7010804@worldnet.att.net>
+Message-ID: <COL102-DS17D97D0967B20985BFDC8FD7DB0@phx.gbl>
+
+>Mental Fatigue Can Affect Physical Endurance
+....I read recently that under high mental stress the brain consumes around 30% of the bodies energy. 
+So maybe that helps explain why the mentally stressed subjects were physically worn out earlier. They  actually used more of the bodies resources. It wasn't just a perceived  effect. 
+
+john tetz 
+
+From a.krause at humboldt1.com  Wed Sep 23 09:50:54 2009
+From: a.krause at humboldt1.com (Al Krause)
+Date: Wed, 23 Sep 2009 09:50:54 -0700
+Subject: [hpv] Human powered flywheel motor concept
+References: <4AB6521D.6080101@cs.cmu.edu>
+Message-ID: <4ABA51EE.1060300@humboldt1.com>
+
+We welcome your feedback!
+Please send letters or questions to:
+editorhumanpower(at)gmail.com
+
+Many thanks in advance
+
+Al Krause
+
+Ben Brown wrote:
+> The recent edition of HUMAN POWER (Number 58 Summer 2009)has an article 
+> "Application of Human Powered Flywheel Motor as an Energy Source for 
+> Generation of Electrical Energy for Rural Applications, and Computer 
+> Aided Analysis of Battery Charging Process" by Deshpande, Modak and 
+> Tarnekar. Based on this article and the references cited, the 
+> authors--most notably Modak--have done extensive research in applying 
+> human power to many applications, a laudable pursuit.
+> 
+> What puzzles me, however, is the claim that *human pedallers can produce 
+> five times the average power by sprinting for 60 seconds then resting 
+> for 15 seconds, vs. pedalling continuously.* (See p11 first paragraph.) 
+> Am I misinterpreting this? The references cited to back up this claim 
+> are mostly by the authors themselves, except for ref. 17, attributed to 
+> Eastman-Kodak. Some web searching turned up the the articles listed 
+> below among others, but in brief review, I did not find data to support 
+> the claim.
+> 
+> If there is any truth to this claim, it would dramatically change the 
+> way we think about and design human-powered vehicles and devices. Can 
+> anyone comment on this? (Are the authors listening?) I would love to see 
+> data supporting this.
+> 
+>     Thanks, Ben
+> 
+> *************************************************************************
+> Article in HUMAN POWER "Design and development of a human-powered 
+> machine for manufacture of lime-flyash-sand bricks" by J.P. Modak and 
+> S.D. Moghe: http://www.ihpva.org/HParchive/PDF/45-v13n2-1998.pdf
+> 
+> Lengthy (50 page) paper "HUMAN POWERED FLYWHEEL MOTOR CONCEPT, DESIGN, 
+> DYNAMICS AND APPLICATIONS" BY J.P. Modak: 
+> http://130.15.85.212/proceedings/proceedings_WorldCongress/WorldCongress07/articles/sessions/papers/A983.pdf
+> 
+> Search for "Eastman Kodak" "work rest cycle" produced this article:
+> "Kodak's Ergonomic Design for People at Work"
+> http://books.google.com/books?id=FSgcaAIoHu8C&pg=PA483&lpg=PA483&dq=%22eastman+kodak%22+%22work+rest+cycle%22&source=bl&ots=pCQvbRwfqG&sig=8mXeber2VfReNhokGUH0y8JZFis&hl=en#v=onepage&q=&f=false
+> 
+> 
+> ------------------------------------------------------------------------
+> 
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+
+From plaidp at msn.com  Wed Sep 23 11:05:12 2009
+From: plaidp at msn.com (C POLLARD)
+Date: Wed, 23 Sep 2009 12:05:12 -0600
+Subject: [hpv] Human powered flywheel motor concept
+In-Reply-To: <4ABA51EE.1060300@humboldt1.com>
+References: <4AB6521D.6080101@cs.cmu.edu>
+ <4ABA51EE.1060300@humboldt1.com>
+Message-ID: <SNT102-W1EF9711B423F9F6CD0CA7C5DB0@phx.gbl>
+
+
+This issue had a long list of people that are supposed to do a peer review.  However this article and the aircraft one seem to have some issues.  
+
+For the flywheel article there is no mention made of the inefficiencies of accelerating the flywheel.  Humans waste a lot of energy accelerating from zero speed.  
+
+The aircraft article seems to throw several issues out the window.  There is no consideration of stability, control moments or structure design, to name a few.  
+
+I know we haven't had an issue for a long time but...
+
+Chris Pollard
+
+> Date: Wed, 23 Sep 2009 09:50:54 -0700
+> From: a.krause at humboldt1.com
+> To: hbb at cs.cmu.edu
+> CC: hpv at bikelist.org; editorhumanpower at gmail.com
+> Subject: Re: [hpv] Human powered flywheel motor concept
+> 
+> We welcome your feedback!
+> Please send letters or questions to:
+> editorhumanpower(at)gmail.com
+> 
+> Many thanks in advance
+> 
+> Al Krause
+>
+ 		 	   		  
+
+From JCSnyder.studio at worldnet.att.net  Wed Sep 23 11:43:10 2009
+From: JCSnyder.studio at worldnet.att.net (John Snyder)
+Date: Wed, 23 Sep 2009 12:43:10 -0600
+Subject: [hpv] Human powered flywheel motor concept
+In-Reply-To: <COL102-DS17D97D0967B20985BFDC8FD7DB0@phx.gbl>
+References: <mailman.13.1253473202.70366.hpv@bikelist.org>
+	<4AB7F072.1010903@worldnet.att.net>
+	<COL102-DS16966D42DAF844709BFA94D7DC0@phx.gbl>
+	<4AB90633.7010804@worldnet.att.net>
+	<COL102-DS17D97D0967B20985BFDC8FD7DB0@phx.gbl>
+Message-ID: <4ABA6C3E.9080801@worldnet.att.net>
+
+That's an interesting take, that mental stress can serve as an energy 
+expenditure. Stress can influence many different aspects of the brain 
+and body such as increased heart and respiration rates.  This link goes 
+to an abstract
+( http://www.springerlink.com/content/98243380047r070k/ ) about a sports 
+medicine study of chess players. Chess for gosh sakes is a physical 
+sport! Who'd-of-thunk? As you suggest, difficult mental tasks can 
+require an increased expenditure of metabolites (energy).
+
+Getting back to the intermittent verse continuous pedaling matter 
+related to operation of a flywheel. There is a mental condition we often 
+recognize as NBS (New Bicycle Syndrome. NBS refers that odd phenomena 
+whereby a new bike, new gadget or technique is faster and easier to use 
+than whatever it replaces. Another description of the phenomena is the 
+"power of expectations." Israel Urieli applied the term "a priori" in 
+his paper in the 4th Velomobile Seminar, page 218. Recall, Izzy had been 
+writing about validating the power and endurance curves in field 
+conditions, and acknowledged that when the rider hit the wall (e.g., 
+cycled long enough to be unable to walk) could have been  _in part_ 
+having known before hand an expected distance.
+
+John Snyder
+
+
+
+
+JOHN TETZ wrote:
+> >Mental Fatigue Can Affect Physical Endurance
+> ....I read recently that under high mental stress the brain consumes 
+> around 30% of the bodies energy.
+> So maybe that helps explain why the mentally stressed subjects were 
+> physically worn out earlier. They  actually used more of the bodies 
+> resources. It wasn't just a perceived  effect.
+>  
+> john tetz
+
+

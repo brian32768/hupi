@@ -1,0 +1,150 @@
+From nickolas.hein at gmail.com  Wed Jan  5 07:14:49 2011
+From: nickolas.hein at gmail.com (Nick Hein)
+Date: Wed, 05 Jan 2011 10:14:49 -0500
+Subject: [hpv] Bike simulation redux
+Message-ID: <4D248AE9.7080306@frontier.com>
+
+Good morning,
+More than 10 years ago I was vigorously writing a bike simulation 
+program and had gotten to the point where I could put in routes so you 
+could (virtually) ride a bike over the route and the program would tell 
+you how long the ride took and how much energy was used.  I stopped 
+development because I couldn't get real-world routes (GPS was just 
+becoming available, but not affordable for me).  Today I came across a 
+website that gives me the data I need off the internet.
+ridewithgps.com
+Buy downloading the route in Garmin "Training Center" format (.tcx) I 
+can see the data I need in ASCII format.  However, to load it into my 
+program I still need to put the data in columns and convert lat/lon/alt 
+to xyz.  The .tcx format is a markup language like html.  I've found 
+formulas for the lat/lon conversion part.  Can anyone an easy way to do 
+the data reading part?   My only known approach would be to use 
+QuickBASIC like I did 15 years ago.  I'm hoping for something better.
+
+Even better, I remember someone on this list at the time developed an 
+online simulation.  If that person is still around, do you know if there 
+is a way to integrate that simulation with this online route mapping 
+utility.  My premise is that you would input vehicle characteristics 
+(rolling coeff, drag coeff, weight, mech eff) and rider characteristics 
+(weight, power, cadence) and the program would give you a time history 
+of speed, acceleration and energy used.
+
+Anyone interested in working on this with me, I can do all the physics 
+stuff but I'm not sure how to do the terrain data reading and 
+input/output graphics,?
+Thanks,
+Nick
+
+From opusthepoet at gmail.com  Wed Jan  5 09:02:38 2011
+From: opusthepoet at gmail.com (John Clary)
+Date: Wed, 5 Jan 2011 11:02:38 -0600
+Subject: [hpv] Bike simulation redux
+In-Reply-To: <4D248AE9.7080306@frontier.com>
+References: <4D248AE9.7080306@frontier.com>
+Message-ID: <AANLkTik0bY-trtnF6p5C1AKoEWTzUOFdNE58pb=Nga8N@mail.gmail.com>
+
+On Wed, Jan 5, 2011 at 9:14 AM, Nick Hein wrote:
+> Good morning,
+> More than 10 years ago I was vigorously writing a bike simulation program
+> and had gotten to the point where I could put in routes so you could
+> (virtually) ride a bike over the route and the program would tell you how
+> long the ride took and how much energy was used.
+>
+Somebody beat you to it, there is a program called Google Bike that
+uses Google Earth and a bike trainer to create a virtual bike ride.
+The on-road images are taken from Street View. I haven't tried it yet
+so I can't say anything about the motion of the video if it is as
+choppy as hitting Forward on Street View or if they have somehow
+blended it so that it moves smoothly.
+
+-- 
+Opus
+
+I ride my bike to ride my bike, and sometimes it takes me where I need to go.
+
+From jeff_wills at comcast.net  Wed Jan  5 19:18:08 2011
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Thu, 6 Jan 2011 03:18:08 +0000 (UTC)
+Subject: [hpv] Bike simulation redux
+In-Reply-To: <4D248AE9.7080306@frontier.com>
+Message-ID: <641857826.819323.1294283888433.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+
+Nick, the RIdeWithGPS programmers are local (to me)... Oregon for sure, probably Portland. You could ask them about pulling terrain data from routes posted on their site. From what I've seen it's all XML, so it's really a matter of getting the input data correctly formatted and then the programming should be straightforward from there.  As Opie points out, Google Street View does a reasonably good job on the output side.
+
+Several of the WISIL guys have been talking about virtual online races in this thread: http://www.wisil.recumbents.com/forums/topic.asp?TOPIC_ID=3133 . I haven't worked with any of this stuff, but it sounds like they're using what you're describing. 
+
+FWIW-  here's a couple routes that I've created:
+http://ridewithgps.com/routes/202664
+http://ridewithgps.com/routes/139081
+http://ridewithgps.com/routes/132998
+http://ridewithgps.com/routes/78253
+
+
+Jeff Wills
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+----- Nick Hein <nickolas.hein at gmail.com> wrote:
+> Good morning,
+> More than 10 years ago I was vigorously writing a bike simulation 
+> program and had gotten to the point where I could put in routes so you 
+> could (virtually) ride a bike over the route and the program would tell 
+> you how long the ride took and how much energy was used.  I stopped 
+> development because I couldn't get real-world routes (GPS was just 
+> becoming available, but not affordable for me).  Today I came across a 
+> website that gives me the data I need off the internet.
+> ridewithgps.com
+> Buy downloading the route in Garmin "Training Center" format (.tcx) I 
+> can see the data I need in ASCII format.  However, to load it into my 
+> program I still need to put the data in columns and convert lat/lon/alt 
+> to xyz.  The .tcx format is a markup language like html.  I've found 
+> formulas for the lat/lon conversion part.  Can anyone an easy way to do 
+> the data reading part?   My only known approach would be to use 
+> QuickBASIC like I did 15 years ago.  I'm hoping for something better.
+> 
+> Even better, I remember someone on this list at the time developed an 
+> online simulation.  If that person is still around, do you know if there 
+> is a way to integrate that simulation with this online route mapping 
+> utility.  My premise is that you would input vehicle characteristics 
+> (rolling coeff, drag coeff, weight, mech eff) and rider characteristics 
+> (weight, power, cadence) and the program would give you a time history 
+> of speed, acceleration and energy used.
+> 
+> Anyone interested in working on this with me, I can do all the physics 
+> stuff but I'm not sure how to do the terrain data reading and 
+> input/output graphics,?
+> Thanks,
+> Nick
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+From nickolas.hein at gmail.com  Thu Jan  6 07:54:58 2011
+From: nickolas.hein at gmail.com (Nick Hein)
+Date: Thu, 06 Jan 2011 10:54:58 -0500
+Subject: [hpv] Bike simulation Redux
+Message-ID: <4D25E5D2.1020506@gmail.com>
+
+Good morning,
+I received a couple of responses on this topic yesterday and I'm not 
+sure they went to the general list so I thought I'd summarize them here.
+
+- A couple of people are working on an interactive online bike simulation.
+- There is a hack to do it really simply by soldering a speedometer 
+detector to the up arrow  USB game controller.  You can do this in 
+Google Streetview.  It will advance you along the path that your mouse 
+is on.  I imagine there are ways to hack into a joystick to get 
+left/right control
+- Last nite I finished writing a small program to extract the 
+lat/long/alt values from a .tcx file and output them in ft as x, y, 
+distance and height from the starting point.  The data comes out as 
+columns that can be used easily by other programs.  I wrote the program 
+in QuickBASIC because that's what I had and it's free, but you're 
+welcome to the code if you want to translate it into something else.
+
+I've put some explanation and pictures on my blog at
+www.positivespinwv.blogspot.com
+
+Nick
+

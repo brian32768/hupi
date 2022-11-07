@@ -1,0 +1,813 @@
+From sadie984 at yahoo.com  Sun Sep 13 18:42:54 2009
+From: sadie984 at yahoo.com (Kate Peterson)
+Date: Sun, 13 Sep 2009 18:42:54 -0700
+Subject: [trikes] Hope break problem
+Message-ID: <717564.61940.qm@web52502.mail.re2.yahoo.com>
+
+All -- I have a Greenspeed with Hope Closed 2 disk brakes.  Because of a combination of circumstances I have not ridden it since last summer.
+When I got it out today one of the brakes seems to be stuck in the closed position.  Opening the screw adjuster has no effect.
+The brake lever does feel a little 'squishy' but it has hardly any play compared to the opposite brake and the pads are clearly gripping the disk.  
+While it is possible to ride the bike in a straight line (that is the brake is not locked up) the wheel barely moves when you lift the front end of the trike and 
+attempt to spin the wheel. 
+
+The Hope instructions don't cover this situation.  Should I try bleeding the brake and replacing the fluid or????
+Thanks for any help.
+
+Kathy in Cincinnati
+
+
+
+      
+
+From pfb at exadios.com  Sun Sep 13 20:30:38 2009
+From: pfb at exadios.com (Peter F Bradshaw)
+Date: Mon, 14 Sep 2009 11:30:38 +0800
+Subject: [trikes] Hope break problem
+In-Reply-To: <717564.61940.qm@web52502.mail.re2.yahoo.com>
+References: <717564.61940.qm@web52502.mail.re2.yahoo.com>
+Message-ID: <Pine.LNX.4.58.0909141116410.13178@narciss.pri>
+
+Hi Kate;
+
+I suspect that the slave pistons are stuck because of the lack of use.
+The first thing to try is to unbolt the calipers and, using a suitable
+flat bladed srewdriver, force the pads open. Then put the calipers over
+the disk so that the disk is between the pads - no need to bolt them in
+place - and squeeze the brake levers. Repeat this a couple of times
+being carefull not to squeeze the brake lever unless the disk is between
+the pads.
+
+You probably do not have a problem with with the brake fluid but, in any
+case, bleeding the brakes or replacing the fluid is the very last thing
+to try because it is often difficult to refill the system.
+
+On Sun, 13 Sep 2009, Kate Peterson wrote:
+
+> All -- I have a Greenspeed with Hope Closed 2 disk brakes.  Because of a combination of circumstances I have not ridden it since last summer.
+> When I got it out today one of the brakes seems to be stuck in the closed position.  Opening the screw adjuster has no effect.
+> The brake lever does feel a little 'squishy' but it has hardly any play compared to the opposite brake and the pads are clearly gripping the disk.
+> While it is possible to ride the bike in a straight line (that is the brake is not locked up) the wheel barely moves when you lift the front end of the trike and
+> attempt to spin the wheel.
+>
+> The Hope instructions don't cover this situation.  Should I try bleeding the brake and replacing the fluid or????
+> Thanks for any help.
+>
+> Kathy in Cincinnati
+>
+
+Cheers
+
+-- 
+Peter F Bradshaw: http://www.exadios.com (public keys avaliable there).
+Personal site: http://personal.exadios.com
+"I love truth, and the way the government still uses it occasionally to
+ keep us guessing." - Sam Kekovich.
+
+From saruman at ruvolo-hilton.org  Sun Sep 13 23:08:04 2009
+From: saruman at ruvolo-hilton.org (pete hilton)
+Date: Sun, 13 Sep 2009 23:08:04 -0700
+Subject: [trikes] Hope break problem
+In-Reply-To: <717564.61940.qm@web52502.mail.re2.yahoo.com>
+References: <717564.61940.qm@web52502.mail.re2.yahoo.com>
+Message-ID: <200909132308.04648.saruman@ruvolo-hilton.org>
+
+On Sunday 13 September 2009, Kate Peterson wrote:
+> All -- I have a Greenspeed with Hope Closed 2 disk brakes.  Because of a
+> combination of circumstances I have not ridden it since last summer. When I
+> got it out today one of the brakes seems to be stuck in the closed
+> position.  Opening the screw adjuster has no effect. The brake lever does
+> feel a little 'squishy' but it has hardly any play compared to the opposite
+> brake and the pads are clearly gripping the disk. While it is possible to
+> ride the bike in a straight line (that is the brake is not locked up) the
+> wheel barely moves when you lift the front end of the trike and attempt to
+> spin the wheel.
+>
+> The Hope instructions don't cover this situation.  Should I try bleeding
+> the brake and replacing the fluid or???? Thanks for any help.
+>
+Hey,
+        I have  Trice Explorer with  Hope Minidiscs.  I have found that they 
+are very easy to disassemble, clean and reassemble and bleed.
+
+If the pistons are just stuck through lack of use (as Peter Bradshaw suspects) 
+then be carefull as you follow his instructions in case the pistons have 
+stuck to the seal .. you dont want to tear the seal.  I got a lot of spares 
+for my Hope Minidiscs from:-
+
+   http://www.ukbikestore.co.uk/
+
+Seals, washers, etc
+
+The Hope website is at:-
+
+   http://www.hopetech.com/
+
+There is some technical information on that site. 
+
+One of my discs had an oversize piston which caused it to stick as yours do.
+I contacted Hope in the USA and they refurbished the caliper for me.  You 
+might wish to contact them if you feel you cannot handle freeing the piston 
+yourself.  They repaired my caliper and got it back to me within two days .. 
+they were in Southern California (in Cherry Valley) and I live in San jose so 
+YMMV.  I dont know if they still have that office in the USA.
+
+cheers
+pete
+
+-- 
+pete hilton
+San Jose,CA
+
+saruman at ruvolo-hilton.org
+  
+IsaBella --- ICE Explorer #1070
+
+From johnturvey at onetel.com  Mon Sep 14 13:53:01 2009
+From: johnturvey at onetel.com (John Turvey)
+Date: Mon, 14 Sep 2009 21:53:01 +0100
+Subject: [trikes] Hope break problem
+In-Reply-To: <200909132308.04648.saruman@ruvolo-hilton.org>
+Message-ID: <9726DFD4-A170-11DE-80AE-00306566DC3C@onetel.com>
+
+I have Hope Minis on my Trice Micro and once had trouble with the 
+brakes sticking on - the pads were not retracting properly - I (several 
+times) took the calipers off and cleaned around the pistons before 
+forcing (VERY CAREFULLY) them back - each time the brakes seemed to 
+work, but as soon as I started riding, they would stick on again - 
+eventually I realised it was the was brake levers that were sticking - 
+a drop of oil on each lever pivot and everything worked perfectly again.
+
+John Turvey
+
+
+From blackotter at juno.com  Mon Sep 28 13:25:40 2009
+From: blackotter at juno.com (blackotter at juno.com)
+Date: Mon, 28 Sep 2009 20:25:40 +0000
+Subject: [trikes] cranks
+Message-ID: <20090928.132540.27208.2@webmail22.vgs.untd.com>
+
+i'm calling in the pros.  this has probably been discussed more than the price of milk and butter but now it has bitten  me in the butt.  i've read all the press that shorter cranks make spinning easier.  that being said that for the first time i am having knee issues while wearing knee braces and am wondering if these shorties are causing the knee pain when i want to crank like i do on longer ones. the knee braces work well on my stratus and other trikes that i have owned.  i'm finding that if i don't spin i'm in for a long day. i also find that if i do spin and do it all day prolonged spin results in the muscle on the inside of my thigh fatiguing rapidly.
+
+jim werner
+
+____________________________________________________________
+Bankruptcy Filing Process
+Examine your bankruptcy filing options. Free online evaluation.
+http://thirdpartyoffers.juno.com/TGL2131/c?cp=aj2JkLubB3epXwSGzCzH7AAAJz1e1CPRsSPvKdzUAXwwCWngAAQAAAAFAAAAAOQMRj8AAAMqAAAAAAAAAAAAAAAAAAZiiAAAAAA=
+
+From michael.e.ross at gmail.com  Mon Sep 28 13:52:48 2009
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Mon, 28 Sep 2009 16:52:48 -0400
+Subject: [trikes] cranks
+In-Reply-To: <20090928.132540.27208.2@webmail22.vgs.untd.com>
+References: <20090928.132540.27208.2@webmail22.vgs.untd.com>
+Message-ID: <67c62c9e0909281352o1b92e10dr1d2e4be2ae229254@mail.gmail.com>
+
+Jim,
+
+At last another bent rider chimes in.  The common wisdom of uprights
+has to be viewed with a jaundiced eye when you are a bent guy.
+
+Don't ever mash is your only path.  If you don't spin shorter cranks,
+then there is little reason to have them.  But theoretically, mashing
+shorter cranks should be less hard on them because the joint angles
+are going to be less. (Significant? Depends on the the lengths being
+compared.)
+
+I think if you are having trouble and are considering not being able
+to ride at all, then try some really short cranks before giving up
+(with the requisite lower gearing all around).  Dotek 150mm should be
+findable without a large expense (used = very cheap).  These will
+probably have smaller MTB chainrings, too.  I know a trike home
+builder who has used these a lot.  To go shorter you need to keep an
+eye pealed for used cranks that have a solid arm than can be shortened
+- there is enough metal where the new holes go.  It takes a machinist
+that is patient and creative, but you can get a new hole drilled
+paralell to the BB.  Re-threading taps can be used to tap the hole.
+It is hard to find anything like a regular tap, but re-threading taps
+are not uncommon and will work if you are careful.  Park Tool?
+
+Have you seen the right professionals about your knees?  I was
+misdiagnosed as having patella-femoral syndrome by an orthopedic
+surgeon. Turns out I really had developed flat feet and inserts cured
+all.  This was winkled out by a PhD in Physical Therapy.  All I had to
+do was stand across the room from her and she sussed it out.
+
+There is an exercise for the inner quad (I forget the correct name)
+where you squeeze a ball between your knees while doing a light half
+squat.  This muscle is implicated in pattelo femoral syndrome which is
+an imbalance of muscles and a banjo tight illiotibial band.  It causes
+your knee cap to track off to the side of where it should be.  PT is
+the solution.
+
+You said inside of the thigh, maybe you meant a groin muscle not a
+quad?  That would be something different.
+
+Good luck.
+
+Mike
+
+On Mon, Sep 28, 2009 at 4:25 PM, blackotter at juno.com
+<blackotter at juno.com> wrote:
+> i'm calling in the pros. ?this has probably been discussed more than the price of milk and butter but now it has bitten ?me in the butt. ?i've read all the press that shorter cranks make spinning easier. ?that being said that for the first time i am having knee issues while wearing knee braces and am wondering if these shorties are causing the knee pain when i want to crank like i do on longer ones. the knee braces work well on my stratus and other trikes that i have owned. ?i'm finding that if i don't spin i'm in for a long day. i also find that if i do spin and do it all day prolonged spin results in the muscle on the inside of my thigh fatiguing rapidly.
+>
+> jim werner
+>
+> ____________________________________________________________
+> Bankruptcy Filing Process
+> Examine your bankruptcy filing options. Free online evaluation.
+> http://thirdpartyoffers.juno.com/TGL2131/c?cp=aj2JkLubB3epXwSGzCzH7AAAJz1e1CPRsSPvKdzUAXwwCWngAAQAAAAFAAAAAOQMRj8AAAMqAAAAAAAAAAAAAAAAAAZiiAAAAAA=
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+
+
+
+-- 
+                    Michael E. Ross
+ArcAngle Design & Analysis | MX Automation
+=================================
+Bachelor of Science Mechanical Engineering
+  Machine & Product Design - SolidWorks
+    Data Acquisition & Control - LabVIEW
+      Finite Element Analysis - Cosmos
+
+              217 Valley Creek Drive
+                Clayton, NC 27520
+
+                   (919) 585-5118
+                   (434) 326-5462
+          mross at mxautomation.com
+          michael.e.ross at gmail.com
+==============================
+
+From michael.e.ross at gmail.com  Mon Sep 28 13:56:44 2009
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Mon, 28 Sep 2009 16:56:44 -0400
+Subject: [trikes] cranks
+In-Reply-To: <67c62c9e0909281352o1b92e10dr1d2e4be2ae229254@mail.gmail.com>
+References: <20090928.132540.27208.2@webmail22.vgs.untd.com> 
+	<67c62c9e0909281352o1b92e10dr1d2e4be2ae229254@mail.gmail.com>
+Message-ID: <67c62c9e0909281356h7d423dc6nf33a310baf14cdb@mail.gmail.com>
+
+Funny, I mistook this for a comment to a non bent non trike list I was
+involved in.  25Hz was using the Doteks.  Maybe he can help you find
+some.
+
+On Mon, Sep 28, 2009 at 4:52 PM, Michael Ross <michael.e.ross at gmail.com> wrote:
+> Jim,
+>
+> At last another bent rider chimes in. ?The common wisdom of uprights
+> has to be viewed with a jaundiced eye when you are a bent guy.
+>
+> Don't ever mash is your only path. ?If you don't spin shorter cranks,
+> then there is little reason to have them. ?But theoretically, mashing
+> shorter cranks should be less hard on them because the joint angles
+> are going to be less. (Significant? Depends on the the lengths being
+> compared.)
+>
+> I think if you are having trouble and are considering not being able
+> to ride at all, then try some really short cranks before giving up
+> (with the requisite lower gearing all around). ?Dotek 150mm should be
+> findable without a large expense (used = very cheap). ?These will
+> probably have smaller MTB chainrings, too. ?I know a trike home
+> builder who has used these a lot. ?To go shorter you need to keep an
+> eye pealed for used cranks that have a solid arm than can be shortened
+> - there is enough metal where the new holes go. ?It takes a machinist
+> that is patient and creative, but you can get a new hole drilled
+> paralell to the BB. ?Re-threading taps can be used to tap the hole.
+> It is hard to find anything like a regular tap, but re-threading taps
+> are not uncommon and will work if you are careful. ?Park Tool?
+>
+> Have you seen the right professionals about your knees? ?I was
+> misdiagnosed as having patella-femoral syndrome by an orthopedic
+> surgeon. Turns out I really had developed flat feet and inserts cured
+> all. ?This was winkled out by a PhD in Physical Therapy. ?All I had to
+> do was stand across the room from her and she sussed it out.
+>
+> There is an exercise for the inner quad (I forget the correct name)
+> where you squeeze a ball between your knees while doing a light half
+> squat. ?This muscle is implicated in pattelo femoral syndrome which is
+> an imbalance of muscles and a banjo tight illiotibial band. ?It causes
+> your knee cap to track off to the side of where it should be. ?PT is
+> the solution.
+>
+> You said inside of the thigh, maybe you meant a groin muscle not a
+> quad? ?That would be something different.
+>
+> Good luck.
+>
+> Mike
+>
+> On Mon, Sep 28, 2009 at 4:25 PM, blackotter at juno.com
+> <blackotter at juno.com> wrote:
+>> i'm calling in the pros. ?this has probably been discussed more than the price of milk and butter but now it has bitten ?me in the butt. ?i've read all the press that shorter cranks make spinning easier. ?that being said that for the first time i am having knee issues while wearing knee braces and am wondering if these shorties are causing the knee pain when i want to crank like i do on longer ones. the knee braces work well on my stratus and other trikes that i have owned. ?i'm finding that if i don't spin i'm in for a long day. i also find that if i do spin and do it all day prolonged spin results in the muscle on the inside of my thigh fatiguing rapidly.
+>>
+>> jim werner
+>>
+>> ____________________________________________________________
+>> Bankruptcy Filing Process
+>> Examine your bankruptcy filing options. Free online evaluation.
+>> http://thirdpartyoffers.juno.com/TGL2131/c?cp=aj2JkLubB3epXwSGzCzH7AAAJz1e1CPRsSPvKdzUAXwwCWngAAQAAAAFAAAAAOQMRj8AAAMqAAAAAAAAAAAAAAAAAAZiiAAAAAA=
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>>
+>
+>
+>
+> --
+> ? ? ? ? ? ? ? ? ? ?Michael E. Ross
+> ArcAngle Design & Analysis | MX Automation
+> =================================
+> Bachelor of Science Mechanical Engineering
+> ?Machine & Product Design - SolidWorks
+> ? ?Data Acquisition & Control - LabVIEW
+> ? ? ?Finite Element Analysis - Cosmos
+>
+> ? ? ? ? ? ? ?217 Valley Creek Drive
+> ? ? ? ? ? ? ? ?Clayton, NC 27520
+>
+> ? ? ? ? ? ? ? ? ? (919) 585-5118
+> ? ? ? ? ? ? ? ? ? (434) 326-5462
+> ? ? ? ? ?mross at mxautomation.com
+> ? ? ? ? ?michael.e.ross at gmail.com
+> ==============================
+>
+
+
+
+-- 
+                    Michael E. Ross
+ArcAngle Design & Analysis | MX Automation
+=================================
+Bachelor of Science Mechanical Engineering
+  Machine & Product Design - SolidWorks
+    Data Acquisition & Control - LabVIEW
+      Finite Element Analysis - Cosmos
+
+              217 Valley Creek Drive
+                Clayton, NC 27520
+
+                   (919) 585-5118
+                   (434) 326-5462
+          mross at mxautomation.com
+          michael.e.ross at gmail.com
+==============================
+
+From oldox at bredband.net  Mon Sep 28 14:16:15 2009
+From: oldox at bredband.net (oldox at bredband.net)
+Date: Mon, 28 Sep 2009 23:16:15 +0200
+Subject: [trikes] cranks
+In-Reply-To: <67c62c9e0909281352o1b92e10dr1d2e4be2ae229254@mail.gmail.com>
+References: <20090928.132540.27208.2@webmail22.vgs.untd.com>
+	<67c62c9e0909281352o1b92e10dr1d2e4be2ae229254@mail.gmail.com>
+Message-ID: <4AC1279F.6010107@bredband.net>
+
+There are also the Bulletproof cranks from 
+http://www.gaerlan.com/bikeparts/parts/crank/crank.html which you can 
+get down to 140mm for 50 dollars.
+
+Mats S
+
+
+
+Michael Ross skrev:
+> Jim,
+>
+> At last another bent rider chimes in.  The common wisdom of uprights
+> has to be viewed with a jaundiced eye when you are a bent guy.
+>
+> Don't ever mash is your only path.  If you don't spin shorter cranks,
+> then there is little reason to have them.  But theoretically, mashing
+> shorter cranks should be less hard on them because the joint angles
+> are going to be less. (Significant? Depends on the the lengths being
+> compared.)
+>
+> I think if you are having trouble and are considering not being able
+> to ride at all, then try some really short cranks before giving up
+> (with the requisite lower gearing all around).  Dotek 150mm should be
+> findable without a large expense (used = very cheap).  These will
+> probably have smaller MTB chainrings, too.  I know a trike home
+> builder who has used these a lot.  To go shorter you need to keep an
+> eye pealed for used cranks that have a solid arm than can be shortened
+> - there is enough metal where the new holes go.  It takes a machinist
+> that is patient and creative, but you can get a new hole drilled
+> paralell to the BB.  Re-threading taps can be used to tap the hole.
+> It is hard to find anything like a regular tap, but re-threading taps
+> are not uncommon and will work if you are careful.  Park Tool?
+>
+> Have you seen the right professionals about your knees?  I was
+> misdiagnosed as having patella-femoral syndrome by an orthopedic
+> surgeon. Turns out I really had developed flat feet and inserts cured
+> all.  This was winkled out by a PhD in Physical Therapy.  All I had to
+> do was stand across the room from her and she sussed it out.
+>
+> There is an exercise for the inner quad (I forget the correct name)
+> where you squeeze a ball between your knees while doing a light half
+> squat.  This muscle is implicated in pattelo femoral syndrome which is
+> an imbalance of muscles and a banjo tight illiotibial band.  It causes
+> your knee cap to track off to the side of where it should be.  PT is
+> the solution.
+>
+> You said inside of the thigh, maybe you meant a groin muscle not a
+> quad?  That would be something different.
+>
+> Good luck.
+>
+> Mike
+>
+> On Mon, Sep 28, 2009 at 4:25 PM, blackotter at juno.com
+> <blackotter at juno.com> wrote:
+>   
+>> i'm calling in the pros.  this has probably been discussed more than the price of milk and butter but now it has bitten  me in the butt.  i've read all the press that shorter cranks make spinning easier.  that being said that for the first time i am having knee issues while wearing knee braces and am wondering if these shorties are causing the knee pain when i want to crank like i do on longer ones. the knee braces work well on my stratus and other trikes that i have owned.  i'm finding that if i don't spin i'm in for a long day. i also find that if i do spin and do it all day prolonged spin results in the muscle on the inside of my thigh fatiguing rapidly.
+>>
+>> jim werner
+>>
+>> ____________________________________________________________
+>> Bankruptcy Filing Process
+>> Examine your bankruptcy filing options. Free online evaluation.
+>> http://thirdpartyoffers.juno.com/TGL2131/c?cp=aj2JkLubB3epXwSGzCzH7AAAJz1e1CPRsSPvKdzUAXwwCWngAAQAAAAFAAAAAOQMRj8AAAMqAAAAAAAAAAAAAAAAAAZiiAAAAAA=
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>>
+>>     
+>
+>
+>
+>   
+
+
+From john_murray at sympatico.ca  Mon Sep 28 14:20:35 2009
+From: john_murray at sympatico.ca (John Murray)
+Date: Mon, 28 Sep 2009 17:20:35 -0400
+Subject: [trikes] cranks
+In-Reply-To: <67c62c9e0909281352o1b92e10dr1d2e4be2ae229254@mail.gmail.com>
+References: <20090928.132540.27208.2@webmail22.vgs.untd.com>
+	<67c62c9e0909281352o1b92e10dr1d2e4be2ae229254@mail.gmail.com>
+Message-ID: <4AC128A3.3040801@sympatico.ca>
+
+I have had several knee issues.... (cartilage, torn quad tendon) but 
+switching to 140mm was the cure for me.... got  me back on my trike...
+
+Here 140mm are on SOME junior size or kids BMX style....
+
+I also shortened a few sets.... bought a set of Hozan  taps, and they 
+work fine...
+
+Michael Ross wrote:
+> Jim,
+>
+> At last another bent rider chimes in.  The common wisdom of uprights
+> has to be viewed with a jaundiced eye when you are a bent guy.
+>
+> Don't ever mash is your only path.  If you don't spin shorter cranks,
+> then there is little reason to have them.  But theoretically, mashing
+> shorter cranks should be less hard on them because the joint angles
+> are going to be less. (Significant? Depends on the the lengths being
+> compared.)
+>
+> I think if you are having trouble and are considering not being able
+> to ride at all, then try some really short cranks before giving up
+> (with the requisite lower gearing all around).  Dotek 150mm should be
+> findable without a large expense (used = very cheap).  These will
+> probably have smaller MTB chainrings, too.  I know a trike home
+> builder who has used these a lot.  To go shorter you need to keep an
+> eye pealed for used cranks that have a solid arm than can be shortened
+> - there is enough metal where the new holes go.  It takes a machinist
+> that is patient and creative, but you can get a new hole drilled
+> paralell to the BB.  Re-threading taps can be used to tap the hole.
+> It is hard to find anything like a regular tap, but re-threading taps
+> are not uncommon and will work if you are careful.  Park Tool?
+>
+> Have you seen the right professionals about your knees?  I was
+> misdiagnosed as having patella-femoral syndrome by an orthopedic
+> surgeon. Turns out I really had developed flat feet and inserts cured
+> all.  This was winkled out by a PhD in Physical Therapy.  All I had to
+> do was stand across the room from her and she sussed it out.
+>
+> There is an exercise for the inner quad (I forget the correct name)
+> where you squeeze a ball between your knees while doing a light half
+> squat.  This muscle is implicated in pattelo femoral syndrome which is
+> an imbalance of muscles and a banjo tight illiotibial band.  It causes
+> your knee cap to track off to the side of where it should be.  PT is
+> the solution.
+>
+> You said inside of the thigh, maybe you meant a groin muscle not a
+> quad?  That would be something different.
+>
+> Good luck.
+>
+> Mike
+>
+> On Mon, Sep 28, 2009 at 4:25 PM, blackotter at juno.com
+> <blackotter at juno.com> wrote:
+>   
+>> i'm calling in the pros.  this has probably been discussed more than the price of milk and butter but now it has bitten  me in the butt.  i've read all the press that shorter cranks make spinning easier.  that being said that for the first time i am having knee issues while wearing knee braces and am wondering if these shorties are causing the knee pain when i want to crank like i do on longer ones. the knee braces work well on my stratus and other trikes that i have owned.  i'm finding that if i don't spin i'm in for a long day. i also find that if i do spin and do it all day prolonged spin results in the muscle on the inside of my thigh fatiguing rapidly.
+>>
+>> jim werner
+>>
+>> ____________________________________________________________
+>> Bankruptcy Filing Process
+>> Examine your bankruptcy filing options. Free online evaluation.
+>> http://thirdpartyoffers.juno.com/TGL2131/c?cp=aj2JkLubB3epXwSGzCzH7AAAJz1e1CPRsSPvKdzUAXwwCWngAAQAAAAFAAAAAOQMRj8AAAMqAAAAAAAAAAAAAAAAAAZiiAAAAAA=
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>>
+>>     
+>
+>
+>
+>   
+
+From jzalon at zalonoffice.com  Mon Sep 28 15:22:23 2009
+From: jzalon at zalonoffice.com (Jules D. Zalon)
+Date: Mon, 28 Sep 2009 18:22:23 -0400
+Subject: [trikes] Shorter Cranks
+In-Reply-To: <mailman.7000.1254172851.524.trikes@bikelist.org>
+References: <mailman.7000.1254172851.524.trikes@bikelist.org>
+Message-ID: <4AC1371F.3090200@zalonoffice.com>
+
+Jim: If you are uncertain about whether to spring for shorter cranks 
+(or, perhaps more importantly, what length to get), you might consider 
+buying a set of crank shorteners. It will save the hassle of finding a 
+decent used crank and then having to get the holes tapped correctly.
+
+I got a set from Tandems East [tandemseast at gmail.com]. They cost me 
+$115.00 last November for a set that has four holes (they shorten the 
+crank arms by 24mm, 41mm, 59mm & 76mm), which gives you a wide set of 
+options. They easily bolt onto your current cranks and so far they have 
+stayed put. No play, no loosening. I shortened my crank length just one 
+notch: from 175mm to 151mm but it made pedaling a lot easier.
+
+FYI.
+
+Jules
+
+From hk at pbwbikes.com  Mon Sep 28 20:17:25 2009
+From: hk at pbwbikes.com (PBW Bikes)
+Date: Mon, 28 Sep 2009 20:17:25 -0700
+Subject: [trikes] short cranks
+In-Reply-To: <mailman.7000.1254172851.524.trikes@bikelist.org>
+References: <mailman.7000.1254172851.524.trikes@bikelist.org>
+Message-ID: <op.u0z0rbjls9fdxt@pbw-cpqpf756nr.gateway.2wire.net>
+
+Hi Jim, I have some 155mm road cranks in 130/74bcd configuration  
+(http://www.pbwbikes.com/product_info.php/cPath/26/products_id/65) that  
+are well-made generic ones.
+
+It is tempting to drill a hole and tap it by hand. In practice, it is  
+almost impossible to get the hole to be lined up correctly. If the hole is  
+drilled or the tapping is akimbo, then your foot will rotate around in a  
+randomly oriented circle as you pedal. This may not be good for your knee.
+
+If you want to be sure of it, make sure you hold the crank accurately and  
+securely and drill straight down with a machine. A milling machine works  
+great if you have some fixturing.
+
+A Schlumpf-drive is easily configured with a wide range of lengths.
+
+Best regards, --Hugh
+
+
+== www.PBWbikes.com / 877-PBW-BIKE ==
+Useful human powered machines by:
+PBW        Inspired Cycle Engineering
+Catrike            Hase Spezialraeder
+Greenspeed             HP Velotechnik
+                             Wizwheelz
+Innovative cycling equipment from:
+Rohloff, Schlumpf, Arkel,Bionx,Magura
+-------------------------------------
+
+
+
+-- original message --
+
+i'm calling in the pros.  this has probably been discussed more than the  
+price of milk and butter but now it has bitten  me in the butt.  i've read  
+all the press that shorter cranks make spinning easier.  that being said  
+that for the first time i am having knee issues while wearing knee braces  
+and am wondering if these shorties are causing the knee pain when i want  
+to crank like i do on longer ones. the knee braces work well on my stratus  
+and other trikes that i have owned.  i'm finding that if i don't spin i'm  
+in for a long day. i also find that if i do spin and do it all day  
+prolonged spin results in the muscle on the inside of my thigh fatiguing  
+rapidly.
+
+jim werner
+
+
+From roblmorris at gmail.com  Tue Sep 29 06:06:05 2009
+From: roblmorris at gmail.com (Bob Morris)
+Date: Tue, 29 Sep 2009 09:06:05 -0400
+Subject: [trikes] cranks
+In-Reply-To: <20090928.132540.27208.2@webmail22.vgs.untd.com>
+References: <20090928.132540.27208.2@webmail22.vgs.untd.com>
+Message-ID: <2a9f18440909290606w422eed80hd31bd8af863e844b@mail.gmail.com>
+
+Hi Jim
+
+One thing that I did not see mentioned yet is the pedal to pedal spacing and
+the pedals type.
+
+ The first change I made to help with knee pain on GS-GTO is to use
+Speedplay Frog pedals which allow a large rotation. Next I found help from
+using pedal extenders -- using 20mm.  I notice that my feet have to angle
+with toes out on the trike and my heel would strike the inner part of the
+pedal without extenders.  I am still using the original cranks supplied by
+Greenspeed -- I think they are 170mm.
+
+With DF bike, I do not have any of these problems and use Shimano M959 pedal
+which has a limited rotation.
+
+I fitted my wife's TT3.6 with 155mm cranks, Speedplay Frog pedals and 20mm
+pedal extenders -- this fixed knee pain for her.
+
+Bob
+Cary, NC
+GS-GTO, WW TT-3.5
+
+On Mon, Sep 28, 2009 at 4:25 PM, blackotter at juno.com <blackotter at juno.com>wrote:
+
+> i'm calling in the pros.  this has probably been discussed more than the
+> price of milk and butter but now it has bitten  me in the butt.  i've read
+> all the press that shorter cranks make spinning easier.  that being said
+> that for the first time i am having knee issues while wearing knee braces
+> and am wondering if these shorties are causing the knee pain when i want to
+> crank like i do on longer ones. the knee braces work well on my stratus and
+> other trikes that i have owned.  i'm finding that if i don't spin i'm in for
+> a long day. i also find that if i do spin and do it all day prolonged spin
+> results in the muscle on the inside of my thigh fatiguing rapidly.
+>
+> jim werner
+>
+> ____________________________________________________________
+> Bankruptcy Filing Process
+> Examine your bankruptcy filing options. Free online evaluation.
+>
+> http://thirdpartyoffers.juno.com/TGL2131/c?cp=aj2JkLubB3epXwSGzCzH7AAAJz1e1CPRsSPvKdzUAXwwCWngAAQAAAAFAAAAAOQMRj8AAAMqAAAAAAAAAAAAAAAAAAZiiAAAAAA=
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+From bourbonman at cfl.rr.com  Tue Sep 29 12:16:41 2009
+From: bourbonman at cfl.rr.com (Ed Logan)
+Date: Tue, 29 Sep 2009 15:16:41 -0400
+Subject: [trikes] Shorter Cranks
+Message-ID: <5578502A5B1340F396AE1316B1E8FDD4@EdPC>
+
+I have read all the posts with great interest.  Everyone claims it is easier to spin.  My question is what rpm are you spinning.  I tend to spin between 72 and 82 rpm.  What rpm are the shorter crank people spinning?
+
+Ed Logan
+GRR, Kettwiesel and Vision Metro
+
+From rob at wrhpv.com  Tue Sep 29 13:00:00 2009
+From: rob at wrhpv.com (Rob Hague)
+Date: Tue, 29 Sep 2009 21:00:00 +0100
+Subject: [trikes] Shorter Cranks
+In-Reply-To: <5578502A5B1340F396AE1316B1E8FDD4@EdPC>
+References: <5578502A5B1340F396AE1316B1E8FDD4@EdPC>
+Message-ID: <DE88DC6A-5F7A-4235-A6C6-F2A44643B16D@wrhpv.com>
+
+110mm cranks for racing at 110-120rpm.
+130mm cranks for touring/day rides at 100-120rpm.
+
+Rob
+--  
+Westcountry Recumbents - Derbyshire, England
+Email: rob at wrhpv.com     Web: http://www.wrhpv.com
+Have you visited http://mullimages.com yet?
+
+
+
+
+
+On 29 Sep 2009, at 20:16, Ed Logan wrote:
+
+> I have read all the posts with great interest.  Everyone claims it  
+> is easier to spin.  My question is what rpm are you spinning.  I  
+> tend to spin between 72 and 82 rpm.  What rpm are the shorter crank  
+> people spinning?
+>
+> Ed Logan
+> GRR, Kettwiesel and Vision Metro
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,  
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your  
+> subscription.
+
+
+From mgta4 at aol.com  Tue Sep 29 16:35:44 2009
+From: mgta4 at aol.com (mgta4 at aol.com)
+Date: Tue, 29 Sep 2009 19:35:44 -0400
+Subject: [trikes] Shorter Cranks
+In-Reply-To: <5578502A5B1340F396AE1316B1E8FDD4@EdPC>
+References: <5578502A5B1340F396AE1316B1E8FDD4@EdPC>
+Message-ID: <8CC0F74B2D934FD-8648-26DC@webmail-stg-m01.sysops.aol.com>
+
+
+Hi Ed, Ihave shorter cranks on all my trikes. Actually have crank shorteners from Tandemseast.com. There are 4 holes you can use. I think mine are about 165 . Maybe a little shorter on a GT3 I just took to my dau when she was recovering from surgery for the last 3 weeks. I would ride in the morning for an hour before she woke up. The road was a park and flat. Only flat ground I have ridden. I would spin as much as 85-95 and that shocked me. Uusally riding I am happy to spin 60. My knees just don't like the 170 cranks. Fran
+
+-----Original Message-----
+From: Ed Logan <bourbonman at cfl.rr.com>
+To: trikes at bikelist.org
+Sent: Tue, Sep 29, 2009 2:16 pm
+Subject: [trikes] Shorter Cranks
+
+
+
+I have read all the posts with great interest.  Everyone claims it is easier to 
+spin.  My question is what rpm are you spinning.  I tend to spin between 72 and 
+82 rpm.  What rpm are the shorter crank people spinning?
+
+Ed Logan
+GRR, Kettwiesel and Vision Metro
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by 
+http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From 25hz at rogers.com  Tue Sep 29 17:45:05 2009
+From: 25hz at rogers.com (25hz)
+Date: Tue, 29 Sep 2009 20:45:05 -0400
+Subject: [trikes] (Short) cranks
+In-Reply-To: <20090928.132540.27208.2@webmail22.vgs.untd.com>
+References: <20090928.132540.27208.2@webmail22.vgs.untd.com>
+Message-ID: <BB87F467986C41479FDBF0364BCE2994@25hzPC>
+
+By the sounds of it, you already have some short cranks, which is good.  If 
+you're still grinding on them, that's worse than if you had stayed with 
+longer cranks.
+
+Short cranks aren't a cure all for pedalling and knee woes.  If you are 
+spinning with long cranks, your cadence will increase with short ones, and 
+you will be quite happy with them and so will your knees.  If you are 
+grinding with long cranks don't be surprised if short cranks make your knees 
+worse.  The cadence is irrelevent, it's foot speed that is important - 
+cadence is just how we measure it.  If your foot speed on the short cranks 
+is as slow as on the long ones, your knees will hurt more because your lever 
+arm is shorter.  Short cranks MIGHT help your knees, even with too low of a 
+cadence because they bend your knee less.
+
+Bottom line, is you need to spin at 80 to 100 for long cranks, and obviously 
+the cadence will be higher with shorter ones.  Especially if you have bad 
+knees.  If your muscles get tired from spinning, that's because you don't 
+spin enough.  So keep spinning.  My knees are busted up too, and aside from 
+all the benefit spinning, short cranks and oval rings have provided, I 
+recently stumbled across a few pages talking about the evils of being "quad 
+dominant".  I present all the symptoms of slightly knock kneed, knees 
+together when I stand up from sitting, popping knees, rolled ankles, flat 
+feet, etc.  I've been doing some simple exercises (about 4 minutes a day at 
+lunch) to cure it and the improvements are fast and obvious.  I'll see if I 
+can track down the site again.
+
+
+> i'm calling in the pros.  this has probably been discussed more than the 
+> price of milk and butter but now it has bitten  me in the butt.  i've read 
+> all the press that shorter cranks make spinning easier.  that being said 
+> that for the first time i am having knee issues while wearing knee braces 
+> and am wondering if these shorties are causing the knee pain when i want 
+> to crank like i do on longer ones. the knee braces work well on my stratus 
+> and other trikes that i have owned.  i'm finding that if i don't spin i'm 
+> in for a long day. i also find that if i do spin and do it all day 
+> prolonged spin results in the muscle on the inside of my thigh fatiguing 
+> rapidly.
+>
+> jim werner
+
+
+From jzalon at zalonoffice.com  Wed Sep 30 15:05:57 2009
+From: jzalon at zalonoffice.com (Jules D. Zalon)
+Date: Wed, 30 Sep 2009 18:05:57 -0400
+Subject: [trikes] Cadence with short cranks
+In-Reply-To: <mailman.17.1254337206.88951.trikes@bikelist.org>
+References: <mailman.17.1254337206.88951.trikes@bikelist.org>
+Message-ID: <4AC3D645.5090903@zalonoffice.com>
+
+This is in response to Ed Logan's query about what rpm we spin at:
+
+Despite the fact that I have an arthritic knee (the result of the 
+surgical removal of my meniscus around 50 years ago), I still consider 
+myself a grinder on my uprights, which have 175s on them. My cadence on 
+uprights is generally around 90. The reason I opted for the crank 
+shorteners (now set at 150mm ) is because it felt like I was lifting my 
+knees almost to my stomach when pedaling my Greenspeed GTO (originally 
+with 175s) and I was wasting a lot of energy doing it. So my switching 
+to shorter cranks was for both comfort and efficiency. I find that my 
+cadence is usually around 100; sometimes much higher, but I can't stay 
+much higher than 100 for very long. It just tires me out.
+
+But I agree that the cure for that is to spin even more.
+
+
+Jules
+

@@ -1,0 +1,359 @@
+From hbb at cs.cmu.edu  Mon Aug 12 10:55:23 2013
+From: hbb at cs.cmu.edu (Ben Brown)
+Date: Mon, 12 Aug 2013 10:55:23 -0400
+Subject: [hpv] Steering head bearing loads in front-drive bike
+Message-ID: <5208F75B.6020701@cs.cmu.edu>
+
+I'm working on a front-drive bike, similar to Tom Traylor's design 
+(http://traylor_fwd.home.mindspring.com/) or Cruzbike 
+(http://cruzbike.com/). I was considering the loads on the headset 
+bearings, since the pedaling loads will be transmitted to the front fork 
+assembly through these, along with the usual load from the weight on the 
+fork. With strong pedaling thrust (I assumed 200# to be possible), I 
+estimate the side load on the lower headset bearing to be around 
+400#-500#, depending on the headset bearing separation. This seems like 
+a lot for typical steering bearings, certainly more than would be 
+encountered in a conventional diamond-frame bike. Has anyone else 
+considered or had experience with this?
+
+I'm attaching a copy of my analysis, in case anyone is interested in the 
+details.
+
+	Thanks, Ben
+
+_____________________________________________
+
+H. Ben Brown
+Carnegie Mellon University
+Pittsburgh, PA
+hbb at cs.cmu.edu
+
+
+From garrie at recumbents.com  Tue Aug 13 11:37:32 2013
+From: garrie at recumbents.com (Garrie Hill)
+Date: Tue, 13 Aug 2013 11:37:32 -0400
+Subject: [hpv] Steering head bearing loads in front-drive bike
+In-Reply-To: <5208F75B.6020701@cs.cmu.edu>
+References: <5208F75B.6020701@cs.cmu.edu>
+Message-ID: <8B2BD011-EADE-46AE-AE82-B885AC35812A@recumbents.com>
+
+One of the things I've pondered over the years is, "Why do we use ball or roller bearings in head sets?"  Nothing is rotating more than a couple degrees ( more than 90% of the time) plus or minus, and a good shock through the wheel into the fork can cause indentation of the balls into the races.  Use a bushing and you spread forces over infinitely larger bearing surfaces than the contact area of balls/races.  In the case of MBB FWD, bushings have the added advantage of extra drag dampening some pedal induced oscillation.
+
+ 
+Garrie "carbon based lifeform" Hill
+HPRA Co-Dictator of the East
+for pics of some of my time and money sucking projects
+ http://garriehill.winkflash.com/ 
+and 
+http://s58.photobucket.com/albums/g277/cfbb/
+and videos
+http://vimeo.com/5513519
+
+[IMG]http://i58.photobucket.com/albums/g277/cfbb/newKanjGarrie.jpg[/IMG]
+
+
+
+
+
+On Aug 12, 2013, at 10:55 AM, Ben Brown <hbb at cs.cmu.edu> wrote:
+
+I'm working on a front-drive bike, similar to Tom Traylor's design (http://traylor_fwd.home.mindspring.com/) or Cruzbike (http://cruzbike.com/). I was considering the loads on the headset bearings, since the pedaling loads will be transmitted to the front fork assembly through these, along with the usual load from the weight on the fork. With strong pedaling thrust (I assumed 200# to be possible), I estimate the side load on the lower headset bearing to be around 400#-500#, depending on the headset bearing separation. This seems like a lot for typical steering bearings, certainly more than would be encountered in a conventional diamond-frame bike. Has anyone else considered or had experience with this?
+
+I'm attaching a copy of my analysis, in case anyone is interested in the details.
+
+	Thanks, Ben
+
+_____________________________________________
+
+H. Ben Brown
+Carnegie Mellon University
+Pittsburgh, PA
+hbb at cs.cmu.edu
+
+--
+This message comes to you via the hpv at hupi.org mailing list.
+Visit http://bikelist.org/mailman/listinfo/hpv to manage your subscription.
+
+
+From mark at bikesmithdesign.com  Tue Aug 13 15:18:35 2013
+From: mark at bikesmithdesign.com (Mark Stonich)
+Date: Tue, 13 Aug 2013 14:18:35 -0500
+Subject: [hpv] Steering head bearing loads in front-drive bike
+In-Reply-To: <8B2BD011-EADE-46AE-AE82-B885AC35812A@recumbents.com>
+References: <5208F75B.6020701@cs.cmu.edu>
+	<8B2BD011-EADE-46AE-AE82-B885AC35812A@recumbents.com>
+Message-ID: <4A6944A1-008E-4A31-9E89-AFD586443D58@bikesmithdesign.com>
+
+Why not bushings? "Stiction" (STarting frICTION) 
+
+The tiny, subconscious corrections you are always making to balance a bike require little or no friction at the start. With a bushing the force needed to initiate the movement would initially be high then suddenly drop off.  
+
+My Raleigh Twenty folder has a bushing replacing the top bearing, with a conventional lower headset bearing.  With a steep head angle and a steerer almost as long as the blades, this is as favorable an application for a bushing as you are likely to find.  I find it "tolerable" but many who use their Twenties more than I do have converted with an Aheadset type upper bearing. 
+
+OTOH the Greenspeed trikes get by with bushings as they don't have to be balanced.
+
+Mark Stonich Bikesmith Design
+612-824-2372
+5349 Elliot Ave S.
+Minneapolis MN 55417
+www.bikesmithdesign.com
+
+On Aug 13, 2013, at 10:37 AM, Garrie Hill <garrie at recumbents.com> wrote:
+
+> One of the things I've pondered over the years is, "Why do we use ball or roller bearings in head sets?"  Nothing is rotating more than a couple degrees ( more than 90% of the time) plus or minus, and a good shock through the wheel into the fork can cause indentation of the balls into the races.  Use a bushing and you spread forces over infinitely larger bearing surfaces than the contact area of balls/races.  In the case of MBB FWD, bushings have the added advantage of extra drag dampening some pedal induced oscillation.
+> 
+> 
+> Garrie "carbon based lifeform" Hill
+> HPRA Co-Dictator of the East
+> for pics of some of my time and money sucking projects
+> http://garriehill.winkflash.com/ 
+> and 
+> http://s58.photobucket.com/albums/g277/cfbb/
+> and videos
+> http://vimeo.com/5513519
+> 
+> [IMG]http://i58.photobucket.com/albums/g277/cfbb/newKanjGarrie.jpg[/IMG]
+> 
+> 
+> 
+> 
+> 
+> On Aug 12, 2013, at 10:55 AM, Ben Brown <hbb at cs.cmu.edu> wrote:
+> 
+> I'm working on a front-drive bike, similar to Tom Traylor's design (http://traylor_fwd.home.mindspring.com/) or Cruzbike (http://cruzbike.com/). I was considering the loads on the headset bearings, since the pedaling loads will be transmitted to the front fork assembly through these, along with the usual load from the weight on the fork. With strong pedaling thrust (I assumed 200# to be possible), I estimate the side load on the lower headset bearing to be around 400#-500#, depending on the headset bearing separation. This seems like a lot for typical steering bearings, certainly more than would be encountered in a conventional diamond-frame bike. Has anyone else considered or had experience with this?
+> 
+> I'm attaching a copy of my analysis, in case anyone is interested in the details.
+> 
+>    Thanks, Ben
+> 
+> _____________________________________________
+> 
+> H. Ben Brown
+> Carnegie Mellon University
+> Pittsburgh, PA
+> hbb at cs.cmu.edu
+> 
+> --
+> This message comes to you via the hpv at hupi.org mailing list.
+> Visit http://bikelist.org/mailman/listinfo/hpv to manage your subscription.
+> 
+> --
+> This message comes to you via the hpv at hupi.org mailing list.
+> Visit http://bikelist.org/mailman/listinfo/hpv to manage your subscription.
+> 
+> 
+> _______________________________________________________
+> Unlimited Disk, Data Transfer, PHP/MySQL Domain Hosting
+>              http://www.doteasy.com 
+
+From pngracey at mac.com  Tue Aug 13 16:14:54 2013
+From: pngracey at mac.com (Paul Gracey)
+Date: Tue, 13 Aug 2013 13:14:54 -0700
+Subject: [hpv] hpv Digest, Vol 94, Issue 3
+In-Reply-To: <mailman.1.1376409601.14289.hpv@hupi.org>
+References: <mailman.1.1376409601.14289.hpv@hupi.org>
+Message-ID: <6B299ABE-5E06-4AA2-894E-043FE3A2E3DC@mac.com>
+
+Bushings are great once stiction is overcome, and motion is in progress, but ball or roller bearings are much better at the very start when the motions are reciprocating back and forth as in steering. I note that my very precise German equatorial telescope mount uses huge roller bearings just for a 40 lb. telescope. Its subtle reversals while hunting stars at very tiny angles are probably due to its very low loading and smooth roller bearing.
+ Both in railroad applications and others, it is the low starting torgue at high load that is a part of the reason for the common use of such bearings today. As for  Tom Traylor's and the Cruzbike designs I suspect the starting torque is quite limited  to what can be withstood by the arms holding the handlebars as straight as is needed for good balance. Tom has told me he can ride no hands, using differential steering, but I had to back off quite substantially when I tried pushing off on one of his bikes. Normal headsets used in mountain bikes probably see greater stress from rocky downhills than any good rider is likely to impose 
+On Aug 13, 2013, at 9:00 AM, hpv-request at hupi.org wrote:
+
+> Date: Tue, 13 Aug 2013 11:37:32 -0400
+> From: Garrie Hill <garrie at recumbents.com>
+> To: Ben Brown <hbb at cs.cmu.edu>
+> Cc: HPV_list List <hpv at hupi.org>
+> Subject: Re: [hpv] Steering head bearing loads in front-drive bike
+> Message-ID: <8B2BD011-EADE-46AE-AE82-B885AC35812A at recumbents.com>
+> Content-Type: text/plain;	charset=iso-8859-1
+> 
+> One of the things I've pondered over the years is, "Why do we use ball or roller bearings in head sets?"  Nothing is rotating more than a couple degrees ( more than 90% of the time) plus or minus, and a good shock through the wheel into the fork can cause indentation of the balls into the races.  Use a bushing and you spread forces over infinitely larger bearing surfaces than the contact area of balls/races.  In the case of MBB FWD, bushings have the added advantage of extra drag dampening some pedal induced oscillation.
+> 
+
+Paul Gracey
+pngracey at mac.com
+
+
+
+
+From timallard at msn.com  Tue Aug 13 16:50:32 2013
+From: timallard at msn.com (Tom Mallard)
+Date: Tue, 13 Aug 2013 13:50:32 -0700
+Subject: [hpv] Steering head bearing loads in front-drive bike
+In-Reply-To: <4A6944A1-008E-4A31-9E89-AFD586443D58@bikesmithdesign.com>
+References: <5208F75B.6020701@cs.cmu.edu>,
+	<8B2BD011-EADE-46AE-AE82-B885AC35812A@recumbents.com>,
+	<4A6944A1-008E-4A31-9E89-AFD586443D58@bikesmithdesign.com>
+Message-ID: <BLU162-W351136DAE4163ABB6EA595A3440@phx.gbl>
+
+I've talked with reps from IGUS about using sleeve bearings for headsets and they seem they may work for the job, self-lubricating and with a slight break-in they should be loose enough to ride no hands, he was somewhat a rider so knew what I was talking about enough to feel if I had a shop to make custom races would do it, stiction seemed it wouldn't be an issue to him & I was referencing Campy, to me there is mass contact area if truly stiction is minimal, my project a tt frame and trying to use 1" for the headtube; here's a mt. bike using them: http://www.igus.com/wpck/default.aspx?pagenr=8238&C=US&L=en
+
+tom mallard
+  
+p.s. a picture of my recently finished road frame design built by A. Cooper, Cooper Works Cycle his home Chandler, AZ, based on an art frame I did that rode really well and looked alive, this one called Coyote, rides very smooth, tracks really well any speed and low drag even without the fancy  wheels ... http://www.mallard-design.com/mdc2010/media/coyote-c005.jpg
+ 
+> From: mark at bikesmithdesign.com
+> Date: Tue, 13 Aug 2013 14:18:35 -0500
+> To: garrie at recumbents.com
+> CC: hpv at hupi.org
+> Subject: Re: [hpv] Steering head bearing loads in front-drive bike
+> 
+> Why not bushings? "Stiction" (STarting frICTION) 
+> 
+> The tiny, subconscious corrections you are always making to balance a bike require little or no friction at the start. With a bushing the force needed to initiate the movement would initially be high then suddenly drop off.  
+> 
+> My Raleigh Twenty folder has a bushing replacing the top bearing, with a conventional lower headset bearing.  With a steep head angle and a steerer almost as long as the blades, this is as favorable an application for a bushing as you are likely to find.  I find it "tolerable" but many who use their Twenties more than I do have converted with an Aheadset type upper bearing. 
+> 
+> OTOH the Greenspeed trikes get by with bushings as they don't have to be balanced.
+> 
+> Mark Stonich Bikesmith Design
+> 612-824-2372
+> 5349 Elliot Ave S.
+> Minneapolis MN 55417
+> www.bikesmithdesign.com
+> 
+> On Aug 13, 2013, at 10:37 AM, Garrie Hill <garrie at recumbents.com> wrote:
+> 
+> > One of the things I've pondered over the years is, "Why do we use ball or roller bearings in head sets?"  Nothing is rotating more than a couple degrees ( more than 90% of the time) plus or minus, and a good shock through the wheel into the fork can cause indentation of the balls into the races.  Use a bushing and you spread forces over infinitely larger bearing surfaces than the contact area of balls/races.  In the case of MBB FWD, bushings have the added advantage of extra drag dampening some pedal induced oscillation.
+> > 
+> > snip 		 	   		  
+
+From jgtetz at msn.com  Tue Aug 13 21:45:21 2013
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Tue, 13 Aug 2013 21:45:21 -0400
+Subject: [hpv] Steering head bearing loads in front-drive bike
+In-Reply-To: <5208F75B.6020701@cs.cmu.edu><8B2BD011-EADE-46AE-AE82-B885AC35812A@recumbents.com>
+	<4A6944A1-008E-4A31-9E89-AFD586443D58@bikesmithdesign.com>
+References: <5208F75B.6020701@cs.cmu.edu><8B2BD011-EADE-46AE-AE82-B885AC35812A@recumbents.com>
+	<4A6944A1-008E-4A31-9E89-AFD586443D58@bikesmithdesign.com>
+Message-ID: <BAY173-DS19B43F227F0BD4E61B1CB8D7450@phx.gbl>
+
+I tried bushings on my early Tadpole Velomobile trike but found the 
+stiction, as small as it seemed, it prevented mico adjustments in the 
+steering.
+So I put in a thrust bearing in the top of the head tube. The steering 
+became beautifully smooth
+
+John Tetz
+ 
+
+
+From jeff_wills at comcast.net  Tue Aug 13 23:57:57 2013
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Wed, 14 Aug 2013 03:57:57 +0000 (UTC)
+Subject: [hpv] Steering head bearing loads in front-drive bike
+In-Reply-To: <mailman.1.1376409601.14289.hpv@hupi.org>
+Message-ID: <882889337.2159612.1376452677794.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+
+Garrie, one of the things that make a bicycle rideable is the near-zero friction in the headset. This allows tiny, subtle movements to happen, which in turn allows the bicycle to balance with tiny corrections to the steering. A bike with a "tight" headset is a chore to ride, and it certainly won't self-correct when "ghost ridden".
+
+Even the largest motorcycles use roller or ball bearings in their steering pivots instead of bushings.
+
+Jeff Wills
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+----- hpv-request at hupi.org wrote:
+0
+> From: Garrie Hill <garrie at recumbents.com>
+> To: Ben Brown <hbb at cs.cmu.edu>
+> Cc: HPV_list List <hpv at hupi.org>
+> Subject: Re: [hpv] Steering head bearing loads in front-drive bike
+> Message-ID: <8B2BD011-EADE-46AE-AE82-B885AC35812A at recumbents.com>
+> Content-Type: text/plain;	charset=iso-8859-1
+> 
+> One of the things I've pondered over the years is, "Why do we use ball or roller bearings in head sets?"  Nothing is rotating more than a couple degrees ( more than 90% of the time) plus or minus, and a good shock through the wheel into the fork can cause indentation of the balls into the races.  Use a bushing and you spread forces over infinitely larger bearing surfaces than the contact area of balls/races.  In the case of MBB FWD, bushings have the added advantage of extra drag dampening some pedal induced oscillation.
+> 
+>  
+> Garrie "carbon based lifeform" Hill
+> HPRA Co-Dictator of the East
+> for pics of some of my time and money sucking projects
+>  http://garriehill.winkflash.com/ 
+> and 
+> http://s58.photobucket.com/albums/g277/cfbb/
+> and videos
+> http://vimeo.com/5513519
+> 
+
+From hbb at cs.cmu.edu  Wed Aug 14 01:31:12 2013
+From: hbb at cs.cmu.edu (Ben Brown)
+Date: Wed, 14 Aug 2013 01:31:12 -0400
+Subject: [hpv] hpv Digest, Vol 94, Issue 3
+In-Reply-To: <6B299ABE-5E06-4AA2-894E-043FE3A2E3DC@mac.com>
+References: <mailman.1.1376409601.14289.hpv@hupi.org>
+	<6B299ABE-5E06-4AA2-894E-043FE3A2E3DC@mac.com>
+Message-ID: <520B1620.6000807@cs.cmu.edu>
+
+Thanks for all the responses regarding the importance of minimizing 
+friction in the headset bearings. I agree.
+
+I'll take Paul's advice and forge ahead on the assumption that standard 
+bearings will be adequate for the Traylor-type front-drive bike.
+
+	Thanks, Ben
+
+On 8/13/2013 4:14 PM, Paul Gracey wrote:
+> Bushings are great once stiction is overcome, and motion is in progress, but ball or roller bearings are much better at the very start when the motions are reciprocating back and forth as in steering. I note that my very precise German equatorial telescope mount uses huge roller bearings just for a 40 lb. telescope. Its subtle reversals while hunting stars at very tiny angles are probably due to its very low loading and smooth roller bearing.
+>   Both in railroad applications and others, it is the low starting torgue at high load that is a part of the reason for the common use of such bearings today. As for  Tom Traylor's and the Cruzbike designs I suspect the starting torque is quite limited  to what can be withstood by the arms holding the handlebars as straight as is needed for good balance. Tom has told me he can ride no hands, using differential steering, but I had to back off quite substantially when I tried pushing off on one of his bikes. Normal headsets used in mountain bikes probably see greater stress from rocky downhills than any good rider is likely to impose
+> On Aug 13, 2013, at 9:00 AM, hpv-request at hupi.org wrote:
+>
+>> Date: Tue, 13 Aug 2013 11:37:32 -0400
+>> From: Garrie Hill <garrie at recumbents.com>
+>> To: Ben Brown <hbb at cs.cmu.edu>
+>> Cc: HPV_list List <hpv at hupi.org>
+>> Subject: Re: [hpv] Steering head bearing loads in front-drive bike
+>> Message-ID: <8B2BD011-EADE-46AE-AE82-B885AC35812A at recumbents.com>
+>> Content-Type: text/plain;	charset=iso-8859-1
+>>
+>> One of the things I've pondered over the years is, "Why do we use ball or roller bearings in head sets?"  Nothing is rotating more than a couple degrees ( more than 90% of the time) plus or minus, and a good shock through the wheel into the fork can cause indentation of the balls into the races.  Use a bushing and you spread forces over infinitely larger bearing surfaces than the contact area of balls/races.  In the case of MBB FWD, bushings have the added advantage of extra drag dampening some pedal induced oscillation.
+>>
+>
+> Paul Gracey
+> pngracey at mac.com
+>
+>
+>
+> --
+> This message comes to you via the hpv at hupi.org mailing list.
+> Visit http://bikelist.org/mailman/listinfo/hpv to manage your subscription.
+>
+
+From timallard at msn.com  Wed Aug 14 08:41:08 2013
+From: timallard at msn.com (Tom Mallard)
+Date: Wed, 14 Aug 2013 05:41:08 -0700
+Subject: [hpv] hpv Digest, Vol 94, Issue 3
+In-Reply-To: <520B1620.6000807@cs.cmu.edu>
+References: <mailman.1.1376409601.14289.hpv@hupi.org>,
+	<6B299ABE-5E06-4AA2-894E-043FE3A2E3DC@mac.com>,
+	<520B1620.6000807@cs.cmu.edu>
+Message-ID: <BLU162-W531C9379DF0F3E68BFA438A3450@phx.gbl>
+
+
+
+
+For a try at using a 1" headtube I like John's post of mixing a bushing at the crown end and thrust or tapered bearings on top, that makes sense to me.
+ 
+It seemed to imply that the bushing doesn't affect stiction by having a static load all the time, but for free motion you need tapers or balls on top where there isn't enough load so stiction becomes too high on an upper bushing. 
+
+tom mallard
+  
+
+ 		 	   		  
+
+From parker at cruzbike.com  Tue Aug 13 19:43:35 2013
+From: parker at cruzbike.com (Jim Parker)
+Date: Tue, 13 Aug 2013 19:43:35 -0400
+Subject: [hpv] Steering head bearing loads in front-drive bike
+In-Reply-To: <BLU162-W351136DAE4163ABB6EA595A3440@phx.gbl>
+References: <5208F75B.6020701@cs.cmu.edu>
+	<8B2BD011-EADE-46AE-AE82-B885AC35812A@recumbents.com>
+	<4A6944A1-008E-4A31-9E89-AFD586443D58@bikesmithdesign.com>
+	<BLU162-W351136DAE4163ABB6EA595A3440@phx.gbl>
+Message-ID: <CAOptypH6RBXTNfE1v8NN6bFdwyKt2ZALzKSwYA3YvCSb9vB3SA@mail.gmail.com>
+
+My wife, Maria Parker (yes, the woman who just won RAAM), and I have been
+riding Cruzbike MBB-FWD bikes exclusively for several years now. We use
+standard headsets and have never worn one out or had one fail.
+
+Jim Parker
+

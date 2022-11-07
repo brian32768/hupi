@@ -1,0 +1,1053 @@
+From vgarza2 at satx.rr.com  Fri Oct 15 11:55:05 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Fri, 15 Oct 2010 13:55:05 -0500
+Subject: [hpv-boats] hydrovisions
+In-Reply-To: <1D8EDA08-1649-4424-9539-CD780CE091CB@bigpond.net.au>
+References: <1D8EDA08-1649-4424-9539-CD780CE091CB@bigpond.net.au>
+Message-ID: <661124F193674C6FB6D2AB22ECB6B1AE@vgarzaPC>
+
+Thought this concept might be of interest:
+
+http://www.hydrovisions.com/
+
+Maybe the concept could be worked to make the hydrofoil run shallow and self 
+adjusting at speed. That might get the proa or even a cat to work like a 
+single, more efficient hull even in chop. Think it would be better than 
+trimaran outriggers slamming into waves?
+
+Also on the folding prop, seems easier to make at least since there is no 
+welding involved?
+
+Vic
+
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Thursday, September 23, 2010 5:31 PM
+Subject: [hpv-boats] Folding Prop
+
+
+> Dennis
+> My folding prop is slightly more efficient than the fixed blades I have.
+> http://www.rickwill.bigpondhosting.com/folding_prop.jpg
+>
+> I have a prop optimising program that I use for prop design.  It is a  bit 
+> more flexible than JavaProp and I can use a wide range of foil  sections.
+>
+> If you are interested in a design I can give you something that is 
+> reasonably easy to make using stainless flatbar.
+> rickwill at bigpond.net.au
+>
+> It may sound odd but I have seen quite a few people mount blades 
+> backwards on boats.  They have the curved face facing aft.  This  alters 
+> the effective pitch considerably from what is designed.
+>
+>
+> Rick
+> I checked out a rigid prop fitted to my small cat and was very  surprised 
+> to find
+> that the speeds and the cadence were identical to my new boat fitted  with 
+> the folding prop
+> It is quite difficult to get exact figures due to the river current  which 
+> made a difference of 10%
+> based on 80 rpm.
+> It all ended with a bang when I hit something under water and bent  one 
+> arm of the prop
+> back 40 mm.
+> I have concluded that my props are rubbish and I am going back to the 
+> beginning on the design.
+>
+> Dennis
+>
+>
+> Rick Willoughby
+> rickwill at bigpond.net.au
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 886 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From lampi at mdlcorp.com  Sat Oct 16 11:48:31 2010
+From: lampi at mdlcorp.com (lampi at mdlcorp.com)
+Date: Sat, 16 Oct 2010 11:48:31 -0700
+Subject: [hpv-boats] hydrovisions
+In-Reply-To: <661124F193674C6FB6D2AB22ECB6B1AE@vgarzaPC>
+References: <1D8EDA08-1649-4424-9539-CD780CE091CB@bigpond.net.au>
+	<661124F193674C6FB6D2AB22ECB6B1AE@vgarzaPC>
+Message-ID: <83689fc5f6bb539ebfcc7e1fd7da3699.squirrel@webmail.mdlcorp.com>
+
+Hi Vic,
+
+So long as you have adequate depth and don't run into any weeds, this
+isn't too bad. Around here, however, I'd find the outrigger foil gathering
+all sorts of foliage (foilage? :-) ) and have to find some way to clear
+it.
+
+Michael Lampi
+
+> Thought this concept might be of interest:
+>
+> http://www.hydrovisions.com/
+>
+> Maybe the concept could be worked to make the hydrofoil run shallow and
+> self
+> adjusting at speed. That might get the proa or even a cat to work like a
+> single, more efficient hull even in chop. Think it would be better than
+> trimaran outriggers slamming into waves?
+>
+> Also on the folding prop, seems easier to make at least since there is no
+> welding involved?
+>
+> Vic
+
+
+
+From vgarza2 at satx.rr.com  Sat Oct 16 12:38:30 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Sat, 16 Oct 2010 14:38:30 -0500
+Subject: [hpv-boats] hydrovisions
+In-Reply-To: <83689fc5f6bb539ebfcc7e1fd7da3699.squirrel@webmail.mdlcorp.com>
+References: <1D8EDA08-1649-4424-9539-CD780CE091CB@bigpond.net.au><661124F193674C6FB6D2AB22ECB6B1AE@vgarzaPC>
+	<83689fc5f6bb539ebfcc7e1fd7da3699.squirrel@webmail.mdlcorp.com>
+Message-ID: <5120A02154D14697B0FF4520DE505ADC@vgarzaPC>
+
+Yes, with this foil running shallow where most weeds are, not work to well.
+
+Here's another link showing how some commercial products are approaching 
+Rick's design:
+http://www.triaksports.com/paddling/
+
+Fairly lightweight and good speed according to the web site, anyway. How to 
+convert to prop?....
+
+Have you tried a folding prop with your boat, Mike, and how well does it 
+work in weeds?
+
+Thanks,
+
+Vic
+
+Vic
+----- Original Message ----- 
+From: <lampi at mdlcorp.com>
+To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+Sent: Saturday, October 16, 2010 1:48 PM
+Subject: Re: [hpv-boats] hydrovisions
+
+
+> Hi Vic,
+>
+> So long as you have adequate depth and don't run into any weeds, this
+> isn't too bad. Around here, however, I'd find the outrigger foil gathering
+> all sorts of foliage (foilage? :-) ) and have to find some way to clear
+> it.
+>
+> Michael Lampi
+>
+>> Thought this concept might be of interest:
+>>
+>> http://www.hydrovisions.com/
+>>
+>> Maybe the concept could be worked to make the hydrofoil run shallow and
+>> self
+>> adjusting at speed. That might get the proa or even a cat to work like a
+>> single, more efficient hull even in chop. Think it would be better than
+>> trimaran outriggers slamming into waves?
+>>
+>> Also on the folding prop, seems easier to make at least since there is no
+>> welding involved?
+>>
+>> Vic
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription.
+> 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 887 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From lampi at mdlcorp.com  Sat Oct 16 14:42:25 2010
+From: lampi at mdlcorp.com (lampi at mdlcorp.com)
+Date: Sat, 16 Oct 2010 14:42:25 -0700
+Subject: [hpv-boats] hydrovisions
+In-Reply-To: <5120A02154D14697B0FF4520DE505ADC@vgarzaPC>
+References: <1D8EDA08-1649-4424-9539-CD780CE091CB@bigpond.net.au><661124F193674C6FB6D2AB22ECB6B1AE@vgarzaPC>
+	<83689fc5f6bb539ebfcc7e1fd7da3699.squirrel@webmail.mdlcorp.com>
+	<5120A02154D14697B0FF4520DE505ADC@vgarzaPC>
+Message-ID: <44343bd3b2f78f3f67eae78c2f7e5b6b.squirrel@webmail.mdlcorp.com>
+
+The photo gallery claims they were using the rear-positioned outriggers
+back in 2005, which pre-dates, or was concurrent with, Rick's design.
+
+24 pounds for the wing seems a bit heavy, but the weights for the floats
+(5.5 lbs each) is about right for a commercial standard duty boat built
+from standard materials.
+
+With a standard kayak-like cockpit it would require a bit of surgery to
+make room for moving legs, though either a Spin-Fin-like drive or a
+flexible shaft drive could be incorporated fairly easily.
+
+I have not tried a folding prop with the Cadence. It would probably work
+fairly well so far as weeds are concerned, but it would cause problems
+with the rudder if one rested the boat on its bottom while beached. With a
+fixed propeller the boat rests on the blades, and the rudder is not
+carrying the load.
+
+Michael Lampi
+
+> Yes, with this foil running shallow where most weeds are, not work to
+> well.
+>
+> Here's another link showing how some commercial products are approaching
+> Rick's design:
+> http://www.triaksports.com/paddling/
+>
+> Fairly lightweight and good speed according to the web site, anyway. How
+> to
+> convert to prop?....
+>
+> Have you tried a folding prop with your boat, Mike, and how well does it
+> work in weeds?
+>
+> Thanks,
+>
+> Vic
+>
+> Vic
+> ----- Original Message -----
+> From: <lampi at mdlcorp.com>
+> To: "Human Powered Vehicles -- Boats" <hpv-boats at bikelist.org>
+> Sent: Saturday, October 16, 2010 1:48 PM
+> Subject: Re: [hpv-boats] hydrovisions
+>
+>
+>> Hi Vic,
+>>
+>> So long as you have adequate depth and don't run into any weeds, this
+>> isn't too bad. Around here, however, I'd find the outrigger foil
+>> gathering
+>> all sorts of foliage (foilage? :-) ) and have to find some way to clear
+>> it.
+>>
+>> Michael Lampi
+>>
+>>> Thought this concept might be of interest:
+>>>
+>>> http://www.hydrovisions.com/
+>>>
+>>> Maybe the concept could be worked to make the hydrofoil run shallow and
+>>> self
+>>> adjusting at speed. That might get the proa or even a cat to work like
+>>> a
+>>> single, more efficient hull even in chop. Think it would be better than
+>>> trimaran outriggers slamming into waves?
+>>>
+>>> Also on the folding prop, seems easier to make at least since there is
+>>> no
+>>> welding involved?
+>>>
+>>> Vic
+>>
+>>
+>> --
+>> This message comes to you via the hpv-boats at bikelist.org mailing list,
+>> sponsored by http://www,HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+>> subscription.
+>>
+>
+>
+> --
+> I am using the free version of SPAMfighter.
+> We are a community of 7 million users fighting spam.
+> SPAMfighter has removed 887 of my spam emails to date.
+> Get the free SPAMfighter here: http://www.spamfighter.com/len
+>
+> The Professional version does not have this message
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+
+
+
+From atruefriend at gmail.com  Tue Oct 19 13:04:10 2010
+From: atruefriend at gmail.com (Bobby Ray)
+Date: Tue, 19 Oct 2010 15:04:10 -0500
+Subject: [hpv-boats] Auxilliary pedal power
+In-Reply-To: <620446D2314EC846B4EED9B17AFF72F050783D6044@EXMBX04.ad.oak.ox.ac.uk>
+References: <Acte6yhtujDm0phnQl2+PVJAv1V00A==>
+	<620446D2314EC846B4EED9B17AFF72F050783D6044@EXMBX04.ad.oak.ox.ac.uk>
+Message-ID: <AANLkTi=TY6qE4OusYEFtnPYkgz_1Y87Z42DQF+OU_i4v@mail.gmail.com>
+
+HI Roger,
+
+You have named my dream trip ... please tell me more.  I was going to use a
+5 meter sail boat with a cat mizzen rigging as boats are taxed and charged
+by length and I am told that 5 meters is the limit of free boats.  I wanted
+electric power too.  I had the ideal boat for many years 5 meters and slept
+4.  I only needed two but guests are nice.  carry a scooter on deck for land
+transport and a bicycle. too.  I would love to know all your details.
+
+Huggs and my best wishes,
+Bobby Ray
+
+
+
+On Tue, Sep 28, 2010 at 4:57 AM, Roger Boden <roger.boden at keble.ox.ac.uk>wrote:
+
+> I am a sailor and a cyclist.  I'm in the process of buying a 20ft
+> mini-cruiser (for details see http://www.britishhunter.co.uk/page2.html)
+> and I'm hoping, in my imminent retirement, to sail through Europe on its
+> great network of waterways. The boat will have an outboard, but I'd love to
+> be able to propel it using a bicycle - for example on days when there's no
+> wind, or if I have a stretch of narrow water where I have to battle a
+> headwind.
+>
+> Ideally, I would use my road bike, mounted in the cockpit on a stand fore
+> and aft, with a chain on the rear-wheel cog to drive a cog on the stern of
+> the boat, which in turn drives an outboard-style propeller.  Any suggestions
+> as to where I might get hold of the bike-powered outboard kit would be much
+> appreciated.
+>
+> Roger Boden
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+
+From clemens.winter at aliceadsl.fr  Wed Oct 20 10:28:15 2010
+From: clemens.winter at aliceadsl.fr (Clemens )
+Date: Wed, 20 Oct 2010 19:28:15 +0200
+Subject: [hpv-boats] Auxiliary pedal power
+In-Reply-To: <AANLkTi=TY6qE4OusYEFtnPYkgz_1Y87Z42DQF+OU_i4v@mail.gmail.com>
+References: <Acte6yhtujDm0phnQl2+PVJAv1V00A==>	<620446D2314EC846B4EED9B17AFF72F050783D6044@EXMBX04.ad.oak.ox.ac.uk>
+	<AANLkTi=TY6qE4OusYEFtnPYkgz_1Y87Z42DQF+OU_i4v@mail.gmail.com>
+Message-ID: <000001cb707c$3049ce30$90dd6a90$@winter@aliceadsl.fr>
+
+Hello,
+as far as I know, the 5 meter limit is valid at least here in France.
+If you are interested in auxiliary electric power you should have a look at
+the torqueedo products which seem to be more efficient than some other
+competitors - see
+http://www.torqeedo.com/en/hn/products/cruise-r/product-description.html   
+
+I'm not sure to which degree auxiliary pedal power can contribute to move
+heavy boats.
+
+This summer I experienced a three day trip on an Escargot, a human powered
+boat weighing roughly one ton. The Escargot (literally translated "snail"),
+designed by naval architect Philip Thiel is a charming tiny houseboat,
+indeed. 
+Yet it takes some patience to get adapted to its speed limit. Cruising speed
+without auxiliary power (electric) was around 3 km per hour. Powered by 2
+adults - each one contributing around 100 Watts. 
+For more information on the "Escargot" see: http://www.gruene-flotte.de/
+
+My conclusion from this 3 day trip: 
+Human powered boats should rather be lightweight.
+
+Best wishes 
+Clemens
+
+
+
+  
+
+-----Urspr?ngliche Nachricht-----
+Von: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org]
+Im Auftrag von Bobby Ray
+Gesendet: Dienstag, 19. Oktober 2010 22:04
+An: Human Powered Vehicles -- Boats
+Betreff: Re: [hpv-boats] Auxilliary pedal power
+
+HI Roger,
+
+You have named my dream trip ... please tell me more.  I was going to use a
+5 meter sail boat with a cat mizzen rigging as boats are taxed and charged
+by length and I am told that 5 meters is the limit of free boats.  I wanted
+electric power too.  I had the ideal boat for many years 5 meters and slept
+4.  I only needed two but guests are nice.  carry a scooter on deck for land
+transport and a bicycle. too.  I would love to know all your details.
+
+Huggs and my best wishes,
+Bobby Ray
+
+
+
+From rickwill at bigpond.net.au  Wed Oct 20 15:42:39 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 21 Oct 2010 09:42:39 +1100
+Subject: [hpv-boats] Escargot
+Message-ID: <FE2F624D-63D1-4B5E-85E6-501842CA4626@bigpond.net.au>
+
+Clem
+The claimed performance with two pedallers is 6.4kph.  Was the bottom  
+fouled?  That will make a huge difference on any heavy boat where  
+viscous drag dominates.
+
+Also the two Seacycle units are not well matched to heavy loads.  The  
+pedal drive I have for the 8t catamaran swings a 780mm diameter large  
+model aeroplane prop.  Large swept area becomes more critical to  
+achieve efficiency with heavy load at low speed.
+
+A well designed 1t boat should be capable of sustaining between 7 to  
+8kph with two pedallers working around 100W.  Typically a sailing  
+boat hull will be a bit easier to drive than the barge type hull.
+
+I do agree with the conclusion that weight is important but probably  
+not as bad as your experience suggests.  The 5m length limit for free  
+passage may be more serious.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+This summer I experienced a three day trip on an Escargot, a human  
+powered
+boat weighing roughly one ton. The Escargot (literally translated  
+"snail"),
+designed by naval architect Philip Thiel is a charming tiny houseboat,
+indeed.
+Yet it takes some patience to get adapted to its speed limit.  
+Cruising speed
+without auxiliary power (electric) was around 3 km per hour. Powered  
+by 2
+adults - each one contributing around 100 Watts.
+For more information on the "Escargot" see: http://www.gruene-flotte.de/
+
+My conclusion from this 3 day trip:
+Human powered boats should rather be lightweight.
+
+Best wishes
+Clemens
+
+
+From lampi at mdlcorp.com  Wed Oct 20 17:25:48 2010
+From: lampi at mdlcorp.com (lampi at mdlcorp.com)
+Date: Wed, 20 Oct 2010 17:25:48 -0700
+Subject: [hpv-boats] Escargot
+In-Reply-To: <FE2F624D-63D1-4B5E-85E6-501842CA4626@bigpond.net.au>
+References: <FE2F624D-63D1-4B5E-85E6-501842CA4626@bigpond.net.au>
+Message-ID: <46a64d431a73cd819e84a03e0b403905.squirrel@webmail.mdlcorp.com>
+
+The Escargot is a real human powered barge-like houseboat. When I pedaled
+the original boat freshly launched on Lake Union many years ago with
+another strong pedaler, we were working very hard to get the boat to move.
+Unfortunately, we had no speed measuring tools, and there was quite a
+breeze to contend with. The large, flat sides and flat bottom made
+maneuvering and staying on course difficult.
+
+Note that the boat I pedaled had no equipment, bedding, food, etc.,
+installed, either.
+
+In a canal environment it would probably be a good fit, especially if
+fitted with bumpers all around.
+
+Clem's trial boat probably did have some bottom fouling, but that boat
+would not move very quickly under human power.
+
+Michael Lampi
+
+> Clem
+> The claimed performance with two pedallers is 6.4kph.  Was the bottom
+> fouled?  That will make a huge difference on any heavy boat where
+> viscous drag dominates.
+>
+> Also the two Seacycle units are not well matched to heavy loads.  The
+> pedal drive I have for the 8t catamaran swings a 780mm diameter large
+> model aeroplane prop.  Large swept area becomes more critical to
+> achieve efficiency with heavy load at low speed.
+>
+> A well designed 1t boat should be capable of sustaining between 7 to
+> 8kph with two pedallers working around 100W.  Typically a sailing
+> boat hull will be a bit easier to drive than the barge type hull.
+>
+> I do agree with the conclusion that weight is important but probably
+> not as bad as your experience suggests.  The 5m length limit for free
+> passage may be more serious.
+>
+> Rick Willoughby
+> rickwill at bigpond.net.au
+> 03 9796 2415
+> 0419 104 821
+>
+> This summer I experienced a three day trip on an Escargot, a human
+> powered
+> boat weighing roughly one ton. The Escargot (literally translated
+> "snail"),
+> designed by naval architect Philip Thiel is a charming tiny houseboat,
+> indeed.
+> Yet it takes some patience to get adapted to its speed limit.
+> Cruising speed
+> without auxiliary power (electric) was around 3 km per hour. Powered
+> by 2
+> adults - each one contributing around 100 Watts.
+> For more information on the "Escargot" see: http://www.gruene-flotte.de/
+>
+> My conclusion from this 3 day trip:
+> Human powered boats should rather be lightweight.
+>
+> Best wishes
+> Clemens
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list,
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+> subscription.
+>
+
+
+
+From clemens.winter at aliceadsl.fr  Thu Oct 21 11:34:21 2010
+From: clemens.winter at aliceadsl.fr (Clemens )
+Date: Thu, 21 Oct 2010 20:34:21 +0200
+Subject: [hpv-boats] Escargot  // new platform for the Seacycle
+In-Reply-To: <FE2F624D-63D1-4B5E-85E6-501842CA4626@bigpond.net.au>
+References: <FE2F624D-63D1-4B5E-85E6-501842CA4626@bigpond.net.au>
+Message-ID: <000301cb714e$94da18a0$be8e49e0$@winter@aliceadsl.fr>
+
+Hi Rick,
+good questions!
+Although I swam in the Ruhr at least twice a day I did not inspect the
+bottom thoroughly. I do remember some green stuff and some mussels on the
+rudder and on the auxiliary electric drive. These are hints for severe
+fouling on the bottom, too.
+
+The "green fleet" of Escargot boats on the Ruhr does not use the Seacycle's
+drive units.
+Instead, two bicycle pedal units are connected to a single propeller. I
+guess the setup is not very efficient - but it sure makes a lot of noise.
+
+Thank you for the interesting data on heavier HPBs!
+
+Two days after our 3-day trip on the Escargot, Caroline and I made a bike
+tour along the french canal connecting the rivers Rhine and Marne.
+What a sensation of speed!! It felt like flying along the banks of the canal
+at low level. Even the numerous locks could'nt slow down our amazing fast
+flight :-))  
+
+
+In August I finally took the effort to start with the new platform for the
+Seacycle.
+It took a lot of time but so far it has been a good experience and
+successful project.
+Dimensions are 2.4 x 1.6 x 0.12 meters.
+The construction made of carbon fibre, epoxy resin and foam weighs 17 kg,
+additional weight is caused by rudder, steering handle and by the wooden
+planks (thin and small) on top.    
+On Saturday I want to test the new setup on a nearby lake. 
+Will send some photos.
+
+Best greetings 
+Clem  
+
+
+
+
+-----Urspr?ngliche Nachricht-----
+Von: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org]
+Im Auftrag von Rick Willoughby
+Gesendet: Donnerstag, 21. Oktober 2010 00:43
+An: HPV Boat
+Betreff: [hpv-boats] Escargot
+
+Clem
+The claimed performance with two pedallers is 6.4kph.  Was the bottom  
+fouled?  That will make a huge difference on any heavy boat where  
+viscous drag dominates.
+
+Also the two Seacycle units are not well matched to heavy loads.  The  
+pedal drive I have for the 8t catamaran swings a 780mm diameter large  
+model aeroplane prop.  Large swept area becomes more critical to  
+achieve efficiency with heavy load at low speed.
+
+A well designed 1t boat should be capable of sustaining between 7 to  
+8kph with two pedallers working around 100W.  Typically a sailing  
+boat hull will be a bit easier to drive than the barge type hull.
+
+I do agree with the conclusion that weight is important but probably  
+not as bad as your experience suggests.  The 5m length limit for free  
+passage may be more serious.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+03 9796 2415
+0419 104 821
+
+This summer I experienced a three day trip on an Escargot, a human  
+powered
+boat weighing roughly one ton. The Escargot (literally translated  
+"snail"),
+designed by naval architect Philip Thiel is a charming tiny houseboat,
+indeed.
+Yet it takes some patience to get adapted to its speed limit.  
+Cruising speed
+without auxiliary power (electric) was around 3 km per hour. Powered  
+by 2
+adults - each one contributing around 100 Watts.
+For more information on the "Escargot" see: http://www.gruene-flotte.de/
+
+My conclusion from this 3 day trip:
+Human powered boats should rather be lightweight.
+
+Best wishes
+Clemens
+
+--
+This message comes to you via the hpv-boats at bikelist.org mailing list,
+sponsored by http://www,HuPI.org/
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your
+subscription.
+
+
+
+From rickwill at bigpond.net.au  Mon Oct 25 17:07:02 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Tue, 26 Oct 2010 11:07:02 +1100
+Subject: [hpv-boats] David Adrian Email
+Message-ID: <78D6804F-A45D-4974-97CF-9E24C3472F8B@bigpond.net.au>
+
+David
+If you are still following this forum I wish to let you know that  
+your velosub email account bounced when I responded to your recent  
+email.
+
+Rick Willoughby
+
+
+
+
+From info at velosub.com  Wed Nov  3 07:52:06 2010
+From: info at velosub.com (David Adrian)
+Date: Wed, 03 Nov 2010 16:52:06 +0100
+Subject: [hpv-boats] hpv-boats Digest, Vol 65, Issue 6
+In-Reply-To: <mailman.13.1288119603.21513.hpv-boats@bikelist.org>
+References: <mailman.13.1288119603.21513.hpv-boats@bikelist.org>
+Message-ID: <1288799526.4cd18526d7519@imp.online.net>
+
+Hello Rick,
+
+I am still here, even though far from a computer for few days,
+
+Best regards,
+
+David Adrian
+Tel/fax 00 33 4 78 24 76 55
+Cell 00 33 6 66 82 91 38
+
+Let's discover aquatic stroll, with SUBALO et VELOSUB, on http://www.velosub.com
+
+
+
+Selon hpv-boats-request at bikelist.org:
+
+ Send hpv-boats mailing list submissions to
+ 	hpv-boats at bikelist.org
+
+ To subscribe or unsubscribe via the World Wide Web, visit
+ 	http://hupi.org/mailman/listinfo/hpv-boats
+ or, via email, send a message with subject or body 'help' to
+ 	hpv-boats-request at bikelist.org
+
+ You can reach the person managing the list at
+ 	hpv-boats-owner at bikelist.org
+
+ When replying, please edit your Subject line so it is more specific
+ than "Re: Contents of hpv-boats digest..."
+
+
+ Today's Topics:
+
+    1. David Adrian Email (Rick Willoughby)
+
+
+ ----------------------------------------------------------------------
+
+ Message: 1
+ Date: Tue, 26 Oct 2010 11:07:02 +1100
+ From: Rick Willoughby <rickwill at bigpond.net.au>
+ Subject: [hpv-boats] David Adrian Email
+ To: HPV Boat <hpv-boats at bikelist.org>
+ Message-ID: <78D6804F-A45D-4974-97CF-9E24C3472F8B at bigpond.net.au>
+ Content-Type: text/plain;	charset=US-ASCII;	delsp=yes;	format=flowed
+
+ David
+ If you are still following this forum I wish to let you know that
+ your velosub email account bounced when I responded to your recent
+ email.
+
+ Rick Willoughby
+
+
+
+
+
+ ------------------------------
+
+
+ hpv-boats mailing list
+ mailto:hpv-boats at bikelist.org
+ http://hupi.org/mailman/listinfo/hpv-boats
+
+
+ End of hpv-boats Digest, Vol 65, Issue 6
+ ****************************************
+
+
+
+From rickwill at bigpond.net.au  Tue Nov 23 15:37:48 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Wed, 24 Nov 2010 10:37:48 +1100
+Subject: [hpv-boats] V15-5m Update
+Message-ID: <59F233E4-E5A0-4D33-BE01-506E34E361B7@bigpond.net.au>
+
+My sister finally got down to Melbourne to test the boat I built for  
+her.  She is able to do 8kph at a relaxed, sustainable power lever  
+and can push up to 12kph for a minute or so.  The corresponding  
+speeds for effort in her Hobie flapper are 5kph and 7kph.  This is a  
+clip from last weekend (3.3Mb):
+http://www.rickwill.bigpondhosting.com/V15_Donna_1.wmv
+Most of the noise is wind and my outriggers slapping the ripples.   
+The gearbox noise on her boat can be heard when she pushes her speed  
+up.  As a matter of interest she later tested with my cycling shoes  
+rather than the rubber beach shoes and found those more natural  
+although they are a couple of sizes too big.  The pedals can be used  
+with or without cleated shoes or even bare feet.
+
+I have modified the boat somewhat from the original build.  The main  
+change is the gearbox.  The initial box was a Mitrpak T-102-M  
+modified for cranks.  I broke one of these pushing the boat up to  
+around 13kph and a friend broke one just accelerating - told him to  
+stay below 12kph but did not say do not accelerate hard.  The boxes  
+fail at the high speed shaft.  I have rebuilt one using higher  
+strength steel in the shaft and Mitrpak are supplying redesigned  
+shafts that will be stronger than the original.
+
+Irrespective of the Mitrpak box improvements I decided there are a  
+few disadvantages to swinging the 540mm prop required for a 1:2  
+ratio.  The 1:4 box I have made has at least three times the torque  
+rating of the Mitrpak box and allows me to swing a 400mm prop.  The  
+box has straight cut bevel gears because these cost less than spiral  
+bevel and I was a little uncertain I could achieve the required  
+fabricating tolerances with my little mill and lathe.  If I make more  
+boxes I will use spiral bevel gears mainly because they run quieter.   
+They also have slightly higher ultimate strength and many times  
+higher wear life although I doubt the latter will ever get tested on  
+a pedal boat.  The box weighs 2.5kg.
+
+I now have to make a few minor adjustments and clean the boat up  
+before the road trip to the Gold Coast at the end of the year.
+
+
+Rick Willoughby
+
+
+
+From vgarza2 at satx.rr.com  Wed Nov 24 10:52:05 2010
+From: vgarza2 at satx.rr.com (v garza)
+Date: Wed, 24 Nov 2010 12:52:05 -0600
+Subject: [hpv-boats] V15-5m Update
+In-Reply-To: <59F233E4-E5A0-4D33-BE01-506E34E361B7@bigpond.net.au>
+References: <59F233E4-E5A0-4D33-BE01-506E34E361B7@bigpond.net.au>
+Message-ID: <379903F150A746E09445E74F97EB114D@vgarzaPC>
+
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: "HPV Boat" <hpv-boats at bikelist.org>
+Sent: Tuesday, November 23, 2010 5:37 PM
+Subject: [hpv-boats] V15-5m Update
+
+
+> My sister finally got down to Melbourne to test the boat I built for  her. 
+> She is able to do 8kph at a relaxed, sustainable power lever  and can push 
+> up to 12kph for a minute or so.  The corresponding  speeds for effort in 
+> her Hobie flapper are 5kph and 7kph.  This is a  clip from last weekend 
+> (3.3Mb):
+> http://www.rickwill.bigpondhosting.com/V15_Donna_1.wmv
+> Most of the noise is wind and my outriggers slapping the ripples.   The 
+> gearbox noise on her boat can be heard when she pushes her speed  up.  As 
+> a matter of interest she later tested with my cycling shoes  rather than 
+> the rubber beach shoes and found those more natural  although they are a 
+> couple of sizes too big.  The pedals can be used  with or without cleated 
+> shoes or even bare feet.
+>
+> I have modified the boat somewhat from the original build.  The main 
+> change is the gearbox.  The initial box was a Mitrpak T-102-M  modified 
+> for cranks.  I broke one of these pushing the boat up to  around 13kph and 
+> a friend broke one just accelerating - told him to  stay below 12kph but 
+> did not say do not accelerate hard.  The boxes  fail at the high speed 
+> shaft.  I have rebuilt one using higher  strength steel in the shaft and 
+> Mitrpak are supplying redesigned  shafts that will be stronger than the 
+> original.
+>
+> Irrespective of the Mitrpak box improvements I decided there are a  few 
+> disadvantages to swinging the 540mm prop required for a 1:2  ratio.  The 
+> 1:4 box I have made has at least three times the torque  rating of the 
+> Mitrpak box and allows me to swing a 400mm prop.  The  box has straight 
+> cut bevel gears because these cost less than spiral  bevel and I was a 
+> little uncertain I could achieve the required  fabricating tolerances with 
+> my little mill and lathe.  If I make more  boxes I will use spiral bevel 
+> gears mainly because they run quieter.   They also have slightly higher 
+> ultimate strength and many times  higher wear life although I doubt the 
+> latter will ever get tested on  a pedal boat.  The box weighs 2.5kg.
+>
+> I now have to make a few minor adjustments and clean the boat up  before 
+> the road trip to the Gold Coast at the end of the year.
+>
+>
+> Rick Willoughby
+
+
+Thanks for the report. On the gear box strength issues, I often wondered 
+about some kind of slip clutch mechanism to protect from shock overloads. 
+That could save someone from being stranded or being knocked out of a race. 
+Something might be worked out with say, super strong magnets to be used for 
+coupling the shafts without having the slippage drawback of friction based 
+units. I can visualize someone going full tilt on the Murray and hitting a 
+log or rock thus breaking or bending something that can be repaired 
+rapidly....
+
+Vic
+
+>
+>
+> --
+> This message comes to you via the hpv-boats at bikelist.org mailing list, 
+> sponsored by http://www,HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+-- 
+I am using the free version of SPAMfighter.
+We are a community of 7 million users fighting spam.
+SPAMfighter has removed 982 of my spam emails to date.
+Get the free SPAMfighter here: http://www.spamfighter.com/len
+
+The Professional version does not have this message
+
+
+
+From rickwill at bigpond.net.au  Fri Nov 26 13:43:33 2010
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sat, 27 Nov 2010 08:43:33 +1100
+Subject: [hpv-boats] Gearbox
+Message-ID: <7E79E6C8-49A9-40F8-BD68-C426F965ED59@bigpond.net.au>
+
+David
+The box I have made could only be regarded as a prototype. I use  
+standard size aluminium flat and round to make it.  It is held  
+together with stainless bolts.  It took about 8 hours of effort to  
+produce it.
+
+A friend here is investigating having the casing cast.  This is some  
+time off though as I am still playing around with other ideas for the  
+gearing.
+
+I have been working with Mitrpak but they can only make a 1:2 ratio  
+at this stage.
+
+I also have an Involute gearbox that has a 1:3.3 ratio.  George Tatum  
+arranged for their manufacture in India.  I think George still has  
+some and both Ian Cassell and I bought ours from India in the last  
+few years.  These cost less than  the gears would cost to buy  
+elsewhere.   Involute may be able to produce something in small  
+quantity with 1:4 or higher ratio.
+
+The Involute boxes weigh 3.8kg which is quite heavy but they are  
+tremendously strong.  I expect the shafts would shear before the  
+gears fail.  The gears I used are good for peak power somewhere over  
+500W in normal boat application but a strong cyclist can exceed this  
+quite easily.  I have been told sprint cyclist can shear standard  
+shafts.
+
+Rick
+
+Hello Rick,
+
+As always your writing is quite interesting.
+As you know, I am working on a human power rotomolded kayak project  
+with a rigid
+shaft directly set on the gearbox.
+As the propeller is located below, and protected by 2 keels, it is  
+not possible
+to set a big propeller, that?s why I tend to put a 1:4 box and an  
+average size
+prop (rather 340 mm in my case).
+I currently build myself this box for the time being but it is  
+difficult and
+time consuming. That?s why I would be enthusiastic to be able to buy  
+one.
+Would you have some pictures of your 1:4 box and an idea of its  
+selling price if
+ever?
+
+Many thanks, David,
+
+
+
+Best regards,
+
+David Adrian
+
+
+
+From curt at nauticraft.com  Wed Dec  1 07:08:01 2010
+From: curt at nauticraft.com (Curtis Chambers)
+Date: Wed, 1 Dec 2010 10:08:01 -0500
+Subject: [hpv-boats] Nauticraft Drive Unit availability
+Message-ID: <000c01cb9169$8d2a8a00$a77f9e00$@nauticraft.com>
+
+Hello Everyone,
+
+In response to David Adrian's interest in drive units we have some used
+Nauticraft drive units for sale - ranging from $200 to $500 - shipping not
+included of course. (Our new ones are $650.)  These units would include our
+15 in.  (385mm) two blade propeller (custom injection molded for us) but no
+drive shaft (we now use 3/4"  acetal (POM) rod for the Escapade but support
+it in several places; our Encore has 1 1/8" od aluminum tubing shafts).  A
+3/4" diameter seal/bushing is also included.  The ratio is 1:4 (21: 84 tooth
+sprockets).  Keep in mind that our drive system is designed for recreational
+boat use - not ultimate performance.  Contact myself or Laurie.
+
+Curt Chambers
+Nauticraft Corp.  
+
+-----Original Message-----
+From: hpv-boats-bounces at bikelist.org [mailto:hpv-boats-bounces at bikelist.org]
+On Behalf Of hpv-boats-request at bikelist.org
+Sent: Saturday, November 27, 2010 3:00 PM
+To: hpv-boats at bikelist.org
+Subject: hpv-boats Digest, Vol 66, Issue 3
+
+Send hpv-boats mailing list submissions to
+	hpv-boats at bikelist.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://hupi.org/mailman/listinfo/hpv-boats
+or, via email, send a message with subject or body 'help' to
+	hpv-boats-request at bikelist.org
+
+You can reach the person managing the list at
+	hpv-boats-owner at bikelist.org
+
+When replying, please edit your Subject line so it is more specific than
+"Re: Contents of hpv-boats digest..."
+
+
+Today's Topics:
+
+   1. Re: Gearbox (Rick Willoughby)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Sat, 27 Nov 2010 08:43:33 +1100
+From: Rick Willoughby <rickwill at bigpond.net.au>
+Subject: Re: [hpv-boats] Gearbox
+To: HPV Boat <hpv-boats at bikelist.org>
+Message-ID: <7E79E6C8-49A9-40F8-BD68-C426F965ED59 at bigpond.net.au>
+Content-Type: text/plain;	charset=WINDOWS-1252;	delsp=yes;
+	format=flowed
+
+David
+The box I have made could only be regarded as a prototype. I use standard
+size aluminium flat and round to make it.  It is held together with
+stainless bolts.  It took about 8 hours of effort to produce it.
+
+A friend here is investigating having the casing cast.  This is some time
+off though as I am still playing around with other ideas for the gearing.
+
+I have been working with Mitrpak but they can only make a 1:2 ratio at this
+stage.
+
+I also have an Involute gearbox that has a 1:3.3 ratio.  George Tatum
+arranged for their manufacture in India.  I think George still has some and
+both Ian Cassell and I bought ours from India in the last few years.  These
+cost less than  the gears would cost to buy  
+elsewhere.   Involute may be able to produce something in small  
+quantity with 1:4 or higher ratio.
+
+The Involute boxes weigh 3.8kg which is quite heavy but they are
+tremendously strong.  I expect the shafts would shear before the gears fail.
+The gears I used are good for peak power somewhere over 500W in normal boat
+application but a strong cyclist can exceed this quite easily.  I have been
+told sprint cyclist can shear standard shafts.
+
+Rick
+
+Hello Rick,
+
+As always your writing is quite interesting.
+As you know, I am working on a human power rotomolded kayak project with a
+rigid shaft directly set on the gearbox.
+As the propeller is located below, and protected by 2 keels, it is not
+possible to set a big propeller, that?s why I tend to put a 1:4 box and an
+average size prop (rather 340 mm in my case).
+I currently build myself this box for the time being but it is difficult and
+time consuming. That?s why I would be enthusiastic to be able to buy one.
+Would you have some pictures of your 1:4 box and an idea of its selling
+price if ever?
+
+Many thanks, David,
+
+
+
+Best regards,
+
+David Adrian
+
+
+
+
+------------------------------
+
+
+hpv-boats mailing list
+mailto:hpv-boats at bikelist.org
+http://hupi.org/mailman/listinfo/hpv-boats
+
+
+End of hpv-boats Digest, Vol 66, Issue 3
+****************************************
+
+

@@ -1,0 +1,316 @@
+From patf at terracycle.com  Mon May  4 09:34:17 2009
+From: patf at terracycle.com (Pat Franz)
+Date: Mon, 4 May 2009 09:34:17 -0700
+Subject: [hpv] Training wheels, sort of
+References: <mailman.21.1241377204.48944.hpv@bikelist.org>
+Message-ID: <1BBEBF54A4B04C448496D3C6F0125208@patshp810e>
+
+The Vision has a fairly high CG, so that is likely part of the tipping 
+problem. A vehicle like this tips on a line between the outermost wheels, so 
+having the outrigger wheels behind the rear wheel angles the tip line closer 
+in. The best place, tip-wise, for the outriggers is due outside to slightly 
+forward of the CG. This is because tipovers often involve braking while 
+cornering.
+
+I've done some stabilizer/outrigger wheels for people with balance issues, 
+and another problem is high centering the drive wheel. This might be solved 
+by suspending either the drive wheel or the outrigger wheels. You of course 
+want to make sure you never high center the steering wheel!
+
+The best overall solution, I think, is to go with a proper tricycle. There 
+are enough options nowadays that you can find something ready made for a 
+decent price that will probably do what you need with only minimal 
+modifications. The trike rear section that Sun (J&B Importers in the USA) 
+sells is a good option if you want to convert an existing bicycle. In order 
+to provide spares, J&B sells any part of any bike/trike they make. Most 
+shops in the USA are hooked up with J&B, so it's not too difficult to get 
+stuff like this here in the States.
+
+--Pat Franz
+TerraCycle, Inc.
+3450 SE Alder, Portland OR 97214 USA
+1-800-371-5871 (N. America)
+503-231-9798 (US Pacific Coast, GMT-8)
+www.terracycle.com
+EU Distribution and Sales: www.icletta.com
+
+
+
+From lenkf at dock.net  Tue May  5 18:19:24 2009
+From: lenkf at dock.net (Flenk)
+Date: Tue, 5 May 2009 18:19:24 -0700
+Subject: [hpv] Where have all the flowers gone?
+Message-ID: <4A00E59C.9040701@dock.net>
+
+It's been a long time passing since I've looked at the IHPVA email 
+lists. It got a bit crazy but still interesting in early 2000s, and HPV 
+email moved to another email server clumsily. As a computer tech, I 
+appreciated the problems, but was saddened to see things go downhill on 
+the email lists.
+
+A little later I was banned from using my Trice recumbent trike on the 
+hometown job. I bought a motorcycle-sidecar outfit to at least get some 
+fresh air on the job, and really cut back on cycling. (Employer requires 
+a legal gasoline powered vehicle apparently.) The sidecar mc gets as 
+good gas mileage as the latest "hybrids" around town and on the freeway, 
+is lots more interesting for daily transportation, and in California I 
+don't need a special "motorcycle license" to drive 3-wheel motor 
+vehicles :)
+
+20+ years of bicycling on public roads as an adult has taught me how to 
+be careful on a motorcycle. The outfit is actually a little safer 
+because drivers can "see me" (I don't look like a narrow sign or bush on 
+the roadside), I travel at traffic speeds in a wide lane, I don't have a 
+narrow 2-3' wide lane in debris to travel in, and crazy motorists are 
+afraid to be nasty to me because I might be a "motorcycle gang member" 
+and can catch up to them :)
+
+Man, the mid 90's and early 2k's were exciting times for US IHPVA email 
+lists. Lots of new tech and manufacturers coming out and mentioned on 
+the various lists, from around the world.
+
+I'm getting close to retiring, and will probably get a modern Trice 
+(with rear shock) for around-town transport and recreation rides. 
+Though, the sidecar mc outfit is pretty cool for quicker longer distance 
+travel, and I use lots less non-renewable resources than driving my 6cyl 
+Ford pickup.
+
+I don't even know if this msg will get thru to the current email list, 
+or deleted because it mentions "motorcycle" :)
+
+Fred Lenk
+www.lenk.net
+
+
+From theosch06 at yahoo.de  Wed May  6 02:54:59 2009
+From: theosch06 at yahoo.de (Theo Schmidt)
+Date: Wed, 6 May 2009 11:54:59 +0200
+Subject: [hpv] Where have all the flowers gone?
+In-Reply-To: <4A00E59C.9040701@dock.net>
+References: <4A00E59C.9040701@dock.net>
+Message-ID: <4A015E73.7070107@yahoo.de>
+
+Flenk wrote:
+> It's been a long time passing since I've looked at the IHPVA email 
+> lists. It got a bit crazy but still interesting in early 2000s, and 
+> HPV email moved to another email server clumsily. As a computer tech, 
+> I appreciated the problems, but was saddened to see things go downhill 
+> on the email lists.
+Not just technical problems, of course. The IHPVA/WHPVA rift showed me 
+that registrars/providers/hosts based in the USA - which unfortunately 
+includes ICANN itself - and conforming to the USA legal system are risky 
+to use for those with let us say a European-type legal outlook. These 
+differences of opinion are certainly a factor which lead to frequent 
+changes of addresses and servers.
+
+> A little later I was banned from using my Trice recumbent trike on the 
+> hometown job. 
+Thanks for documenting this on your website (www.lenk.net)! Again, it 
+seems to me a peculiar legal problem. I guess your employer can specify 
+the vehicle to use if this is required to do your job properly, but go 
+no further then that. Over here, a rural postman in private initiative 
+delivers post with an electric scooter and trailer instead of the 
+standard stinker, with support from the "post office", even though the 
+scooter model he uses cannot legally pull a trailer. I guess you could 
+have sued your employer, but would have been jobless afterwards.
+
+> I don't even know if this msg will get thru to the current email list, 
+> or deleted because it mentions "motorcycle" :)
+Howabout *this* motorcycle: 
+http://www.zoomilife.com/2008/09/28/half-electric-motorcycle-half-bicycle-fully-awesome/
+
+Cheers, Theo in Switz.
+
+From bourbonman at cfl.rr.com  Sat May  9 05:59:01 2009
+From: bourbonman at cfl.rr.com (Ed Logan)
+Date: Sat, 9 May 2009 08:59:01 -0400
+Subject: [hpv] Training wheels, sort of
+Message-ID: <123CC05339374A4EBDC8D3269506EFD4@EdPC>
+
+I want to thank everyone who responded to my request for ideas.  I was so interested in how motorcycles had converted to trikes by adding outboard wheels that I really didn't stop to analyze if it would work on a recumbent bike.  I just went to work.  However, I learned a lot and had a lot of fun.  So now I will convert the frame and wheels into a trailer.
+
+I built a wooden low racer a couple of years back that was a blast to ride and fun to build.  Maybe I can use the plans from Atomic Zombie's DeltaRunner Recumbent trike and build it out of wood.  http://www.atomiczombie.com/product-deltarunner.htm
+
+Again, thanks to all.
+
+Ed Logan
+GRR, Kettwiesel, Vision Metro and now a new trailer.
+
+
+
+From nick.hein at verizon.net  Sat May  9 19:12:29 2009
+From: nick.hein at verizon.net (Nick Hein)
+Date: Sat, 9 May 2009 22:12:29 -0400
+Subject: [hpv] Looking for good HPV blogs, news sites, etc
+References: <mailman.19.1239390004.33109.hpv@bikelist.org>
+	<49E0F131.7000908@worldnet.att.net>
+	<0DE3049E0E5D3748A653E1CB1600673E0C960AFA2D@sdc-mbx-01.exchange.washington.edu>
+	<c74d93000904121326t63248d2akc8b44b4c69b087ea@mail.gmail.com>
+Message-ID: <FC511253F31A4BA196A578C4116180FC@dv500015bcb074>
+
+Good evening,
+I'm a little starved for good pedal-powered news.  Forums are too much 
+bother, what sites do the readers of this list favor?
+
+So far I look at bentrideronline and this list.  Has anyone found others? 
+(including subordinate lists to other sites - like human power on 
+Alternative Transportation)
+
+Thanks,
+Nick Hein
+Morgantown, WV
+
+
+
+From richings at telus.net  Sun May 10 12:20:07 2009
+From: richings at telus.net (Ron Richings)
+Date: Sun, 10 May 2009 12:20:07 -0700
+Subject: [hpv] Pedal powered blogs, etc.
+In-Reply-To: <mailman.11.1241982003.71972.hpv@bikelist.org>
+Message-ID: <19740414192424.ECD9B1C334EA5AD3@edtnaa21.telus.net>
+
+Hi Nick
+
+
+Not HPV or Recumbent specific, but an excellent source of bikey stuff is 
+
+www.blognetnews.com/cycling/
+
+It is an aggregator (and the best that I have found) of non-racing cycling
+blogs.  Probably possible to refine the feed that you would get ( I do mine
+as an RSS feed ) or use the 'search' function.
+
+
+Ron Richings
+Vancouver, BC
+Canada
+
+****************************************************************************
+***************
+
+
+Good evening,
+I'm a little starved for good pedal-powered news.  Forums are too much
+bother, what sites do the readers of this list favor?
+
+So far I look at bentrideronline and this list.  Has anyone found others? 
+(including subordinate lists to other sites - like human power on
+Alternative Transportation)
+
+Thanks,
+Nick Hein
+Morgantown, WV
+
+
+
+
+
+
+From franzen at enneagram.com  Sun May 10 14:00:18 2009
+From: franzen at enneagram.com (Dave Franzen)
+Date: Sun, 10 May 2009 14:00:18 -0700
+Subject: [hpv] Looking for good HPV blogs...
+Message-ID: <4A074062.3060407@enneagram.com>
+
+Nick Hein writes:
+
+I like the "Bike Snob," <http://bikesnobnyc.blogspot.com/>.  The site is
+somewhat anti-bent, but refreshing anyway.
+
+Regards,
+
+Dave Franzen
+Eugene, Oregon
+
+
+
+> 
+> Good evening,
+> I'm a little starved for good pedal-powered news.  Forums are too much 
+> bother, what sites do the readers of this list favor?
+> 
+> So far I look at bentrideronline and this list.  Has anyone found others? 
+> (including subordinate lists to other sites - like human power on 
+> Alternative Transportation)
+> 
+> Thanks,
+> Nick Hein
+> Morgantown, WV
+
+
+From jeff_wills at comcast.net  Sun May 10 15:09:27 2009
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Sun, 10 May 2009 22:09:27 +0000
+Subject: [hpv] Looking for good HPV blogs, news sites, etc
+In-Reply-To: <FC511253F31A4BA196A578C4116180FC@dv500015bcb074>
+Message-ID: <1438775760.4358751241993367320.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+
+What's wrong with forums, Nick? Our OHPV forum software:
+http://www.ohpv.org/forums/index.php
+allows email notification on particular subjects & threads. I also like that pictures can be posted in line with text- this makes much more sense to a visually-minded person like me. For instance:
+http://www.ohpv.org/forums/index.php?topic=165.0
+
+
+
+
+
+Jeff Wills
+
+------------------------------------------------------------
+Make plans now to attend the 
+Portland Human Power Challenge
+http://www.ohpv.org/HPC/index.html
+and the Recumbent Retreat
+http://www.recumbentretreat.org/
+------------------------------------------------------------
+
+
+
+----- Nick Hein wrote:
+
+> Good evening,
+
+> I'm a little starved for good pedal-powered news.  Forums are too much 
+
+> bother, what sites do the readers of this list favor?
+
+> 
+
+> So far I look at bentrideronline and this list.  Has anyone found others? 
+
+> (including subordinate lists to other sites - like human power on 
+
+> Alternative Transportation)
+
+> 
+
+> Thanks,
+
+> Nick Hein
+
+> Morgantown, WV
+
+> 
+
+> 
+
+> --
+
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+
+From richings at telus.net  Sun May 10 22:08:00 2009
+From: richings at telus.net (Ron Richings)
+Date: Sun, 10 May 2009 22:08:00 -0700
+Subject: [hpv] A blog post that you might find interesting.
+Message-ID: <19740415012840.F2811725340A787B@priv-edmwaa06.telusplanet.net>
+
+
+http://tinyurl.com/pykn7k
+
+
+
+

@@ -1,0 +1,11 @@
+#These files are copied from hupi.org:/var/lib/mailman/archives/public/
+#to preserve them for posterity.
+
+# Run this on hupi.org
+# T#0t_waw_k10
+
+cd /var/lib/mailman/archives/private
+rsync -av * seafloor@seafloor.org:/home1/seafloor/public_html/hupi/archives
+
+
+

@@ -1,0 +1,1490 @@
+From g.edgar at bigpond.com  Sat Mar  6 01:19:53 2010
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Sat, 6 Mar 2010 19:19:53 +1000
+Subject: [trikes] easy setting of  toe
+Message-ID: <002c01cabd0e$2e18f5e0$8a4ae1a0$@edgar@bigpond.com>
+
+If you have a trike with negative front camber, or there is toe or camber
+change with suspension movement, setting the toe by the traditional
+measuring method can be very difficult to get right - where 'right' =
+minimum rolling resistance.
+ 
+But - and maybe everyone already knows about this but I didn't - there's a
+very easy way to do it. 
+ 
+Connect one tie rod and leave the other off at one end (eg the outer end).
+Ride along slowly, going straight ahead. (That is, steer straight ahead with
+the one connected wheel.) The disconnected wheel will track truly. Stop
+without further changing the steering. 
+ 
+Adjust the tie rod length so that the disconnected tie rod rose-joint
+matches the position of the wheel. On my trike, with a vertical threaded
+spud, I adjust the free tie rod length so that the rose-joint drops straight
+over the spud. 
+ 
+On my trike, my minimum rolling resistance actually looks to have toe-out (I
+run neg camber). 
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+
+From bobstuart at sasktel.net  Sat Mar  6 06:29:10 2010
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Sat, 06 Mar 2010 08:29:10 -0600
+Subject: [trikes] easy setting of  toe
+In-Reply-To: <002c01cabd0e$2e18f5e0$8a4ae1a0$%edgar@bigpond.com>
+References: <002c01cabd0e$2e18f5e0$8a4ae1a0$%edgar@bigpond.com>
+Message-ID: <4B9266B6.3080909@sasktel.net>
+
+Does this work regardless of scrub radius?   Have you verified the 
+results with a coast-down test?
+
+Thanks,
+Bob
+
+
+On 06/03/2010 3:19 AM, Julian Edgar wrote:
+> If you have a trike with negative front camber, or there is toe or camber
+> change with suspension movement, setting the toe by the traditional
+> measuring method can be very difficult to get right - where 'right' =
+> minimum rolling resistance.
+>
+> But - and maybe everyone already knows about this but I didn't - there's a
+> very easy way to do it.
+>
+> Connect one tie rod and leave the other off at one end (eg the outer end).
+> Ride along slowly, going straight ahead. (That is, steer straight ahead with
+> the one connected wheel.) The disconnected wheel will track truly. Stop
+> without further changing the steering.
+>
+> Adjust the tie rod length so that the disconnected tie rod rose-joint
+> matches the position of the wheel. On my trike, with a vertical threaded
+> spud, I adjust the free tie rod length so that the rose-joint drops straight
+> over the spud.
+>
+> On my trike, my minimum rolling resistance actually looks to have toe-out (I
+> run neg camber).
+>
+> Regards,
+>
+> Julian Edgar
+>
+>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>    
+
+From g.edgar at bigpond.com  Sat Mar  6 12:55:46 2010
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Sun, 7 Mar 2010 06:55:46 +1000
+Subject: [trikes] easy setting of  toe
+In-Reply-To: <4B9266B6.3080909@sasktel.net>
+References: <002c01cabd0e$2e18f5e0$8a4ae1a0$%edgar@bigpond.com>
+	<4B9266B6.3080909@sasktel.net>
+Message-ID: <000001cabd6f$65328670$2f979350$@edgar@bigpond.com>
+
+Does this work regardless of scrub radius? - not sure; I've tried it only on
+my current trike that runs negative scrub radius.
+
+Have you verified the results with a coast-down test? - I haven't; I have
+not had much luck with coast-down tests as an accurate and repeatable test.
+
+On a smooth concrete surface like my workshop floor, physically moving the
+disconnected wheel (by pulling or pushing on the wheel steer lever) to move
+it away from its 'natural' steer direction takes lots of effort (and the
+amount of effort would also depend on the castor being used), and when the
+wheel is aimed at a direction different to its natural direction, rolling
+resistance clearly and noticeably rises (the trike slows abruptly).  
+
+Setting toe as described also reduces the sound that can be heard on some
+surfaces when there is some wheel scrub caused by incorrect toe.
+
+
+Regards,
+
+Julian Edgar
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of Bob Stuart
+Sent: Sunday, 7 March 2010 12:29 AM
+To: trikes at bikelist.org
+Subject: Re: [trikes] easy setting of toe
+
+Does this work regardless of scrub radius?   Have you verified the 
+results with a coast-down test?
+
+Thanks,
+Bob
+
+
+On 06/03/2010 3:19 AM, Julian Edgar wrote:
+> If you have a trike with negative front camber, or there is toe or camber
+> change with suspension movement, setting the toe by the traditional
+> measuring method can be very difficult to get right - where 'right' =
+> minimum rolling resistance.
+>
+> But - and maybe everyone already knows about this but I didn't - there's a
+> very easy way to do it.
+>
+> Connect one tie rod and leave the other off at one end (eg the outer end).
+> Ride along slowly, going straight ahead. (That is, steer straight ahead
+with
+> the one connected wheel.) The disconnected wheel will track truly. Stop
+> without further changing the steering.
+>
+> Adjust the tie rod length so that the disconnected tie rod rose-joint
+> matches the position of the wheel. On my trike, with a vertical threaded
+> spud, I adjust the free tie rod length so that the rose-joint drops
+straight
+> over the spud.
+>
+> On my trike, my minimum rolling resistance actually looks to have toe-out
+(I
+> run neg camber).
+>
+> Regards,
+>
+> Julian Edgar
+>
+>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+>    
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+
+From g.edgar at bigpond.com  Sun Mar  7 12:39:53 2010
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Mon, 8 Mar 2010 06:39:53 +1000
+Subject: [trikes] easy setting of  toe
+In-Reply-To: <002c01cabd0e$2e18f5e0$8a4ae1a0$@edgar@bigpond.com>
+References: <002c01cabd0e$2e18f5e0$8a4ae1a0$@edgar@bigpond.com>
+Message-ID: <000f01cabe36$5742fdc0$05c8f940$@edgar@bigpond.com>
+
+I should also add that I set-up the Ackerman compensation in much the same
+way - steering one wheel at tight lock and then letting the other find its
+natural angle, then organising the steering linkage to allow this to always
+occur. It was very useful in fine tuning the angles. 
+
+
+Regards,
+
+Julian Edgar
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of Julian Edgar
+Sent: Saturday, 6 March 2010 7:20 PM
+To: trikes at bikelist.org
+Subject: [trikes] easy setting of toe
+
+If you have a trike with negative front camber, or there is toe or camber
+change with suspension movement, setting the toe by the traditional
+measuring method can be very difficult to get right - where 'right' =
+minimum rolling resistance.
+ 
+But - and maybe everyone already knows about this but I didn't - there's a
+very easy way to do it. 
+ 
+Connect one tie rod and leave the other off at one end (eg the outer end).
+Ride along slowly, going straight ahead. (That is, steer straight ahead with
+the one connected wheel.) The disconnected wheel will track truly. Stop
+without further changing the steering. 
+ 
+Adjust the tie rod length so that the disconnected tie rod rose-joint
+matches the position of the wheel. On my trike, with a vertical threaded
+spud, I adjust the free tie rod length so that the rose-joint drops straight
+over the spud. 
+ 
+On my trike, my minimum rolling resistance actually looks to have toe-out (I
+run neg camber). 
+ 
+Regards,
+ 
+Julian Edgar
+ 
+ 
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+
+From jzalon at zalonoffice.com  Sun Mar 14 06:27:16 2010
+From: jzalon at zalonoffice.com (Jules D. Zalon)
+Date: Sun, 14 Mar 2010 10:27:16 -0400
+Subject: [trikes] New Tire Recommendations?
+Message-ID: <4B9CF244.7010901@zalonoffice.com>
+
+I must be approaching a world-record: 3 flats on the same wheel in 3 
+days, each discovered in the morning as I was about to go riding. The 
+flats occurred at different points on the tube, and the holes were small 
+enough not to have caused any loss of pressure during the ride. (No, 
+there is not any glass in my garage!) Each time I removed the tire and 
+carefully checked inside, to make sure that I had not picked up a piece 
+of glass or some other sliver; and each time the inside of the tire was 
+perfectly clean.
+
+The suspect is the right front tire of my 8 year-old  Greenspeed GTO 
+with its original Tioga Comp Pool tires (with (@ 7,000 miles) still on 
+the front wheels. During all this time, I think I have had only a 
+handful of flats, all but one on the right front. That makes sense, 
+because that's the tire that is closest to the curb and therefore most 
+likely to pick up the road detritus that lays in wait for unsuspecting 
+cyclists.
+
+Perhaps one reason for all these flats is that we have had a tremendous 
+amount of snow here in North Jersey, and the roads -- especially the 
+portion closest to the curb -- are probably filled with the junk that 
+would otherwise be cleaned up by street sweepers. Anyone have any other 
+explanation?
+
+In any event, it's probably a good idea to buy some new tires. I have 
+not found much in the way of reviews of different trike tires and wonder 
+if any of you have strong feelings about one tire or the other? Like the 
+new Scorchers.
+
+Any comments will be welcomed.
+
+Thanks,
+
+Jules
+
+From michael.e.ross at gmail.com  Sun Mar 14 08:23:58 2010
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Sun, 14 Mar 2010 11:23:58 -0500
+Subject: [trikes] New Tire Recommendations?
+In-Reply-To: <4B9CF244.7010901@zalonoffice.com>
+References: <4B9CF244.7010901@zalonoffice.com>
+Message-ID: <67c62c9e1003140923o6c67e86ci49f1acb2d944d991@mail.gmail.com>
+
+Jules,
+
+I have always felt that chance plays a large factor in the frequency of
+flats.  I am sure many people change tire make and model because they get
+two flats in close temporal proximity, where it was really just luck.  It is
+in our nature to seek reasons and patterns even before we have sufficient
+data to make valid decisions.
+
+Given that everything I say has to be filtered through the knowledge that I
+may be confusing coincidence with good statistical reasoning.
+
+I believe that the curbside wheel gets more flats because there is more
+trash there than towards the crown of the road.
+
+I think wet roads cause more flats.  The theory here (not my own, but I keep
+it under advisement) is that the water makes slicing cuts easier and glass
+slivers can cause more damage before breaking up. This agrees with another
+observation of mine that I can cut rubber with a blade more easily if I have
+water present - it does seem to lubricate the blade so it cuts more smoothly
+and quickly.
+
+I have more flats in winter time.  I think the roads are dirtier for some
+reason.
+
+ I think I get more flats on trikes than on two wheelers.  But with trikes I
+think it is harder to evade problems (not that I am very attentive).
+
+How a tire is weighted makes a difference - I almost never flatted the front
+tires of my BikeEs which are VERY lightly loaded.
+
+Really thin tires don't get much use on my bikes.  I like fat tires.  But, I
+like them to be soft and flexible.  I sometimes pump them up tight and other
+times not.
+
+(Lot's of variables and differing conditions to be making comparisons, eh?)
+
+Also, I am very non-reactive to flats in terms of giving up on tires and
+changing brands.  And I tend to ride on the same sorts of roads and
+conditions most of the time.  Even so the occurrence of flats seems to
+oscillate for no apparent reason - sometimes more, sometimes less.
+
+How large and high quality is my sample (Mike's flats as a predictor for all
+flats)?  I think I have had maybe a hundred in 10 years.    I remember a
+time when I had a flat on every ride for five rides straight, a couple rides
+had multiple flats.   A few of them were my fault for doing a poor job of
+mounting them.  I don't keep a log so maybe my record keeping is
+suspect.  How good is my memory?  I don't give it that much credit, but this
+a topic that gets cogitated upon for hours on rides.
+
+I like Comp Pools, Primo Comets, and Panaracer Pasela.  I would buy
+Scorchers.  Kenda Kwest have been good to me.  I have tried a variety of
+slicks, and city tires and have no particular beef with any of them.
+
+I hate tires that are hard to mount.  That is probably the main reason why I
+won't buy a tire a second time.  This is not an issue with Greenspeeds and
+their nice rims.  The only rim I know of specifically designed to make
+changing the tire easy.
+
+I would take the cost of replacing a pretty new tire and spend it on patch
+kits and tire irons I like.  A good pump like a Morph can't be beat.
+
+Mike
+
+On Sun, Mar 14, 2010 at 9:27 AM, Jules D. Zalon <jzalon at zalonoffice.com>wrote:
+
+> I must be approaching a world-record: 3 flats on the same wheel in 3 days,
+> each discovered in the morning as I was about to go riding. The flats
+> occurred at different points on the tube, and the holes were small enough
+> not to have caused any loss of pressure during the ride. (No, there is not
+> any glass in my garage!) Each time I removed the tire and carefully checked
+> inside, to make sure that I had not picked up a piece of glass or some other
+> sliver; and each time the inside of the tire was perfectly clean.
+>
+> The suspect is the right front tire of my 8 year-old  Greenspeed GTO with
+> its original Tioga Comp Pool tires (with (@ 7,000 miles) still on the front
+> wheels. During all this time, I think I have had only a handful of flats,
+> all but one on the right front. That makes sense, because that's the tire
+> that is closest to the curb and therefore most likely to pick up the road
+> detritus that lays in wait for unsuspecting cyclists.
+>
+> Perhaps one reason for all these flats is that we have had a tremendous
+> amount of snow here in North Jersey, and the roads -- especially the portion
+> closest to the curb -- are probably filled with the junk that would
+> otherwise be cleaned up by street sweepers. Anyone have any other
+> explanation?
+>
+> In any event, it's probably a good idea to buy some new tires. I have not
+> found much in the way of reviews of different trike tires and wonder if any
+> of you have strong feelings about one tire or the other? Like the new
+> Scorchers.
+>
+> Any comments will be welcomed.
+>
+> Thanks,
+>
+> Jules
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+             (919) 513-0418 desk
+              (919) 585-5118 etc
+          michael_ross at ncsu.edu
+        michael.e.ross at gmail.com
+  =============================
+
+
+NC Solar Center : www.ncsc.ncsu.edu
+Professional Directory : www.greenprofessionals.org
+
+"The information in this email is provided by the NC Solar Center at NCSU as
+a public service. The Solar Center strives to provide accurate information,
+but does not warrant or represent the accuracy, usefulness or reliability of
+this information. For specific advice, we always recommend that you consult
+with a professional in the appropriate profession for your needs." Email
+correspondence to and from this address may be subject to the North Carolina
+Public Record Law NCGS, Ch 132 and may be disclosed to third parties
+
+From blackotter at juno.com  Sun Mar 14 09:48:08 2010
+From: blackotter at juno.com (blackotter at juno.com)
+Date: Sun, 14 Mar 2010 17:48:08 GMT
+Subject: [trikes] New Tire Recommendations?
+Message-ID: <20100314.104808.18893.0@webmail14.vgs.untd.com>
+
+
+
+---------- Original Message ----------
+From: Michael Ross <michael.e.ross at gmail.com>
+To: "Jules D. Zalon" <jzalon at zalonoffice.com>
+Cc: trikes at bikelist.org
+Subject: Re: [trikes] New Tire Recommendations?
+Date: Sun, 14 Mar 2010 11:23:58 -0500
+
+Jules,
+
+I have always felt that chance plays a large factor in the frequency of
+flats.  I am sure many people change tire make and model because they get
+two flats in close temporal proximity, where it was really just luck.  It is
+in our nature to seek reasons and patterns even before we have sufficient
+data to make valid decisions.
+
+Given that everything I say has to be filtered through the knowledge that I
+may be confusing coincidence with good statistical reasoning.
+
+I believe that the curbside wheel gets more flats because there is more
+trash there than towards the crown of the road.
+
+I think wet roads cause more flats.  The theory here (not my own, but I keep
+it under advisement) is that the water makes slicing cuts easier and glass
+slivers can cause more damage before breaking up. This agrees with another
+observation of mine that I can cut rubber with a blade more easily if I have
+water present - it does seem to lubricate the blade so it cuts more smoothly
+and quickly.
+
+I have more flats in winter time.  I think the roads are dirtier for some
+reason.
+
+ I think I get more flats on trikes than on two wheelers.  But with trikes I
+think it is harder to evade problems (not that I am very attentive).
+
+How a tire is weighted makes a difference - I almost never flatted the front
+tires of my BikeEs which are VERY lightly loaded.
+
+Really thin tires don't get much use on my bikes.  I like fat tires.  But, I
+like them to be soft and flexible.  I sometimes pump them up tight and other
+times not.
+
+(Lot's of variables and differing conditions to be making comparisons, eh?)
+
+Also, I am very non-reactive to flats in terms of giving up on tires and
+changing brands.  And I tend to ride on the same sorts of roads and
+conditions most of the time.  Even so the occurrence of flats seems to
+oscillate for no apparent reason - sometimes more, sometimes less.
+
+How large and high quality is my sample (Mike's flats as a predictor for all
+flats)?  I think I have had maybe a hundred in 10 years.    I remember a
+time when I had a flat on every ride for five rides straight, a couple rides
+had multiple flats.   A few of them were my fault for doing a poor job of
+mounting them.  I don't keep a log so maybe my record keeping is
+suspect.  How good is my memory?  I don't give it that much credit, but this
+a topic that gets cogitated upon for hours on rides.
+
+I like Comp Pools, Primo Comets, and Panaracer Pasela.  I would buy
+Scorchers.  Kenda Kwest have been good to me.  I have tried a variety of
+slicks, and city tires and have no particular beef with any of them.
+
+I hate tires that are hard to mount.  That is probably the main reason why I
+won't buy a tire a second time.  This is not an issue with Greenspeeds and
+their nice rims.  The only rim I know of specifically designed to make
+changing the tire easy.
+
+I would take the cost of replacing a pretty new tire and spend it on patch
+kits and tire irons I like.  A good pump like a Morph can't be beat.
+
+Mike
+
+On Sun, Mar 14, 2010 at 9:27 AM, Jules D. Zalon <jzalon at zalonoffice.com>wrote:
+
+> I must be approaching a world-record: 3 flats on the same wheel in 3 days,
+> each discovered in the morning as I was about to go riding. The flats
+> occurred at different points on the tube, and the holes were small enough
+> not to have caused any loss of pressure during the ride. (No, there is not
+> any glass in my garage!) Each time I removed the tire and carefully checked
+> inside, to make sure that I had not picked up a piece of glass or some other
+> sliver; and each time the inside of the tire was perfectly clean.
+>
+> The suspect is the right front tire of my 8 year-old  Greenspeed GTO with
+> its original Tioga Comp Pool tires (with (@ 7,000 miles) still on the front
+> wheels. During all this time, I think I have had only a handful of flats,
+> all but one on the right front. That makes sense, because that's the tire
+> that is closest to the curb and therefore most likely to pick up the road
+> detritus that lays in wait for unsuspecting cyclists.
+>
+> Perhaps one reason for all these flats is that we have had a tremendous
+> amount of snow here in North Jersey, and the roads -- especially the portion
+> closest to the curb -- are probably filled with the junk that would
+> otherwise be cleaned up by street sweepers. Anyone have any other
+> explanation?
+>
+> In any event, it's probably a good idea to buy some new tires. I have not
+> found much in the way of reviews of different trike tires and wonder if any
+> of you have strong feelings about one tire or the other? Like the new
+> Scorchers.
+>
+> Any comments will be welcomed.
+>
+> Thanks,
+>
+> Jules
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+
+
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+             (919) 513-0418 desk
+              (919) 585-5118 etc
+          michael_ross at ncsu.edu
+        michael.e.ross at gmail.com
+  =============================
+
+
+NC Solar Center : www.ncsc.ncsu.edu
+Professional Directory : www.greenprofessionals.org
+
+"The information in this email is provided by the NC Solar Center at NCSU as
+a public service. The Solar Center strives to provide accurate information,
+but does not warrant or represent the accuracy, usefulness or reliability of
+this information. For specific advice, we always recommend that you consult
+with a professional in the appropriate profession for your needs." Email
+correspondence to and from this address may be subject to the North Carolina
+Public Record Law NCGS, Ch 132 and may be disclosed to third parties
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+i realize that the flats are only on one side but with 7000 miles that tire carcass has got to be getting a little worn.  i can't help but feel that those wear markers have long been passed.  i always replace when either the wear markers are passed or fabric starts to show.  of course when i see fabric i know how lucky i have been to that point.  
+
+what is it about bent riders that we hate to spend money after the initial purchase.  i like to get tires once a year.  something about the smell of new rubber in the color black.
+
+jim werner
+
+____________________________________________________________
+Diet Help
+Cheap Diet Help Tips. Click here.
+http://thirdpartyoffers.juno.com/TGL2131/c?cp=0XfPMHVgHZwb3nx8AdgEPQAAJz1e1CPRsSPvKdzUAXwwCWngAAYAAAAAAAAAAAAAAAAAAADNAAAAAAAAAAAAAAAAAAAYQAAAAAA=
+
+From roblmorris at gmail.com  Sun Mar 14 11:36:37 2010
+From: roblmorris at gmail.com (Bob Morris)
+Date: Sun, 14 Mar 2010 15:36:37 -0400
+Subject: [trikes] New Tire Recommendations?
+In-Reply-To: <67c62c9e1003140923o6c67e86ci49f1acb2d944d991@mail.gmail.com>
+References: <4B9CF244.7010901@zalonoffice.com>
+	<67c62c9e1003140923o6c67e86ci49f1acb2d944d991@mail.gmail.com>
+Message-ID: <2a9f18441003141236u35b454adl8ff427d265ce6486@mail.gmail.com>
+
+Hello Jules
+
+Another opinion.  When I got my GTO I was still recovering from a herniated
+disc condition and found that a smooth as possible ride was needed.  I tried
+Schwalbe, Big Apple, 60mm and have really liked these tires.  Probably have
+4000 miles on these and the center tread is gone, but like you say, I have
+just not wanted to spend the money to replace yet.  I have gotten a few
+flats, but in every case what I dug out of the treads would have gone
+through most tires.   I run these at a very low pressure ( I know Michael
+Ross thinks I am a little crazy for this).  I started using 40psi and about
+1 year ago decided to change to 30psi to see what would happen. Can't tell a
+lot of change, but it does not seem to add perceptible rolling resistance --
+but no real testing has been done.  Schwalbe indicates that the recommended
+low pressure is 22psi.   These tires have a good grip -- it is even
+difficult to push the trike sideways in the garage to get it out of the way.
+
+Middle of last year I had to start riding my mtn bike since I broke a rib in
+my back and the trike reclining position was too painful.  So decided to try
+the Big Apple on the mtn bike.  Worked quite well.  I really liked the quiet
+relative to knobby tires on asphalt.  I was running with 30psi.  I could
+even do easy single track, but would occasionally lose traction on roots and
+muddy areas where a knobby tire is really needed.
+
+Bob
+Cary, NC
+
+
+
+On Sun, Mar 14, 2010 at 12:23 PM, Michael Ross <michael.e.ross at gmail.com>wrote:
+
+> Jules,
+>
+> I have always felt that chance plays a large factor in the frequency of
+> flats.  I am sure many people change tire make and model because they get
+> two flats in close temporal proximity, where it was really just luck.  It
+> is
+> in our nature to seek reasons and patterns even before we have sufficient
+> data to make valid decisions.
+>
+> Given that everything I say has to be filtered through the knowledge that I
+> may be confusing coincidence with good statistical reasoning.
+>
+> I believe that the curbside wheel gets more flats because there is more
+> trash there than towards the crown of the road.
+>
+> I think wet roads cause more flats.  The theory here (not my own, but I
+> keep
+> it under advisement) is that the water makes slicing cuts easier and glass
+> slivers can cause more damage before breaking up. This agrees with another
+> observation of mine that I can cut rubber with a blade more easily if I
+> have
+> water present - it does seem to lubricate the blade so it cuts more
+> smoothly
+> and quickly.
+>
+> I have more flats in winter time.  I think the roads are dirtier for some
+> reason.
+>
+>  I think I get more flats on trikes than on two wheelers.  But with trikes
+> I
+> think it is harder to evade problems (not that I am very attentive).
+>
+> How a tire is weighted makes a difference - I almost never flatted the
+> front
+> tires of my BikeEs which are VERY lightly loaded.
+>
+> Really thin tires don't get much use on my bikes.  I like fat tires.  But,
+> I
+> like them to be soft and flexible.  I sometimes pump them up tight and
+> other
+> times not.
+>
+> (Lot's of variables and differing conditions to be making comparisons, eh?)
+>
+> Also, I am very non-reactive to flats in terms of giving up on tires and
+> changing brands.  And I tend to ride on the same sorts of roads and
+> conditions most of the time.  Even so the occurrence of flats seems to
+> oscillate for no apparent reason - sometimes more, sometimes less.
+>
+> How large and high quality is my sample (Mike's flats as a predictor for
+> all
+> flats)?  I think I have had maybe a hundred in 10 years.    I remember a
+> time when I had a flat on every ride for five rides straight, a couple
+> rides
+> had multiple flats.   A few of them were my fault for doing a poor job of
+> mounting them.  I don't keep a log so maybe my record keeping is
+> suspect.  How good is my memory?  I don't give it that much credit, but
+> this
+> a topic that gets cogitated upon for hours on rides.
+>
+> I like Comp Pools, Primo Comets, and Panaracer Pasela.  I would buy
+> Scorchers.  Kenda Kwest have been good to me.  I have tried a variety of
+> slicks, and city tires and have no particular beef with any of them.
+>
+> I hate tires that are hard to mount.  That is probably the main reason why
+> I
+> won't buy a tire a second time.  This is not an issue with Greenspeeds and
+> their nice rims.  The only rim I know of specifically designed to make
+> changing the tire easy.
+>
+> I would take the cost of replacing a pretty new tire and spend it on patch
+> kits and tire irons I like.  A good pump like a Morph can't be beat.
+>
+> Mike
+>
+> On Sun, Mar 14, 2010 at 9:27 AM, Jules D. Zalon <jzalon at zalonoffice.com
+> >wrote:
+>
+> > I must be approaching a world-record: 3 flats on the same wheel in 3
+> days,
+> > each discovered in the morning as I was about to go riding. The flats
+> > occurred at different points on the tube, and the holes were small enough
+> > not to have caused any loss of pressure during the ride. (No, there is
+> not
+> > any glass in my garage!) Each time I removed the tire and carefully
+> checked
+> > inside, to make sure that I had not picked up a piece of glass or some
+> other
+> > sliver; and each time the inside of the tire was perfectly clean.
+> >
+> > The suspect is the right front tire of my 8 year-old  Greenspeed GTO with
+> > its original Tioga Comp Pool tires (with (@ 7,000 miles) still on the
+> front
+> > wheels. During all this time, I think I have had only a handful of flats,
+> > all but one on the right front. That makes sense, because that's the tire
+> > that is closest to the curb and therefore most likely to pick up the road
+> > detritus that lays in wait for unsuspecting cyclists.
+> >
+> > Perhaps one reason for all these flats is that we have had a tremendous
+> > amount of snow here in North Jersey, and the roads -- especially the
+> portion
+> > closest to the curb -- are probably filled with the junk that would
+> > otherwise be cleaned up by street sweepers. Anyone have any other
+> > explanation?
+> >
+> > In any event, it's probably a good idea to buy some new tires. I have not
+> > found much in the way of reviews of different trike tires and wonder if
+> any
+> > of you have strong feelings about one tire or the other? Like the new
+> > Scorchers.
+> >
+> > Any comments will be welcomed.
+> >
+> > Thanks,
+> >
+> > Jules
+> > --
+> > This message comes to you via the trikes at bikelist.org mailing list,
+> > sponsored by http://www.HuPI.org/
+> > Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> > subscription.
+> >
+>
+>
+>
+> --
+>                   Michael E. Ross
+>     NC Solar Center Test Laboratory
+> =================================
+>             (919) 513-0418 desk
+>              (919) 585-5118 etc
+>          michael_ross at ncsu.edu
+>        michael.e.ross at gmail.com
+>  =============================
+>
+>
+> NC Solar Center : www.ncsc.ncsu.edu
+> Professional Directory : www.greenprofessionals.org
+>
+> "The information in this email is provided by the NC Solar Center at NCSU
+> as
+> a public service. The Solar Center strives to provide accurate information,
+> but does not warrant or represent the accuracy, usefulness or reliability
+> of
+> this information. For specific advice, we always recommend that you consult
+> with a professional in the appropriate profession for your needs." Email
+> correspondence to and from this address may be subject to the North
+> Carolina
+> Public Record Law NCGS, Ch 132 and may be disclosed to third parties
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+
+From g.edgar at bigpond.com  Sun Mar 14 13:03:34 2010
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Mon, 15 Mar 2010 07:03:34 +1000
+Subject: [trikes] New Tire Recommendations?
+In-Reply-To: <2a9f18441003141236u35b454adl8ff427d265ce6486@mail.gmail.com>
+References: <4B9CF244.7010901@zalonoffice.com>	<67c62c9e1003140923o6c67e86ci49f1acb2d944d991@mail.gmail.com>
+	<2a9f18441003141236u35b454adl8ff427d265ce6486@mail.gmail.com>
+Message-ID: <000c01cac3b9$cf169450$6d43bcf0$@edgar@bigpond.com>
+
+A few things no one has mentioned. 
+
+Tyre changes can make quite a large difference to handling, especially in
+steering response.  One of my trikes I built and set-up on one type of tyre,
+and when I changed to another type of tyre the handling was quite twitchy -
+so I went back to the first tyre brand and model. 
+
+I think suspension massively reduces the chance of punctures - especially
+pinch-flats. On my suspension machines I have only ever had one puncture,
+and that includes running at times at 20 psi tyre pressures.
+
+
+Regards,
+
+Julian Edgar
+
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of Bob Morris
+Sent: Monday, 15 March 2010 5:37 AM
+To: trikes at bikelist.org
+Subject: Re: [trikes] New Tire Recommendations?
+
+Hello Jules
+
+Another opinion.  When I got my GTO I was still recovering from a herniated
+disc condition and found that a smooth as possible ride was needed.  I tried
+Schwalbe, Big Apple, 60mm and have really liked these tires.  Probably have
+4000 miles on these and the center tread is gone, but like you say, I have
+just not wanted to spend the money to replace yet.  I have gotten a few
+flats, but in every case what I dug out of the treads would have gone
+through most tires.   I run these at a very low pressure ( I know Michael
+Ross thinks I am a little crazy for this).  I started using 40psi and about
+1 year ago decided to change to 30psi to see what would happen. Can't tell a
+lot of change, but it does not seem to add perceptible rolling resistance --
+but no real testing has been done.  Schwalbe indicates that the recommended
+low pressure is 22psi.   These tires have a good grip -- it is even
+difficult to push the trike sideways in the garage to get it out of the way.
+
+Middle of last year I had to start riding my mtn bike since I broke a rib in
+my back and the trike reclining position was too painful.  So decided to try
+the Big Apple on the mtn bike.  Worked quite well.  I really liked the quiet
+relative to knobby tires on asphalt.  I was running with 30psi.  I could
+even do easy single track, but would occasionally lose traction on roots and
+muddy areas where a knobby tire is really needed.
+
+Bob
+Cary, NC
+
+
+
+On Sun, Mar 14, 2010 at 12:23 PM, Michael Ross
+<michael.e.ross at gmail.com>wrote:
+
+> Jules,
+>
+> I have always felt that chance plays a large factor in the frequency of
+> flats.  I am sure many people change tire make and model because they get
+> two flats in close temporal proximity, where it was really just luck.  It
+> is
+> in our nature to seek reasons and patterns even before we have sufficient
+> data to make valid decisions.
+>
+> Given that everything I say has to be filtered through the knowledge that
+I
+> may be confusing coincidence with good statistical reasoning.
+>
+> I believe that the curbside wheel gets more flats because there is more
+> trash there than towards the crown of the road.
+>
+> I think wet roads cause more flats.  The theory here (not my own, but I
+> keep
+> it under advisement) is that the water makes slicing cuts easier and glass
+> slivers can cause more damage before breaking up. This agrees with another
+> observation of mine that I can cut rubber with a blade more easily if I
+> have
+> water present - it does seem to lubricate the blade so it cuts more
+> smoothly
+> and quickly.
+>
+> I have more flats in winter time.  I think the roads are dirtier for some
+> reason.
+>
+>  I think I get more flats on trikes than on two wheelers.  But with trikes
+> I
+> think it is harder to evade problems (not that I am very attentive).
+>
+> How a tire is weighted makes a difference - I almost never flatted the
+> front
+> tires of my BikeEs which are VERY lightly loaded.
+>
+> Really thin tires don't get much use on my bikes.  I like fat tires.  But,
+> I
+> like them to be soft and flexible.  I sometimes pump them up tight and
+> other
+> times not.
+>
+> (Lot's of variables and differing conditions to be making comparisons,
+eh?)
+>
+> Also, I am very non-reactive to flats in terms of giving up on tires and
+> changing brands.  And I tend to ride on the same sorts of roads and
+> conditions most of the time.  Even so the occurrence of flats seems to
+> oscillate for no apparent reason - sometimes more, sometimes less.
+>
+> How large and high quality is my sample (Mike's flats as a predictor for
+> all
+> flats)?  I think I have had maybe a hundred in 10 years.    I remember a
+> time when I had a flat on every ride for five rides straight, a couple
+> rides
+> had multiple flats.   A few of them were my fault for doing a poor job of
+> mounting them.  I don't keep a log so maybe my record keeping is
+> suspect.  How good is my memory?  I don't give it that much credit, but
+> this
+> a topic that gets cogitated upon for hours on rides.
+>
+> I like Comp Pools, Primo Comets, and Panaracer Pasela.  I would buy
+> Scorchers.  Kenda Kwest have been good to me.  I have tried a variety of
+> slicks, and city tires and have no particular beef with any of them.
+>
+> I hate tires that are hard to mount.  That is probably the main reason why
+> I
+> won't buy a tire a second time.  This is not an issue with Greenspeeds and
+> their nice rims.  The only rim I know of specifically designed to make
+> changing the tire easy.
+>
+> I would take the cost of replacing a pretty new tire and spend it on patch
+> kits and tire irons I like.  A good pump like a Morph can't be beat.
+>
+> Mike
+>
+> On Sun, Mar 14, 2010 at 9:27 AM, Jules D. Zalon <jzalon at zalonoffice.com
+> >wrote:
+>
+> > I must be approaching a world-record: 3 flats on the same wheel in 3
+> days,
+> > each discovered in the morning as I was about to go riding. The flats
+> > occurred at different points on the tube, and the holes were small
+enough
+> > not to have caused any loss of pressure during the ride. (No, there is
+> not
+> > any glass in my garage!) Each time I removed the tire and carefully
+> checked
+> > inside, to make sure that I had not picked up a piece of glass or some
+> other
+> > sliver; and each time the inside of the tire was perfectly clean.
+> >
+> > The suspect is the right front tire of my 8 year-old  Greenspeed GTO
+with
+> > its original Tioga Comp Pool tires (with (@ 7,000 miles) still on the
+> front
+> > wheels. During all this time, I think I have had only a handful of
+flats,
+> > all but one on the right front. That makes sense, because that's the
+tire
+> > that is closest to the curb and therefore most likely to pick up the
+road
+> > detritus that lays in wait for unsuspecting cyclists.
+> >
+> > Perhaps one reason for all these flats is that we have had a tremendous
+> > amount of snow here in North Jersey, and the roads -- especially the
+> portion
+> > closest to the curb -- are probably filled with the junk that would
+> > otherwise be cleaned up by street sweepers. Anyone have any other
+> > explanation?
+> >
+> > In any event, it's probably a good idea to buy some new tires. I have
+not
+> > found much in the way of reviews of different trike tires and wonder if
+> any
+> > of you have strong feelings about one tire or the other? Like the new
+> > Scorchers.
+> >
+> > Any comments will be welcomed.
+> >
+> > Thanks,
+> >
+> > Jules
+> > --
+> > This message comes to you via the trikes at bikelist.org mailing list,
+> > sponsored by http://www.HuPI.org/
+> > Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> > subscription.
+> >
+>
+>
+>
+> --
+>                   Michael E. Ross
+>     NC Solar Center Test Laboratory
+> =================================
+>             (919) 513-0418 desk
+>              (919) 585-5118 etc
+>          michael_ross at ncsu.edu
+>        michael.e.ross at gmail.com
+>  =============================
+>
+>
+> NC Solar Center : www.ncsc.ncsu.edu
+> Professional Directory : www.greenprofessionals.org
+>
+> "The information in this email is provided by the NC Solar Center at NCSU
+> as
+> a public service. The Solar Center strives to provide accurate
+information,
+> but does not warrant or represent the accuracy, usefulness or reliability
+> of
+> this information. For specific advice, we always recommend that you
+consult
+> with a professional in the appropriate profession for your needs." Email
+> correspondence to and from this address may be subject to the North
+> Carolina
+> Public Record Law NCGS, Ch 132 and may be disclosed to third parties
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+>
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+
+From bourbonman at cfl.rr.com  Sun Mar 14 13:06:13 2010
+From: bourbonman at cfl.rr.com (Ed Logan)
+Date: Sun, 14 Mar 2010 17:06:13 -0400
+Subject: [trikes] New Tire Recommendations
+Message-ID: <8383CA3995A040CAA7690B08EA5141B5@EdPC>
+
+I have used Scorchers with Kelvar on my Kettwiesel.  No flats in 6000 miles.  On all my recumbents I have always tried to get tires with Kelvar.  When I couldn't I used tire liners.  Over the years I have had very few flats.  I have a 3 speed hub on the rear of my Gold Rush and it makes for real problems if I would have to fix a flat so I am running that with a Slime tube.  One interesting side light is that with the Slime tube I don't have to add air very often.  Kind of nice.
+
+Ed Logan
+GRR,Kettwiesel and Vision Metro
+
+From rob at wrhpv.com  Sun Mar 14 13:10:07 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Sun, 14 Mar 2010 21:10:07 +0000
+Subject: [trikes] New Tire Recommendations?
+References: <BDA5F9A8-40A2-4902-94BC-BB802FB34A19@wrhpv.com>
+Message-ID: <00C892BD-E676-473A-8C37-EBB0F1D515BA@wrhpv.com>
+
+That is an interesting note...
+Curiously I concur - I didn't have a flat on my Quest...
+You could be on to something.
+I never ride tyres soft enough for pinch flats (that is what pumps with gauges are for).
+Struggling to think why suspension should make a difference to puncture rate tho.
+Rob
+
+
+
+On 14 Mar 2010, at 21:03, Julian Edgar wrote:
+
+> A few things no one has mentioned. 
+> 
+> Tyre changes can make quite a large difference to handling, especially in
+> steering response.  One of my trikes I built and set-up on one type of tyre,
+> and when I changed to another type of tyre the handling was quite twitchy -
+> so I went back to the first tyre brand and model. 
+> 
+> I think suspension massively reduces the chance of punctures - especially
+> pinch-flats. On my suspension machines I have only ever had one puncture,
+> and that includes running at times at 20 psi tyre pressures.
+> 
+> 
+> Regards,
+> 
+> Julian Edgar
+> 
+> 
+> 
+> -----Original Message-----
+> From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+> Behalf Of Bob Morris
+> Sent: Monday, 15 March 2010 5:37 AM
+> To: trikes at bikelist.org
+> Subject: Re: [trikes] New Tire Recommendations?
+> 
+> Hello Jules
+> 
+> Another opinion.  When I got my GTO I was still recovering from a herniated
+> disc condition and found that a smooth as possible ride was needed.  I tried
+> Schwalbe, Big Apple, 60mm and have really liked these tires.  Probably have
+> 4000 miles on these and the center tread is gone, but like you say, I have
+> just not wanted to spend the money to replace yet.  I have gotten a few
+> flats, but in every case what I dug out of the treads would have gone
+> through most tires.   I run these at a very low pressure ( I know Michael
+> Ross thinks I am a little crazy for this).  I started using 40psi and about
+> 1 year ago decided to change to 30psi to see what would happen. Can't tell a
+> lot of change, but it does not seem to add perceptible rolling resistance --
+> but no real testing has been done.  Schwalbe indicates that the recommended
+> low pressure is 22psi.   These tires have a good grip -- it is even
+> difficult to push the trike sideways in the garage to get it out of the way.
+> 
+> Middle of last year I had to start riding my mtn bike since I broke a rib in
+> my back and the trike reclining position was too painful.  So decided to try
+> the Big Apple on the mtn bike.  Worked quite well.  I really liked the quiet
+> relative to knobby tires on asphalt.  I was running with 30psi.  I could
+> even do easy single track, but would occasionally lose traction on roots and
+> muddy areas where a knobby tire is really needed.
+> 
+> Bob
+> Cary, NC
+> 
+> 
+> 
+> On Sun, Mar 14, 2010 at 12:23 PM, Michael Ross
+> <michael.e.ross at gmail.com>wrote:
+> 
+>> Jules,
+>> 
+>> I have always felt that chance plays a large factor in the frequency of
+>> flats.  I am sure many people change tire make and model because they get
+>> two flats in close temporal proximity, where it was really just luck.  It
+>> is
+>> in our nature to seek reasons and patterns even before we have sufficient
+>> data to make valid decisions.
+>> 
+>> Given that everything I say has to be filtered through the knowledge that
+> I
+>> may be confusing coincidence with good statistical reasoning.
+>> 
+>> I believe that the curbside wheel gets more flats because there is more
+>> trash there than towards the crown of the road.
+>> 
+>> I think wet roads cause more flats.  The theory here (not my own, but I
+>> keep
+>> it under advisement) is that the water makes slicing cuts easier and glass
+>> slivers can cause more damage before breaking up. This agrees with another
+>> observation of mine that I can cut rubber with a blade more easily if I
+>> have
+>> water present - it does seem to lubricate the blade so it cuts more
+>> smoothly
+>> and quickly.
+>> 
+>> I have more flats in winter time.  I think the roads are dirtier for some
+>> reason.
+>> 
+>> I think I get more flats on trikes than on two wheelers.  But with trikes
+>> I
+>> think it is harder to evade problems (not that I am very attentive).
+>> 
+>> How a tire is weighted makes a difference - I almost never flatted the
+>> front
+>> tires of my BikeEs which are VERY lightly loaded.
+>> 
+>> Really thin tires don't get much use on my bikes.  I like fat tires.  But,
+>> I
+>> like them to be soft and flexible.  I sometimes pump them up tight and
+>> other
+>> times not.
+>> 
+>> (Lot's of variables and differing conditions to be making comparisons,
+> eh?)
+>> 
+>> Also, I am very non-reactive to flats in terms of giving up on tires and
+>> changing brands.  And I tend to ride on the same sorts of roads and
+>> conditions most of the time.  Even so the occurrence of flats seems to
+>> oscillate for no apparent reason - sometimes more, sometimes less.
+>> 
+>> How large and high quality is my sample (Mike's flats as a predictor for
+>> all
+>> flats)?  I think I have had maybe a hundred in 10 years.    I remember a
+>> time when I had a flat on every ride for five rides straight, a couple
+>> rides
+>> had multiple flats.   A few of them were my fault for doing a poor job of
+>> mounting them.  I don't keep a log so maybe my record keeping is
+>> suspect.  How good is my memory?  I don't give it that much credit, but
+>> this
+>> a topic that gets cogitated upon for hours on rides.
+>> 
+>> I like Comp Pools, Primo Comets, and Panaracer Pasela.  I would buy
+>> Scorchers.  Kenda Kwest have been good to me.  I have tried a variety of
+>> slicks, and city tires and have no particular beef with any of them.
+>> 
+>> I hate tires that are hard to mount.  That is probably the main reason why
+>> I
+>> won't buy a tire a second time.  This is not an issue with Greenspeeds and
+>> their nice rims.  The only rim I know of specifically designed to make
+>> changing the tire easy.
+>> 
+>> I would take the cost of replacing a pretty new tire and spend it on patch
+>> kits and tire irons I like.  A good pump like a Morph can't be beat.
+>> 
+>> Mike
+>> 
+>> On Sun, Mar 14, 2010 at 9:27 AM, Jules D. Zalon <jzalon at zalonoffice.com
+>>> wrote:
+>> 
+>>> I must be approaching a world-record: 3 flats on the same wheel in 3
+>> days,
+>>> each discovered in the morning as I was about to go riding. The flats
+>>> occurred at different points on the tube, and the holes were small
+> enough
+>>> not to have caused any loss of pressure during the ride. (No, there is
+>> not
+>>> any glass in my garage!) Each time I removed the tire and carefully
+>> checked
+>>> inside, to make sure that I had not picked up a piece of glass or some
+>> other
+>>> sliver; and each time the inside of the tire was perfectly clean.
+>>> 
+>>> The suspect is the right front tire of my 8 year-old  Greenspeed GTO
+> with
+>>> its original Tioga Comp Pool tires (with (@ 7,000 miles) still on the
+>> front
+>>> wheels. During all this time, I think I have had only a handful of
+> flats,
+>>> all but one on the right front. That makes sense, because that's the
+> tire
+>>> that is closest to the curb and therefore most likely to pick up the
+> road
+>>> detritus that lays in wait for unsuspecting cyclists.
+>>> 
+>>> Perhaps one reason for all these flats is that we have had a tremendous
+>>> amount of snow here in North Jersey, and the roads -- especially the
+>> portion
+>>> closest to the curb -- are probably filled with the junk that would
+>>> otherwise be cleaned up by street sweepers. Anyone have any other
+>>> explanation?
+>>> 
+>>> In any event, it's probably a good idea to buy some new tires. I have
+> not
+>>> found much in the way of reviews of different trike tires and wonder if
+>> any
+>>> of you have strong feelings about one tire or the other? Like the new
+>>> Scorchers.
+>>> 
+>>> Any comments will be welcomed.
+>>> 
+>>> Thanks,
+>>> 
+>>> Jules
+>>> --
+>>> This message comes to you via the trikes at bikelist.org mailing list,
+>>> sponsored by http://www.HuPI.org/
+>>> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+>>> subscription.
+>>> 
+>> 
+>> 
+>> 
+>> --
+>>                 Michael E. Ross
+>>   NC Solar Center Test Laboratory
+>> =================================
+>>           (919) 513-0418 desk
+>>            (919) 585-5118 etc
+>>        michael_ross at ncsu.edu
+>>      michael.e.ross at gmail.com
+>> =============================
+>> 
+>> 
+>> NC Solar Center : www.ncsc.ncsu.edu
+>> Professional Directory : www.greenprofessionals.org
+>> 
+>> "The information in this email is provided by the NC Solar Center at NCSU
+>> as
+>> a public service. The Solar Center strives to provide accurate
+> information,
+>> but does not warrant or represent the accuracy, usefulness or reliability
+>> of
+>> this information. For specific advice, we always recommend that you
+> consult
+>> with a professional in the appropriate profession for your needs." Email
+>> correspondence to and from this address may be subject to the North
+>> Carolina
+>> Public Record Law NCGS, Ch 132 and may be disclosed to third parties
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list,
+>> sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+>> subscription.
+>> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+From johnturvey at onetel.com  Sun Mar 14 14:00:53 2010
+From: johnturvey at onetel.com (John Turvey)
+Date: Sun, 14 Mar 2010 22:00:53 +0000
+Subject: [trikes] New Tire Recommendations?
+In-Reply-To: <2a9f18441003141236u35b454adl8ff427d265ce6486@mail.gmail.com>
+Message-ID: <0F1495AF-2FB5-11DF-9D0F-00306566DC3C@onetel.com>
+
+On my Greenspeed (20 inch 406 wheels) I used Comp Pools until 2008 - on 
+the front the first set lasted 4,500 miles, the second set 4,750 miles 
+and the third set 5,350 miles.  On the back I got 2,000 miles, 5,000 
+miles, 3,700 miles and 1,900 miles (the lower mileages were retired due 
+to BIG glass cuts).  I can no longer get Comp Pools so am currently 
+using Schawlbe Marathons (the standard Marathon) and have about 2,000 
+miles so far. The comp Pools are a nice tyre - I normally only got lots 
+of punctures towards the end - where I live in NE England the urban 
+roads and urban cycle tracks receive a regular top dressing of broken 
+glass, so I wish I could get more Comp Pools.
+
+On my Trice XXL (20 inch 406 wheels) I have used Schawlbe  Marathon 
+Slicks (no longer made) - 3,000 and 4,000 miles for two front wheel 
+sets, and 1,700, 2,300, 2,900 and 2,300 miles on the back - the largest 
+mileages (front and back) was too far - I suffered far too many 
+punctures for the last 500 miles or so but was away on a tour.  I then 
+put some rubbish tyres on the front and the final Slick on the back and 
+replaced them all with Greenspeed Scorchers the next summer before 
+setting off on a tour to France - I suffered more punctures than the 
+other 7 people on the tour put together - and the Scorchers were a very 
+very (VERY) tight fit on the Trice rims - after 2,100 miles they were 
+worn out (I suspect that the Trice Rims are slightly oversize to keep 
+tires on, while the Greenspeed Scorcher tyres are slightly undersize to 
+keep them on - in combination the result is a nightmare).  My next 
+tyres were Schawlbe  Marathon Racers - these are a nice fast tyre and 
+pretty good for punctures when new - I have had mileages of 3,800, 
+2,400 and 2,000 (on all three wheels) from Racers.  Last summer I ran a 
+set of Schawlbe Kojaks on  my XXL - these are very light and very fast 
+tyres -I only had 1 puncture but they only lasted 1,400 miles and there 
+was very little rubber (if any) left in the centre by then.  For the 
+last 200 miles I have being using Schawlbe Marathon Supremes - these 
+seem to be good, but too soon to say really.
+
+On my Trice Micro (16 inch 3349 wheels), I started with Brompton tyres 
+and took them off after 3,600 miles because I got fed up with the lack 
+of grip - if approaching a road junction where I might have to stop, if 
+it was wet it was advisable to start slowing down well in advance (half 
+a mile or so) as the result of applying the brakes was that the wheels 
+stopped rotating - no other effect at all on speed was apparent (may be 
+a slight exaggeration ).  I then ran Schawlbe Stelvios on the front and 
+a standard Schawlbe Marathon on the back - the Stelvios (a very thin 
+tyre which are no longer made) gave mileages of 1,200, 1,300 and 1,100 
+miles on the left wheel and 2,100 and 1,600 on the right wheel.  On the 
+back the Marathons gave mileages of 2,400 and more than 1,300 (tyre 
+transfered to my Brompton).  Since then I have being using Greenspeed 
+Scorchers - unlike with the 406 tyres on my XXL, on my Micro there is 
+no problem fitting them and I have not suffered excessive punctures - 
+on the front I have had 3,100 miles from the first set - the second set 
+is still in use with 1,900 miles so far..  On the back there are 
+clearance problems - the gear mech is VERY close to the ground and to 
+the tyre - I have destroyed two Scorchers - the first after a rear 
+wheel puncture - I got about 1 mile before BIG BANG and the tyre failed 
+- the gear mech had grounded after the first puncture and been bent, so 
+in the lowest gear the mech was trying to run inside the tyre - not a 
+good idea - and the second after a spoke broke and the wheel warped so 
+the mech was just touching the tyre in low gear - and I had a faulty 
+tyre as well (it failed on the left side-wall, so the gear mech 
+definitely did not cause that - but was replaced by Greenspeed with no 
+quibbles) - so cannot give a tyre life for the rear wheel yet.
+
+What I did not say above is that the worst experience I have had for 
+punctures was when I was using the Schawlbe Marathons on my Greenspeed 
+- I got them in Belgium and used them for 1,100 miles in Belgium, 
+Netherlands and England with no problems but when I spent six days on a 
+cycle holiday in Shropshire cycling 300 miles, I had 16 punctures - and 
+I had a further 4 puncture on the 250 mile ride home - whenever I could 
+find the cause of a puncture, it was a thorn - the farmers in 
+Shropshire were busy cutting their hedges and I suspect the 4 punctures 
+on the way home were due to thorns which took a while longer to work 
+their way through to the inner tube.
+
+Tyre life and puncture numbers is very much down to where you ride - my 
+worst tyres lives and (apart from the French trip and the Shropshire 
+holiday - see above) most numerous punctures were on my Brompton when I 
+worked - most days I used it for a train/cycle commute, cycling about 
+20 miles a week - but most of that was along the quayside in Newcastle 
+passing numerous pubs and the resultant broken glass - since I stopped 
+working I have had hardly any punctures on my Brompton and tyres seem 
+to last many times longer - but I rarely cycle along the quayside now.
+
+John Turvey
+
+
+From SerxnerLa at aol.com  Sun Mar 14 15:41:32 2010
+From: SerxnerLa at aol.com (SerxnerLa at aol.com)
+Date: Sun, 14 Mar 2010 19:41:32 EDT
+Subject: [trikes] trikes Digest, Vol 68, Issue 5
+Message-ID: <2210f.6c1607fb.38cece2c@aol.com>
+
+I have had good luck with the comp pools on my GTO and Tandem  Greenspeeds. 
+ My newest Greenspeed came with scorchers and I found it  extremely 
+difficult to get them off the rim of the tire.  I switched to  comppools ( I had a 
+stockpile) and no problems.  It may just be the  particular rims, but 
+scorchers are not for my trikes.
+ 
+Keith
+
+From jzalon at zalonoffice.com  Sun Mar 14 17:56:06 2010
+From: jzalon at zalonoffice.com (Jules D. Zalon)
+Date: Sun, 14 Mar 2010 21:56:06 -0400
+Subject: [trikes] Tires
+Message-ID: <4B9D93B6.8050706@zalonoffice.com>
+
+Thanks for the comment, Bob. 22 lbs? That's a bit too soft for me, 
+although I haven't spent a lot of time pumping up the trike tires. I 
+generally pump them up to around 75-80 psi; then leave them alone for a 
+month or so. Eventually I check and find them @ 40, and then pump them 
+up again. Interestingly, the 3 flats followed immediately on the heels 
+of my pumping them back up to 80 psi. I guess no surprise there, since 
+really hard tires will attack any shard they find along the roadway.
+
+Cheers.
+
+Jules
+
+From michael.e.ross at gmail.com  Sun Mar 14 18:23:53 2010
+From: michael.e.ross at gmail.com (Michael Ross)
+Date: Sun, 14 Mar 2010 21:23:53 -0500
+Subject: [trikes] New Tire Recommendations?
+In-Reply-To: <00C892BD-E676-473A-8C37-EBB0F1D515BA@wrhpv.com>
+References: <BDA5F9A8-40A2-4902-94BC-BB802FB34A19@wrhpv.com> 
+	<00C892BD-E676-473A-8C37-EBB0F1D515BA@wrhpv.com>
+Message-ID: <67c62c9e1003141923t1bf6730aj3bade722dcf93b28@mail.gmail.com>
+
+That isn't obvious, is it?
+
+Because the suspension gives a bit - it is as if you have contacted the
+poking thing at a slower speed.  But do I believe this really makes a
+different when we are talking about a sliver of glass?  I am not sure I do.
+
+
+IMO Suspension should reduce some snakebite flats, but not punctures or
+slices.
+
+Mike
+
+On Sun, Mar 14, 2010 at 4:10 PM, Rob Hague
+>
+> Struggling to think why suspension should make a difference to puncture
+> rate tho.
+> Rob
+>
+>
+>
+-- 
+                   Michael E. Ross
+     NC Solar Center Test Laboratory
+=================================
+             (919) 513-0418 desk
+              (919) 585-5118 etc
+          michael_ross at ncsu.edu
+        michael.e.ross at gmail.com
+  =============================
+
+
+NC Solar Center : www.ncsc.ncsu.edu
+Professional Directory : www.greenprofessionals.org
+
+"The information in this email is provided by the NC Solar Center at NCSU as
+a public service. The Solar Center strives to provide accurate information,
+but does not warrant or represent the accuracy, usefulness or reliability of
+this information. For specific advice, we always recommend that you consult
+with a professional in the appropriate profession for your needs." Email
+correspondence to and from this address may be subject to the North Carolina
+Public Record Law NCGS, Ch 132 and may be disclosed to third parties
+
+From jzalon at zalonoffice.com  Sun Mar 14 18:26:36 2010
+From: jzalon at zalonoffice.com (Jules D. Zalon)
+Date: Sun, 14 Mar 2010 22:26:36 -0400
+Subject: [trikes] So much information!
+Message-ID: <4B9D9ADC.9030801@zalonoffice.com>
+
+Thanks to everyone who responded to my tire inquiry. The book will be 
+out in a few months!
+
+No, seriously, I truly enjoyed reading the contributions -- all of them. 
+Clearly, there were four contributing factors: 1) the roadway was full 
+of detritus from the snow and the failure of the towns to clean the 
+streets; (2) the right front tire was running right through the junk; 
+(3) I had just pumped the tires up to 80 psi (failed to mention that . . 
+. Sorry!) and (4) I had had no flats in over a year, so statistically my 
+time was up.
+
+Now that spring is in the air here in West Orange, N.J., maybe the towns 
+will start sweeping the roads once more. Until then, I may just ride a 
+bit farther out in the road, at least until a car is about to overtake 
+me. Actually, since I alternate between my GTO and an upright racer, I 
+may just ride the upright a bit more until the roads get cleaner.
+
+But it hasn't been all that bad: look at all the practice I've gotten 
+fixing flats. I don't even have to remove the wheel: just tip the trike 
+over on its side, remove the tube, fix it or install a new one and push 
+the tire back onto the rim.
+
+Cheers,
+
+Jules
+
+From rob at wrhpv.com  Mon Mar 15 12:05:28 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Mon, 15 Mar 2010 20:05:28 +0000
+Subject: [trikes] So much information!
+In-Reply-To: <4B9D9ADC.9030801@zalonoffice.com>
+References: <4B9D9ADC.9030801@zalonoffice.com>
+Message-ID: <A92E1C86-095C-4C4A-83F8-4EBB6C8CF7EF@wrhpv.com>
+
+Ah, a clue! The rocksalt used here sometimes has small quartz needles in it that go straight through bike tyres!
+If your snow is only just clearing and leaving piles of the stuff around....
+
+Rob
+
+
+On 15 Mar 2010, at 02:26, Jules D. Zalon wrote:
+
+> Thanks to everyone who responded to my tire inquiry. The book will be out in a few months!
+> 
+> No, seriously, I truly enjoyed reading the contributions -- all of them. Clearly, there were four contributing factors: 1) the roadway was full of detritus from the snow and the failure of the towns to clean the streets; (2) the right front tire was running right through the junk; (3) I had just pumped the tires up to 80 psi (failed to mention that . . . Sorry!) and (4) I had had no flats in over a year, so statistically my time was up.
+> 
+> Now that spring is in the air here in West Orange, N.J., maybe the towns will start sweeping the roads once more. Until then, I may just ride a bit farther out in the road, at least until a car is about to overtake me. Actually, since I alternate between my GTO and an upright racer, I may just ride the upright a bit more until the roads get cleaner.
+> 
+> But it hasn't been all that bad: look at all the practice I've gotten fixing flats. I don't even have to remove the wheel: just tip the trike over on its side, remove the tube, fix it or install a new one and push the tire back onto the rim.
+> 
+> Cheers,
+> 
+> Jules
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+

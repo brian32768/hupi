@@ -1,0 +1,104 @@
+From sstrand at u.washington.edu  Mon Oct 19 00:40:16 2009
+From: sstrand at u.washington.edu (Stuart Strand)
+Date: Mon, 19 Oct 2009 00:40:16 -0700
+Subject: [hpv] Google Street View trike
+In-Reply-To: <619318.84435.qm@web32703.mail.mud.yahoo.com>
+References: <mailman.15.1255719601.93931.hpv-forsale@bikelist.org>
+	<619318.84435.qm@web32703.mail.mud.yahoo.com>
+Message-ID: <0DE3049E0E5D3748A653E1CB1600673E0CBDA631CD@sdc-mbx-01.exchange.washington.edu>
+
+Hah!  I came across this contraption on the Burke Gilman Trail in Seattle WA about a month ago.  Fabulous!  A large van with a flatbed trailer was just pulling up to load it and take it up the steep hill adjacent.  Absolutely required stopping and staring!  For once my Thys Rowingbike was rendered dull and ordinary.  
+
+? = Stuart =
+
+Stuart E. Strand
+sstrand at u.washington.edu
+167 Wilcox Hall, Box 352700
+Univ. Washington, Seattle, WA 98195
+voice 206-543-5350
+fax 206-685-3836
+http://faculty.washington.edu/sstrand/ 
+
+-----Original Message-----
+From: hpv-bounces at bikelist.org [mailto:hpv-bounces at bikelist.org] On Behalf Of Cornel.Ormsby
+Sent: Saturday, October 17, 2009 10:53 AM
+To: hpv at bikelist.org
+Subject: [hpv] Google Street View trike
+
+I just saw this today in the news: 
+ 
+>> a mechanical masterpiece made of 3 bicycle wheels, 
+>> a mounted Street View camera, and a very athletic cyclist 
+ 
+http://services.google.com/fb/forms/streetviewussuggestions/
+
+
+
+      
+--
+This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+From hbb at cs.cmu.edu  Sun Oct 25 07:39:12 2009
+From: hbb at cs.cmu.edu (Ben Brown)
+Date: Sun, 25 Oct 2009 11:39:12 -0400
+Subject: [hpv] Magnets for triggering stop lights
+Message-ID: <4AE47120.2070003@cs.cmu.edu>
+
+Here's a simple technique claimed to trigger inductive sensors for 
+traffic signals. Has anyone tried this?
+
+http://www.magnet4less.com/product_info.php?products_id=754
+
+	Ben
+
+From fulton at exwis.com  Sun Oct 25 10:44:28 2009
+From: fulton at exwis.com (Fulton Martin)
+Date: Sun, 25 Oct 2009 11:44:28 -0700
+Subject: [hpv] Magnets for triggering stop lights
+In-Reply-To: <4AE47120.2070003@cs.cmu.edu>
+References: <4AE47120.2070003@cs.cmu.edu>
+Message-ID: <4AE49C8C.9070901@exwis.com>
+
+I call B.S. Since the field falls off as the cube of the distance, 
+sticking the magnet 10" from the pavement isn't going to be detectable 
+at all. Better you place your wheels over the wires of the loop(s). See 
+<http://www.humantransport.org/bicycledriving/library/signals/detection.htm> 
+for more information.
+
+Ben Brown wrote:
+> Here's a simple technique claimed to trigger inductive sensors for 
+> traffic signals. Has anyone tried this?
+> 
+> http://www.magnet4less.com/product_info.php?products_id=754
+> 
+>     Ben
+
+-- 
+Fulton Martin
+__=o&o>__
+fulton at exwis.com
+San Diego, CA
+N32 43.950, W117 05.867
+
+From lioninoil at yahoo.com  Sun Oct 25 18:36:34 2009
+From: lioninoil at yahoo.com (Cornel.Ormsby)
+Date: Sun, 25 Oct 2009 19:36:34 -0700
+Subject: [hpv] Magnets for triggering stop lights
+In-Reply-To: <mailman.17.1256500803.37475.hpv@bikelist.org>
+Message-ID: <69828.40760.qm@web32701.mail.mud.yahoo.com>
+
+Fulton Martin wrote:
+ 
+> See 
+http://www.humantransport.org/bicycledriving/library/signals/detection.htm
+ 
+The salient phrase here is "if they are properly configured and adjusted." This seems frequently not to be the case.
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+
+      
+

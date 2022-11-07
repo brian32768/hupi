@@ -1,0 +1,1707 @@
+From twsherman at southslope.net  Tue Oct  5 04:12:56 2010
+From: twsherman at southslope.net (Tom Sherman)
+Date: Tue, 05 Oct 2010 06:12:56 -0500
+Subject: [trikes] Earth Cycles
+Message-ID: <4CAB0838.8010901@southslope.net>
+
+  For those who remember Earth Cycles from the mid 1990's to ca 2002, 
+the remaining physical assets have been sold.
+
+For those curious as to what the welding jig for a trike looks like, 
+here is a photo [1]: 
+<http://xa.yimg.com/kq/groups/3434914/hr/859418448/name/DF+Welding+Jig.jpg> 
+or 
+<http://groups.yahoo.com/group/ecog/photos/album/1658930801/pic/859418448/view?picmode=&mode=tn&order=ordinal&start=1&count=20&dir=asc>.
+
+Here is what I believe was the prototype for the Dragonflyer: 
+<http://groups.yahoo.com/group/ecog/photos/album/1220201701/pic/list>.
+
+[1] Unfortunately shot in poor lighting inside my garage at night.
+
+Tom Sherman - Garage full of Earth Cycles stuff
+
+From twsherman at southslope.net  Tue Oct  5 05:42:50 2010
+From: twsherman at southslope.net (Tom Sherman)
+Date: Tue, 05 Oct 2010 07:42:50 -0500
+Subject: [trikes] Earth Cycles
+In-Reply-To: <4CAB0838.8010901@southslope.net>
+References: <4CAB0838.8010901@southslope.net>
+Message-ID: <4CAB1D49.7070307@southslope.net>
+
+  On 10/5/2010 6:12 AM, Tom Sherman wrote:
+>  For those who remember Earth Cycles from the mid 1990's to ca 2002, 
+> the remaining physical assets have been sold.
+>
+> For those curious as to what the welding jig for a trike looks like, 
+> here is a photo [1]: 
+> <http://xa.yimg.com/kq/groups/3434914/hr/859418448/name/DF+Welding+Jig.jpg> 
+> or 
+> <http://groups.yahoo.com/group/ecog/photos/album/1658930801/pic/859418448/view?picmode=&mode=tn&order=ordinal&start=1&count=20&dir=asc>.
+>
+> Here is what I believe was the prototype for the Dragonflyer: 
+> <http://groups.yahoo.com/group/ecog/photos/album/1220201701/pic/list>.
+>
+> [1] Unfortunately shot in poor lighting inside my garage at night.
+>
+> Tom Sherman - Garage full of Earth Cycles stuff
+> -- 
+> This message comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+> subscription.
+>
+
+All pictures are also here: 
+<http://www.flickr.com/photos/19704682 at N08/sets/72157624975587877/>.
+
+From mgta4 at aol.com  Tue Oct  5 07:46:42 2010
+From: mgta4 at aol.com (mgta4 at aol.com)
+Date: Tue, 05 Oct 2010 10:46:42 -0400
+Subject: [trikes] WHAT IS LOWEST GEAR INCH
+Message-ID: <8CD32B342346435-1ADC-D29D@webmail-d081.sysops.aol.com>
+
+
+What is my lowest gear inch with a Rohloff hub and a 17 tooth sprocket and a Schlumph Mountain drive with I think a 42 inch chain ring. Please don't send me somewhere to figure it out because I don't know how. Tried that already. 
+
+Also with a speed drive. I don't have the chain ring size but is is small. Sorry I know that doesn't help. Fran
+
+
+
+
+From rgb at tricolour.net  Tue Oct  5 10:20:37 2010
+From: rgb at tricolour.net (Richard Guy Briggs)
+Date: Tue, 5 Oct 2010 13:20:37 -0400
+Subject: [trikes] WHAT IS LOWEST GEAR INCH
+In-Reply-To: <8CD32B342346435-1ADC-D29D@webmail-d081.sysops.aol.com>
+References: <8CD32B342346435-1ADC-D29D@webmail-d081.sysops.aol.com>
+Message-ID: <20101005172037.GB28529@embryo.tricolour.net>
+
+On Tue, Oct 05, 2010 at 10:46:42AM -0400, mgta4 at aol.com wrote:
+> 
+> What is my lowest gear inch with a Rohloff hub and a 17 tooth sprocket
+> and a Schlumph Mountain drive with I think a 42 inch chain ring.
+> Please don't send me somewhere to figure it out because I don't know
+> how. Tried that already. 
+> 
+> Also with a speed drive. I don't have the chain ring size but is is
+> small. Sorry I know that doesn't help. Fran
+
+Rohloff		Low	High	Low	High
+Schlumpf	Low	Low	High	High
+========	===	====	===	====
+Mountain	5.5	29.0	13.8	72.5
+Speed		13.8	72.5	22.7	119.6
+Speed2		13.8	72.5	34.5	181.22
+
+
+The formula is:
+GearInches = Chainring x Schlumpf / Sprocket x Rohloff x WheelDiameter
+
+Where	Chainring =	42
+	Schlumpf =	1 / 2.5		(mountain low)
+	Schlumpf =	1 / 1		(mountain high)
+	Schlumpf =	1 / 1		(speed low)
+	Schlumpf =	1.65 / 1	(speed high)
+	Schlumpf =	1 / 1		(speed2 low)
+	Schlumpf =	2.5 / 1		(speed2 high)
+	Sprocket =	17
+	Roholff = 	.279		(low)
+	Roholff = 	1.467		(low)
+	WheelDiameter	20		(or 26 if you have one of those)
+
+For the metric "meters of development", change WheelDiameter to
+WheelCircumference which would then be 20 x .0254 x pi, which is 20 x
+.0254 3.14 which is 1.5959.
+
+>From my experience, the speed drive I with a 40 tooth chainring and a 17
+tooth sprocket gave a decent range.  I have been tempted to get a speed
+drive II, but can't quite justify it until my speed drive I just wears
+out.  At that point, I may put in an even smaller chainring to extend
+the low end.  We were able to tow 3/4 tonne with tandem cranks out of
+phase at about 15 gear inches.
+
+There are warnings about not going below a certain combined ratio due to
+the possibility of breaking the Rohloff internal plastic overtorque
+bushings, but considering your situation, I think that will be not a
+concern.
+
+
+As an update, I hadn't posted this to the list back in May...  We bought
+a new stackable front-loading washer/dryer set and I got a bit impatient
+with their delivery schedule, so I just went to get them myself.  :)
+This load was 1/3 of the design load for the trailer (so 360 pounds) and
+was easier than it looks, even in solo rather than tandem.
+	http://tricolour.net/photos//2010/05/18/organ-trailer.html
+I only had to use the 13 gear inch lowest gear once on that 9km haul and
+that was on a fairly steep hill up a bridge (maybe 8%?).
+
+For those who are newer to the list, here are the original articles
+about the trike and the trailer:
+	http://tricolour.net/gtvs6.html
+	http://hpv.tricolour.net/organ-trailer.html
+
+
+
+	slainte mhath, RGB
+
+--
+Richard Guy Briggs               --  ~\    -- ~\            <hpv.tricolour.net>
+<www.TriColour.net>                --  \___   o \@       @       Ride yer bike!
+Ottawa, ON, CANADA                  --  Lo_>__M__\\/\%__\\/\%
+Vote! -- <greenparty.ca>_____GTVS6#790__(*)__(*)________(*)(*)_________________
+
+From sk8ski2004 at yahoo.ca  Wed Oct  6 13:07:03 2010
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Wed, 6 Oct 2010 13:07:03 -0700 (PDT)
+Subject: [trikes] Earth Cycles
+In-Reply-To: <4CAB1D49.7070307@southslope.net>
+References: <4CAB0838.8010901@southslope.net> <4CAB1D49.7070307@southslope.net>
+Message-ID: <337257.47165.qm@web54407.mail.re2.yahoo.com>
+
+Thanks for that bit of history.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Tom Sherman <twsherman at southslope.net>
+To: Trikes List <trikes at bikelist.org>
+Sent: Tue, October 5, 2010 5:42:50 AM
+Subject: Re: [trikes] Earth Cycles
+
+On 10/5/2010 6:12 AM, Tom Sherman wrote:
+>  For those who remember Earth Cycles from the mid 1990's to ca 2002, the 
+>remaining physical assets have been sold.
+> 
+> For those curious as to what the welding jig for a trike looks like, here is a 
+>photo [1]: 
+><http://xa.yimg.com/kq/groups/3434914/hr/859418448/name/DF+Welding+Jig.jpg> or 
+><http://groups.yahoo.com/group/ecog/photos/album/1658930801/pic/859418448/view?picmode=&mode=tn&order=ordinal&start=1&count=20&dir=asc>.
+>
+> 
+> Here is what I believe was the prototype for the Dragonflyer: 
+><http://groups.yahoo.com/group/ecog/photos/album/1220201701/pic/list>.
+> 
+> [1] Unfortunately shot in poor lighting inside my garage at night.
+> 
+> Tom Sherman - Garage full of Earth Cycles stuff
+> -- This message comes to you via the trikes at bikelist.org mailing list, 
+>sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+> 
+
+All pictures are also here: 
+<http://www.flickr.com/photos/19704682 at N08/sets/72157624975587877/>.
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by 
+http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+From mgta4 at aol.com  Fri Oct 15 12:11:11 2010
+From: mgta4 at aol.com (mgta4 at aol.com)
+Date: Fri, 15 Oct 2010 15:11:11 -0400
+Subject: [trikes] Greenspeed GT3
+Message-ID: <8CD3AB3DD897DDA-1C74-21D2@webmail-m100.sysops.aol.com>
+
+I would like lower gears on my GT3 and was wondering if the largest cog in the rear could be replaced by a larger one without any problems??? Thanks Fran
+
+
+
+From rob at wrhpv.com  Fri Oct 15 12:22:06 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Fri, 15 Oct 2010 20:22:06 +0100
+Subject: [trikes] Greenspeed GT3
+In-Reply-To: <8CD3AB3DD897DDA-1C74-21D2@webmail-m100.sysops.aol.com>
+References: <8CD3AB3DD897DDA-1C74-21D2@webmail-m100.sysops.aol.com>
+Message-ID: <14D01933-FC6E-46B9-BEEC-661A06238EA4@wrhpv.com>
+
+Hi Fran,
+
+There are new 'SLX' cassettes out this year that run 11-36t. You probably have 11-30 or so. Not sure how many other parts you'll need to swap out. Mick has photos of the cogs on his Facebook page.
+
+Rob
+
+On 15 Oct 2010, at 20:11, MGTA4 at aol.com wrote:
+> I would like lower gears on my GT3 and was wondering if the largest cog in the rear could be replaced by a larger one without any problems??? Thanks Fran
+
+
+From dragonwoods at earthlink.net  Fri Oct 15 12:29:41 2010
+From: dragonwoods at earthlink.net (Donald Eugene Leas)
+Date: Fri, 15 Oct 2010 15:29:41 -0400
+Subject: [trikes] Greenspeed GT3
+In-Reply-To: <8CD3AB3DD897DDA-1C74-21D2@webmail-m100.sysops.aol.com>
+References: <8CD3AB3DD897DDA-1C74-21D2@webmail-m100.sysops.aol.com>
+Message-ID: <4CB8ABA4.1070408@earthlink.net>
+
+  Fran,
+check with your local bike shop, you should be able to change out the 
+rear cassette completely with one that is lower over all.
+On my first trike when i had to change mine out i actually went a bit 
+higher for faster speeds.
+D
+
+On 10/15/2010 3:11 PM, mgta4 at aol.com wrote:
+> I would like lower gears on my GT3 and was wondering if the largest cog in the rear could be replaced by a larger one without any problems??? Thanks Fran
+>
+>
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+
+
+From rob at wrhpv.com  Fri Oct 15 12:40:46 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Fri, 15 Oct 2010 20:40:46 +0100
+Subject: [trikes] Greenspeed GT3
+In-Reply-To: <4CB8ABA4.1070408@earthlink.net>
+References: <8CD3AB3DD897DDA-1C74-21D2@webmail-m100.sysops.aol.com>
+	<4CB8ABA4.1070408@earthlink.net>
+Message-ID: <D97555C2-FDF1-4E33-8CC3-4C5DC43F03C6@wrhpv.com>
+
+It is often cheaper and easier to change the rings up front to up or down the gear ranges - within the limits of what will work with your chainset and vehicle.
+Changing the sprockets at the back is usually the easier option if you want to change the size of the steps between a run of adjacent gears.
+But, of course, both can be changed to have the other effect.
+Rob
+
+On 15 Oct 2010, at 20:29, Donald Eugene Leas wrote:
+
+> Fran,
+> check with your local bike shop, you should be able to change out the rear cassette completely with one that is lower over all.
+> On my first trike when i had to change mine out i actually went a bit higher for faster speeds.
+> D
+> 
+> On 10/15/2010 3:11 PM, mgta4 at aol.com wrote:
+>> I would like lower gears on my GT3 and was wondering if the largest cog in the rear could be replaced by a larger one without any problems??? Thanks Fran
+>> 
+>> 
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>> 
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From mgta4 at aol.com  Fri Oct 15 13:45:19 2010
+From: mgta4 at aol.com (mgta4 at aol.com)
+Date: Fri, 15 Oct 2010 16:45:19 -0400
+Subject: [trikes] Greenspeed GT3
+In-Reply-To: <14D01933-FC6E-46B9-BEEC-661A06238EA4@wrhpv.com>
+References: <14D01933-FC6E-46B9-BEEC-661A06238EA4@wrhpv.com>
+Message-ID: <8CD3AC1038586EF-17B8-5BD@webmail-d006.sysops.aol.com>
+
+
+
+Hi Rob, The largest rear cog is a 26. If I had a 30 or more it would be perfect. I did swap out a couple on my Lightfootcycle Greenway and it worked out ok. I didn't know if I could do the same with this. I am leaving town next week with a couple trikes and bikes so don't know if I will have time to mess with it but would at some time. 
+ 
+I don't go to face book so not sure how to see Micks page. Fran
+
+
+
+
+
+
+-----Original Message-----
+From: Rob Hague <rob at wrhpv.com>
+To: MGTA4 at aol.com
+Cc: trikes at bikelist.org
+Sent: Fri, Oct 15, 2010 2:22 pm
+Subject: Re: [trikes] Greenspeed GT3
+
+
+Hi Fran,
+There are new 'SLX' cassettes out this year that run 11-36t. You probably have 
+1-30 or so. Not sure how many other parts you'll need to swap out. Mick has 
+hotos of the cogs on his Facebook page.
+Rob
+On 15 Oct 2010, at 20:11, MGTA4 at aol.com wrote:
+ I would like lower gears on my GT3 and was wondering if the largest cog in the 
+ear could be replaced by a larger one without any problems??? Thanks Fran
+--
+his message comes to you via the trikes at bikelist.org mailing list, sponsored by 
+ttp://www.HuPI.org/
+isit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+From tacsmith at internode.on.net  Fri Oct 15 14:40:08 2010
+From: tacsmith at internode.on.net (Tim & Ally Smith)
+Date: Sat, 16 Oct 2010 08:40:08 +1100
+Subject: [trikes] Greenspeed GT3
+In-Reply-To: <D97555C2-FDF1-4E33-8CC3-4C5DC43F03C6@wrhpv.com>
+References: <8CD3AB3DD897DDA-1C74-21D2@webmail-m100.sysops.aol.com>	<4CB8ABA4.1070408@earthlink.net>
+	<D97555C2-FDF1-4E33-8CC3-4C5DC43F03C6@wrhpv.com>
+Message-ID: <001501cb6cb1$8a537e90$9efa7bb0$@internode.on.net>
+
+Keep in mind you may well need to add a section to the chain as well if
+adding larger cogs.
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of Rob Hague
+Sent: Saturday, 16 October 2010 6:41 AM
+To: Donald Eugene Leas
+Cc: trikes at bikelist.org
+Subject: Re: [trikes] Greenspeed GT3
+
+It is often cheaper and easier to change the rings up front to up or down
+the gear ranges - within the limits of what will work with your chainset and
+vehicle.
+Changing the sprockets at the back is usually the easier option if you want
+to change the size of the steps between a run of adjacent gears.
+But, of course, both can be changed to have the other effect.
+Rob
+
+On 15 Oct 2010, at 20:29, Donald Eugene Leas wrote:
+
+> Fran,
+> check with your local bike shop, you should be able to change out the rear
+cassette completely with one that is lower over all.
+> On my first trike when i had to change mine out i actually went a bit
+higher for faster speeds.
+> D
+> 
+> On 10/15/2010 3:11 PM, mgta4 at aol.com wrote:
+>> I would like lower gears on my GT3 and was wondering if the largest 
+>> cog in the rear could be replaced by a larger one without any 
+>> problems??? Thanks Fran
+>> 
+>> 
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list, 
+>> sponsored by http://www.HuPI.org/ Visit
+http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>> 
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/ Visit
+http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/ Visit
+http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From mgta4 at aol.com  Fri Oct 15 15:48:43 2010
+From: mgta4 at aol.com (mgta4 at aol.com)
+Date: Fri, 15 Oct 2010 18:48:43 -0400
+Subject: [trikes] Greenspeed GT3
+In-Reply-To: <001501cb6cb1$8a537e90$9efa7bb0$@internode.on.net>
+References: <8CD3AB3DD897DDA-1C74-21D2@webmail-m100.sysops.aol.com>	<4CB8ABA4.1070408@earthlink.net><D97555C2-FDF1-4E33-8CC3-4C5DC43F03C6@wrhpv.com>
+	<001501cb6cb1$8a537e90$9efa7bb0$@internode.on.net>
+Message-ID: <8CD3AD2406127AF-70C-23CB5@webmail-m042.sysops.aol.com>
+
+Thanks, I kept the chain I had to remove because the boom was too long for me. Fran
+
+
+
+
+
+-----Original Message-----
+From: Tim & Ally Smith <tacsmith at internode.on.net>
+To: trikes at bikelist.org
+Sent: Fri, Oct 15, 2010 4:40 pm
+Subject: Re: [trikes] Greenspeed GT3
+
+
+Keep in mind you may well need to add a section to the chain as well if
+dding larger cogs.
+-----Original Message-----
+rom: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+ehalf Of Rob Hague
+ent: Saturday, 16 October 2010 6:41 AM
+o: Donald Eugene Leas
+c: trikes at bikelist.org
+ubject: Re: [trikes] Greenspeed GT3
+It is often cheaper and easier to change the rings up front to up or down
+he gear ranges - within the limits of what will work with your chainset and
+ehicle.
+hanging the sprockets at the back is usually the easier option if you want
+o change the size of the steps between a run of adjacent gears.
+ut, of course, both can be changed to have the other effect.
+ob
+On 15 Oct 2010, at 20:29, Donald Eugene Leas wrote:
+> Fran,
+ check with your local bike shop, you should be able to change out the rear
+assette completely with one that is lower over all.
+ On my first trike when i had to change mine out i actually went a bit
+igher for faster speeds.
+ D
+ 
+ On 10/15/2010 3:11 PM, mgta4 at aol.com wrote:
+> I would like lower gears on my GT3 and was wondering if the largest 
+> cog in the rear could be replaced by a larger one without any 
+> problems??? Thanks Fran
+> 
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/ Visit
+ttp://hupi.org/mailman/listinfo/trikes to manage your subscription.
+> 
+ 
+ --
+ This message comes to you via the trikes at bikelist.org mailing list, 
+ sponsored by http://www.HuPI.org/ Visit
+ttp://hupi.org/mailman/listinfo/trikes to manage your subscription.
+--
+his message comes to you via the trikes at bikelist.org mailing list,
+ponsored by http://www.HuPI.org/ Visit
+ttp://hupi.org/mailman/listinfo/trikes to manage your subscription.
+--
+his message comes to you via the trikes at bikelist.org mailing list, sponsored by 
+ttp://www.HuPI.org/
+isit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From ian at greenspeed.com.au  Sat Oct 16 17:30:49 2010
+From: ian at greenspeed.com.au (Ian Sims)
+Date: Sun, 17 Oct 2010 11:30:49 +1100
+Subject: [trikes] Greenspeed GT3 gearing choices.
+In-Reply-To: <mailman.19.1287255610.9512.trikes@bikelist.org>
+References: <mailman.19.1287255610.9512.trikes@bikelist.org>
+Message-ID: <CAE4047C4E0146E2BC99C3BFD7C15B21@ASUSA6J>
+
+Hi Fran,
+        The standard gearing on the GT3 is 52/42/30 on the front, and 9/26 on the rear.
+
+This gives a range of 20 to 98 inches with the 16 x 1 1/2" rear wheel which has a diameter of 17".
+
+Or 19 to 95 with the early 16" x 1 3/8" rear tyre which had a diameter of 16.5"
+
+The 9/26 cassette is a Shimano Capreo cassette, which is made esp. for bikes with small wheels, and will only
+fit a special Capreo hub, or a special hub made to fit the Capreo cassette.
+
+The Capreo cassette has a number of advantages over the standard hub, as fitted say to the GT1, and many other
+bikes and trikes, on which the smallest cog that can be fitted is a 11t.
+
+The main one is that it gives a wider gear range, for the number of teeth difference between the largest and
+smallest cog.
+
+That is it has a 26/9 x 100 = 289% for a 17 tooth difference. Whereas a common 11/28 cassette will only give a
+28/11 x 100 = 256% for a 17 tooth difference. This is important with a small wheel trike, as to use the full
+range of gears from one extreme to the other, i.e. small to small and large to large one can use a mid cage
+derailleur instead of long cage, if you want to have the chain well clear of the road.
+
+The 9/26 cassette is the only one currently available for the Capreo hub, thus the easiest way of providing
+lower gears, is to switch the "road" 52/42/30 triple cranks for a "MTB" 44/32/22 crank set, as we do with our
+small frame GT3s.
+
+This will give you 14 to 83 inches, with a wider overall range of 593%, V 490% for the standard gearing.
+
+It is also possible to swap out the rear wheel for one with a standard hub which will take say a 11/34
+cassette, but this will require a long cage rear derailleur to use all gear combinations, which could give you
+ground clearance problems on unmade roads, or if you retain the standard mid-cage rear derailleur, you will
+need to remember not to use combinations like small to small, which may allow the chain to drag on the ground,
+or large to large, if the chain is adjusted to tight, when you could damage the rear derailleur.
+
+It is also possible to change some of the cogs on the Capreo cassette for larger ones to give you lower gears,
+but this has the same disadvantages as the swapping the rear hub, and using a 11/30, 11/32, or 11/34.
+
+If you were to use a 32 t rear cog with the 52/42/32 crank set, then you lowest gear would only be 
+17 inches, so in my opinion the easiest way of getting lower gears is the 44/32/22 crankset.
+
+Yet another way is to change the rear wheel for one with a SRAM DualDrive hub. With an 11/28 cassette, and the
+standard 52/42/30 crankset this would give you much wider gear range of 14 to 107, but no lower than the
+44/32/22 crankset option.
+
+Some people have also fitted the German Rohloff 14 speed rear hub and the Schulmpf mountain drive.
+This gives a very wide range of say 9 to 115 inches with our standard 13/60 gearing. However you will suffer a
+small power loss, in the lower gears, of about 10%. For some people this does not matter, whereas others find
+it unacceptable. Thus IMO each rider should carefully consider the options before changing....
+
+
+Regards, Ian
+Ian Sims, Director
+Unit5/31 Rushdale Street
+Knoxfield VIC 3180
+AUSTRALIA
+Phone +61 3 9753 3644 
+Fax +61 3 9753 4434 
+Email ian at greenspeed.com.au 
+Web www.greenspeed.com.au
+
+
+Message: 1
+Date: Fri, 15 Oct 2010 15:11:11 -0400
+From: mgta4 at aol.com
+Subject: [trikes] Greenspeed GT3
+To: trikes at bikelist.org
+Message-ID: <8CD3AB3DD897DDA-1C74-21D2 at webmail-m100.sysops.aol.com>
+Content-Type: text/plain; charset="us-ascii"
+
+I would like lower gears on my GT3 and was wondering if the largest cog in the rear could be replaced by a
+larger one without any problems??? Thanks Fran
+
+
+
+
+
+From rob at wrhpv.com  Sun Oct 17 05:06:19 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Sun, 17 Oct 2010 13:06:19 +0100
+Subject: [trikes] Greenspeed GT3 gearing choices.
+In-Reply-To: <CAE4047C4E0146E2BC99C3BFD7C15B21@ASUSA6J>
+References: <mailman.19.1287255610.9512.trikes@bikelist.org>
+	<CAE4047C4E0146E2BC99C3BFD7C15B21@ASUSA6J>
+Message-ID: <DB8357FA-034C-4439-AB00-EA504EB980C8@wrhpv.com>
+
+Yeah, should have said - i am using a 9-30 custom cassette on a Capreo hub but I only have a single front chainring and a mountain drive so I don't need the big take up that Ian suggests you'd need with the 11-30. As far as the efficiency goes, I've got that machine very carefully set up so most of my riding is in the 'efficient' direct drive of the MD.
+
+Oh, and if you are rebuilding a Capreo, unless you have access to clever tech, you have to use the 9t & 10t small bits because the cassette body is stepped only taking the donor 'deore' type parts for, I think, the inner 7 sprockets. 
+
+As Ian says there are a lot of variations and it depends what you are trying to achieve and what your budget is.
+
+Rob
+
+
+On 17 Oct 2010, at 01:30, Ian Sims wrote:
+
+> Hi Fran,
+>        The standard gearing on the GT3 is 52/42/30 on the front, and 9/26 on the rear.
+> 
+> This gives a range of 20 to 98 inches with the 16 x 1 1/2" rear wheel which has a diameter of 17".
+> 
+> Or 19 to 95 with the early 16" x 1 3/8" rear tyre which had a diameter of 16.5"
+> 
+> The 9/26 cassette is a Shimano Capreo cassette, which is made esp. for bikes with small wheels, and will only
+> fit a special Capreo hub, or a special hub made to fit the Capreo cassette.
+> 
+> The Capreo cassette has a number of advantages over the standard hub, as fitted say to the GT1, and many other
+> bikes and trikes, on which the smallest cog that can be fitted is a 11t.
+> 
+> The main one is that it gives a wider gear range, for the number of teeth difference between the largest and
+> smallest cog.
+> 
+> That is it has a 26/9 x 100 = 289% for a 17 tooth difference. Whereas a common 11/28 cassette will only give a
+> 28/11 x 100 = 256% for a 17 tooth difference. This is important with a small wheel trike, as to use the full
+> range of gears from one extreme to the other, i.e. small to small and large to large one can use a mid cage
+> derailleur instead of long cage, if you want to have the chain well clear of the road.
+> 
+> The 9/26 cassette is the only one currently available for the Capreo hub, thus the easiest way of providing
+> lower gears, is to switch the "road" 52/42/30 triple cranks for a "MTB" 44/32/22 crank set, as we do with our
+> small frame GT3s.
+> 
+> This will give you 14 to 83 inches, with a wider overall range of 593%, V 490% for the standard gearing.
+> 
+> It is also possible to swap out the rear wheel for one with a standard hub which will take say a 11/34
+> cassette, but this will require a long cage rear derailleur to use all gear combinations, which could give you
+> ground clearance problems on unmade roads, or if you retain the standard mid-cage rear derailleur, you will
+> need to remember not to use combinations like small to small, which may allow the chain to drag on the ground,
+> or large to large, if the chain is adjusted to tight, when you could damage the rear derailleur.
+> 
+> It is also possible to change some of the cogs on the Capreo cassette for larger ones to give you lower gears,
+> but this has the same disadvantages as the swapping the rear hub, and using a 11/30, 11/32, or 11/34.
+> 
+> If you were to use a 32 t rear cog with the 52/42/32 crank set, then you lowest gear would only be 
+> 17 inches, so in my opinion the easiest way of getting lower gears is the 44/32/22 crankset.
+> 
+> Yet another way is to change the rear wheel for one with a SRAM DualDrive hub. With an 11/28 cassette, and the
+> standard 52/42/30 crankset this would give you much wider gear range of 14 to 107, but no lower than the
+> 44/32/22 crankset option.
+> 
+> Some people have also fitted the German Rohloff 14 speed rear hub and the Schulmpf mountain drive.
+> This gives a very wide range of say 9 to 115 inches with our standard 13/60 gearing. However you will suffer a
+> small power loss, in the lower gears, of about 10%. For some people this does not matter, whereas others find
+> it unacceptable. Thus IMO each rider should carefully consider the options before changing....
+> 
+> 
+> Regards, Ian
+> Ian Sims, Director
+> Unit5/31 Rushdale Street
+> Knoxfield VIC 3180
+> AUSTRALIA
+> Phone +61 3 9753 3644 
+> Fax +61 3 9753 4434 
+> Email ian at greenspeed.com.au 
+> Web www.greenspeed.com.au
+> 
+> 
+> Message: 1
+> Date: Fri, 15 Oct 2010 15:11:11 -0400
+> From: mgta4 at aol.com
+> Subject: [trikes] Greenspeed GT3
+> To: trikes at bikelist.org
+> Message-ID: <8CD3AB3DD897DDA-1C74-21D2 at webmail-m100.sysops.aol.com>
+> Content-Type: text/plain; charset="us-ascii"
+> 
+> I would like lower gears on my GT3 and was wondering if the largest cog in the rear could be replaced by a
+> larger one without any problems??? Thanks Fran
+> 
+> 
+> 
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From johnturvey at onetel.com  Mon Oct 18 13:54:18 2010
+From: johnturvey at onetel.com (John Turvey)
+Date: Mon, 18 Oct 2010 21:54:18 +0100
+Subject: [trikes] Greenspeed GT3 gearing choices.
+In-Reply-To: <CAE4047C4E0146E2BC99C3BFD7C15B21@ASUSA6J>
+Message-ID: <E03A6D55-DAF9-11DF-9D4C-00306566DC3C@onetel.com>
+
+
+On Sunday, October 17, 2010, at 01:30 AM, Ian Sims wrote (IN PART):
+>
+> It is also possible to swap out the rear wheel for one with a standard 
+> hub which will take say a 11/34
+> cassette, but this will require a long cage rear derailleur to use all 
+> gear combinations, which could give you
+> ground clearance problems on unmade roads, or if you retain the 
+> standard mid-cage rear derailleur, you will
+> need to remember not to use combinations like small to small, which 
+> may allow the chain to drag on the ground,
+> or large to large, if the chain is adjusted to tight, when you could 
+> damage the rear derailleur.
+>
+
+I have an early Trice Micro which uses the same 16 inch wheel as the 
+GT3 - it has a standard hub with 11 to 32 cassette, 52 and 40 teeth 
+chainwheels and a Speed-drive, giving gears from 17 inches to 126 
+inches, and uses a Sram medium cage gear mech.  The clearance below the 
+rear gear mech in some gears is minimal - a puncture in the rear wheel 
+can mean the clearance is negative (I have replaced the rear mech once 
+already as the original was wrecked as a result of punctures on high 
+speed descents, and previously had replaced the lower jockey wheel in 
+the original rear gear mech).  The other problem I have is that the 
+clearance between the tyre and the rear mech is also minimal 
+(especially as I use Greenspeed Scorcher tyres which are wider than 
+most tyres) - after a rear wheel puncture, the cage on the rear gear 
+mech can be bent, so using the lowest gear can quickly shred the side 
+wall of the rear tyre (I have done this three times now - I keep 
+telling myself to check the gear mech is not bent or misaligned, but 
+forget occasionally - only when it IS bent or misaligned!)
+
+
+From ian at greenspeed.com.au  Tue Oct 19 15:49:18 2010
+From: ian at greenspeed.com.au (Ian Sims)
+Date: Wed, 20 Oct 2010 08:49:18 +1000
+Subject: [trikes] Greenspeed GT3 gearing choices. (John Turvey)
+In-Reply-To: <mailman.15.1287514807.96798.trikes@bikelist.org>
+Message-ID: <96776p$6qnnt2@ipmail07.adl2.internode.on.net>
+
+Hi John,
+        I was wondering how you came to the gearing range you quoted? By my
+calculations you would have a bottom gear of 17x40/32 = 21, and even
+16x40/32 = 20. In top I would expect 17x52/11x1.65= 133.
+
+We certainly do not have any chain clearance problems with the Scorcher rear
+tyres on the GTs. Maybe you could dish your rear wheel to the left, or/and
+move the idler pulley out to the right to improve your chain clearance. Many
+trike makers just use standard bicycle practice and dish the rear wheel to
+the right, so that the tyre is centered about the dropouts or axle locknuts.
+This weakens the rear wheel, and can give chain clearance problems, due to
+the longer chain run on a recumbent. Whereas on a trike there is no need to
+have the rear wheel on the centre line of the machine, as proven by the
+Windcheatah, which runs quite a large offset. Thus you can build the rear
+wheel symmetrically about the hub flanges, making it stronger and giving
+more chain clearance, provided the frame is built to accommodate the tyre
+offset. On a new trike I have built, I've discovered I still have chain
+clearance in bottom gear, even with a 2.35" tyre :-)
+
+We are using the Shimano Tiagra rear derailleur on some of the GTs, and
+there have been no ground clearance problems with this derailleur. It is not
+supposed to cope with larger than a 27 t rear cog, but I've found if the
+hanger is long enough there is no real problem with a 32, apart from a bit
+more noise in bottom gear...
+
+
+Regards, Ian
+
+Ian Sims, Director
+Unit 5/31 Rushdale Street,
+Knoxfield VIC 3180
+AUSTRALIA
+Phone +61 3 9753 3644 Fax +61 3 9753 4434 Email: ian at greenspeed.com.au Web:
+www.greenspeed.com.au  Skype: ian.gs
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of trikes-request at bikelist.org
+Sent: Wednesday, 20 October 2010 5:00 AM
+To: trikes at bikelist.org
+Subject: trikes Digest, Vol 72, Issue 5
+
+Send trikes mailing list submissions to
+	trikes at bikelist.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://hupi.org/mailman/listinfo/trikes
+or, via email, send a message with subject or body 'help' to
+	trikes-request at bikelist.org
+
+You can reach the person managing the list at
+	trikes-owner at bikelist.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of trikes digest..."
+
+
+Today's Topics:
+
+   1. Re: Greenspeed GT3 gearing choices. (John Turvey)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Mon, 18 Oct 2010 21:54:18 +0100
+From: John Turvey <johnturvey at onetel.com>
+Subject: Re: [trikes] Greenspeed GT3 gearing choices.
+To: trikes at bikelist.org
+Message-ID: <E03A6D55-DAF9-11DF-9D4C-00306566DC3C at onetel.com>
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+
+
+On Sunday, October 17, 2010, at 01:30 AM, Ian Sims wrote (IN PART):
+>
+> It is also possible to swap out the rear wheel for one with a standard 
+> hub which will take say a 11/34
+> cassette, but this will require a long cage rear derailleur to use all 
+> gear combinations, which could give you
+> ground clearance problems on unmade roads, or if you retain the 
+> standard mid-cage rear derailleur, you will
+> need to remember not to use combinations like small to small, which 
+> may allow the chain to drag on the ground,
+> or large to large, if the chain is adjusted to tight, when you could 
+> damage the rear derailleur.
+>
+
+I have an early Trice Micro which uses the same 16 inch wheel as the 
+GT3 - it has a standard hub with 11 to 32 cassette, 52 and 40 teeth 
+chainwheels and a Speed-drive, giving gears from 17 inches to 126 
+inches, and uses a Sram medium cage gear mech.  The clearance below the 
+rear gear mech in some gears is minimal - a puncture in the rear wheel 
+can mean the clearance is negative (I have replaced the rear mech once 
+already as the original was wrecked as a result of punctures on high 
+speed descents, and previously had replaced the lower jockey wheel in 
+the original rear gear mech).  The other problem I have is that the 
+clearance between the tyre and the rear mech is also minimal 
+(especially as I use Greenspeed Scorcher tyres which are wider than 
+most tyres) - after a rear wheel puncture, the cage on the rear gear 
+mech can be bent, so using the lowest gear can quickly shred the side 
+wall of the rear tyre (I have done this three times now - I keep 
+telling myself to check the gear mech is not bent or misaligned, but 
+forget occasionally - only when it IS bent or misaligned!)
+
+
+
+------------------------------
+
+This message digest comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+End of trikes Digest, Vol 72, Issue 5
+*************************************
+
+
+From SerxnerLa at aol.com  Wed Oct 20 12:34:44 2010
+From: SerxnerLa at aol.com (SerxnerLa at aol.com)
+Date: Wed, 20 Oct 2010 15:34:44 EDT
+Subject: [trikes] trikes Digest, Vol 72, Issue 6
+Message-ID: <71ee1.56fb8c9.39f09e54@aol.com>
+
+The Big Apple rear tire might give you a bit more ground clearance ifyou  
+need it
+
+From johnturvey at onetel.com  Wed Oct 20 14:01:01 2010
+From: johnturvey at onetel.com (John Turvey)
+Date: Wed, 20 Oct 2010 22:01:01 +0100
+Subject: [trikes] Greenspeed GT3 gearing choices. (John Turvey)
+In-Reply-To: <96776p$6qnnt2@ipmail07.adl2.internode.on.net>
+Message-ID: <2506FE92-DC8D-11DF-AADB-00306566DC3C@onetel.com>
+
+My gear calculations use a wheel diameter of 16.2 inches (which, on 
+reflection, is probably for the original tyre the Micro came with, not 
+that for the 349 Scorchers) and the CORRECT size for the small 
+chainwheel which is 34 teeth, not 40 as I stated (that is the small 
+chainwheel on my Trice XXL), which gives a low gear of 17.2 inches - if 
+the diameter of the Scorcher is 17 inches, then my low gear is 18.1 
+inches and my high gear is 132.6 inches.
+
+There is no way to really re-dish the rear wheel - it is built like a 
+rear wheel for an upright, with the drive-side spokes nearer to 90 
+degrees from the rim than the off-side spokes. but the clearance 
+between the 'seat' stays and the Scorcher tyre is about 3mm on each 
+side - any change in dishing would not gain me much.
+
+My clearance problems are with the gear mech when the lower jockey 
+wheel is at the 6 o'clock position relative to the wheel - so moving 
+the chain idler to the right would not make any difference here as the 
+gear mech  and jockey wheel would not be moved to the right.
+
+My gear mech is a Sram X9 medium cage and there is not really enough 
+chain wrap as it is - when in the small chainring I have to remember to 
+only use the larger rear cogs. - if I forget I am in the small 
+chainring and run through the rear gears to the 11 tooth rear cog, the 
+rear gear mech folds so far that the chain runs against itself and 
+makes lots of noise!
+
+The only thing I have done to increase clearance is to remove part of 
+the left hand side of the derailleur cage - the lowest bit when at the 
+6 o'clock position, as this is the bit that gets bent and then shreds 
+the tyre - - on my original gear mech this bit fell off after several 
+bendings, and its absence made no difference to gear changing etc, so 
+when I replaced the mech, I removed this bit before using it.
+
+I  do wonder why other trike manufacturers persist with dished wheels - 
+the only reason for this is to provide heel clearance on traditional 
+upright 2-wheelers - so no reason at all to have dished wheels on 
+trikes (or, indeed, on 2-wheel recumbents).
+
+That reminds me - must have another dig at Jason P****** - he got a 2nd 
+hand Greenspeed and decided he did not want the hub gears, so had a new 
+rear wheel built - only after he installed it did he realise there is 
+no need to dish the rear wheel on a Greenspeed!
+
+John Turvey
+
+On Tuesday, October 19, 2010, at 11:49 PM, Ian Sims wrote:
+
+> Hi John,
+>         I was wondering how you came to the gearing range you quoted? 
+> By my
+> calculations you would have a bottom gear of 17x40/32 = 21, and even
+> 16x40/32 = 20. In top I would expect 17x52/11x1.65= 133.
+>
+> We certainly do not have any chain clearance problems with the 
+> Scorcher rear
+> tyres on the GTs. Maybe you could dish your rear wheel to the left, 
+> or/and
+> move the idler pulley out to the right to improve your chain 
+> clearance. Many
+> trike makers just use standard bicycle practice and dish the rear 
+> wheel to
+> the right, so that the tyre is centered about the dropouts or axle 
+> locknuts.
+> This weakens the rear wheel, and can give chain clearance problems, 
+> due to
+> the longer chain run on a recumbent. Whereas on a trike there is no 
+> need to
+> have the rear wheel on the centre line of the machine, as proven by the
+> Windcheatah, which runs quite a large offset. Thus you can build the 
+> rear
+> wheel symmetrically about the hub flanges, making it stronger and 
+> giving
+> more chain clearance, provided the frame is built to accommodate the 
+> tyre
+> offset. On a new trike I have built, I've discovered I still have chain
+> clearance in bottom gear, even with a 2.35" tyre :-)
+>
+> We are using the Shimano Tiagra rear derailleur on some of the GTs, and
+> there have been no ground clearance problems with this derailleur. It 
+> is not
+> supposed to cope with larger than a 27 t rear cog, but I've found if 
+> the
+> hanger is long enough there is no real problem with a 32, apart from a 
+> bit
+> more noise in bottom gear...
+>
+>
+> Regards, Ian
+>
+>
+>> I have an early Trice Micro which uses the same 16 inch wheel as the
+>> GT3 - it has a standard hub with 11 to 32 cassette, 52 and 40 teeth
+>> chainwheels and a Speed-drive, giving gears from 17 inches to 126
+>> inches, and uses a Sram medium cage gear mech.  The clearance below 
+>> the
+>> rear gear mech in some gears is minimal - a puncture in the rear wheel
+>> can mean the clearance is negative (I have replaced the rear mech once
+>> already as the original was wrecked as a result of punctures on high
+>> speed descents, and previously had replaced the lower jockey wheel in
+>> the original rear gear mech).  The other problem I have is that the
+>> clearance between the tyre and the rear mech is also minimal
+>> (especially as I use Greenspeed Scorcher tyres which are wider than
+>> most tyres) - after a rear wheel puncture, the cage on the rear gear
+>> mech can be bent, so using the lowest gear can quickly shred the side
+>> wall of the rear tyre (I have done this three times now - I keep
+>> telling myself to check the gear mech is not bent or misaligned, but
+>> forget occasionally - only when it IS bent or misaligned!)
+>>
+>> John Turvey
+
+
+From johnturvey at onetel.com  Wed Oct 20 14:04:45 2010
+From: johnturvey at onetel.com (John Turvey)
+Date: Wed, 20 Oct 2010 22:04:45 +0100
+Subject: [trikes] trikes Digest, Vol 72, Issue 6
+In-Reply-To: <71ee1.56fb8c9.39f09e54@aol.com>
+Message-ID: <AA5EBFAE-DC8D-11DF-AADB-00306566DC3C@onetel.com>
+
+See my previous reply re Ian Sims suggestions - frame clearance 
+limitations mean I cannot really use a tyre with a larger cross section 
+than the Greenspeed Scorcher.
+
+John Turvey
+
+
+On Wednesday, October 20, 2010, at 08:34 PM, SerxnerLa at aol.com wrote:
+
+> The Big Apple rear tire might give you a bit more ground clearance 
+> ifyou
+> need it
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, 
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+> subscription.
+>
+
+
+From rob at wrhpv.com  Thu Oct 21 08:27:01 2010
+From: rob at wrhpv.com (Rob Hague)
+Date: Thu, 21 Oct 2010 16:27:01 +0100
+Subject: [trikes] Greenspeed GT3 gearing choices. (John Turvey)
+In-Reply-To: <2506FE92-DC8D-11DF-AADB-00306566DC3C@onetel.com>
+References: <2506FE92-DC8D-11DF-AADB-00306566DC3C@onetel.com>
+Message-ID: <D6841F88-ADDE-48D6-8BEE-A3B830BA246E@wrhpv.com>
+
+We (BHPC racegoers) have been having a giggle at Mr Burrows as his latest race bike is the first one of his bikes that any of us can remember having two wheels inline... 
+
+Rob
+
+On 20 Oct 2010, at 22:01, John Turvey wrote:
+
+> My gear calculations use a wheel diameter of 16.2 inches (which, on reflection, is probably for the original tyre the Micro came with, not that for the 349 Scorchers) and the CORRECT size for the small chainwheel which is 34 teeth, not 40 as I stated (that is the small chainwheel on my Trice XXL), which gives a low gear of 17.2 inches - if the diameter of the Scorcher is 17 inches, then my low gear is 18.1 inches and my high gear is 132.6 inches.
+> 
+> There is no way to really re-dish the rear wheel - it is built like a rear wheel for an upright, with the drive-side spokes nearer to 90 degrees from the rim than the off-side spokes. but the clearance between the 'seat' stays and the Scorcher tyre is about 3mm on each side - any change in dishing would not gain me much.
+> 
+> My clearance problems are with the gear mech when the lower jockey wheel is at the 6 o'clock position relative to the wheel - so moving the chain idler to the right would not make any difference here as the gear mech  and jockey wheel would not be moved to the right.
+> 
+> My gear mech is a Sram X9 medium cage and there is not really enough chain wrap as it is - when in the small chainring I have to remember to only use the larger rear cogs. - if I forget I am in the small chainring and run through the rear gears to the 11 tooth rear cog, the rear gear mech folds so far that the chain runs against itself and makes lots of noise!
+> 
+> The only thing I have done to increase clearance is to remove part of the left hand side of the derailleur cage - the lowest bit when at the 6 o'clock position, as this is the bit that gets bent and then shreds the tyre - - on my original gear mech this bit fell off after several bendings, and its absence made no difference to gear changing etc, so when I replaced the mech, I removed this bit before using it.
+> 
+> I  do wonder why other trike manufacturers persist with dished wheels - the only reason for this is to provide heel clearance on traditional upright 2-wheelers - so no reason at all to have dished wheels on trikes (or, indeed, on 2-wheel recumbents).
+> 
+> That reminds me - must have another dig at Jason P****** - he got a 2nd hand Greenspeed and decided he did not want the hub gears, so had a new rear wheel built - only after he installed it did he realise there is no need to dish the rear wheel on a Greenspeed!
+> 
+> John Turvey
+> 
+> On Tuesday, October 19, 2010, at 11:49 PM, Ian Sims wrote:
+> 
+>> Hi John,
+>>        I was wondering how you came to the gearing range you quoted? By my
+>> calculations you would have a bottom gear of 17x40/32 = 21, and even
+>> 16x40/32 = 20. In top I would expect 17x52/11x1.65= 133.
+>> 
+>> We certainly do not have any chain clearance problems with the Scorcher rear
+>> tyres on the GTs. Maybe you could dish your rear wheel to the left, or/and
+>> move the idler pulley out to the right to improve your chain clearance. Many
+>> trike makers just use standard bicycle practice and dish the rear wheel to
+>> the right, so that the tyre is centered about the dropouts or axle locknuts.
+>> This weakens the rear wheel, and can give chain clearance problems, due to
+>> the longer chain run on a recumbent. Whereas on a trike there is no need to
+>> have the rear wheel on the centre line of the machine, as proven by the
+>> Windcheatah, which runs quite a large offset. Thus you can build the rear
+>> wheel symmetrically about the hub flanges, making it stronger and giving
+>> more chain clearance, provided the frame is built to accommodate the tyre
+>> offset. On a new trike I have built, I've discovered I still have chain
+>> clearance in bottom gear, even with a 2.35" tyre :-)
+>> 
+>> We are using the Shimano Tiagra rear derailleur on some of the GTs, and
+>> there have been no ground clearance problems with this derailleur. It is not
+>> supposed to cope with larger than a 27 t rear cog, but I've found if the
+>> hanger is long enough there is no real problem with a 32, apart from a bit
+>> more noise in bottom gear...
+>> 
+>> 
+>> Regards, Ian
+>> 
+>> 
+>>> I have an early Trice Micro which uses the same 16 inch wheel as the
+>>> GT3 - it has a standard hub with 11 to 32 cassette, 52 and 40 teeth
+>>> chainwheels and a Speed-drive, giving gears from 17 inches to 126
+>>> inches, and uses a Sram medium cage gear mech.  The clearance below the
+>>> rear gear mech in some gears is minimal - a puncture in the rear wheel
+>>> can mean the clearance is negative (I have replaced the rear mech once
+>>> already as the original was wrecked as a result of punctures on high
+>>> speed descents, and previously had replaced the lower jockey wheel in
+>>> the original rear gear mech).  The other problem I have is that the
+>>> clearance between the tyre and the rear mech is also minimal
+>>> (especially as I use Greenspeed Scorcher tyres which are wider than
+>>> most tyres) - after a rear wheel puncture, the cage on the rear gear
+>>> mech can be bent, so using the lowest gear can quickly shred the side
+>>> wall of the rear tyre (I have done this three times now - I keep
+>>> telling myself to check the gear mech is not bent or misaligned, but
+>>> forget occasionally - only when it IS bent or misaligned!)
+>>> 
+>>> John Turvey
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From alex.richards at orange.fr  Thu Oct 28 11:21:05 2010
+From: alex.richards at orange.fr (Alex Richards)
+Date: Thu, 28 Oct 2010 19:21:05 +0100
+Subject: [trikes] steering design question
+Message-ID: <fk1hkjrt5ndpkmgq7kgvol1y.1288289730514@email.android.com>
+
+My wife was recently told she should use a wheelchair due to her ME. As keen cyclists we'd like to continue, and so I've been looking at designing an attachment for her chair which would convey it to something like a Vietnamese cyclo rickshaw 
+
+http://www.rfleming.net/diarypics/Huecyclo2.jpg
+
+Only thing I'm not certain about is the location of the steering pivot; should it be between the wheels like a kids soapbox kart, or behind the wheels like another conversion I've seen?
+
+Any advice would be gratefully received.
+
+Alex
+
+Sent from Samsung mobile
+
+trikes-request at bikelist.org wrote:
+
+>
+>Send trikes mailing list submissions to
+>	trikes at bikelist.org
+>
+>To subscribe or unsubscribe via the World Wide Web, visit
+>	http://hupi.org/mailman/listinfo/trikes
+>or, via email, send a message with subject or body 'help' to
+>	trikes-request at bikelist.org
+>
+>You can reach the person managing the list at
+>	trikes-owner at bikelist.org
+>
+>When replying, please edit your Subject line so it is more specific
+>than "Re: Contents of trikes digest..."
+>
+>
+>Today's Topics:
+>
+>   1. Re: trikes Digest, Vol 72, Issue 6 (SerxnerLa at aol.com)
+>   2. Re: Greenspeed GT3 gearing choices. (John Turvey) (John Turvey)
+>   3. Re: trikes Digest, Vol 72, Issue 6 (John Turvey)
+>   4. Re: Greenspeed GT3 gearing choices. (John Turvey) (Rob Hague)
+>
+>
+>----------------------------------------------------------------------
+>
+>Message: 1
+>Date: Wed, 20 Oct 2010 15:34:44 EDT
+>From: SerxnerLa at aol.com
+>Subject: Re: [trikes] trikes Digest, Vol 72, Issue 6
+>To: trikes at bikelist.org
+>Message-ID: <71ee1.56fb8c9.39f09e54 at aol.com>
+>Content-Type: text/plain; charset="US-ASCII"
+>
+>The Big Apple rear tire might give you a bit more ground clearance ifyou  
+>need it
+>
+>
+>------------------------------
+>
+>Message: 2
+>Date: Wed, 20 Oct 2010 22:01:01 +0100
+>From: John Turvey <johnturvey at onetel.com>
+>Subject: Re: [trikes] Greenspeed GT3 gearing choices. (John Turvey)
+>To: <trikes at bikelist.org>
+>Message-ID: <2506FE92-DC8D-11DF-AADB-00306566DC3C at onetel.com>
+>Content-Type: text/plain; charset=US-ASCII; format=flowed
+>
+>My gear calculations use a wheel diameter of 16.2 inches (which, on 
+>reflection, is probably for the original tyre the Micro came with, not 
+>that for the 349 Scorchers) and the CORRECT size for the small 
+>chainwheel which is 34 teeth, not 40 as I stated (that is the small 
+>chainwheel on my Trice XXL), which gives a low gear of 17.2 inches - if 
+>the diameter of the Scorcher is 17 inches, then my low gear is 18.1 
+>inches and my high gear is 132.6 inches.
+>
+>There is no way to really re-dish the rear wheel - it is built like a 
+>rear wheel for an upright, with the drive-side spokes nearer to 90 
+>degrees from the rim than the off-side spokes. but the clearance 
+>between the 'seat' stays and the Scorcher tyre is about 3mm on each 
+>side - any change in dishing would not gain me much.
+>
+>My clearance problems are with the gear mech when the lower jockey 
+>wheel is at the 6 o'clock position relative to the wheel - so moving 
+>the chain idler to the right would not make any difference here as the 
+>gear mech  and jockey wheel would not be moved to the right.
+>
+>My gear mech is a Sram X9 medium cage and there is not really enough 
+>chain wrap as it is - when in the small chainring I have to remember to 
+>only use the larger rear cogs. - if I forget I am in the small 
+>chainring and run through the rear gears to the 11 tooth rear cog, the 
+>rear gear mech folds so far that the chain runs against itself and 
+>makes lots of noise!
+>
+>The only thing I have done to increase clearance is to remove part of 
+>the left hand side of the derailleur cage - the lowest bit when at the 
+>6 o'clock position, as this is the bit that gets bent and then shreds 
+>the tyre - - on my original gear mech this bit fell off after several 
+>bendings, and its absence made no difference to gear changing etc, so 
+>when I replaced the mech, I removed this bit before using it.
+>
+>I  do wonder why other trike manufacturers persist with dished wheels - 
+>the only reason for this is to provide heel clearance on traditional 
+>upright 2-wheelers - so no reason at all to have dished wheels on 
+>trikes (or, indeed, on 2-wheel recumbents).
+>
+>That reminds me - must have another dig at Jason P****** - he got a 2nd 
+>hand Greenspeed and decided he did not want the hub gears, so had a new 
+>rear wheel built - only after he installed it did he realise there is 
+>no need to dish the rear wheel on a Greenspeed!
+>
+>John Turvey
+>
+>On Tuesday, October 19, 2010, at 11:49 PM, Ian Sims wrote:
+>
+>> Hi John,
+>>         I was wondering how you came to the gearing range you quoted? 
+>> By my
+>> calculations you would have a bottom gear of 17x40/32 = 21, and even
+>> 16x40/32 = 20. In top I would expect 17x52/11x1.65= 133.
+>>
+>> We certainly do not have any chain clearance problems with the 
+>> Scorcher rear
+>> tyres on the GTs. Maybe you could dish your rear wheel to the left, 
+>> or/and
+>> move the idler pulley out to the right to improve your chain 
+>> clearance. Many
+>> trike makers just use standard bicycle practice and dish the rear 
+>> wheel to
+>> the right, so that the tyre is centered about the dropouts or axle 
+>> locknuts.
+>> This weakens the rear wheel, and can give chain clearance problems, 
+>> due to
+>> the longer chain run on a recumbent. Whereas on a trike there is no 
+>> need to
+>> have the rear wheel on the centre line of the machine, as proven by the
+>> Windcheatah, which runs quite a large offset. Thus you can build the 
+>> rear
+>> wheel symmetrically about the hub flanges, making it stronger and 
+>> giving
+>> more chain clearance, provided the frame is built to accommodate the 
+>> tyre
+>> offset. On a new trike I have built, I've discovered I still have chain
+>> clearance in bottom gear, even with a 2.35" tyre :-)
+>>
+>> We are using the Shimano Tiagra rear derailleur on some of the GTs, and
+>> there have been no ground clearance problems with this derailleur. It 
+>> is not
+>> supposed to cope with larger than a 27 t rear cog, but I've found if 
+>> the
+>> hanger is long enough there is no real problem with a 32, apart from a 
+>> bit
+>> more noise in bottom gear...
+>>
+>>
+>> Regards, Ian
+>>
+>>
+>>> I have an early Trice Micro which uses the same 16 inch wheel as the
+>>> GT3 - it has a standard hub with 11 to 32 cassette, 52 and 40 teeth
+>>> chainwheels and a Speed-drive, giving gears from 17 inches to 126
+>>> inches, and uses a Sram medium cage gear mech.  The clearance below 
+>>> the
+>>> rear gear mech in some gears is minimal - a puncture in the rear wheel
+>>> can mean the clearance is negative (I have replaced the rear mech once
+>>> already as the original was wrecked as a result of punctures on high
+>>> speed descents, and previously had replaced the lower jockey wheel in
+>>> the original rear gear mech).  The other problem I have is that the
+>>> clearance between the tyre and the rear mech is also minimal
+>>> (especially as I use Greenspeed Scorcher tyres which are wider than
+>>> most tyres) - after a rear wheel puncture, the cage on the rear gear
+>>> mech can be bent, so using the lowest gear can quickly shred the side
+>>> wall of the rear tyre (I have done this three times now - I keep
+>>> telling myself to check the gear mech is not bent or misaligned, but
+>>> forget occasionally - only when it IS bent or misaligned!)
+>>>
+>>> John Turvey
+>
+>
+>
+>------------------------------
+>
+>Message: 3
+>Date: Wed, 20 Oct 2010 22:04:45 +0100
+>From: John Turvey <johnturvey at onetel.com>
+>Subject: Re: [trikes] trikes Digest, Vol 72, Issue 6
+>To: trikes at bikelist.org
+>Message-ID: <AA5EBFAE-DC8D-11DF-AADB-00306566DC3C at onetel.com>
+>Content-Type: text/plain; charset=US-ASCII; format=flowed
+>
+>See my previous reply re Ian Sims suggestions - frame clearance 
+>limitations mean I cannot really use a tyre with a larger cross section 
+>than the Greenspeed Scorcher.
+>
+>John Turvey
+>
+>
+>On Wednesday, October 20, 2010, at 08:34 PM, SerxnerLa at aol.com wrote:
+>
+>> The Big Apple rear tire might give you a bit more ground clearance 
+>> ifyou
+>> need it
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list, 
+>> sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your 
+>> subscription.
+>>
+>
+>
+>
+>------------------------------
+>
+>Message: 4
+>Date: Thu, 21 Oct 2010 16:27:01 +0100
+>From: Rob Hague <rob at wrhpv.com>
+>Subject: Re: [trikes] Greenspeed GT3 gearing choices. (John Turvey)
+>To: trikes at bikelist.org
+>Message-ID: <D6841F88-ADDE-48D6-8BEE-A3B830BA246E at wrhpv.com>
+>Content-Type: text/plain; charset=us-ascii
+>
+>We (BHPC racegoers) have been having a giggle at Mr Burrows as his latest race bike is the first one of his bikes that any of us can remember having two wheels inline... 
+>
+>Rob
+>
+>On 20 Oct 2010, at 22:01, John Turvey wrote:
+>
+>> My gear calculations use a wheel diameter of 16.2 inches (which, on reflection, is probably for the original tyre the Micro came with, not that for the 349 Scorchers) and the CORRECT size for the small chainwheel which is 34 teeth, not 40 as I stated (that is the small chainwheel on my Trice XXL), which gives a low gear of 17.2 inches - if the diameter of the Scorcher is 17 inches, then my low gear is 18.1 inches and my high gear is 132.6 inches.
+>> 
+>> There is no way to really re-dish the rear wheel - it is built like a rear wheel for an upright, with the drive-side spokes nearer to 90 degrees from the rim than the off-side spokes. but the clearance between the 'seat' stays and the Scorcher tyre is about 3mm on each side - any change in dishing would not gain me much.
+>> 
+>> My clearance problems are with the gear mech when the lower jockey wheel is at the 6 o'clock position relative to the wheel - so moving the chain idler to the right would not make any difference here as the gear mech  and jockey wheel would not be moved to the right.
+>> 
+>> My gear mech is a Sram X9 medium cage and there is not really enough chain wrap as it is - when in the small chainring I have to remember to only use the larger rear cogs. - if I forget I am in the small chainring and run through the rear gears to the 11 tooth rear cog, the rear gear mech folds so far that the chain runs against itself and makes lots of noise!
+>> 
+>> The only thing I have done to increase clearance is to remove part of the left hand side of the derailleur cage - the lowest bit when at the 6 o'clock position, as this is the bit that gets bent and then shreds the tyre - - on my original gear mech this bit fell off after several bendings, and its absence made no difference to gear changing etc, so when I replaced the mech, I removed this bit before using it.
+>> 
+>> I  do wonder why other trike manufacturers persist with dished wheels - the only reason for this is to provide heel clearance on traditional upright 2-wheelers - so no reason at all to have dished wheels on trikes (or, indeed, on 2-wheel recumbents).
+>> 
+>> That reminds me - must have another dig at Jason P****** - he got a 2nd hand Greenspeed and decided he did not want the hub gears, so had a new rear wheel built - only after he installed it did he realise there is no need to dish the rear wheel on a Greenspeed!
+>> 
+>> John Turvey
+>> 
+>> On Tuesday, October 19, 2010, at 11:49 PM, Ian Sims wrote:
+>> 
+>>> Hi John,
+>>>        I was wondering how you came to the gearing range you quoted? By my
+>>> calculations you would have a bottom gear of 17x40/32 = 21, and even
+>>> 16x40/32 = 20. In top I would expect 17x52/11x1.65= 133.
+>>> 
+>>> We certainly do not have any chain clearance problems with the Scorcher rear
+>>> tyres on the GTs. Maybe you could dish your rear wheel to the left, or/and
+>>> move the idler pulley out to the right to improve your chain clearance. Many
+>>> trike makers just use standard bicycle practice and dish the rear wheel to
+>>> the right, so that the tyre is centered about the dropouts or axle locknuts.
+>>> This weakens the rear wheel, and can give chain clearance problems, due to
+>>> the longer chain run on a recumbent. Whereas on a trike there is no need to
+>>> have the rear wheel on the centre line of the machine, as proven by the
+>>> Windcheatah, which runs quite a large offset. Thus you can build the rear
+>>> wheel symmetrically about the hub flanges, making it stronger and giving
+>>> more chain clearance, provided the frame is built to accommodate the tyre
+>>> offset. On a new trike I have built, I've discovered I still have chain
+>>> clearance in bottom gear, even with a 2.35" tyre :-)
+>>> 
+>>> We are using the Shimano Tiagra rear derailleur on some of the GTs, and
+>>> there have been no ground clearance problems with this derailleur. It is not
+>>> supposed to cope with larger than a 27 t rear cog, but I've found if the
+>>> hanger is long enough there is no real problem with a 32, apart from a bit
+>>> more noise in bottom gear...
+>>> 
+>>> 
+>>> Regards, Ian
+>>> 
+>>> 
+>>>> I have an early Trice Micro which uses the same 16 inch wheel as the
+>>>> GT3 - it has a standard hub with 11 to 32 cassette, 52 and 40 teeth
+>>>> chainwheels and a Speed-drive, giving gears from 17 inches to 126
+>>>> inches, and uses a Sram medium cage gear mech.  The clearance below the
+>>>> rear gear mech in some gears is minimal - a puncture in the rear wheel
+>>>> can mean the clearance is negative (I have replaced the rear mech once
+>>>> already as the original was wrecked as a result of punctures on high
+>>>> speed descents, and previously had replaced the lower jockey wheel in
+>>>> the original rear gear mech).  The other problem I have is that the
+>>>> clearance between the tyre and the rear mech is also minimal
+>>>> (especially as I use Greenspeed Scorcher tyres which are wider than
+>>>> most tyres) - after a rear wheel puncture, the cage on the rear gear
+>>>> mech can be bent, so using the lowest gear can quickly shred the side
+>>>> wall of the rear tyre (I have done this three times now - I keep
+>>>> telling myself to check the gear mech is not bent or misaligned, but
+>>>> forget occasionally - only when it IS bent or misaligned!)
+>>>> 
+>>>> John Turvey
+>> 
+>> --
+>> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+>
+>
+>------------------------------
+>
+>This message digest comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+>
+>End of trikes Digest, Vol 72, Issue 7
+>*************************************
+>
+
+From johnturvey at onetel.com  Thu Oct 28 13:36:46 2010
+From: johnturvey at onetel.com (John Turvey)
+Date: Thu, 28 Oct 2010 21:36:46 +0100
+Subject: [trikes] steering design question
+In-Reply-To: <fk1hkjrt5ndpkmgq7kgvol1y.1288289730514@email.android.com>
+Message-ID: <154F9E59-E2D3-11DF-B60E-00306566DC3C@onetel.com>
+
+
+On Thursday, October 28, 2010, at 07:21 PM, Alex Richards wrote:
+
+> My wife was recently told she should use a wheelchair due to her ME. 
+> As keen cyclists we'd like to continue, and so I've been looking at 
+> designing an attachment for her chair which would convey it to 
+> something like a Vietnamese cyclo rickshaw
+>
+> http://www.rfleming.net/diarypics/Huecyclo2.jpg
+>
+> Only thing I'm not certain about is the location of the steering 
+> pivot; should it be between the wheels like a kids soapbox kart, or 
+> behind the wheels like another conversion I've seen?
+>
+> Any advice would be gratefully received.
+>
+> Alex
+>
+>
+There are several commercial machines available which are similar to 
+this, where the wheelchair front and the 'cycle' rear can be split so 
+the wheelchair can be used separately (in cafes etc) - however, the 
+wheelchair part is much sturdier than a wheelchair, as it has to 
+withstand the higher speeds of cycling - from my recollection of these 
+sorts of machines, the steering pivot is slightly in front of the front 
+wheel centres - to provide some trail and (presumably) damping to the 
+steering.
+
+Have you looked for this sort of machine on the web - a good starting 
+point is the Velovision Special Needs Cycling Guide at
+
+http://www.velovision.com/cgi-bin/show_comments.pl?storynum=559
+
+
+From john_murray at sympatico.ca  Thu Oct 28 16:39:35 2010
+From: john_murray at sympatico.ca (John Murray)
+Date: Thu, 28 Oct 2010 19:39:35 -0400
+Subject: [trikes] steering design question
+In-Reply-To: <fk1hkjrt5ndpkmgq7kgvol1y.1288289730514@email.android.com>
+References: <fk1hkjrt5ndpkmgq7kgvol1y.1288289730514@email.android.com>
+Message-ID: <BLU0-SMTP9554FE667354D48DED42C4ED440@phx.gbl>
+
+A trike that you might want to look at:http://www.frankmobility.com/duet.php
+I tried a similar one and found the steering terrible at any speed.... 
+so try to test ride before buying...
+
+
+On 10/28/2010 2:21 PM, Alex Richards wrote:
+> My wife was recently told she should use a wheelchair due to her ME. As keen cyclists we'd like to continue, and so I've been looking at designing an attachment for her chair which would convey it to something like a Vietnamese cyclo rickshaw
+>
+> http://www.rfleming.net/diarypics/Huecyclo2.jpg
+>
+> Only thing I'm not certain about is the location of the steering pivot; should it be between the wheels like a kids soapbox kart, or behind the wheels like another conversion I've seen?
+>
+> Any advice would be gratefully received.
+>
+> Alex
+
+
+From john.lewis at internode.on.net  Thu Oct 28 18:22:46 2010
+From: john.lewis at internode.on.net (John Lewis)
+Date: Fri, 29 Oct 2010 09:22:46 +0800
+Subject: [trikes] steering design question
+In-Reply-To: <fk1hkjrt5ndpkmgq7kgvol1y.1288289730514@email.android.com>
+References: <fk1hkjrt5ndpkmgq7kgvol1y.1288289730514@email.android.com>
+Message-ID: <4CCA21E6.7030404@internode.on.net>
+
+Alex Richards wrote:
+> My wife was recently told she should use a wheelchair due to her ME. As keen cyclists we'd like to continue, and so I've been looking at designing an attachment for her chair which would convey it to something like a Vietnamese cyclo rickshaw 
+>
+> http://www.rfleming.net/diarypics/Huecyclo2.jpg
+>
+> Only thing I'm not certain about is the location of the steering pivot; should it be between the wheels like a kids soapbox kart, or behind the wheels like another conversion I've seen?
+>
+> Any advice would be gratefully received.
+>
+> Alex
+>
+> Sent from Samsung mobile
+>   
+Have a look on the Christiana trikes site. Some drawings and ideas there 
+might help. They have a wheelchair carrying trike. Also google 
+wheelchair bicycle attachment should throw up some info.
+
+http://www.christianiabikes.com/english/uk_main.htm
+
+Hope this helps.
+John Lewis
+
+From johnturvey at onetel.com  Fri Oct 29 14:44:26 2010
+From: johnturvey at onetel.com (John Turvey)
+Date: Fri, 29 Oct 2010 22:44:26 +0100
+Subject: [trikes] steering design question
+In-Reply-To: <fk1hkjrt5ndpkmgq7kgvol1y.1288289730514@email.android.com>
+Message-ID: <B381FCE8-E3A5-11DF-9907-00306566DC3C@onetel.com>
+
+Further to my reply yesterday, I have now had a chance to look at 2 
+different wheelchair cycles - I help at a special needs cycle centre, 
+and these two machines were given to the Centre in 2002 - they were 
+both well used then.
+
+The first machine is a Duet, where the steering pivot is about 5 inches 
+in front of the front wheel axles.
+
+The second machine is an 0 Pair (Dutch made) where the steering pivot 
+is an inclined tube about 8 inches long - the bottom of the tube is 
+about 2 inches below and 1/2 inch in front of the front wheel axles, 
+while the top of the tube is a bout 2 inches in front..  The O Pair is 
+still made (by Van Raam) but the modern machine is VERY different from 
+the one at the Centre.
+
+As I said before, both of these machines have a wheelchair part that is 
+much stronger than a standard wheelchair.
+
+If you really want to use a standard wheelchair, then a 
+wheelchair-transporter is a possibility  - this is a splitable trike 
+with a platform at the front onto which a wheelchair and wheelchair 
+user can be loaded - the Centre got one of these (a Van Raam Velo Plus) 
+at the start of 2009 at a cost (excluding VAT) of some ?5,400 - but 
+this is a heavy machine and is not really practical for any distance - 
+I would stick to a wheelchair cycle like the Duet or O Pair - I have 
+seen several different modern ones in recent years, so they are made by 
+several manufactures in various countries.
+
+John Turvey
+
+From ian at greenspeed.com.au  Fri Oct 29 22:44:06 2010
+From: ian at greenspeed.com.au (Ian Sims)
+Date: Sat, 30 Oct 2010 16:44:06 +1100
+Subject: [trikes] steering design question
+In-Reply-To: <mailman.11.1288378805.97137.trikes@bikelist.org>
+References: <mailman.11.1288378805.97137.trikes@bikelist.org>
+Message-ID: <E7BD9CC8FD4F4702BDBB411C9FA57531@ASUSA6J>
+
+In my biased opinion all these machines are compromised against normal bicycles from an efficiency and
+performance point of view.
+
+For a start you have only one person providing the motive power, so that the non-active person is deprived of
+exercise, and the other person is overworked. Then you have the increase in weight and drag over a couple of
+bikes. And finally terrible road holding, handling and balance compared to a bicycle.
+
+This is why we have built recumbent tandem trikes, where one rider has hand cranks, and the other foot cranks.
+These machines have performance that is on a par, or better than standard bikes. Plus the stability is better
+than ordinary bikes. 
+
+With such a machine, Karen Darke and her partner toured New Zealand and the Himalayas.
+
+http://www.greenspeed.com.au/ownerweb.html
+
+
+Regards, Ian
+Ian Sims, Director
+Unit5/31 Rushdale Street
+Knoxfield VIC 3180
+AUSTRALIA
+Phone +61 3 9753 3644 
+Fax +61 3 9753 4434 
+Email ian at greenspeed.com.au 
+Web www.greenspeed.com.au
+
+Date: Thu, 28 Oct 2010 21:36:46 +0100
+From: John Turvey <johnturvey at onetel.com>
+Subject: Re: [trikes] steering design question
+To: Alex Richards <alex.richards at orange.fr>
+Cc: trikes at bikelist.org
+Message-ID: <154F9E59-E2D3-11DF-B60E-00306566DC3C at onetel.com>
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+
+
+On Thursday, October 28, 2010, at 07:21 PM, Alex Richards wrote:
+
+> My wife was recently told she should use a wheelchair due to her ME. 
+> As keen cyclists we'd like to continue, and so I've been looking at 
+> designing an attachment for her chair which would convey it to 
+> something like a Vietnamese cyclo rickshaw
+>
+> http://www.rfleming.net/diarypics/Huecyclo2.jpg
+>
+> Only thing I'm not certain about is the location of the steering 
+> pivot; should it be between the wheels like a kids soapbox kart, or 
+> behind the wheels like another conversion I've seen?
+>
+> Any advice would be gratefully received.
+>
+> Alex
+>
+>
+There are several commercial machines available which are similar to 
+this, where the wheelchair front and the 'cycle' rear can be split so 
+the wheelchair can be used separately (in cafes etc) - however, the 
+wheelchair part is much sturdier than a wheelchair, as it has to 
+withstand the higher speeds of cycling - from my recollection of these 
+sorts of machines, the steering pivot is slightly in front of the front 
+wheel centres - to provide some trail and (presumably) damping to the 
+steering.
+
+Have you looked for this sort of machine on the web - a good starting 
+point is the Velovision Special Needs Cycling Guide at
+
+http://www.velovision.com/cgi-bin/show_comments.pl?storynum=559
+
+
+
+
+
+From g.edgar at bigpond.com  Fri Oct 29 23:11:08 2010
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Sat, 30 Oct 2010 17:11:08 +1100
+Subject: [trikes] steering design question
+In-Reply-To: <E7BD9CC8FD4F4702BDBB411C9FA57531@ASUSA6J>
+References: <mailman.11.1288378805.97137.trikes@bikelist.org>
+	<E7BD9CC8FD4F4702BDBB411C9FA57531@ASUSA6J>
+Message-ID: <005801cb77f9$3e74b8b0$bb5e2a10$@bigpond.com>
+
+I agree with Ian. I spent a few hours recently in shop selling equipment for
+disabled people and wasn't very impressed by the standard of the
+non-motorised equipment. That said, I haven't seen the equipment the OP is
+talking about - but the shop I was in was very successful and was selling
+what purported to be top equipment. 
+
+
+Regards,
+
+Julian Edgar
+www.julianedgar.com
+
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of Ian Sims
+Sent: Saturday, 30 October 2010 4:44 PM
+To: trikes at bikelist.org
+Subject: Re: [trikes] steering design question
+
+In my biased opinion all these machines are compromised against normal
+bicycles from an efficiency and performance point of view.
+
+For a start you have only one person providing the motive power, so that the
+non-active person is deprived of exercise, and the other person is
+overworked. Then you have the increase in weight and drag over a couple of
+bikes. And finally terrible road holding, handling and balance compared to a
+bicycle.
+
+This is why we have built recumbent tandem trikes, where one rider has hand
+cranks, and the other foot cranks.
+These machines have performance that is on a par, or better than standard
+bikes. Plus the stability is better than ordinary bikes. 
+
+With such a machine, Karen Darke and her partner toured New Zealand and the
+Himalayas.
+
+http://www.greenspeed.com.au/ownerweb.html
+
+
+Regards, Ian
+Ian Sims, Director
+Unit5/31 Rushdale Street
+Knoxfield VIC 3180
+AUSTRALIA
+Phone +61 3 9753 3644
+Fax +61 3 9753 4434
+Email ian at greenspeed.com.au
+Web www.greenspeed.com.au
+
+Date: Thu, 28 Oct 2010 21:36:46 +0100
+From: John Turvey <johnturvey at onetel.com>
+Subject: Re: [trikes] steering design question
+To: Alex Richards <alex.richards at orange.fr>
+Cc: trikes at bikelist.org
+Message-ID: <154F9E59-E2D3-11DF-B60E-00306566DC3C at onetel.com>
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+
+
+On Thursday, October 28, 2010, at 07:21 PM, Alex Richards wrote:
+
+> My wife was recently told she should use a wheelchair due to her ME. 
+> As keen cyclists we'd like to continue, and so I've been looking at 
+> designing an attachment for her chair which would convey it to 
+> something like a Vietnamese cyclo rickshaw
+>
+> http://www.rfleming.net/diarypics/Huecyclo2.jpg
+>
+> Only thing I'm not certain about is the location of the steering 
+> pivot; should it be between the wheels like a kids soapbox kart, or 
+> behind the wheels like another conversion I've seen?
+>
+> Any advice would be gratefully received.
+>
+> Alex
+>
+>
+There are several commercial machines available which are similar to this,
+where the wheelchair front and the 'cycle' rear can be split so the
+wheelchair can be used separately (in cafes etc) - however, the wheelchair
+part is much sturdier than a wheelchair, as it has to withstand the higher
+speeds of cycling - from my recollection of these sorts of machines, the
+steering pivot is slightly in front of the front wheel centres - to provide
+some trail and (presumably) damping to the steering.
+
+Have you looked for this sort of machine on the web - a good starting point
+is the Velovision Special Needs Cycling Guide at
+
+http://www.velovision.com/cgi-bin/show_comments.pl?storynum=559
+
+
+
+
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/ Visit
+http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From list at moz.geek.nz  Sat Oct 30 03:39:59 2010
+From: list at moz.geek.nz (Moz)
+Date: Sat, 30 Oct 2010 21:39:59 +1100
+Subject: [trikes] steering design question
+In-Reply-To: <005801cb77f9$3e74b8b0$bb5e2a10$@bigpond.com>
+References: <mailman.11.1288378805.97137.trikes@bikelist.org>
+	<E7BD9CC8FD4F4702BDBB411C9FA57531@ASUSA6J>
+	<005801cb77f9$3e74b8b0$bb5e2a10$@bigpond.com>
+Message-ID: <153021103.20101030213959@moz.geek.nz>
+
+Julian Edgar said:
+> I agree with Ian. I spent a few hours recently in shop selling
+> equipment for disabled people and wasn't very impressed by the
+> standard of the non-motorised equipment.
+
+At the risk of joining the chorus, that's been my experience. The
+dedicated wheelchairs are usually good, but anything bicycle-like is
+usually quite amateur. Which leads wheelchair racers to be quite
+disparaging of the pedal-powered stuff, and rightly so. But get them
+onto something half decent and they usually change their minds. For
+that matter, recumbent gear is usually priced like wheelchair gear.
+
+Moz
+
+

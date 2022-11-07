@@ -1,0 +1,1535 @@
+From rickwill at bigpond.net.au  Sun Jan  1 06:03:20 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 1 Jan 2012 22:03:20 +1100
+Subject: [hpv-boats] New Boat
+Message-ID: <3E99F2D2-ECB0-4D52-B7F6-7412B03F8E34@bigpond.net.au>
+
+I completed a new boat in time for the Murray Marathon but family  
+concerns prevented participation.
+
+I have posted some pictures here:
+http://www.rickwill.bigpondhosting.com/V15_58.htm
+
+I have only had the boat out a few times and have already got it  
+going faster than any other.  Top speed so far is 19kph and I expect  
+I will get a bit more.
+
+I am still battling to get weight below 20kg.  This one came out at  
+21.5kg.  I will need to vacuum bag the hull to get lower.
+
+Best wishes to all for 2012.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From vgarza2 at satx.rr.com  Sun Jan  1 15:47:17 2012
+From: vgarza2 at satx.rr.com (v garza)
+Date: Sun, 1 Jan 2012 14:47:17 -0600
+Subject: [hpv-boats] New Boat
+In-Reply-To: <3E99F2D2-ECB0-4D52-B7F6-7412B03F8E34@bigpond.net.au>
+References: <3E99F2D2-ECB0-4D52-B7F6-7412B03F8E34@bigpond.net.au>
+Message-ID: <16DB323AA2E447958F0109481C627028@vgarzaPC>
+
+Happy new year to all.
+
+Rick, is that a hand drill gearbox being used in V15 or something else you 
+found? Looks a lot more compact and lightweight than some of your previous 
+models.
+
+Here is a reference to graphene, a very new possibly stronger and lighter 
+material that I thought you might find interesting. It is already available 
+in powder form and can aparently be tweaked for marine applications:
+http://www.plastemart.com/Plastic-Technical-Article.asp?LiteratureID=1433&Paper=graphene-automotive-aerospace-wind%20energy-electronics
+
+Might be a way for a lighter hull down the road a bit...
+
+Cheers,
+
+Vic
+
+
+----- Original Message ----- 
+From: "Rick Willoughby" <rickwill at bigpond.net.au>
+To: <hpv-boats at hupi.org>
+Sent: Sunday, January 01, 2012 5:03 AM
+Subject: [hpv-boats] New Boat
+
+
+>I completed a new boat in time for the Murray Marathon but family  concerns 
+>prevented participation.
+>
+> I have posted some pictures here:
+> http://www.rickwill.bigpondhosting.com/V15_58.htm
+>
+> I have only had the boat out a few times and have already got it  going 
+> faster than any other.  Top speed so far is 19kph and I expect  I will get 
+> a bit more.
+>
+> I am still battling to get weight below 20kg.  This one came out at 
+> 21.5kg.  I will need to vacuum bag the hull to get lower.
+>
+> Best wishes to all for 2012.
+>
+> Rick Willoughby
+> rickwill at bigpond.net.au
+>
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+From rickwill at bigpond.net.au  Sun Jan  1 19:07:07 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Mon, 2 Jan 2012 11:07:07 +1100
+Subject: [hpv-boats] New Boat
+Message-ID: <EC0427F2-00B0-497F-837E-BD3C8C477CB4@bigpond.net.au>
+
+
+Happy new year to all.
+
+Rick, is that a hand drill gearbox being used in V15 or something  
+else you
+found? Looks a lot more compact and lightweight than some of your  
+previous
+models.
+
+Here is a reference to graphene, a very new possibly stronger and  
+lighter
+material that I thought you might find interesting. It is already  
+available
+in powder form and can aparently be tweaked for marine applications:
+http://www.plastemart.com/Plastic-Technical-Article.asp? 
+LiteratureID=1433&Paper=graphene-automotive-aerospace-wind%20energy- 
+electronics
+
+Might be a way for a lighter hull down the road a bit...
+
+Cheers,
+
+
+Vic
+I have a couple of these boxes and have used them before.  They are  
+designated DZ2.  They have similar rating to an R-082 Mitrpak box but  
+have slightly thicker shaft.  They weigh 1kg.
+
+With my present method of construction I have been adding more than  
+1kg in fairing the hull.  If I were to vacuum bag over a male mould  
+with a silicone bag I will get fairer finish.  It would save a lot of  
+effort and reduce weight.
+
+As it is the boat is quite easy to carry with stabilisers attached.   
+They fold up over the seat once the brace is unclipped. This is how I  
+transport the boat.
+
+This boat now looks good enough such that some people actually ask  
+"Where did I buy it?" rather than asking "Did you make it?".  So some  
+progress on the finish but still not commercial quality.
+
+There is a fellow who has seen Mike racing his V15 boat who has  
+approached me about making a plastic version with a view to  
+commercial production.  It is early days yet but will see how it  
+progresses.
+
+I have gone back to the side mounted prop for a variety of reasons.   
+The instigator was a semi-professional cyclist, Matt Johnson, from  
+Seattle who has built a V15 style hull 6.5m long with the original  
+intention of bettering the 24 hour record.  I have since convinced  
+Matt that he should join Mike in the Sound Rowers races.  Matt can  
+sustain around 330W, which is around 3 times what I can hold and  
+about twice what Mike can hold.  In looking at the drive train I  
+found I could not come up with a suitable shaft design for aft  
+mounted prop for this power level  so went back to the side mount  
+design for him.  It prompted me to use that set up on the new boat  
+and he can now copy what I have done.  I will probably supply a prop  
+and maybe shaft.  Also Mike still gets a bit of bother clearing weed  
+from his folding prop and that is simply not an issue with a prop you  
+can reach by hand and clean if it is badly fouled.
+
+The reason I can get higher speed from this boat is the low torsional  
+compliance of the drive train.  I am spinning a lower pitch prop at  
+7X cadence.  The prop is on an 8mm diameter spring steel shaft that  
+is only 1.4m long.  The drive dynamics are much improved over my  
+V15-6m boat with the aft mounted prop on the CF shaft.
+
+The CF shaft with aft mounted prop has worked very well but it is so  
+long and at 4X cadence spinning a high pitch prop the torsional  
+compliance is noticeable above 14kph.  It eventually limits top speed  
+due to shaft recoil at the crank deadspot.  Mike Lampi is limited to  
+about 8mph due to his shaft dynamics so he cannot do the high speed  
+sprint to the finish line he could do in the Cadence despite his V15  
+boat being faster over the course.
+
+I did a lot of drive analysis for a guy, Dave Giering, who eventually  
+wound his own CF shaft.  He has a very heavy boat but is pleased with  
+his new shaft.  So CF shafts are a good way to go but they need to be  
+purpose made to have bending compliance but torsional stiffness.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From curt at nauticraft.com  Mon Jan  2 09:38:58 2012
+From: curt at nauticraft.com (Curt Chambers)
+Date: Mon, 2 Jan 2012 09:38:58 -0500
+Subject: [hpv-boats] Activity
+Message-ID: <6FB6E75A4238E6438FE1D727B88B2148D3B1B1@exchange.DYNACON.LOCAL>
+
+Hello.  Hello,  out there.  Is anybody there?  Is anybody doing anything
+worth reporting?  Or is my receiving faulty?  I have not gotten anything
+for months (years?).  Just for the record, Nauticraft is still here; we
+had a reasonably good year considering the economy and hope to have a
+better one here in 2012.  Well, anyway, a Happy New Year to everyone!
+
+ 
+
+Curt
+
+ 
+
+Curtis Chambers
+
+Owner/Pres.
+
+ 
+
+Nauticraft Corporation
+
+5980 Grand Haven Rd.
+
+Norton Shores, MI  49441
+
+231-798-8440
+
+ 
+
+
+From bobstuart at sasktel.net  Mon Jan  2 10:52:18 2012
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Mon, 2 Jan 2012 09:52:18 -0600
+Subject: [hpv-boats] Activity
+In-Reply-To: <6FB6E75A4238E6438FE1D727B88B2148D3B1B1@exchange.DYNACON.LOCAL>
+References: <6FB6E75A4238E6438FE1D727B88B2148D3B1B1@exchange.DYNACON.LOCAL>
+Message-ID: <F6B107F8-8B17-498C-8C29-287489D43FA8@sasktel.net>
+
+Didn't you get a flurry of activity from Rick Willoughby recently?  I  
+have not had my own keel wet in six years.  I realized that my boat  
+work was probably not building a sustainable, useful technology, and  
+lost interest.  HPBs appeal to simplicity, while metal and water  
+demand complexity.  I'm still interested in the possibility of fin  
+drives, made from carved wood and rope.  A high-tech version could be  
+as fast as a propeller.
+
+Bob Stuart
+Sent from The Country Formerly Known as Nice.
+
+On 2-Jan-12, at 8:38 AM, Curt Chambers wrote:
+
+> Hello.  Hello,  out there.  Is anybody there?  Is anybody doing  
+> anything
+> worth reporting?  Or is my receiving faulty?  I have not gotten  
+> anything
+> for months (years?).  Just for the record, Nauticraft is still  
+> here; we
+> had a reasonably good year considering the economy and hope to have a
+> better one here in 2012.  Well, anyway, a Happy New Year to everyone!
+>
+>
+>
+> Curt
+>
+>
+>
+> Curtis Chambers
+>
+> Owner/Pres.
+>
+>
+>
+> Nauticraft Corporation
+>
+> 5980 Grand Haven Rd.
+>
+> Norton Shores, MI  49441
+>
+> 231-798-8440
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+>
+
+
+From lhsmith at wvi.com  Mon Jan  2 13:55:15 2012
+From: lhsmith at wvi.com (Larry Smith)
+Date: Mon, 2 Jan 2012 10:55:15 -0800
+Subject: [hpv-boats] Activity
+In-Reply-To: <F6B107F8-8B17-498C-8C29-287489D43FA8@sasktel.net>
+References: <6FB6E75A4238E6438FE1D727B88B2148D3B1B1@exchange.DYNACON.LOCAL>
+	<F6B107F8-8B17-498C-8C29-287489D43FA8@sasktel.net>
+Message-ID: <FD17DCA1-51E5-4CF8-B374-B7A0A8ADEEB6@wvi.com>
+
+Hi Bob, Curt, All,
+
+I'm still linked and receiving the rare contribution, but have been inactive for quite awhile myself.
+
+At 71, diminishing years and energy have found me putting my boat-thoughts/efforts into somewhat larger sail/powered craft, but I'm still appreciative of the efforts of Rick and others who are pushing HPB envelopes.
+
+I wish the main body of discussion had not so completely moved to other venues, but maybe the increased level of technology and required mathematical and computer literacy made that inevitable.
+
+Part of the fun for me was leaning against a figurative tree watching the early "back-yard" inventors fumble forward. I've learned a lot, but improving my knowledge was a low bar, compared to  getting to the level of today's fore-fronters.
+
+Bob, ever since Harry Bryan's first fin-drive showed up, the graceful swishing of a fin drive and the natural looking magic of a boat moving under "fish power" has intrigued me.
+
+Slow moving/turning parts with surprising resulting movement are fascinating to me. (In my mind, I still carry the image of my first sight of Knapp's Sea Saber pulling smoothly away with its relatively slow-turning 18"(or so) prop.
+
+I would like to see the result of extended, concerted efforts by such a community as used to exist on this site, directed toward a state-of-the-art fin set-up.
+
+I used to think some split-fin arrangement might best answer the yaw issue, with the fins sweeping opposite directions at a given time (think swim fins on a diver swimming on his side).
+
+I also imagined a forward turning rudder-fin actuated in phase with the (single) fin's stroke to "lift" the bow to the appropriate side to counter the fin's yaw force. Additional drag, of course, but a fixed forward fin also has drag, but offers less correcting "lift" due to restricted angle of attack, no?
+
+Anyway, tossing ideas into the midst of this group has always been fun. :-)
+
+Very nice to hear you are still out there Bob!  "High tech" wood and rope. I like it! 
+
+Best wishes and Happy New Year to all,
+
+Larry
+
+
+
+On Jan 2, 2012, at 7:52 AM, Bob Stuart wrote:
+
+Didn't you get a flurry of activity from Rick Willoughby recently?  I have not had my own keel wet in six years.  I realized that my boat work was probably not building a sustainable, useful technology, and lost interest.  HPBs appeal to simplicity, while metal and water demand complexity.  I'm still interested in the possibility of fin drives, made from carved wood and rope.  A high-tech version could be as fast as a propeller.
+
+Bob Stuart
+Sent from The Country Formerly Known as Nice.
+
+On 2-Jan-12, at 8:38 AM, Curt Chambers wrote:
+
+> Hello.  Hello,  out there.  Is anybody there?  Is anybody doing anything
+> worth reporting?  Or is my receiving faulty?  I have not gotten anything
+> for months (years?).  Just for the record, Nauticraft is still here; we
+> had a reasonably good year considering the economy and hope to have a
+> better one here in 2012.  Well, anyway, a Happy New Year to everyone!
+> 
+> 
+> 
+> Curt
+> 
+> 
+> 
+> Curtis Chambers
+> 
+> Owner/Pres.
+> 
+> 
+> 
+> Nauticraft Corporation
+> 
+> 5980 Grand Haven Rd.
+> 
+> Norton Shores, MI  49441
+> 
+> 231-798-8440
+> 
+> 
+> 
+> --
+> This message comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+> 
+
+--
+This message comes to you via the hpv-boats at hupi.org mailing list.
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+
+
+
+From lhsmith at wvi.com  Mon Jan  2 14:31:08 2012
+From: lhsmith at wvi.com (Larry Smith)
+Date: Mon, 2 Jan 2012 11:31:08 -0800
+Subject: [hpv-boats] Activity
+In-Reply-To: <FD17DCA1-51E5-4CF8-B374-B7A0A8ADEEB6@wvi.com>
+References: <6FB6E75A4238E6438FE1D727B88B2148D3B1B1@exchange.DYNACON.LOCAL>
+	<F6B107F8-8B17-498C-8C29-287489D43FA8@sasktel.net>
+	<FD17DCA1-51E5-4CF8-B374-B7A0A8ADEEB6@wvi.com>
+Message-ID: <6493E853-E5F7-4D8C-9B6A-E2DF73EBF8AD@wvi.com>
+
+Hello everyone(again!),
+
+Just a quick note of apology for redundancy.
+
+After typing my last, I visited some of the HPB archives here:
+http://www.mail-archive.com/hpv-boats at bikelist.org/msg00434.html
+
+...and found that almost all that I posted today was part of a previous discussion about a year ago.
+
+I claim age related CRS as my excuse.
+
+Fun to read the older back-and-forth anyway. ;-)
+
+Larry
+
+On Jan 2, 2012, at 10:55 AM, Larry Smith wrote:
+[Some stuff]
+
+
+
+From bobstuart at sasktel.net  Mon Jan  2 15:08:21 2012
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Mon, 2 Jan 2012 14:08:21 -0600
+Subject: [hpv-boats] Activity
+In-Reply-To: <FD17DCA1-51E5-4CF8-B374-B7A0A8ADEEB6@wvi.com>
+References: <6FB6E75A4238E6438FE1D727B88B2148D3B1B1@exchange.DYNACON.LOCAL>
+	<F6B107F8-8B17-498C-8C29-287489D43FA8@sasktel.net>
+	<FD17DCA1-51E5-4CF8-B374-B7A0A8ADEEB6@wvi.com>
+Message-ID: <AA6196E8-5440-4DB0-A3A1-AA404BACAFC3@sasktel.net>
+
+Leaping Lizards, Larry.
+
+I'm not quite sure what you were describing, but suddenly I'm  
+wondering about a fin that moves vertically, instead of having to  
+react against another fin.  With the right linkage, the legs could  
+tilt it for steering, or run it in short strokes for shallow draft.
+
+A lot of fin drives use flex to accommodate changes in direction, but  
+that usually gives the foil the opposite camber to what you want.   
+Rigid fins on a hinge with limited motion are an improvement, like  
+the symmetrical wing sections of an aerobatic aircraft.  However, it  
+is possible to get beneficial camber by using spars fore and aft,  
+with a flexible material in between.
+
+Bob Stuart
+Sent from The Country Formerly Known as Nice.
+
+On 2-Jan-12, at 12:55 PM, Larry Smith wrote:
+
+> Hi Bob, Curt, All,
+>
+> I'm still linked and receiving the rare contribution, but have been  
+> inactive for quite awhile myself.
+>
+> At 71, diminishing years and energy have found me putting my boat- 
+> thoughts/efforts into somewhat larger sail/powered craft, but I'm  
+> still appreciative of the efforts of Rick and others who are  
+> pushing HPB envelopes.
+>
+> I wish the main body of discussion had not so completely moved to  
+> other venues, but maybe the increased level of technology and  
+> required mathematical and computer literacy made that inevitable.
+>
+> Part of the fun for me was leaning against a figurative tree  
+> watching the early "back-yard" inventors fumble forward. I've  
+> learned a lot, but improving my knowledge was a low bar, compared  
+> to  getting to the level of today's fore-fronters.
+>
+> Bob, ever since Harry Bryan's first fin-drive showed up, the  
+> graceful swishing of a fin drive and the natural looking magic of a  
+> boat moving under "fish power" has intrigued me.
+>
+> Slow moving/turning parts with surprising resulting movement are  
+> fascinating to me. (In my mind, I still carry the image of my first  
+> sight of Knapp's Sea Saber pulling smoothly away with its  
+> relatively slow-turning 18"(or so) prop.
+>
+> I would like to see the result of extended, concerted efforts by  
+> such a community as used to exist on this site, directed toward a  
+> state-of-the-art fin set-up.
+>
+> I used to think some split-fin arrangement might best answer the  
+> yaw issue, with the fins sweeping opposite directions at a given  
+> time (think swim fins on a diver swimming on his side).
+>
+> I also imagined a forward turning rudder-fin actuated in phase with  
+> the (single) fin's stroke to "lift" the bow to the appropriate side  
+> to counter the fin's yaw force. Additional drag, of course, but a  
+> fixed forward fin also has drag, but offers less correcting "lift"  
+> due to restricted angle of attack, no?
+>
+> Anyway, tossing ideas into the midst of this group has always been  
+> fun. :-)
+>
+> Very nice to hear you are still out there Bob!  "High tech" wood  
+> and rope. I like it!
+>
+> Best wishes and Happy New Year to all,
+>
+> Larry
+>
+>
+>
+> On Jan 2, 2012, at 7:52 AM, Bob Stuart wrote:
+>
+> Didn't you get a flurry of activity from Rick Willoughby recently?   
+> I have not had my own keel wet in six years.  I realized that my  
+> boat work was probably not building a sustainable, useful  
+> technology, and lost interest.  HPBs appeal to simplicity, while  
+> metal and water demand complexity.  I'm still interested in the  
+> possibility of fin drives, made from carved wood and rope.  A high- 
+> tech version could be as fast as a propeller.
+>
+> Bob Stuart
+> Sent from The Country Formerly Known as Nice.
+>
+> On 2-Jan-12, at 8:38 AM, Curt Chambers wrote:
+>
+>> Hello.  Hello,  out there.  Is anybody there?  Is anybody doing  
+>> anything
+>> worth reporting?  Or is my receiving faulty?  I have not gotten  
+>> anything
+>> for months (years?).  Just for the record, Nauticraft is still  
+>> here; we
+>> had a reasonably good year considering the economy and hope to have a
+>> better one here in 2012.  Well, anyway, a Happy New Year to everyone!
+>>
+>>
+>>
+>> Curt
+>>
+>>
+>>
+>> Curtis Chambers
+>>
+>> Owner/Pres.
+>>
+>>
+>>
+>> Nauticraft Corporation
+>>
+>> 5980 Grand Haven Rd.
+>>
+>> Norton Shores, MI  49441
+>>
+>> 231-798-8440
+>>
+>>
+>>
+>> --
+>> This message comes to you via the hpv-boats at hupi.org mailing list.
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+>> subscription.
+>>
+>
+> --
+> This message comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+>
+>
+>
+>
+
+
+From lhsmith at wvi.com  Mon Jan  2 20:55:00 2012
+From: lhsmith at wvi.com (Larry Smith)
+Date: Mon, 2 Jan 2012 17:55:00 -0800
+Subject: [hpv-boats] Activity
+In-Reply-To: <AA6196E8-5440-4DB0-A3A1-AA404BACAFC3@sasktel.net>
+References: <6FB6E75A4238E6438FE1D727B88B2148D3B1B1@exchange.DYNACON.LOCAL>
+	<F6B107F8-8B17-498C-8C29-287489D43FA8@sasktel.net>
+	<FD17DCA1-51E5-4CF8-B374-B7A0A8ADEEB6@wvi.com>
+	<AA6196E8-5440-4DB0-A3A1-AA404BACAFC3@sasktel.net>
+Message-ID: <5445895A-351F-4C26-BA42-F1BF71B2911D@wvi.com>
+
+Hi Bob,
+
+Well, if we're talkin' mammal drive rather than fish drive, I suppose we've traded yaw issues for pitch issues ;-).
+
+ I picture Parker McCready's Preposterous Pogofoil, and I imagine myself preferring the wake of the swishing back-and-forth tail, over the (turbulent?) commotion behind the up and downer.
+
+I always find your input excellent thought food. Great to hear from you again!
+
+Larry
+
+
+On Jan 2, 2012, at 12:08 PM, Bob Stuart wrote:
+
+Leaping Lizards, Larry.
+
+I'm not quite sure what you were describing, but suddenly I'm wondering about a fin that moves vertically, instead of having to react against another fin.  With the right linkage, the legs could tilt it for steering, or run it in short strokes for shallow draft.
+
+A lot of fin drives use flex to accommodate changes in direction, but that usually gives the foil the opposite camber to what you want.  Rigid fins on a hinge with limited motion are an improvement, like the symmetrical wing sections of an aerobatic aircraft.  However, it is possible to get beneficial camber by using spars fore and aft, with a flexible material in between.
+
+Bob Stuart
+Sent from The Country Formerly Known as Nice.
+
+On 2-Jan-12, at 12:55 PM, Larry Smith wrote:
+
+> Hi Bob, Curt, All,
+> 
+> I'm still linked and receiving the rare contribution, but have been inactive for quite awhile myself.
+> 
+> At 71, diminishing years and energy have found me putting my boat-thoughts/efforts into somewhat larger sail/powered craft, but I'm still appreciative of the efforts of Rick and others who are pushing HPB envelopes.
+> 
+> I wish the main body of discussion had not so completely moved to other venues, but maybe the increased level of technology and required mathematical and computer literacy made that inevitable.
+> 
+> Part of the fun for me was leaning against a figurative tree watching the early "back-yard" inventors fumble forward. I've learned a lot, but improving my knowledge was a low bar, compared to  getting to the level of today's fore-fronters.
+> 
+> Bob, ever since Harry Bryan's first fin-drive showed up, the graceful swishing of a fin drive and the natural looking magic of a boat moving under "fish power" has intrigued me.
+> 
+> Slow moving/turning parts with surprising resulting movement are fascinating to me. (In my mind, I still carry the image of my first sight of Knapp's Sea Saber pulling smoothly away with its relatively slow-turning 18"(or so) prop.
+> 
+> I would like to see the result of extended, concerted efforts by such a community as used to exist on this site, directed toward a state-of-the-art fin set-up.
+> 
+> I used to think some split-fin arrangement might best answer the yaw issue, with the fins sweeping opposite directions at a given time (think swim fins on a diver swimming on his side).
+> 
+> I also imagined a forward turning rudder-fin actuated in phase with the (single) fin's stroke to "lift" the bow to the appropriate side to counter the fin's yaw force. Additional drag, of course, but a fixed forward fin also has drag, but offers less correcting "lift" due to restricted angle of attack, no?
+> 
+> Anyway, tossing ideas into the midst of this group has always been fun. :-)
+> 
+> Very nice to hear you are still out there Bob!  "High tech" wood and rope. I like it!
+> 
+> Best wishes and Happy New Year to all,
+> 
+> Larry
+> 
+> 
+
+--
+This message comes to you via the hpv-boats at hupi.org mailing list.
+Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+
+
+
+From curt at nauticraft.com  Tue Jan  3 11:15:13 2012
+From: curt at nauticraft.com (Curt Chambers)
+Date: Tue, 3 Jan 2012 11:15:13 -0500
+Subject: [hpv-boats] Ideas
+Message-ID: <6FB6E75A4238E6438FE1D727B88B2148D3B2B9@exchange.DYNACON.LOCAL>
+
+Hey Bob and Larry,
+
+ 
+
+That's better!  It's great to hear ideas being batted around again.
+Some of us (I'm talking about myself here) never had much to add to the
+group but that doesn't mean  we weren't interested in what the rest of
+you creative guys were thinking and doing.  I hope it keeps going on.
+And on.
+
+ 
+
+Curt
+
+ 
+
+Curtis Chambers
+
+Owner/Pres.
+
+ 
+
+Nauticraft Corporation
+
+5980 Grand Haven Rd.
+
+Norton Shores, MI  49441
+
+231-798-8440
+
+ 
+
+
+From flareking at talktalk.net  Fri Jan 13 14:17:54 2012
+From: flareking at talktalk.net (Dennis)
+Date: Fri, 13 Jan 2012 19:17:54 -0000
+Subject: [hpv-boats] New boat
+Message-ID: <BDA4AF5059384F4D91CD4BF0D2A146B4@flareking>
+
+That is a great looking boat with a very impressive performance. 
+I am please to see that you have reverted back to the side drive bent shaft system. This type of drive, I feel is the most practical for launching and retrieving with out a trailer plus it can be serviced while still afloat. 
+
+Dennis Adcock
+
+From rickwill at bigpond.net.au  Fri Jan 13 16:05:06 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sat, 14 Jan 2012 08:05:06 +1100
+Subject: [hpv-boats] re New Boat
+Message-ID: <64AE9C0B-B8A1-4CDF-83E0-7621759FAF04@bigpond.net.au>
+
+Dennis
+Having spent considerable time now with both systems I agree the side  
+mounted prop offers practical benefits and significant performance  
+benefits over aft mounted.
+
+Even the offset thrust can be managed very easily by a bit of  
+tweaking.  There is also a less evident benefit if the prop is spun  
+in the direction such that the prop torque offsets the weight of the  
+gearbox.  The boat trims out nicely.
+
+On the third time out I got over 20kph.  I am now close to being  
+power constrained rather than limited by footspeed and shaft  
+compliance.  The gear ratio is 1:7 enabling me to reduce prop pitch  
+which lowers prop torque, hence the amount of wind-up in the shaft.    
+The dynamics of this latest drive system will be hard to better.
+
+
+Did you do any boat modifications before last summer?
+
+
+
+That is a great looking boat with a very impressive performance.
+I am please to see that you have reverted back to the side drive bent  
+shaft system. This type of drive, I feel is
+the most practical for launching and retrieving with out a trailer  
+plus it can be serviced while still
+afloat.
+
+Dennis Adcock
+
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From flareking at talktalk.net  Sat Jan 14 16:52:52 2012
+From: flareking at talktalk.net (Dennis)
+Date: Sat, 14 Jan 2012 21:52:52 -0000
+Subject: [hpv-boats] Summer modifications  to Fast 3
+Message-ID: <7D6C44A43AE84B6AB945AA08CF93D256@flareking>
+
+Hi Rick
+
+At the electric boat race, a photo was taken from the rear of my boat & I decided that the wake was excessive so modified the square stern to a point.  This greatly reduced the wake but did not appear to improve the speed which is what you had predicted.
+Additionally I completed several tests on propeller tip shapes & concluded that a simple HOEANER tip was a improvement over the radius ends that you have been using, additionally it is very simple to make.
+The tips were raked outwards at 30 degrees with a radius where the leading edge meets the tip.
+I also tried tiplets (look similar to winglets) & found the performance similar to the rake tips but as these were tried on fully shaped propeller blades I dropped the idea due to the high amount of work required.
+
+Dennis 
+
+
+From rickwill at bigpond.net.au  Sun Jan 15 00:31:32 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 15 Jan 2012 16:31:32 +1100
+Subject: [hpv-boats] V15-58 Video
+Message-ID: <93D9706C-1088-4031-B782-F5661AD5FCB6@bigpond.net.au>
+
+Ian Cassell was out on the lake with me on Saturday and took some  
+video of my new boat:
+http://www.youtube.com/watch?v=RQs6YgO93RY&feature=g- 
+upl&context=G2845651AUAAAAAAAAAA
+
+The video provides some observations of the ruder working,  the trim  
+of the boat and flow on the bow.
+
+Rick Willoughby
+
+
+
+
+
+From FreeEntTec at aol.com  Thu Jan 26 15:11:37 2012
+From: FreeEntTec at aol.com (FreeEntTec at aol.com)
+Date: Thu, 26 Jan 2012 15:11:37 -0500 (EST)
+Subject: [hpv-boats] Activity/JAKE
+Message-ID: <49dd4.22c1b909.3c530d79@aol.com>
+
+Hey, all,
+ 
+ 
+Might be able to spina few yarns here and there. One or two might involve  
+Hydrobowl races  in Midwest. We have been doing them, tho they have been a  
+little quiter. There are a few new boats and players, and I have been trying 
+out  new components . Maybe a boat or two on the horizon.
+ 
+ happy New Year 
+ 
+jake
+
+From rickwill at bigpond.net.au  Wed Mar  7 23:51:46 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 8 Mar 2012 15:51:46 +1100
+Subject: [hpv-boats] Carbon Fibre Blades for Folding Propeller
+Message-ID: <CE97357F-168B-4A37-9CC7-DE1B5D83E3B3@bigpond.net.au>
+
+I now have a mould for making CF folding blades:
+http://www.rickwill.bigpondhosting.com/CF_Prop_Blades.jpg
+
+The resulting propeller has a diameter of 330mm and weighs 160g.  I  
+have tested the blades to 16kph, which corresponds to 65N thrust.   
+This is more than twice the thrust needed to achieve 12kph, which is  
+the sustainable speed for a pilot in good shape.
+http://www.youtube.com/watch?v=ONk3fUnHamI
+
+The pitch was close to what I calculated below 12kph but it is  
+possible there is some blade flexing due to loading because the pitch  
+was apparently reducing as I increased speed.  Usually the speed to  
+cadence increases as speed increases due to reduced slip.
+
+The prop is suited to a gear ratio of between 6 to 8 depending on the  
+boat and pilot although the boat needs to be easily driven.  I was  
+running at 7X.
+
+I could get 5kph in reverse spinning flat out.
+
+The blades do not deploy as quickly as heavier blades.  I plan to use  
+a stainless steel core to add some more weight and possibly reduce  
+blade flexing.
+
+Overall I am pleased at how the blades worked out.  It only takes a  
+few minutes to lay up the blades but overnight to cure.  Hub is the  
+same nylon rod I have used for stainless folding props for the last  
+couple of years.
+
+I plan to do durability testing over the next few months.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From iancassell at optusnet.com.au  Thu Mar  8 02:55:04 2012
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Thu, 8 Mar 2012 18:55:04 +1100
+Subject: [hpv-boats] CF blades
+Message-ID: <0026549520094957929B25AA0F6C9165@HOME1>
+
+Rick
+       How much of a weight difference is there
+between the CF blades and steel ones?
+Do you provide a slot in the hub for the shaft
+or do you leave it blank. Being a nylon hub
+it wouldn't be hard to drill.
+
+Ian
+
+From RICKWILL at bigpond.net.au  Thu Mar  8 03:34:35 2012
+From: RICKWILL at bigpond.net.au (Rick Willoughby)
+Date: Thu, 8 Mar 2012 19:34:35 +1100
+Subject: [hpv-boats] re CF Blades
+Message-ID: <312C2278-44DA-4150-96E2-A04062AEF0E8@bigpond.net.au>
+
+Rick
+        How much of a weight difference is there
+between the CF blades and steel ones?
+Do you provide a slot in the hub for the shaft
+or do you leave it blank. Being a nylon hub
+it wouldn't be hard to drill.
+
+Ian
+
+Ian
+The normal stainless blades weigh 70g.  Remember this is quite a  
+small prop.  The CF blades currently have an aluminium core and weigh  
+20g.  The core is needed for twist strength as I am only using  
+unidirectional fibre lengthwise on the blade to resist bending.
+
+The next ones I mould will have a stainless steel strip for the  
+core.   This will add a bit of weight and should help deployment as  
+well as stiffness against twisting.
+
+There is much less effort in making these blades compared with  
+grinding stainless steel.
+
+I was surprised how easy it is to get a perfect blade from the  
+mould.  The mould cost a bit but it is well made and virtually  
+guarantees a good result.  The mould maker had not used CF for  
+reinforcing before so it was an experiment for him as well.  He has  
+made a mould for a larger fibreglass prop used for wind turbine and  
+thousands of others moulds but mine is tiny by comparison with these.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From vgarza2 at satx.rr.com  Thu Mar  8 13:05:09 2012
+From: vgarza2 at satx.rr.com (v garza)
+Date: Thu, 8 Mar 2012 12:05:09 -0600
+Subject: [hpv-boats] re CF Blades
+In-Reply-To: <312C2278-44DA-4150-96E2-A04062AEF0E8@bigpond.net.au>
+References: <312C2278-44DA-4150-96E2-A04062AEF0E8@bigpond.net.au>
+Message-ID: <C1359FC4E5E24EC1A9BE90024E427FFE@vgarzaPC>
+
+Rick:
+
+Great looking prop, thanks for posting.
+
+Have you reached perfection with this prop, so it can be used with your 
+other boats as well? Or is a dedicated prop for your racing machine? If you 
+can go to mass production, perhaps others would be interested in a 
+purchase....
+
+Thanks,
+
+Vic
+----- Original Message ----- 
+From: "Rick Willoughby" <RICKWILL at bigpond.net.au>
+To: "HPV" <hpv-boats at hupi.org>
+Sent: Thursday, March 08, 2012 2:34 AM
+Subject: [hpv-boats] re CF Blades
+
+
+> Rick
+>        How much of a weight difference is there
+> between the CF blades and steel ones?
+> Do you provide a slot in the hub for the shaft
+> or do you leave it blank. Being a nylon hub
+> it wouldn't be hard to drill.
+>
+> Ian
+>
+> Ian
+> The normal stainless blades weigh 70g.  Remember this is quite a  small 
+> prop.  The CF blades currently have an aluminium core and weigh  20g.  The 
+> core is needed for twist strength as I am only using  unidirectional fibre 
+> lengthwise on the blade to resist bending.
+>
+> The next ones I mould will have a stainless steel strip for the  core. 
+> This will add a bit of weight and should help deployment as  well as 
+> stiffness against twisting.
+>
+> There is much less effort in making these blades compared with  grinding 
+> stainless steel.
+>
+> I was surprised how easy it is to get a perfect blade from the  mould. 
+> The mould cost a bit but it is well made and virtually  guarantees a good 
+> result.  The mould maker had not used CF for  reinforcing before so it was 
+> an experiment for him as well.  He has  made a mould for a larger 
+> fibreglass prop used for wind turbine and  thousands of others moulds but 
+> mine is tiny by comparison with these.
+>
+> Rick Willoughby
+> rickwill at bigpond.net.au
+>
+>
+>
+>
+> --
+> This message comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your 
+> subscription. 
+
+
+From RICKWILL at bigpond.net.au  Thu Mar  8 15:40:09 2012
+From: RICKWILL at bigpond.net.au (Rick Willoughby)
+Date: Fri, 9 Mar 2012 07:40:09 +1100
+Subject: [hpv-boats] re CF Blades
+Message-ID: <066B5D5F-33FD-457F-8700-378B26052C00@bigpond.net.au>
+
+Rick:
+
+
+Great looking prop, thanks for posting.
+
+Have you reached perfection with this prop, so it can be used with your
+other boats as well? Or is a dedicated prop for your racing machine?  
+If you
+can go to mass production, perhaps others would be interested in a
+purchase....
+
+Thanks,
+
+
+Vic
+This prop is close to optimum for the side-mounted configuration on  
+the V15 boat or any similar easily driven boat.   It suits a gear  
+ratio around 7X .  It could be used on slightly heavier boats as well.
+
+I have already supplied a prop to another boat and prepared to make  
+them for sale if they suit the application subject to them  
+demonstrating the required durability.
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From rickwill at bigpond.net.au  Fri Mar 16 21:51:40 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sat, 17 Mar 2012 12:51:40 +1100
+Subject: [hpv-boats] Pedal Wa'a
+Message-ID: <9F75F075-F60E-4075-B371-AA34F3B01E14@bigpond.net.au>
+
+Clive Armitage has recently posted a video of his boat on operation.   
+Can be viewed here:
+
+http://www.youtube.com/watch?v=Rdph3VOyPbU
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From spidennis at gmail.com  Sat Mar 17 12:40:20 2012
+From: spidennis at gmail.com (dennis Barrett)
+Date: Sat, 17 Mar 2012 11:40:20 -0500
+Subject: [hpv-boats] Huki surfski pedal boat
+Message-ID: <CACN+OfTi=NQGEjkHD_XiphXNfMVYKw1696Uq5VpWf1JS+zHsFQ@mail.gmail.com>
+
+I was wondering what ever happened with this boat.  I saw pics of it
+quite awhile back and thought that it would make for a pretty quick
+boat as it was using a surf ski hull.  It looks like it was moving
+right along in the video.
+
+From tomrachelandisabelle at gmail.com  Sat Mar 17 13:09:14 2012
+From: tomrachelandisabelle at gmail.com (Tom Christie)
+Date: Sat, 17 Mar 2012 10:09:14 -0700
+Subject: [hpv-boats] (no subject)
+Message-ID: <CAKE78w=J=Z_Osh413b8HLpKyngRzEPgL0fLaJE7i8roVhecFDg@mail.gmail.com>
+
+I can't see what boat you are referring to Dennis.
+
+-Tom
+
+From rickwill at bigpond.net.au  Sat Mar 17 17:07:48 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 18 Mar 2012 08:07:48 +1100
+Subject: [hpv-boats] Huki surfski pedal boat
+Message-ID: <DCDE2F5D-DDC9-4BF4-9982-733763B12ADC@bigpond.net.au>
+
+Dennis
+The last few seconds of the video has some detail on the boat - it is  
+an OC1 with two outriggers rather than 1.  This has the advantage  
+that the boat is balanced so the outriggers can be unloaded and just  
+surface skim.  A normal OC1 will give away about 3 minutes in an hour  
+compared with this configuration.
+
+OC1 hulls are a little narrower than surfski because they do not need  
+inherent stability in the one hull.  However a normal OC1 is slower  
+than a surfski due to greater windage and the extra drag from the  
+loaded outrigger.
+
+Clive has now fitted a Bolly boat prop. The original  was a lower  
+pitch model aircraft prop.
+
+There are photos of the original set up here:
+http://www.humanpoweredboats.com/Photos/Individuals/PedalWaa/ 
+PedalWaa.htm
+
+Until recently I thought the Pedal Wa'a and Harry Howard's Pedalos  
+were the same boat but Clive explains that the drive was supplied by  
+Harry Howard.  On inspection the cockpit of Pedalos is quite different:
+https://www.hydrocycles.com/pedalos.php
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From spidennis at gmail.com  Mon Mar 19 10:58:55 2012
+From: spidennis at gmail.com (dennis Barrett)
+Date: Mon, 19 Mar 2012 09:58:55 -0500
+Subject: [hpv-boats] hpv-boats Digest, Vol 76, Issue 4
+In-Reply-To: <mailman.1.1332086404.29822.hpv-boats@hupi.org>
+References: <mailman.1.1332086404.29822.hpv-boats@hupi.org>
+Message-ID: <CACN+OfQfqk7zME3-Un26bqedfWJ19UkhiqyXJg2=7B8Datpg0w@mail.gmail.com>
+
+Tom,
+sorry, here's that link
+http://youtu.be/Rdph3VOyPbU
+
+Rick,
+thanks for that info!
+I'm a bit confused about the Harry Howard's Pedalos, his test mule,
+and then the catamaran that went from NY to Brazil (I think).  And why
+his record braking boat hasn't been offered to the general public but
+the plastic boat is.
+
+The pedalwaa has an interesting drive for the prop, but I'm not sure
+if that method is for me.   I still like what you got going on the
+best so far, at least for my boat's design.
+
+And not to get too far off topic, but I've also been looking more into
+the proas and what you said in your emails.  Richard Woods suggested
+using a kayak for the outrigger hull which is very interesting so now
+I'm trying to come up with a way of adapting a pedal prop drive to the
+proa.  Main hull or outrigger/kayak hull?
+
+Yeah, I know, I got two different boat designs going on at the same
+time now.  I like how both are going, and yeah both are different and
+so I see myself pretty busy with both of them!
+
+for those just tuning in, I got a folding biplane rigged catamarn for
+one design that I've been working on for awhile now, but recently have
+go fascinated with proas, both boats are being designed to complete
+the 1200 mile Ultimate Florida Challenge (which is presently in
+progress with only 5 boats left and one about to drop out.)
+
+
+
+On Sun, Mar 18, 2012 at 11:00 AM,  <hpv-boats-request at hupi.org> wrote:
+> Send hpv-boats mailing list submissions to
+> ? ? ? ?hpv-boats at hupi.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> ? ? ? ?http://hupi.org/cgi-bin/mailman/listinfo/hpv-boats
+> or, via email, send a message with subject or body 'help' to
+> ? ? ? ?hpv-boats-request at hupi.org
+>
+> You can reach the person managing the list at
+> ? ? ? ?hpv-boats-owner at hupi.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of hpv-boats digest..."
+>
+>
+> Today's Topics:
+>
+> ? 1. Huki surfski pedal boat (dennis Barrett)
+> ? 2. (no subject) (Tom Christie)
+> ? 3. Re: Huki surfski pedal boat (Rick Willoughby)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Sat, 17 Mar 2012 11:40:20 -0500
+> From: dennis Barrett <spidennis at gmail.com>
+> To: hpv-boats at hupi.org
+> Subject: [hpv-boats] Huki surfski pedal boat
+> Message-ID:
+> ? ? ? ?<CACN+OfTi=NQGEjkHD_XiphXNfMVYKw1696Uq5VpWf1JS+zHsFQ at mail.gmail.com>
+> Content-Type: text/plain; charset=ISO-8859-1
+>
+> I was wondering what ever happened with this boat. ?I saw pics of it
+> quite awhile back and thought that it would make for a pretty quick
+> boat as it was using a surf ski hull. ?It looks like it was moving
+> right along in the video.
+>
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Sat, 17 Mar 2012 10:09:14 -0700
+> From: Tom Christie <tomrachelandisabelle at gmail.com>
+> To: hpv-boats at hupi.org
+> Subject: [hpv-boats] (no subject)
+> Message-ID:
+> ? ? ? ?<CAKE78w=J=Z_Osh413b8HLpKyngRzEPgL0fLaJE7i8roVhecFDg at mail.gmail.com>
+> Content-Type: text/plain; charset=ISO-8859-1
+>
+> I can't see what boat you are referring to Dennis.
+>
+> -Tom
+>
+>
+> ------------------------------
+>
+> Message: 3
+> Date: Sun, 18 Mar 2012 08:07:48 +1100
+> From: Rick Willoughby <rickwill at bigpond.net.au>
+> To: HPV <hpv-boats at hupi.org>
+> Subject: Re: [hpv-boats] Huki surfski pedal boat
+> Message-ID: <DCDE2F5D-DDC9-4BF4-9982-733763B12ADC at bigpond.net.au>
+> Content-Type: text/plain; ? ? ? charset=US-ASCII; ? ? ? delsp=yes; ? ? ?format=flowed
+>
+> Dennis
+> The last few seconds of the video has some detail on the boat - it is
+> an OC1 with two outriggers rather than 1. ?This has the advantage
+> that the boat is balanced so the outriggers can be unloaded and just
+> surface skim. ?A normal OC1 will give away about 3 minutes in an hour
+> compared with this configuration.
+>
+> OC1 hulls are a little narrower than surfski because they do not need
+> inherent stability in the one hull. ?However a normal OC1 is slower
+> than a surfski due to greater windage and the extra drag from the
+> loaded outrigger.
+>
+> Clive has now fitted a Bolly boat prop. The original ?was a lower
+> pitch model aircraft prop.
+>
+> There are photos of the original set up here:
+> http://www.humanpoweredboats.com/Photos/Individuals/PedalWaa/
+> PedalWaa.htm
+>
+> Until recently I thought the Pedal Wa'a and Harry Howard's Pedalos
+> were the same boat but Clive explains that the drive was supplied by
+> Harry Howard. ?On inspection the cockpit of Pedalos is quite different:
+> https://www.hydrocycles.com/pedalos.php
+>
+>
+> Rick Willoughby
+> rickwill at bigpond.net.au
+>
+>
+>
+>
+>
+>
+> ------------------------------
+>
+> --
+> This message digest comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+>
+> End of hpv-boats Digest, Vol 76, Issue 4
+> ****************************************
+
+From bobstuart at sasktel.net  Mon Mar 19 11:12:23 2012
+From: bobstuart at sasktel.net (Bob Stuart)
+Date: Mon, 19 Mar 2012 09:12:23 -0600
+Subject: [hpv-boats] Proa offer, was hpv-boats Digest, Vol 76, Issue 4
+In-Reply-To: <CACN+OfQfqk7zME3-Un26bqedfWJ19UkhiqyXJg2=7B8Datpg0w@mail.gmail.com>
+References: <mailman.1.1332086404.29822.hpv-boats@hupi.org>
+	<CACN+OfQfqk7zME3-Un26bqedfWJ19UkhiqyXJg2=7B8Datpg0w@mail.gmail.com>
+Message-ID: <7771120B-839C-45A1-A3AF-9A5BA5DE50EE@sasktel.net>
+
+After years of messing about in pedal kayaks, I decided that what I  
+really wanted was a much narrower main hull with one outrigger.  That  
+gave less wetted area, and having the drive leg beside the main hull  
+made it easy to swing up for beaching or weed removal, etc.  while  
+also keeping the drag and thrust lines close together.  The ama gave  
+the option of carrying a passenger without ruining the trim, camping  
+on the tramp, or sailing, with water ballast on one tack.  The open  
+cockpit is self-bailing except for the footwell, which can have a  
+speed bailer.  I have the hulls for this built, 20' and 12' long, and  
+most of the hardware for a SpinFin with S cranks on one side, but  
+have no time to finish it now.  Interested?
+
+Bob Stuart
+
+On 19-Mar-12, at 8:58 AM, dennis Barrett wrote:
+
+> Tom,
+> sorry, here's that link
+> http://youtu.be/Rdph3VOyPbU
+>
+> Rick,
+> thanks for that info!
+> I'm a bit confused about the Harry Howard's Pedalos, his test mule,
+> and then the catamaran that went from NY to Brazil (I think).  And why
+> his record braking boat hasn't been offered to the general public but
+> the plastic boat is.
+>
+> The pedalwaa has an interesting drive for the prop, but I'm not sure
+> if that method is for me.   I still like what you got going on the
+> best so far, at least for my boat's design.
+>
+> And not to get too far off topic, but I've also been looking more into
+> the proas and what you said in your emails.  Richard Woods suggested
+> using a kayak for the outrigger hull which is very interesting so now
+> I'm trying to come up with a way of adapting a pedal prop drive to the
+> proa.  Main hull or outrigger/kayak hull?
+>
+> Yeah, I know, I got two different boat designs going on at the same
+> time now.  I like how both are going, and yeah both are different and
+> so I see myself pretty busy with both of them!
+>
+> for those just tuning in, I got a folding biplane rigged catamarn for
+> one design that I've been working on for awhile now, but recently have
+> go fascinated with proas, both boats are being designed to complete
+> the 1200 mile Ultimate Florida Challenge (which is presently in
+> progress with only 5 boats left and one about to drop out.)
+>
+>
+>
+> On Sun, Mar 18, 2012 at 11:00 AM,  <hpv-boats-request at hupi.org> wrote:
+>> Send hpv-boats mailing list submissions to
+>>        hpv-boats at hupi.org
+>>
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>>        http://hupi.org/cgi-bin/mailman/listinfo/hpv-boats
+>> or, via email, send a message with subject or body 'help' to
+>>        hpv-boats-request at hupi.org
+>>
+>> You can reach the person managing the list at
+>>        hpv-boats-owner at hupi.org
+>>
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of hpv-boats digest..."
+>>
+>>
+>> Today's Topics:
+>>
+>>   1. Huki surfski pedal boat (dennis Barrett)
+>>   2. (no subject) (Tom Christie)
+>>   3. Re: Huki surfski pedal boat (Rick Willoughby)
+>>
+>>
+>> --------------------------------------------------------------------- 
+>> -
+>>
+>> Message: 1
+>> Date: Sat, 17 Mar 2012 11:40:20 -0500
+>> From: dennis Barrett <spidennis at gmail.com>
+>> To: hpv-boats at hupi.org
+>> Subject: [hpv-boats] Huki surfski pedal boat
+>> Message-ID:
+>>        <CACN+OfTi=NQGEjkHD_XiphXNfMVYKw1696Uq5VpWf1JS 
+>> +zHsFQ at mail.gmail.com>
+>> Content-Type: text/plain; charset=ISO-8859-1
+>>
+>> I was wondering what ever happened with this boat.  I saw pics of it
+>> quite awhile back and thought that it would make for a pretty quick
+>> boat as it was using a surf ski hull.  It looks like it was moving
+>> right along in the video.
+>>
+>>
+>> ------------------------------
+>>
+>> Message: 2
+>> Date: Sat, 17 Mar 2012 10:09:14 -0700
+>> From: Tom Christie <tomrachelandisabelle at gmail.com>
+>> To: hpv-boats at hupi.org
+>> Subject: [hpv-boats] (no subject)
+>> Message-ID:
+>>         
+>> <CAKE78w=J=Z_Osh413b8HLpKyngRzEPgL0fLaJE7i8roVhecFDg at mail.gmail.com>
+>> Content-Type: text/plain; charset=ISO-8859-1
+>>
+>> I can't see what boat you are referring to Dennis.
+>>
+>> -Tom
+>>
+>>
+>> ------------------------------
+>>
+>> Message: 3
+>> Date: Sun, 18 Mar 2012 08:07:48 +1100
+>> From: Rick Willoughby <rickwill at bigpond.net.au>
+>> To: HPV <hpv-boats at hupi.org>
+>> Subject: Re: [hpv-boats] Huki surfski pedal boat
+>> Message-ID: <DCDE2F5D-DDC9-4BF4-9982-733763B12ADC at bigpond.net.au>
+>> Content-Type: text/plain;       charset=US-ASCII;        
+>> delsp=yes;      format=flowed
+>>
+>> Dennis
+>> The last few seconds of the video has some detail on the boat - it is
+>> an OC1 with two outriggers rather than 1.  This has the advantage
+>> that the boat is balanced so the outriggers can be unloaded and just
+>> surface skim.  A normal OC1 will give away about 3 minutes in an hour
+>> compared with this configuration.
+>>
+>> OC1 hulls are a little narrower than surfski because they do not need
+>> inherent stability in the one hull.  However a normal OC1 is slower
+>> than a surfski due to greater windage and the extra drag from the
+>> loaded outrigger.
+>>
+>> Clive has now fitted a Bolly boat prop. The original  was a lower
+>> pitch model aircraft prop.
+>>
+>> There are photos of the original set up here:
+>> http://www.humanpoweredboats.com/Photos/Individuals/PedalWaa/
+>> PedalWaa.htm
+>>
+>> Until recently I thought the Pedal Wa'a and Harry Howard's Pedalos
+>> were the same boat but Clive explains that the drive was supplied by
+>> Harry Howard.  On inspection the cockpit of Pedalos is quite  
+>> different:
+>> https://www.hydrocycles.com/pedalos.php
+>>
+>>
+>> Rick Willoughby
+>> rickwill at bigpond.net.au
+>>
+>>
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> --
+>> This message digest comes to you via the hpv-boats at hupi.org  
+>> mailing list.
+>> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+>> subscription.
+>>
+>> End of hpv-boats Digest, Vol 76, Issue 4
+>> ****************************************
+> --
+> This message comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your  
+> subscription.
+>
+
+
+From stephanerousson at gmail.com  Sat Mar 17 03:50:01 2012
+From: stephanerousson at gmail.com (stephane rousson)
+Date: Sat, 17 Mar 2012 08:50:01 +0100
+Subject: [hpv-boats] Pedal Wa'a
+In-Reply-To: <9F75F075-F60E-4075-B371-AA34F3B01E14@bigpond.net.au>
+References: <9F75F075-F60E-4075-B371-AA34F3B01E14@bigpond.net.au>
+Message-ID: <6EB31F94-2742-4E33-8AED-979BAAB4885D@gmail.com>
+
+Hello  Clive,
+
+great job
+
+here is our project :
+
+www.funfoil.org
+
+we start our tries, a few modification coming to make it fly !
+
+have a look on our other project :
+www.scubster.org ( pedal powered submarine)
+www.rousson.org ( pedal powered airship )
+
+have fun
+
+
+-------------- next part --------------
+
+
+
+Le 17 mars 2012 ? 02:51, Rick Willoughby a ?crit :
+
+> Clive Armitage has recently posted a video of his boat on operation.  Can be viewed here:
+> 
+> http://www.youtube.com/watch?v=Rdph3VOyPbU
+> 
+> 
+> Rick Willoughby
+> rickwill at bigpond.net.au
+> 
+> 
+> 
+> 
+> --
+> This message comes to you via the hpv-boats at hupi.org mailing list.
+> Visit http://hupi.org/mailman/listinfo/hpv-boats to manage your subscription.
+
+Stephane Rousson
+Tel : 00 33 (0)6 03 83 82 76
+www.rousson.org
+www.scubster.org
+www.seaglider.fr
+
+
+
+
+From rickwill at bigpond.net.au  Thu Mar 22 00:03:17 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 22 Mar 2012 15:03:17 +1100
+Subject: [hpv-boats] Matt Johnson First Test of his V15-65
+Message-ID: <2B8EFA5A-2327-4C19-AF53-8873BF2BE72A@bigpond.net.au>
+
+Matt Johnson contacted me in August 2011 regarding a pedal boat  
+design suited to his weight and power output.  He finally got it on  
+the water today and posted this video:
+http://youtu.be/IL5GBgJbS_4
+Matt is the most powerful engine I have done a design for to date so  
+it will be interesting to follow progress.  He is aiming to join Mike  
+Lampi in the Sound Rowers races when his time permits.
+
+The resulting hull design is based on my V15 series but optimised for  
+110kg displacement and 300W power.  Hull ended up 6.5m long.  Matt  
+chose skin on frame as his method of construction along with a  
+separate tubular frame and commercial recumbent seat that mounts to  
+the basic boat.  The drive is configured with side-mounted curved  
+shaft spinning at 7X cadence.
+
+I provided a hub for folding prop and the second set of moulded CF  
+blades for testing.
+
+The test was impressive but brief because the folding CF blades  
+snapped when he accelerated for the second run.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From iancassell at optusnet.com.au  Thu Mar 22 07:00:56 2012
+From: iancassell at optusnet.com.au (Ian Cassell)
+Date: Thu, 22 Mar 2012 22:00:56 +1100
+Subject: [hpv-boats] Matts Boat
+Message-ID: <8B9B60EDC40142E78B78D223DD087676@HOME1>
+
+That boat of Matt's really flys, he really
+accelerated away fast. Wonder what
+speed he got up to. When he has used
+it a few times he should be ready to set
+a few records. The rudder caused a bit
+of turbulence but that is a minor problem.
+Hope his boat can stand up to the power
+he can put into it.
+
+Ian 
+
+From rickwill at bigpond.net.au  Thu Mar 22 08:38:21 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Thu, 22 Mar 2012 23:38:21 +1100
+Subject: [hpv-boats] Matts Boat
+Message-ID: <7F436761-2634-4FFA-A808-8834049E9951@bigpond.net.au>
+
+Ian
+He pushed up over 13kph easily but said he realised he has some  
+conditioning to work on by the time he got to the other side of the  
+lake.  The design speed is 4m/s or 14.4kph.  He should get to that  
+with 270W .  When he was bike racing he was working in the high  
+300s.  No doubt it will be interesting to follow progress.
+
+I suggested he nurse the blades by staying below 16kph until he had  
+worked out what needed changing or setting up better.  I forget to  
+tell him not to accelerate hard.  Blades broke the second time he  
+took off to do a pass for the camera.  I have tested the new blades  
+to static load of 120N, which is 50% higher than I was prepared to  
+take the first set.  New layup should be able to take my full power  
+so will do some flat out sprints with my next set.
+
+Matt will fabricate a set of stainless blades while he is waiting for  
+my improved CF set.  It would be a shame if the blade strength  
+limited his acceleration.
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+
+From rickwill at bigpond.net.au  Sat Mar 31 17:56:04 2012
+From: rickwill at bigpond.net.au (Rick Willoughby)
+Date: Sun, 1 Apr 2012 07:56:04 +1000
+Subject: [hpv-boats] Ian's V15-I
+Message-ID: <0E7342E5-9F13-4949-93FD-C80AE487D4D3@bigpond.net.au>
+
+I went out with Ian C yesterday to do some filming of his new boat at  
+launch.  It was windy with average of 25kts and gusts to 35kts so  
+filming from my boat was bouncy.  The results are posted on Youtube:
+
+http://www.youtube.com/watch?v=_nuBoCU8Ckc
+http://www.youtube.com/watch?v=74IzB1SMwxc
+
+Ian made some slight changes to the design and is using the in-line  
+shaft arrangement with his 1:3.3 Involute made box with curved shaft  
+all used on previous boat. The boat performed well and he was pleased  
+with the way the wave piercing foredeck worked.
+
+
+Rick Willoughby
+rickwill at bigpond.net.au
+
+
+
+
+

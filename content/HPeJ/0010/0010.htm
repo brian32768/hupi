@@ -1,0 +1,906 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+  
+  
+  <title>HPeJ article 10, issue 3</title>
+</head>
+
+
+<body>
+
+
+
+<p align="center">
+<img src="HPeJ-sml.gif" alt="Human Power eJournal" border="0" height="50" width="400">
+<br>
+
+
+
+<a href="http://www.hupi.org/HPeJ/index.htm">Contents</a> | 
+ <a href="http://www.hupi.org/HPeJ/about.htm">About</a> | 
+<a href="http://www.hupi.org/HPeJ/contact.htm">Contact</a>
+</p>
+
+
+<p align="center">
+article 10, issue 03
+<br>
+
+
+
+<br>
+
+
+
+</p>
+
+
+<blockquote>
+  <font size="5">Determination of Cycling Speed Using a Closed-form Solution from
+Nonlinear Dynamic Equations</font>
+  
+  
+  <p>Junghsen Lieh<br>
+
+
+
+December 21, 2006</p>
+
+
+
+  
+  
+  <p>&nbsp;</p>
+
+
+
+
+
+    
+  
+  
+  <p align="center"><b><i>Abstract</i></b> </p>
+
+
+
+
+ 
+  
+  
+  <p align="center"><i>The theme of this paper is to develop
+a closed-form method to solve nonlinear equations for cycling speed.
+The nonlinear equations are derived from force and power balance. The
+closed-form solution for the force equation is straightforward, yet the
+closed-form solution for the power equation is obtained by means of
+a partitioning technique. Finally a simulation is used to
+study&nbsp;the effect of the air drag
+coefficient, frontal area, rolling resistance, road gradient, and power
+consumption.</i></p>
+
+
+
+</blockquote>
+
+
+ 
+  
+<blockquote>
+
+
+  
+  
+  <div style="margin-left: 80px; margin-right: 80px;">
+  
+  
+  <p>
+  <small>[Editor's note: The following presentation is a shortened version of the <a target="_blank" href="Closed-form-Vmax-bike.pdf">full paper in PDF format</a>
+[200 kB]. &nbsp; It is an advancement on <a target="_blank" href="../0001/0001.htm">HPeJ Article&nbsp;1</a>, where similar equations are
+presented but without their derivations. In contrast to numerically
+calculated solutions for developing a time history, Junghsen Lieh's steady-state and dynamic-state equations
+produce results whose accuracy is not limited by time-step increment size. Also, computers
+or other programable devices are not required; an ordinary scientific
+calculator (or slide rule) is sufficient to obtain solutions.]</small></p>
+
+
+
+  </div>
+
+
+
+
+
+  
+  
+  <h3><br>
+
+
+Introduction</h3>
+
+
+
+
+A number of researchers have investigated the effect of aerodynamics on
+cycling speed, however there is lack of a general closed-form solution
+for cycling speed and the estimation of vehicle speed was
+normally done numerically in a tedious and time-consuming spreadsheet
+or in a commercial program.
+  
+  
+  <p></p>
+
+
+
+
+  
+  
+  <p></p>
+
+
+
+
+This article presents a closed-form method. The nonlinear equations for
+cycling are formulated and expressed in terms of velocity and key
+vehicle parameters.
+  
+  
+  <p></p>
+
+
+
+  <br>
+
+
+
+  
+  
+  <p></p>
+
+
+
+
+  
+  
+  <h3>Traction and Resistant Forces</h3>
+
+
+
+
+
+As shown in Figure 1, the major external forces to be overcome by the
+tire traction force (<i>F<sub>T</sub></i>)
+during cycling are 
+  
+  
+  <p></p>
+
+
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  <i>F<sub>a</sub></i> aerodynamic force<br>
+
+
+
+  <i>F<sub>r</sub></i> rolling resistance<br>
+
+
+
+  <i>F<sub>i</sub></i> inertia force &nbsp;<small>[the wheels' rotational inertia is neglected, Ed.]</small><br>
+
+
+
+  <i>F<sub>g</sub></i> gravitational force<br>
+
+
+
+  </div>
+
+
+
+  
+  
+  <p>
+
+The dynamic equilibrium of the system along the longitudinal direction
+can be written as</p>
+
+
+
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  <i>F<sub>T</sub> = F<sub>a</sub> + F<sub>r</sub> + F<sub>i</sub> + F<sub>g</sub></i>
+  </div>
+
+
+
+
+  
+  
+  <p>
+Using weight values <i>W = W<sub>f</sub>+ W<sub>r</sub>= mg</i> and summing the moments about
+point A (without considering the airlift effect), the normal load on the
+driving wheel is</p>
+
+
+
+  
+  
+  <p>
+  </p>
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  <img src="01.gif">
+  </div>
+
+
+
+  
+  
+  <p></p>
+
+
+
+  
+  
+  <p>
+  <img src="02.gif">
+  </p>
+
+
+
+
+
+  
+  
+  <p>
+Define <i>&mu;<sub>p</sub></i> as the peak coefficient of tire-road friction and <i>N = W<sub>r</sub></i>
+as the
+normal load on the driving wheel. For the current study,it is assumed
+that the traction force is near its peak value such that the
+maximum theoretical speed may be obtained, i.e.</p>
+
+
+
+  
+  
+  <p>
+  </p>
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  <i>F<sub>T</sub> = &mu;<sub>p</sub> N</i>
+  </div>
+
+
+
+  
+  
+  <p></p>
+
+
+
+  
+  
+  <p>
+
+Define <i>m</i> as the mass of bicycle plus the rider,&nbsp;<i>&rho;</i> as the air density, <i>C<dub>d</dub></i> as the air
+drag coefficient, <i>A<sub>f</sub></i> as the frontal area, <i>v</i> the forward velocity, <i>&Theta;</i> as the grade angle, <i>g</i> as the gravitational
+acceleration, and <i>f</i><sub>0</sub> and <i>f<sub>1</sub></i> as the rolling resistance coefficients (<i>f<sub>1</sub></i>
+is usually very small but is included here for completeness). The air
+drag, rolling resistance, inertia and gravitational forces can be
+expressed in the following form:</p>
+
+
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  
+  
+  <p>
+  <img src="03.gif">
+  </p>
+
+
+
+
+  
+  
+  <p>
+  <i>F<sub>r</sub> = (f</i><sub>o</sub><i> + f</i><sub>1</sub> v<sup><small>2</small></sup>) W &nbsp;
+  </p>
+
+
+
+
+
+  
+  
+  <p>
+  <img src="04.gif">
+  </p>
+
+
+
+
+
+  
+  
+  <p>
+  <i>F<sub>g</sub> = W sin(&Theta;)</i>
+  </p>
+
+
+
+
+  </div>
+
+
+
+
+
+
+Where,<img src="05.gif" align="middle" height="40" width="50">. &nbsp; Substituting
+these forces into the first equation, a nonlinear equation describing the dynamic equilibrium can be written
+in the following form:
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  
+  
+  <p>
+  <img src="06.gif" align="middle"> &nbsp; [Eqn A]
+  </p>
+
+
+
+  </div>
+
+
+
+
+
+Where, the expressions for <i>s<sub>i</sub></i> are
+  
+  
+  <p></p>
+
+
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  
+  
+  <p>
+  <img src="07.gif">
+  </p>
+
+
+
+  
+  
+  <p>
+  <img src="08.gif">
+  </p>
+
+
+
+  
+  
+  <p>
+  <img src="09.gif">
+  </p>
+
+
+
+  </div>
+
+
+
+
+  
+  
+  <p>
+[Eqn A] represents the tire traction capability of a bicycle when its power availability is
+adequate or unlimited. Since the bicycle is a rear-wheel drive system, the rear normal load is used to determine
+the traction force, i.e. <i>N = W<sub>r</sub></i>.&nbsp; The theoretical maximum speed is found by setting <img src="10.gif" align="top">,
+as a result, [Eqn A] is reduced to</p>
+
+
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  
+  
+  <p>
+  <i>s<small><sub>2</sub></small> - s</i><small><sub>3</sub></small>v<small><sup>2</sup></small> = 0
+  </p>
+
+
+
+  </div>
+
+
+
+
+
+  
+  
+  <p>
+The maximum speed based on tire traction capability is
+  </p>
+
+
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  
+  
+  <p>
+  <img src="11.gif" align="middle">
+  </p>
+
+
+
+  </div>
+
+
+
+
+
+  
+  
+  <p>
+To find the time history of velocity, requires an integration of [Eqn A]. &nbsp;<small>[for
+derivation see <a href="Closed-form-Vmax-bike.pdf">full paper</a>, Ed.]</small>
+  </p>
+
+
+
+  
+  
+  <p>
+If the bicycle starts from rest,the velocity can be expressed as:
+  </p>
+
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  
+  
+  <p>
+  <img src="12.gif" align="middle">&nbsp; <small>[<a target="_blank" href="downhill.html">Editors' note</a>]</small><br>
+
+
+
+  </p>
+
+
+
+  </div>
+
+
+
+
+
+  
+  
+  <p>
+  </p>
+
+
+  
+  
+  <h3><br>
+
+
+Power Equation</h3>
+
+
+
+  
+  
+  <p>The above closed-form solution for maximum speed represents the
+maximum tire traction condition, which for a bicycle or human-powered
+vehicle is generally only met in slippery conditions because of the
+human's limited strength. In the following the rider&rsquo;s power
+output is now considered. <small>[for derivations and full results see <a href="Closed-form-Vmax-bike.pdf">full paper</a>, Ed.]</small></p>
+
+
+
+
+Define P<sub>T</sub> the rider&rsquo;s total available power. The power transmitted to the rear wheel is modified by the cycling efficiency&nbsp;<i>&eta;</i>
+  
+  
+  <p></p>
+
+
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  
+  
+  <p>
+  <i>P<sub>w</sub> = &eta;P<sub>T</sub> = (F<sub>a</sub> + F<sub>r</sub> + F<sub>i</sub> + F<sub>g</sub>)v</i>
+  </p>
+
+
+
+  </div>
+
+
+
+
+
+
+  
+  
+  <p>
+Define the constants:
+  </p>
+
+
+
+  
+  
+  <p>
+  </p>
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  <img src="13.gif">
+  
+  
+  <p></p>
+
+
+
+  
+  
+  <p>
+  <i>r<sub>2</sub> = W [&fnof;<sub>o</sub> + sin(&gt;&Theta;)]</i>
+  </p>
+
+
+
+  
+  
+  <p>
+  <i>r<sub>3</sub> =&nbsp;&eta;P<sub>T</sub></i>
+  </p>
+
+
+  </div>
+
+
+
+  
+  
+  <p>
+When the bicycle starts from rest, i.e. <i>v</i> = 0, the equation is
+singular. This implies that the acceleration can be high when the
+speed is near zero.
+  </p>
+
+
+
+
+  
+  
+  <p>
+The maximum speed is obtained by setting <img src="14.gif" align="top"> = 0. &nbsp; This leads to 
+  </p>
+
+
+  
+  
+  <div style="margin-left: 40px;">
+  
+  
+  <p>
+  <img src="15.gif">
+  </p>
+
+
+
+  </div>
+
+
+
+
+
+The maximum speed based on a given power output <i>v<sub>pm</sub></i> is the real root of this, i.e.
+  
+  
+  <div style="margin-left: 40px;">
+  
+  
+  <p>
+  <img src="16.gif"> 
+  </p>
+
+
+
+  </div>
+
+
+
+
+
+
+  
+  
+  <p>
+  </p>
+
+
+  
+  
+  <h3><br>
+
+
+Summary</h3>
+
+
+
+  
+  
+  <p></p>
+
+
+
+  
+  
+  <p>Based on the nonlinear equations derived from force and power
+equilibrium, closed-form solutions for
+determining cycling speeds are obtained. With the closed-form
+solutions, the estimation of maximum speeds becomes straightforward and
+the evaluation of vehicle performance under the influence of vehicle
+parameters (such as air drag, frontal area, power, mass, and rolling
+resistance) becomes simple and easy. </p>
+
+
+
+  
+  
+  <p>
+  </p>
+
+
+  
+  
+  <h3><br>
+
+
+Simulation Results</h3>
+
+
+
+
+  
+  
+  <p>
+Simulation graphs are shown for variations of air drag coefficient, frontal area, rolling resistance
+coefficient, mass, and road gradient.&nbsp;
+
+  </p>
+
+
+
+
+
+  <img src="17.gif">
+  
+  
+  <p><font face="Times New Roman, serif">In Figure 2, Part (a) is for the effect of air drag coefficient <span style="font-style: italic;">C</span><sub style="font-style: italic;">d</sub>, Part (b) for the effect of frontal area <span style="font-style: italic;">A</span><sub style="font-style: italic;">f</sub>, Part (c) for the effect of mass <span style="font-style: italic;">m</span>, and Part (d) for the effect of rolling resistance coefficient <span style="font-style: italic;">f</span><sub style="font-style: italic;">o</sub>.</font></p>
+
+
+
+
+  <br>
+
+
+
+  <br>
+
+
+
+
+  
+  
+  <p></p>
+
+
+
+
+
+
+  
+  
+  <p class="western" style="margin-top: 0cm; page-break-before: always;" align="left" lang="en-US">
+  <img src="18.gif"><br>
+
+
+  <font face="Times New Roman, serif"><br>
+
+
+In Figure 3, if the air drag coefficient, frontal area, and rolling resistance coefficient are low as in Part (d),
+a <i>60-kg</i> racercan reach <i>90 km/h</i> on a flat road and <i>30
+km/h </i>on a <i>9 %</i>-uphill gradient with [given sufficient duration] <i> 500 W </i>power. For the higher resistance values in Part(a), the maximum speed is <i>58 km/h </i>on a
+flat road and <i>18 km/h</i> on a <i>9 %</i> uphill-gradient.<br>
+
+
+  <br>
+
+
+
+  </font></p>
+
+
+
+  
+  
+  <p>
+  <font face="Times New Roman, serif"><img src="19.gif">
+  </font></p>
+
+
+
+
+  
+  
+  <p><font face="Times New Roman, serif"> 
+In Figure 4, it can be seen that the velocity reaches <i>42 km/h</i> in <i>30</i>seconds if the rider delivers<i> 250 W</i> on a flat road, or <i>60 km/h</i> for <i>500 W</i>. For a <i>9 % </i>uphill-gradient
+the values are <i>15 km/h</i> for <i>250 W</i></font><font face="Times New Roman, serif"><i> or 28 km/h</i> for <i>500 W.<br>
+  </i></font></p>
+  <h3>Files for calculation:</h3>
+
+
+
+  
+  
+  <p>The above graphs can be generated using Matlab and <a href="Vpmax_bike.m">this file</a> provided by the author, or <a target="_blank" href="http://www.scilab.org/">Scilab</a> and <a href="Vpmax_bike.sci">this file</a>.
+Scilab is a free open source platform for numerical computation which
+can also import and convert Matlab files. After installing Scilab,
+download the file, open it in Scilab's editor, change any values you
+want, and execute it. [Ed.]</p>
+
+
+  
+  
+  <h3><br>
+
+
+References:</h3>
+
+
+
+  
+  
+  <p>see <a href="Closed-form-Vmax-bike.pdf">full paper</a></p>
+  <a href="Closed-form-Vmax-bike.pdf"></a>
+  <p><a href="Closed-form-Vmax-bike.pdf">
+
+  </a>
+
+
+  </p>
+
+
+
+
+  
+  
+  <h3>About the author:</h3>
+
+
+
+  
+  
+  <p>Junghsen Lieh, PhD<br>
+
+
+
+is Associate Professor for Mechanical &amp; Materials Engineering <br>
+
+
+
+at Wright State University, Dayton Ohio 45435 USA<br>
+
+
+
+  </p>
+
+
+
+He is the adviser for the university's ASME HPV student group and has
+been involved with solar racing. His extensive research interests
+include intelligent control systems, multibody nonlinear dynamics,
+vehicle engineering, biomechanics, finite element analysis, and metal
+forming.
+  
+  
+  <p>Contact:<br>
+
+
+
+(937) 775-5040 (ph); (937) 775-5009 (fax)<br>
+
+
+
+jlieh AT cs.wright.edu&nbsp;</p>
+
+
+
+  
+  
+  <p>Homepage:<br>
+
+
+
+  <a target="_blank" href="http://www.cs.wright.edu/%7Ejlieh/jlieh.html">http://www.cs.wright.edu/~jlieh/jlieh.html</a><br>
+
+
+
+  <br>
+
+
+
+  </p>
+
+
+
+  
+  
+  <p style="text-align: center;"> <a href="http://www.hupi.org/HPeJ/index.htm">Contents</a>
+| <a href="http://www.hupi.org/HPeJ/about.htm">About</a>
+| <a href="http://www.hupi.org/HPeJ/contact.htm">Contact</a>
+  <br>
+
+
+
+  </p>
+
+
+
+  
+  
+  <p style="text-align: center; font-weight: bold;">Human
+Power eJournal<!-- empty paragraph allows References to be at top of page when accessed via hyperlink --></p>
+
+
+
+</blockquote>
+
+
+</body>
+</html>

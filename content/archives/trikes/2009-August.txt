@@ -1,0 +1,494 @@
+From be_dal at yahoo.se  Sat Aug  1 02:27:53 2009
+From: be_dal at yahoo.se (B D)
+Date: Sat, 1 Aug 2009 09:27:53 +0000
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <33271468457C4035BE83B9587C294854@25hzPC>
+Message-ID: <947074.67243.qm@web27003.mail.ukl.yahoo.com>
+
+
+--- Den fre 2009-07-31 skrev 25hz <25hz at rogers.com>:
+> They might seem like they are more
+> suitable for racing, but that's only for people who have
+> never ridden them.? I race, commute, do casual rides,
+> charity events and ultra rides on it.? The only thing I
+> haven't tried is off-road.? With a tilt lock, the trike
+> stays upright on it's own and andhas better performance in
+> pretty much every area than any other delta or tadpole I've
+> ever ridden.
+
+Thanks! Have you any descriptions or pictures on how to mount a rack or panniers on a tilting delta?
+
+/Bruno
+
+
+      __________________________________________________________
+G?r det l?ngsamt? Skaffa dig en snabbare bredbandsuppkoppling. 
+S?k och j?mf?r priser hos Kelkoo.
+http://www.kelkoo.se/c-100015813-bredband.html?partnerId=96914325
+
+From be_dal at yahoo.se  Sat Aug  1 02:43:14 2009
+From: be_dal at yahoo.se (B D)
+Date: Sat, 1 Aug 2009 09:43:14 +0000
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <4A738E09.20701@iinet.net.au>
+Message-ID: <618145.34110.qm@web27005.mail.ukl.yahoo.com>
+
+
+Thanks, Giles, for the description. Riding just like a two-wheeler is not very interesting to me, in that case I can ride a two-wheeler and save weight. However a system that can be locked is interesting. I have ridden a two-wheeler and notice that stop and start takes a lot of time because of balancing and clicking in and out of the SPD, while on the trike, I just go and can put all the effort in braking and accelerating. 
+
+I believe that a slightly rising linkage combined with a disc brake for extra locking can be very interesting and add advantage over other designs. The system you describe that is rising near the center and then falls is very interesting. Are there any descriptions on how to build this or other rising linkages?
+
+I have got a "conventional" velomobile. There are only a handful of these in my country (Sweden). I need something less conventional - the tadpole has got too much weight on the front wheels in combination with too little on the driving wheel, so it is hard to push through soft material. A delta is better in that respect, I believe, and a FWD leaning delta may work better too.
+
+/Bruno
+
+
+      __________________________________________________________
+Ta semester! - s?k efter resor hos Kelkoo.
+J?mf?r pris p? flygbiljetter och hotellrum h?r:
+http://www.kelkoo.se/c-169901-resor-biljetter.html?partnerId=96914052
+
+From 25hz at rogers.com  Sat Aug  1 11:42:37 2009
+From: 25hz at rogers.com (25hz)
+Date: Sat, 1 Aug 2009 14:42:37 -0400
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <947074.67243.qm@web27003.mail.ukl.yahoo.com>
+References: <947074.67243.qm@web27003.mail.ukl.yahoo.com>
+Message-ID: <A628768C677947958C680840F93D936E@25hzPC>
+
+Each trike was built by people who extrapolated the dimensions themselves. 
+Any other additions to them will be done the same way.  None of this is 
+cookie cutter, it's all custom, but simple to do.  I didn't make a rack, I 
+made a tailbox.
+
+http://fleettrikes.com/blackmax.htm
+
+
+--- Den fre 2009-07-31 skrev 25hz <25hz at rogers.com>:
+> They might seem like they are more
+> suitable for racing, but that's only for people who have
+> never ridden them. I race, commute, do casual rides,
+> charity events and ultra rides on it. The only thing I
+> haven't tried is off-road. With a tilt lock, the trike
+> stays upright on it's own and andhas better performance in
+> pretty much every area than any other delta or tadpole I've
+> ever ridden.
+
+Thanks! Have you any descriptions or pictures on how to mount a rack or 
+panniers on a tilting delta?
+
+/Bruno
+
+
+      __________________________________________________________
+G?r det l?ngsamt? Skaffa dig en snabbare bredbandsuppkoppling.
+S?k och j?mf?r priser hos Kelkoo.
+http://www.kelkoo.se/c-100015813-bredband.html?partnerId=96914325 
+
+
+From sk8ski2004 at yahoo.ca  Sat Aug  1 12:08:19 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Sat, 1 Aug 2009 12:08:19 -0700
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <4A738E09.20701@iinet.net.au>
+References: <666097.74473.qm@web27007.mail.ukl.yahoo.com>
+	<4A738E09.20701@iinet.net.au>
+Message-ID: <746143.13713.qm@web54407.mail.yahoo.com>
+
+Here's an example of tilting with a "rising" linkage.
+http://www.jetrike.com/
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: Giles Puckett <gilesp at iinet.net.au>
+To: B D <be_dal at yahoo.se>
+Cc: trikes at bikelist.org
+Sent: Friday, July 31, 2009 5:36:25 PM
+Subject: Re: [trikes] Delta v tadpole
+
+B D wrote:
+> Thanks for all links about leaning deltas. However they seem more suitable for racing than for everyday use or as "touring truck". My main concern is an every day vehicle that is practical but at the same time not too slow or heavy and that is not too heavy to pedal on soft ground. It is really hard to beat an ordinary upright bike in that respect.
+> 
+> How is the riding qualities? Does it tip over when you are standing still, or how do you control the tilting? If it behaves like a two-wheeler, what is the benefit of a tilting delta? Isn't riding a two-wheeler just the same but with lower weight?
+
+I've seen them with just a parallelogram linkage, which makes them handle just like a bike when unlocked. The advantage over a bike is that you can lock it when riding slowly - some have a brake disc that lets you lock it in any position for cambered roads etc.
+
+But you can also make a "rising" linkage, which means the trike falls towards the centre and tends to stay upright. Too much rise is bad though because you have to force it into a corner by leaning strongly and/or countersteering. I have a teacher friend here in Qld who has had his school build a rising leaning delta for Pedal Prix, and he has reported it handles very nicely (I've not ridden it yet). It rises for the first few degrees of lean from the vertical, and then falls in the normal parallelogram fashion. It's a glass monocoque, and faired quite tightly so there's no real ability to lean it by moving your body weight.
+
+So many interesting things to build, so little time (I've invested a lot of time in a conventional tad with fairing now - funny to describe it as conventional :-)
+
+G.
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+      __________________________________________________________________
+The new Internet Explorer? 8 - Faster, safer, easier.  Optimized for Yahoo!  Get it Now for Free! at http://downloads.yahoo.com/ca/internetexplorer/
+
+From sk8ski2004 at yahoo.ca  Sat Aug  1 12:10:57 2009
+From: sk8ski2004 at yahoo.ca (Colin Bryant)
+Date: Sat, 1 Aug 2009 12:10:57 -0700
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <947074.67243.qm@web27003.mail.ukl.yahoo.com>
+References: <947074.67243.qm@web27003.mail.ukl.yahoo.com>
+Message-ID: <508080.72253.qm@web54403.mail.yahoo.com>
+
+Depending on the design, there's sometimes room for cargo between the back wheels.
+
+ -- 
+Colin Bryant
+Vancouver, Canada
+
+
+
+
+________________________________
+From: B D <be_dal at yahoo.se>
+To: trikes at bikelist.org; 25hz <25hz at rogers.com>
+Sent: Saturday, August 1, 2009 2:27:53 AM
+Subject: Re: [trikes] Delta v tadpole
+
+
+--- Den fre 2009-07-31 skrev 25hz <25hz at rogers.com>:
+> They might seem like they are more
+> suitable for racing, but that's only for people who have
+> never ridden them.  I race, commute, do casual rides,
+> charity events and ultra rides on it.  The only thing I
+> haven't tried is off-road.  With a tilt lock, the trike
+> stays upright on it's own and andhas better performance in
+> pretty much every area than any other delta or tadpole I've
+> ever ridden.
+
+Thanks! Have you any descriptions or pictures on how to mount a rack or panniers on a tilting delta?
+
+/Bruno
+
+
+      __________________________________________________________
+G?r det l?ngsamt? Skaffa dig en snabbare bredbandsuppkoppling. 
+S?k och j?mf?r priser hos Kelkoo.
+http://www.kelkoo.se/c-100015813-bredband.html?partnerId=96914325
+--
+This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+
+      __________________________________________________________________
+Looking for the perfect gift? Give the gift of Flickr! 
+
+http://www.flickr.com/gift/
+
+From gilesp at iinet.net.au  Sat Aug  1 16:03:03 2009
+From: gilesp at iinet.net.au (Giles Puckett)
+Date: Sun, 2 Aug 2009 09:03:03 +1000
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <618145.34110.qm@web27005.mail.ukl.yahoo.com>
+References: <618145.34110.qm@web27005.mail.ukl.yahoo.com>
+Message-ID: <4A74C9A7.1060303@iinet.net.au>
+
+B D wrote:
+> I believe that a slightly rising linkage combined with a disc brake for extra locking can be very interesting and add advantage over other designs. The system you describe that is rising near the center and then falls is very interesting. Are there any descriptions on how to build this or other rising linkages?
+
+The one I've seen has the usual parallelogram linking the two rear 
+wheels. Instead of the frame just pivoting at the centre of one of the 
+horizontal members, it has a cam that rolls along it. The shape of this 
+cam determines how the weight rises. I can't find a decent drawing of 
+the setup, unfortunately.
+
+Some really good info at http://www.jetrike.com/prior-art.html on 
+different designs that have been tried. I like the one that can be 
+ridden down stairs and still stay upright :-)
+
+G.
+
+From be_dal at yahoo.se  Mon Aug  3 03:37:59 2009
+From: be_dal at yahoo.se (B D)
+Date: Mon, 3 Aug 2009 10:37:59 +0000
+Subject: [trikes] Delta v tadpole
+In-Reply-To: <4A74C9A7.1060303@iinet.net.au>
+Message-ID: <501470.66012.qm@web27002.mail.ukl.yahoo.com>
+
+
+Thanks all for great tips on leaning trikes!
+
+/Bruno
+
+
+      ___________________________________________________
+S?k efter k?rleken!
+Hitta din tvillingsj?l p? Yahoo! Dejting: http://ad.doubleclick.net/clk;185753627;24584539;x?http://se.meetic.yahoo.net/index.php?mtcmk=148783
+
+From gilesp at iinet.net.au  Thu Aug 13 17:19:31 2009
+From: gilesp at iinet.net.au (Giles Puckett)
+Date: Fri, 14 Aug 2009 10:19:31 +1000
+Subject: [trikes] Flying trike
+Message-ID: <4A84AD93.5030905@iinet.net.au>
+
+Not strictly a HPV while in the air, but a cool way to get around 
+nevertheless.
+
+http://us.cnn.com/video/#/video/world/2009/08/10/natpkg.uk.flying.bicycle.itn
+
+G.
+
+From purplepeopledesign at gmail.com  Thu Aug 20 09:24:53 2009
+From: purplepeopledesign at gmail.com (Purple People Design)
+Date: Thu, 20 Aug 2009 12:24:53 -0400
+Subject: [trikes] Tilting deltas
+Message-ID: <6fa3617a0908200924l51e001aan203af33f93ad4857@mail.gmail.com>
+
+Hi all,
+
+It may be my first post here but a quick scan of the archives shows friends,
+acquainted a long time ago and more recently.
+
+The tilting delta I showed at the MHPSC is my second and the first I've
+built based on the original Magic leaning trike.  I've owned the Magic since
+about '99 when I "inherited" it from the designer, my mentor.  It is a
+simple design and when the rear toe-in is adjusted properly it is capable of
+very tight turns.  Some may remember it in the parking lot at the Ford
+Proving Grounds turning 12 ft circles around small groups of people at near
+45 deg lean over.  Note that the 1-hour race results are nbt wholly
+indicative since I had just arrived that afternoon and did not get a chance
+to fine tune the rear wheel alignment before the mass start.  By Sunday, I
+had the alignment and thus the handling mostly in hand.
+
+For those who haven't already seen it, here is a video of the original in
+action.  I'll try to get video of the new trike up soon.
+http://www.youtube.com/watch?v=MdSLRD_2vzc
+
+As you can see, the new trike is considerably lower.  So low that I was able
+to change the rear track from 20" on the down to just over a foot.
+
+The advantage of a tilting delta over a bike is during cornering.  I know it
+sounds counter-intuitive, but the extra contact patch at the rear allows the
+machine to hang in there when a two-wheeler will begin to over-steer.  The
+disadvantage compared to a tadpole is that it is still possible to lose the
+single front contact patch.  I suppose the ideal cornering vehicle would be
+a leaning quad.... but I haven't yet worked out the details for such a
+machine.
+
+:)ensen.
+
+Miguel Jensen Didulo dba
+Purple People Design
+London, Ontario
+
+"Those who claim to be making history are often the same ones repeating it."
+
+From tacsmith at internode.on.net  Sun Aug 23 02:46:56 2009
+From: tacsmith at internode.on.net (Tim & Ally Smith)
+Date: Sun, 23 Aug 2009 19:46:56 +1000
+Subject: [trikes] gt5 Series II Greenspeed
+In-Reply-To: <6fa3617a0908200924l51e001aan203af33f93ad4857@mail.gmail.com>
+References: <6fa3617a0908200924l51e001aan203af33f93ad4857@mail.gmail.com>
+Message-ID: <00b701ca23d6$a781b6f0$f68524d0$@on.net>
+
+Does anyone know what was changed in the gt5 Series II Greenspeed trikes
+from what I presume started out as a series I.
+
+
+
+From g.edgar at bigpond.com  Sun Aug 23 02:48:56 2009
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Sun, 23 Aug 2009 19:48:56 +1000
+Subject: [trikes] gt5 Series II Greenspeed
+In-Reply-To: <00b701ca23d6$a781b6f0$f68524d0$@on.net>
+References: <6fa3617a0908200924l51e001aan203af33f93ad4857@mail.gmail.com>
+	<00b701ca23d6$a781b6f0$f68524d0$@on.net>
+Message-ID: <000001ca23d6$eecc9980$cc65cc80$@edgar@bigpond.com>
+
+The biggest change was the much improved steering. It's very good indeed.
+
+
+Regards,
+
+Julian Edgar
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of Tim & Ally Smith
+Sent: Sunday, 23 August 2009 7:47 PM
+To: trikes at bikelist.org
+Subject: [trikes] gt5 Series II Greenspeed
+
+Does anyone know what was changed in the gt5 Series II Greenspeed trikes
+from what I presume started out as a series I.
+
+
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+
+From ian at greenspeed.com.au  Sun Aug 23 16:45:58 2009
+From: ian at greenspeed.com.au (Ian Sims)
+Date: Mon, 24 Aug 2009 09:45:58 +1000
+Subject: [trikes] gt5 Series II Greenspeed
+References: <mailman.9.1251054003.85238.trikes@bikelist.org>
+Message-ID: <B54707B45C4B4B1190E8446A9FF7E776@E2200>
+
+Changes to the GT series for the Series II are explained here:-
+
+http://www.greenspeed.com.au/webimages/gt3_details/gt3_index.html
+
+Regards, Ian
+
+Ian Sims, Director
+Greenspeed Pty., Ltd.,
+69 Mountain Gate Drive,
+Ferntree Gully VIC 3156
+AUSTRALIA
+Phone +61 3 9758 5541 Fax +61 3 9752 4115
+Email ian at greenspeed.com.au
+Web www.greenspeed.com.au
+
+
+ From: Tim & Ally Smith <tacsmith at internode.on.net>
+> Subject: [trikes] gt5 Series II Greenspeed
+> To: <trikes at bikelist.org>
+> Message-ID: <00b701ca23d6$a781b6f0$f68524d0$@on.net>
+> Content-Type: text/plain; charset="us-ascii"
+> 
+> Does anyone know what was changed in the gt5 Series II Greenspeed trikes
+> from what I presume started out as a series I.
+
+
+
+From franzen at enneagram.com  Fri Aug 28 21:04:37 2009
+From: franzen at enneagram.com (Dave Franzen)
+Date: Fri, 28 Aug 2009 21:04:37 -0700
+Subject: [trikes] Wooden trike
+Message-ID: <4A98A8D5.5000205@enneagram.com>
+
+Very nice.
+
+http://www.borisbeaulant.com/
+
+Dave Franzen
+Eugene, Oregon
+
+From g.edgar at bigpond.com  Fri Aug 28 21:15:56 2009
+From: g.edgar at bigpond.com (Julian Edgar)
+Date: Sat, 29 Aug 2009 14:15:56 +1000
+Subject: [trikes] Wooden trike
+In-Reply-To: <4A98A8D5.5000205@enneagram.com>
+References: <4A98A8D5.5000205@enneagram.com>
+Message-ID: <005201ca285f$6880b4f0$39821ed0$@edgar@bigpond.com>
+
+Fascinating. What would something like that likely weigh?
+
+
+Regards,
+
+Julian Edgar
+
+
+
+-----Original Message-----
+From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+Behalf Of Dave Franzen
+Sent: Saturday, 29 August 2009 2:05 PM
+To: trikes
+Subject: [trikes] Wooden trike
+
+Very nice.
+
+http://www.borisbeaulant.com/
+
+Dave Franzen
+Eugene, Oregon
+--
+This message comes to you via the trikes at bikelist.org mailing list,
+sponsored by http://www.HuPI.org/
+Visit http://hupi.org/mailman/listinfo/trikes to manage your
+subscription.
+
+
+From blackotter at juno.com  Fri Aug 28 21:15:40 2009
+From: blackotter at juno.com (blackotter at juno.com)
+Date: Sat, 29 Aug 2009 04:15:40 +0000
+Subject: [trikes] WOODY
+Message-ID: <20090828.211540.14524.0@webmail11.vgs.untd.com>
+
+YES, BUT DON'T PARK IT TOO CLOSE TO A BEAVER POND!!!!!
+
+
+
+____________________________________________________________
+Click for a wide selection of quality scales. 
+http://thirdpartyoffers.juno.com/TGL2131/fc/BLSrjnsEGFJiakymn6fJBrrXTO7xaIEWRGAQuFoCuDzY6pqPcM5W1KOqTM8/
+
+From dcech at lansmash.com  Sat Aug 29 07:52:58 2009
+From: dcech at lansmash.com (Dan Cech)
+Date: Sat, 29 Aug 2009 10:52:58 -0400
+Subject: [trikes] Wooden trike
+In-Reply-To: <005201ca285f$6880b4f0$39821ed0$@edgar@bigpond.com>
+References: <4A98A8D5.5000205@enneagram.com>
+	<005201ca285f$6880b4f0$39821ed0$@edgar@bigpond.com>
+Message-ID: <4A9940CA.5000000@lansmash.com>
+
+I didn't see a final weight on the site, but the first post with the
+trike on 3 wheels indicated he was at 15kg and hoping for ~20kg total.
+
+Dan
+
+Julian Edgar wrote:
+> Fascinating. What would something like that likely weigh?
+> 
+> 
+> Regards,
+> 
+> Julian Edgar
+> 
+> 
+> 
+> -----Original Message-----
+> From: trikes-bounces at bikelist.org [mailto:trikes-bounces at bikelist.org] On
+> Behalf Of Dave Franzen
+> Sent: Saturday, 29 August 2009 2:05 PM
+> To: trikes
+> Subject: [trikes] Wooden trike
+> 
+> Very nice.
+> 
+> http://www.borisbeaulant.com/
+> 
+> Dave Franzen
+> Eugene, Oregon
+> --
+> This message comes to you via the trikes at bikelist.org mailing list,
+> sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your
+> subscription.
+> 
+> --
+> This message comes to you via the trikes at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/trikes to manage your subscription.
+
+
+From bourbonman at cfl.rr.com  Sat Aug 29 12:47:00 2009
+From: bourbonman at cfl.rr.com (Ed Logan)
+Date: Sat, 29 Aug 2009 15:47:00 -0400
+Subject: [trikes] Wooden Trike
+Message-ID: <FA4413C9E3814EE58DC6C4377A6C511E@EdPC>
+
+For those that may not know Google will translate the entire web page.  I have added it to my toolbar but you don't have too.  The URL is http://translate.google.com/translate_tools?hl=en
+
+Really a piece of art.  Beautiful trike.
+
+Ed Logan
+GRR, Kettwiesel and Vision Metro
+

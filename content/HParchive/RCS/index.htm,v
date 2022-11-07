@@ -1,0 +1,137 @@
+head	1.1;
+access;
+symbols;
+locks
+	bwilson:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2004.08.19.07.57.36;	author bwilson;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Intro HP Archives</title>
+</head>
+<body>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" width="95%"
+ height="100%" align="left">
+  <tbody>
+    <tr>
+      <td width="100" height="100" bgcolor="#ccd9fd"
+ bordercolor="#CCD9FD">
+      <p align="center"> </p>
+      <br>
+      </td>
+      <td width="843" height="100" colspan="2" bordercolor="#FFFFFF">
+      <p align="center"><font face="Arial"><img border="0"
+ src="archiveLogo.gif" width="600" height="100" align="left"></font></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;" width="100" bgcolor="#ccd9fd"
+ bordercolor="#CCD9FD">
+      <p align="center">&nbsp;</p>
+      <p align="center"><font face="Arial">Intro</font></p>
+      <p align="center"><a href="download.htm"><font face="Arial">Index</font></a></p>
+      <p align="center"><a href="issues.htm"><font face="Arial">Issues</font></a></p>
+      <p align="center"><a href="cdrom.htm"><font face="Arial">CD-ROM</font></a></p>
+      <p align="center"><a href="http://www.hupi.org" target="_blank"><font
+ face="Arial">HuPI</font></a></p>
+
+<p align="center"><a href="http://www.ihpva.org"><img src="/graphics/home.icon.gif" width=39 height=65 border=0></a></p>
+
+      </td>
+      <td style="vertical-align: top;" width="623" bordercolor="#FFFFFF">
+      <blockquote>
+        <hr>
+        <p align="center"><font face="Times New Roman" size="5">Welcome
+ to the <i>HUMAN POWER</i> Digital Library&nbsp;</font> </p>
+        <p align="center"><font face="Arial">by David Gordon Wilson</font> </p>
+        <p align="left"><font face="Arial"><br>
+The main purpose of this collection is to present all previous issues
+of the journal <i>Human Power</i> in an easily accessible and searchable
+form.&nbsp; <i>Human Power</i> has been the technical journal of the   
+International Human Powered Vehicle Association (IHPVA).&nbsp; Chet
+Kyle         describes in his essay <a href="Kyle.htm"><i>Human Power's</i><span
+ style="font-style: italic;"> First Issue</span></a> how he and Jack
+Lambie started the IHPVA in California, USA, together         with a
+group of enthusiasts who wanted to race streamlined and otherwise
+unconventional cycles outside the strict rules of then-accepted bicycle
+racing.&nbsp;&nbsp;</font></p>
+        <p> <font face="Arial"> <i>Human Power </i> started out as a
+casual newsletter of this group, with a mix of race and meeting
+announcements and some technical articles relevant to their activities,
+often eight pages per issue.&nbsp;Later the group decided to produce <i>
+HPV News</i> to carry the announcements and race results and similar
+information of immediate interest, and to reserve <i> Human Power</i> for
+technical articles of longer-term interest.&nbsp; This change in
+direction was given more significance because of the sad folding of two
+other journals, <i> Bike Tech</i> and <i> Cycling Science,</i> devoted to
+similar topics.&nbsp; "<i>HP</i>" also broadened its scope somewhat to
+include articles about human-powered tools, for instance the analysis
+and design of a human-powered brick-making machine in India.<br>
+        <br>
+&nbsp;At the time we are putting this collection together (2004), <i>
+Human Power </i> has been published for over 25 years, producing a
+storehouse of priceless  information.&nbsp; As Richard Ballantine
+discusses in his contribution, <span style="font-style: italic;"><a
+ href="Ballantine.htm">Dave's Ragtime Boogie-Woogie Band</a>,</span> a
+small group of enthusiasts has come together to put out  this
+collection, to preserve this information and make it accessible by
+present and future enthusiasts.<br>
+        <br>
+Most of us remember starting in the human-power area without having a
+library of information on past work available.&nbsp; Experimenters in
+human power in  general, and perhaps in human-powered vehicles in
+particular, didn't publish  much.&nbsp; In a world where people seem to
+have lost their balance with regard  to using high-powered vehicles and
+tools of all sorts, as against using their  muscles, and where global
+warming is producing serious changes in the earth's  climate, and where
+obesity in adults and young people is becoming an epidemic,  we want to
+make sure that a valuable resource like the past issues of <i> Human
+Power</i> are available to anyone who is interested.<br>
+        <br>
+        </font> </p>
+        <hr width="50%">
+        <p><font face="Arial">May 14, 2004</font></p>
+      </blockquote>
+      </td>
+      <td style="vertical-align: top;" width="218" bordercolor="#FFFFFF">
+&nbsp;
+      <p><font face="Arial"><br>
+&nbsp;<br>
+&nbsp;</font> </p>
+      <p>&nbsp; </p>
+      <p>&nbsp; </p>
+      <p>&nbsp; </p>
+      <p>&nbsp; </p>
+      <p>&nbsp; </p>
+      <p>&nbsp; </p>
+      <p align="center"><font face="Arial"><img border="0"
+ src="intrographic.jpg" width="200" height="259"></font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp; </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<blockquote> <font face="Arial"> </font> </blockquote>
+</body>
+</html>
+@

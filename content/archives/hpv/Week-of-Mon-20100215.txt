@@ -1,0 +1,924 @@
+From nick.hein at verizon.net  Tue Feb 16 06:39:46 2010
+From: nick.hein at verizon.net (Nick Hein)
+Date: Tue, 16 Feb 2010 09:39:46 -0500
+Subject: [hpv] New helmet design
+Message-ID: <B103BB6736AB4FA498B46305BCF994B0@dv500015bcb074>
+
+Good morning,
+Some of you may know my concern about existing helmet designs - that they are for beginner crashes, low-speed, single-impact.  This new helmet design appears to address some of those concerns, making it a better choice for recumbents and streamliners.
+http://www.gizmag.com/regenerative-bike-helmet/14179/
+
+Whaddya think?
+Nick
+
+From flarimer at gmail.com  Tue Feb 16 06:54:20 2010
+From: flarimer at gmail.com (Fred Larimer)
+Date: Tue, 16 Feb 2010 09:54:20 -0500
+Subject: [hpv] New helmet design
+In-Reply-To: <B103BB6736AB4FA498B46305BCF994B0@dv500015bcb074>
+References: <B103BB6736AB4FA498B46305BCF994B0@dv500015bcb074>
+Message-ID: <17aa20b91002160654i15702fa1lc842a8899aa6b2fc@mail.gmail.com>
+
+The goals are good but until one of us gets our hands on it and gives us a
+report, its hard to say more.
+
+On Tue, Feb 16, 2010 at 9:39 AM, Nick Hein <nick.hein at verizon.net> wrote:
+
+> Good morning,
+> Some of you may know my concern about existing helmet designs - that they
+> are for beginner crashes, low-speed, single-impact.  This new helmet design
+> appears to address some of those concerns, making it a better choice for
+> recumbents and streamliners.
+> http://www.gizmag.com/regenerative-bike-helmet/14179/
+>
+> Whaddya think?
+> Nick
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored
+> by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your
+> subscription.
+>
+
+From nick.hein at verizon.net  Tue Feb 16 10:19:52 2010
+From: nick.hein at verizon.net (Nick Hein)
+Date: Tue, 16 Feb 2010 13:19:52 -0500
+Subject: [hpv] Fw:  New helmet design
+Message-ID: <5C9C6FD64BED46D39E91C705AF7F1B03@dv500015bcb074>
+
+Good afternoon,
+In response to...
+>I'd think I'd trust Bell's knowledge of helmet design.  I don't see a big enough crush zone on this helmet.  Decelerating the head over a shorter >distance means increased g's - simple mathematics.
+
+
+Bell's knowledge of helmet design is directed toward meeting the ANSI and SNELL standards which assume a single low-speed impact typical of the type of crash beginning riders would get themselves into.  Because that's what they're required to assume.  A friend of mine crashed last year at relatively low speed and although the helmet protected him perfectly for the first impact, it didn't do any good for the second bounce.  He was in the hospital for several weeks and unable to ride for months.  
+
+For more advanced cyclists a motorcycle helmet design is more appropriate.  Less crush, a sturdy shell that will stay together after multiple impacts, slippery enough to slide on the pavement.  All I'm saying is there's room for improvement over current designs, this one makes some improvements.  No helmet is perfect, only crash prevention is.
+Nick
+
+
+
+
+> From: nick.hein at verizon.net
+> To: hpv at bikelist.org
+> Date: Tue, 16 Feb 2010 09:39:46 -0500
+> Subject: [hpv] New helmet design
+> 
+> Good morning,
+> Some of you may know my concern about existing helmet designs - that they are for beginner crashes, low-speed, single-impact. This new helmet design appears to address some of those concerns, making it a better choice for recumbents and streamliners.
+> http://www.gizmag.com/regenerative-bike-helmet/14179/
+> 
+> Whaddya think?
+> Nick
+> --
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+No virus found in this incoming message.
+Checked by AVG - www.avg.com 
+Version: 9.0.733 / Virus Database: 271.1.1/2691 - Release Date: 02/16/10 02:35:00
+
+From nick.hein at verizon.net  Wed Feb 17 11:54:04 2010
+From: nick.hein at verizon.net (Nick Hein)
+Date: Wed, 17 Feb 2010 14:54:04 -0500
+Subject: [hpv] Fw:  New helmet design
+References: <5C9C6FD64BED46D39E91C705AF7F1B03@dv500015bcb074>
+	<SNT102-W3724FC9224BF5E84145F4FC5480@phx.gbl>
+Message-ID: <5D012E0362954178B60DAB5A3E729AC3@dv500015bcb074>
+
+Chris,
+I imagine some differences would be expected when designing for a vehicle with a .2 hp motor vs. a motorcycle.  As far as I know Bell doesn't design motorcycle helmets for bicyclists - I also know there are very few people who buy/wear motorcycle helmets for bicycling.  Besides the fact they are heavier, the types of impacts are different.
+
+The 2-piece helmets ARE amateur - they were designed by students.  These amateurs have put a lot of thought and work into their prototype.  
+
+Anyway all I was saying to begin with is that the new design shows promise, not that it's perfect.  What's your point?
+Nick
+
+  ----- Original Message ----- 
+  From: C POLLARD 
+  To: nick.hein at verizon.net 
+  Sent: Wednesday, February 17, 2010 2:43 PM
+  Subject: RE: [hpv] Fw: New helmet design
+
+
+  You are kidding.  Bell designs motorcycle helmets for motorcycle racers.  I don't think they design for one hit wonders.  
+
+  Having a helmet that is fundamentally in two pieces, like the one proposed, means that it implicitly weaker.  The ones shown looked amateur hour.  
+
+  They were also thinner which means not as good.
+
+  Chris P
+
+  > From: nick.hein at verizon.net
+  > To: hpv at bikelist.org
+  > Date: Tue, 16 Feb 2010 13:19:52 -0500
+  > Subject: [hpv] Fw: New helmet design
+  > 
+
+  > Bell's knowledge of helmet design is directed toward meeting the ANSI and SNELL standards which assume a single low-speed impact typical of the type of crash beginning riders would get themselves into. Because that's what they're required to assume. A friend of mine crashed last year at relatively low speed and although the helmet protected him perfectly for the first impact, it didn't do any good for the second bounce. He was in the hospital for several weeks and unable to ride for months. 
+  > 
+  > For more advanced cyclists a motorcycle helmet design is more appropriate. Less crush, a sturdy shell that will stay together after multiple impacts, slippery enough to slide on the pavement. All I'm saying is there's room for improvement over current designs, this one makes some improvements. No helmet is perfect, only crash prevention is.
+  > Nick
+  > 
+  on.
+
+
+
+------------------------------------------------------------------------------
+
+
+
+  No virus found in this incoming message.
+  Checked by AVG - www.avg.com 
+  Version: 9.0.733 / Virus Database: 271.1.1/2693 - Release Date: 02/17/10 02:35:00
+
+From evsolutions at rogers.com  Wed Feb 17 13:25:01 2010
+From: evsolutions at rogers.com (EVsolutions)
+Date: Wed, 17 Feb 2010 16:25:01 -0500
+Subject: [hpv] Helmet Issue
+In-Reply-To: <mailman.19.1266436800.9582.hpv@bikelist.org>
+Message-ID: <B2048FBAA09C46789EC1853E7ABDA159@acerc2d0f03b5f>
+
+Nick the wife and I wear ZOX Full Face MC Helmets when on our delta tandem,
+plus body armor. We want to be pretty corpses and not have to be identified
+by dental records.
+
+2 years ago my skull hit the pavement and my Giro bicycle helmet cracked
+down the middle into 2 halves and the visor shattered and cut the bridge of
+my beak and while I survived I had one hell of headache.  
+
+Our delta tandem has side impact bars, lap belts and a roll bar but if we're
+hit by anything like a car or truck I suspect the body armor and MC Helmets
+will just make us more recognizable as humanoid and our only consolation
+will be the knowledge that our trike made one heck of a big dent in whatever
+hit us. 
+
+I would not advocate MC Helmets for 2 wheel bent riders since there is a
+shortage of organs for transplant but for tadpoles and deltas I would think
+a MC Helmet is a must have simply because it is harder for trikes to get out
+of the way of automobiles fast enough. As an added bonus a MC Helmet
+deflects beer bottles.  
+
+joshua goldberg
+evsolutions at rogers.com
+www.evsolutions.net
+http://groups.yahoo.com/groups/e-motor-assist
+http://www.e-bents.net
+ 
+From: Nick Hein <nick.hein at verizon.net>
+
+I also know there are very few people who buy/wear motorcycle helmets for
+bicycling.  Besides the fact they are heavier, the types of impacts are
+different.
+
+
+
+From nick.hein at verizon.net  Wed Feb 17 16:07:11 2010
+From: nick.hein at verizon.net (Nick Hein)
+Date: Wed, 17 Feb 2010 19:07:11 -0500
+Subject: [hpv] Fw:  New helmet design
+References: <5C9C6FD64BED46D39E91C705AF7F1B03@dv500015bcb074>,
+	<SNT102-W3724FC9224BF5E84145F4FC5480@phx.gbl>,
+	<5D012E0362954178B60DAB5A3E729AC3@dv500015bcb074>
+	<SNT102-W51FF0D8A97B967BF6824DC5480@phx.gbl>
+Message-ID: <2FF7A05866B74C93B31C1F1B658A43D0@dv500015bcb074>
+
+Chris,
+I was only talking about this helmet, and I was only saying that I think it's got potential to be better protection than what's currently being used.  Not sure what you thought I meant beyond that, but I apologize for rattling you.
+Nick
+  ----- Original Message ----- 
+  From: C POLLARD 
+  To: nick.hein at verizon.net 
+  Sent: Wednesday, February 17, 2010 3:04 PM
+  Subject: RE: [hpv] Fw: New helmet design
+
+
+  I just don't get the "this is new and revolutionary and has unquestionable benefits" when it is clear that it has severe limitations.
+
+  And why do you keep putting a downer on Bell?  They designed some of the best early bicycle helmets as against the "hair net" style ones which were dangerous. (Not the original leather ones but the ones with the plastic fingers).
+
+  AFAIK the impacts are pretty similar head/ground/curb/car.  
+
+  Chris P
+
+  > From: nick.hein at verizon.net
+  > To: hpv at bikelist.org
+  > Date: Wed, 17 Feb 2010 14:54:04 -0500
+  > Subject: Re: [hpv] Fw: New helmet design
+  > 
+  > Chris,
+  > I imagine some differences would be expected when designing for a vehicle with a .2 hp motor vs. a motorcycle. As far as I know Bell doesn't design motorcycle helmets for bicyclists - I also know there are very few people who buy/wear motorcycle helmets for bicycling. Besides the fact they are heavier, the types of impacts are different.
+  > 
+
+
+
+
+------------------------------------------------------------------------------
+
+
+
+  No virus found in this incoming message.
+  Checked by AVG - www.avg.com 
+  Version: 9.0.733 / Virus Database: 271.1.1/2693 - Release Date: 02/17/10 02:35:00
+
+From nick.hein at verizon.net  Wed Feb 17 19:02:53 2010
+From: nick.hein at verizon.net (Nick Hein)
+Date: Wed, 17 Feb 2010 22:02:53 -0500
+Subject: [hpv] Another helmet
+Message-ID: <E4336358A2AA43578AD153D9690CA71D@dv500015bcb074>
+
+Here's a helmet made by a bike helmet mfgr. for snow sports.
+http://www.wired.com/reviews/product/pr_giro_seam
+Nick
+
+From jgtetz at msn.com  Wed Feb 17 19:48:26 2010
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Wed, 17 Feb 2010 22:48:26 -0500
+Subject: [hpv] Another helmet
+In-Reply-To: <E4336358A2AA43578AD153D9690CA71D@dv500015bcb074>
+References: <E4336358A2AA43578AD153D9690CA71D@dv500015bcb074>
+Message-ID: <COL102-DS7303C1632957DB0CF6708D7470@phx.gbl>
+
+Now this is starting  to look good. My major complaint with bike helmets is they are made for fair weather use. I have added slot covers over the three leading slots on my old helmet. Cant do this on the new helmets with nothing but slots. These covers can open the slots for air or shut them off when the temperature drops. 
+
+This new Giro has adjustable air vents. Now they need to make this for bikes. 
+
+John Tetz 
+
+From jw.stephens at gmail.com  Thu Feb 18 09:20:04 2010
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Thu, 18 Feb 2010 09:20:04 -0800
+Subject: [hpv] Replacement trike panniers
+Message-ID: <c74d93001002180920o76234550yd39515375e599e6b@mail.gmail.com>
+
+I have been using Radical Side Panniers Large
+
+http://www.radicaldesign.nl/en/products/recumbentbags/sidepanniers.php
+
+on my Trice for a handful of years but now UV damage and fabric
+weakness have me searching for a replacement. Anyone have experience
+with something better? These are attached to my Old Man Mountain rack
+and nip in nicely behind the Trice seat. My Trice has a 26" rear
+wheel, so dragging is not a problem.
+
+Elrey in Orange County, California, USA
+
+-- 
+Ain't no town, ain't no city
+but boy how they love in Diddy-wah-diddy
+
+From bentbiker at buckeye-access.com  Thu Feb 18 09:41:28 2010
+From: bentbiker at buckeye-access.com (Jim Hall)
+Date: Thu, 18 Feb 2010 12:41:28 -0500
+Subject: [hpv] minimal helmet
+Message-ID: <4B7D7BC8.1050705@buckeye-access.com>
+
+for summer weather, i'd love to find a functional, cool looking helmet, 
+similar to the old "Skid Lidz" they used to sell.  {probably showing my 
+age!] anybody seen any thing like this?
+
+From bentbiker at buckeye-access.com  Thu Feb 18 09:57:32 2010
+From: bentbiker at buckeye-access.com (Jim Hall)
+Date: Thu, 18 Feb 2010 12:57:32 -0500
+Subject: [hpv] minimal helmet
+In-Reply-To: <4B7D7BC8.1050705@buckeye-access.com>
+References: <4B7D7BC8.1050705@buckeye-access.com>
+Message-ID: <4B7D7F8C.3070906@buckeye-access.com>
+
+I should have been more specific, the old skid lidz where similar to the 
+old leather tour de france type helmets,  but were made from plastic.
+
+Jim Hall wrote:
+
+> for summer weather, i'd love to find a functional, cool looking 
+> helmet, similar to the old "Skid Lidz" they used to sell.  {probably 
+> showing my age!] anybody seen any thing like this?
+> -- 
+> This message comes to you via the hpv at bikelist.org mailing list, 
+> sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your 
+> subscription.
+>
+>------------------------------------------------------------------------
+>
+>
+>No virus found in this incoming message.
+>Checked by AVG - www.avg.com 
+>Version: 9.0.733 / Virus Database: 271.1.1/2694 - Release Date: 02/17/10 17:30:00
+>
+>  
+>
+
+From timallard at msn.com  Fri Feb 19 09:08:20 2010
+From: timallard at msn.com (Tom Mallard)
+Date: Fri, 19 Feb 2010 10:08:20 -0700
+Subject: [hpv] minimal helmet
+In-Reply-To: <4B7D7F8C.3070906@buckeye-access.com>
+References: <4B7D7BC8.1050705@buckeye-access.com>,
+	<4B7D7F8C.3070906@buckeye-access.com>
+Message-ID: <BAY110-W314DC5348DE62A6001A236A3460@phx.gbl>
+
+
+Those are actually heavier and hotter than a good helmet ... good helmets promote flow over the whole head, direct sweat better to handle it in most cases.
+
+ 
+
+Even the cheap ones aren't bad this way even tho' that old one looks like it has better ventilation by the exposed area, the slot is a turbulent backflow on each side so life is complex and not as much heat gets transferred as most people would assume from the look of it, with solid areas blocking flow entirely. Against early full helmets and in the transition to them this was a good design, almost bought one but mtb'ing you want full coverage.
+
+ 
+
+Look inside a modern one and you'll see slots for flow everywhere, that's the difference but it's all on the inside so you can't see it until the pricey versions with the largest open areas, the result in the fight for strength-vs-weight.
+
+ 
+
+As you reduce weight for less structure it costs more, that becomes a value judgement but the wind-tunnels are pretty accurate, and flow measurements made by mfg's show better heat transfer using internal flow and let the area in open vent vary with cost.
+
+ 
+
+Living in Phoenix my latest on-sale nice helmet was a LAS, way nice ventilation, light, easy to adjust, great in the heat, decent direction of sweat from the glasses for several styles, but pricey even on sale!!!
+
+ 
+
+ymmv,
+
+tom mallard
+
+p.s. best helmet I've owned so far, want to try a semi-aero lightweight when this one wears out, doing OK ...
+
+
+
+ 		 	   		  
+
+From reneariza at hotmail.com  Fri Feb 19 12:27:10 2010
+From: reneariza at hotmail.com (Rene Ariza)
+Date: Fri, 19 Feb 2010 20:27:10 +0000
+Subject: [hpv] Information about Books on hpv + Urban Design
+Message-ID: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>
+
+
+ 
+
+
+Hi all. 
+
+I'm studying a Master Degree on Urban Design. 
+My thesis will be about the relation between Human Powered Vehicles (not only bycicles) and the structure of the city, and what kind of structure is desirable in order to accommodate the hpvs in harmony with other transportation typical of a big city (automobiles, trains, bus, etc). 
+
+In order to begin my thesis, I need to find specialized books or papers that have been writen previously on that subject (i.e urban design+hpv), 
+
+If some of you have information (titles of books or papers and where they can be found), it will be very helpful. 
+
+my e-mail: nave-tierra at hotmail.com
+
+ 
+
+Rene
+Bogot?-Colombia
+
+
+
+
+
+  		 	   		  
+_________________________________________________________________
+
+
+From jw.stephens at gmail.com  Sat Feb 20 08:40:15 2010
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Sat, 20 Feb 2010 08:40:15 -0800
+Subject: [hpv] minimal helmet
+In-Reply-To: <BAY110-W314DC5348DE62A6001A236A3460@phx.gbl>
+References: <4B7D7BC8.1050705@buckeye-access.com>,
+	<4B7D7F8C.3070906@buckeye-access.com>
+	<BAY110-W314DC5348DE62A6001A236A3460@phx.gbl>
+Message-ID: <4B80106F.1050002@gmail.com>
+
+What Tom writes it true, of course, but bike helmets are designed and 
+built for riders whose head position is significantly different from 
+mine (usually). I am usually forehead forward, 'sted of dome-forward as 
+in the pictures of the go-boyz on VeloNews. So yes, MMDV.
+
+Elrey in the shade in Orange County, California
+
+Tom Mallard wrote:
+> Those are actually heavier and hotter than a good helmet ...
+
+From nick.hein at verizon.net  Sat Feb 20 08:49:59 2010
+From: nick.hein at verizon.net (Nick Hein)
+Date: Sat, 20 Feb 2010 11:49:59 -0500
+Subject: [hpv] Information about Books on hpv + Urban Design
+References: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>
+Message-ID: <8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>
+
+Rene,
+>From a cyclist and riding instructor I'd like to express the consensus among 
+League of American Bicyclist instructors (of which I'm one).  It's a mantra 
+actually - "Cyclists fare best when they act and are treated as drivers of 
+vehicles."  For an urban designer this means when you design roads you 
+should make them wide enough so that bicycles and other slow moving vehicles 
+(Amish horsecarts, street sweepers, etc.) can be passed by faster traffic. 
+The general guideline is that curb lanes should be at least 14' wide to 
+permit cars to get around bikes safely.  Wider slow moving vehicles can 
+still be passed, even though the passing vehicle may have to go partway into 
+the oncoming lane (waiting til it's safe of course).
+
+A contradiction in the urban design world (at least the US part of the 
+world) is that designers aren't necessarily users of all types of vehicles. 
+The most important thing is to get input from cyclists and cycling advocates 
+at all stages of the design and feed it around to the other experts.  And 
+then follow through to that oft-overlooked step - do what they suggest.
+
+Good luck,
+Nick Hein
+Morgantown, WV
+
+
+----- Original Message ----- 
+From: "Rene Ariza" <reneariza at hotmail.com>
+To: <hpv at bikelist.org>
+Sent: Friday, February 19, 2010 3:27 PM
+Subject: [hpv] Information about Books on hpv + Urban Design
+
+
+
+
+
+
+Hi all.
+
+I'm studying a Master Degree on Urban Design.
+My thesis will be about the relation between Human Powered Vehicles (not 
+only bycicles) and the structure of the city, and what kind of structure is 
+desirable in order to accommodate the hpvs in harmony with other 
+transportation typical of a big city (automobiles, trains, bus, etc).
+
+In order to begin my thesis, I need to find specialized books or papers that 
+have been writen previously on that subject (i.e urban design+hpv),
+
+If some of you have information (titles of books or papers and where they 
+can be found), it will be very helpful.
+
+my e-mail: nave-tierra at hotmail.com
+
+
+
+Rene
+Bogot?-Colombia
+
+
+
+
+
+
+_________________________________________________________________
+
+--
+This message comes to you via the hpv at bikelist.org mailing list, sponsored 
+by http://www.hupi.org/
+Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+
+--------------------------------------------------------------------------------
+
+
+
+No virus found in this incoming message.
+Checked by AVG - www.avg.com
+Version: 9.0.733 / Virus Database: 271.1.1/2699 - Release Date: 02/20/10 
+02:34:00
+
+
+From jw.stephens at gmail.com  Sun Feb 21 08:43:00 2010
+From: jw.stephens at gmail.com (JW Stephens)
+Date: Sun, 21 Feb 2010 08:43:00 -0800
+Subject: [hpv] Information about Books on hpv + Urban Design
+In-Reply-To: <8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>
+References: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>
+	<8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>
+Message-ID: <4B816294.90104@gmail.com>
+
+One corollary to the "bike belong with traffic" mantra that Nick 
+whistles ... that few in the USA have the ganas to implement ... is that 
+parked automobiles are NOT traffic and thus don't belong on streets. In 
+fact, they are one of most mitigatable dangers to cyclo-commuters that I 
+see, because it is counter-intuative to most drivers that traffic would 
+pass their car close enough to plow into their just opened door. My late 
+dermatologist, a highly educated man and a clean-water enviromentalist 
+expressed his shock to me once that a cyclist had damaged the door of 
+his auto. He couldn't grasp that he was the guilty party there.
+
+Another overlooked, but simple, guideline, is to avoid pinch points, 
+which throw traffic from two virtual lanes (one lane but unmarked for 
+cyclist area) into one. The merge works fine if drivers are experience 
+and not distracted. Huh.
+
+Rene, as you may guess, we don't know of the books you ask for, so we 
+are writing one for you, right here.
+
+Elrey in Orange County, California, a Cyclovia veteran
+
+Nick Hein wrote:
+> Rene,
+>> From a cyclist and riding instructor I'd like to express the consensus 
+>> among 
+> League of American Bicyclist instructors (of which I'm one).  It's a 
+> mantra actually - "Cyclists fare best when they act and are treated as 
+> drivers of vehicles."  For an urban designer this means when you design 
+> roads you should make them wide enough so that bicycles and other slow 
+> moving vehicles (Amish horsecarts, street sweepers, etc.) can be passed 
+> by faster traffic. The general guideline is that curb lanes should be at 
+> least 14' wide to permit cars to get around bikes safely.  Wider slow 
+> moving vehicles can still be passed, even though the passing vehicle may 
+> have to go partway into the oncoming lane (waiting til it's safe of 
+> course).
+> 
+> A contradiction in the urban design world (at least the US part of the 
+> world) is that designers aren't necessarily users of all types of 
+> vehicles. The most important thing is to get input from cyclists and 
+> cycling advocates at all stages of the design and feed it around to the 
+> other experts.  And then follow through to that oft-overlooked step - do 
+> what they suggest.
+> 
+> Good luck,
+> Nick Hein
+> Morgantown, WV
+> 
+> 
+> ----- Original Message ----- From: "Rene Ariza" <reneariza at hotmail.com>
+> To: <hpv at bikelist.org>
+> Sent: Friday, February 19, 2010 3:27 PM
+> Subject: [hpv] Information about Books on hpv + Urban Design
+> 
+> 
+> 
+> 
+> 
+> 
+> Hi all.
+> 
+> I'm studying a Master Degree on Urban Design.
+> My thesis will be about the relation between Human Powered Vehicles (not 
+> only bycicles) and the structure of the city, and what kind of structure 
+> is desirable in order to accommodate the hpvs in harmony with other 
+> transportation typical of a big city (automobiles, trains, bus, etc).
+> 
+> In order to begin my thesis, I need to find specialized books or papers 
+> that have been writen previously on that subject (i.e urban design+hpv),
+> 
+> If some of you have information (titles of books or papers and where 
+> they can be found), it will be very helpful.
+> 
+> my e-mail: nave-tierra at hotmail.com
+> 
+> 
+> 
+> Rene
+> Bogot?-Colombia
+> 
+> 
+> 
+> 
+> 
+> 
+> _________________________________________________________________
+> 
+> -- 
+> This message comes to you via the hpv at bikelist.org mailing list, 
+> sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+> 
+> 
+> -------------------------------------------------------------------------------- 
+> 
+> 
+> 
+> 
+> No virus found in this incoming message.
+> Checked by AVG - www.avg.com
+> Version: 9.0.733 / Virus Database: 271.1.1/2699 - Release Date: 02/20/10 
+> 02:34:00
+> 
+> -- 
+> This message comes to you via the hpv at bikelist.org mailing list, 
+> sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+
+From timallard at msn.com  Sun Feb 21 09:51:44 2010
+From: timallard at msn.com (Tom Mallard)
+Date: Sun, 21 Feb 2010 10:51:44 -0700
+Subject: [hpv] Information about Books on hpv + Urban Design
+In-Reply-To: <4B816294.90104@gmail.com>
+References: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>,
+	<8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>,
+	<4B816294.90104@gmail.com>
+Message-ID: <BAY110-W3090506DB71A91CBC54D04A3440@phx.gbl>
+
+
+Adding to the book ...
+
+ 
+
+Survival trick for parked cars is seeing a driver in one, move out for two reasons, the door opener, and, the punch-it-from-a-parking-place-into-traffic, front wheels turning are clue #2.
+
+ 
+
+Here in Phoenix, AZ, the official bike lanes leave you from a cycling lane to nothing at major intersections, with no bikie signs on where to go, there may not be any more lane going that way, there are no through bike communter ways anywhere, when the lanes stop, better have a map as everything is 7-miles away, city planning ala developer bingo.
+
+ 
+
+Street designers and transporation engineers are not cyclists, they don't have the sense to plan the initial cut for bikes because they are not savvy to what a cyclist really needs right there at that hilltop or curve, they read about riding and a few must ride but as an engineering discipline cyclists don't exist from a viewpoint of understanding on the need for cyclists to get as much out of the downhill as possible, and to climb in the least demanding way, their minds are not used to going a max of 40-some mph down a hill if you're lucky to 6 mph climbing back up the next one.
+
+ 
+
+So, our real needs to get from Point A to Point B are illustrated in the history of cycling in Pasadena, CA, that tore down a perfectly good cycling bridge that spanned the great arroyo the Rose Bowl was built in, with a good view of it. This was as "civilization" progressed and cars started to replace the bicycle which replaced the horse.
+
+ 
+
+It's been a long battle since to give a clue from people using bikes for transportation and utility to transportation designers to make it as flat and level and the shortest distance as possible, no 1/2-mile detours, priority to hpv's, not cars, our momentum to a raging 16-mph with a full load of groceries may seem trivial, but may have taken a mile of work to attain from a full stop up that slight hill to where you were on top of it and the heart-rate steady and now we gotta' stop? 
+
+ 
+
+Where's the hpv freeway? Society wants people to ride but doesn't have the knowledge base on cycling to get it, look at Europe and cycling, it's a heavy pro sport, the cultures there are into it more, there are more cyclists due to that. Our media kills cycling as a sport, no one knows why they maintain that bias, Lance Armstrong can't pull it here, it takes kids in grade school training to be pros, cycling is not an intuitive sport at the highest levels, teams that have been in it for decades have regimes that begin young and produce champions.
+
+ 
+
+Here if you ride it's a toy, a status symbol or you're poor or homeless. Most people ride either because they like the freedom or can't afford any other transportation, so, the world's most used daily commuter is a bike by far, and it's the lowest priority in actual road cuts, almost every bridge cuts them out because it would have cost more to include them and not throw them in with the pedestrians where they certainly don't belong.
+
+ 
+
+Common design practice forced by economic priorities. 
+
+ 
+
+OK, too bad, but if drivers are educated to be fair to someone trying to sweat it out things are fine as is so I'm all for heavy spending all the time on education of drivers to have empathy for riders so when we slow them down they're patient. 
+
+ 
+
+We get the rest, we have our ways of cheating, we jump stops signs to keep our average speed going, we can't afford two minutes of sitting around, my heart-rate drops to almost nothing by then, in 45-seconds it's down to sub 110-bpm's if I've been pushing it ... we don't just rev it up as muscle powered vehicles, it matters how long you take a break from working your heart-rate up to get somewhere how long you can sit around waiting before you have to work back up to that higher workload, cars just burn gas to get going again and don't have to worry about lactic acid or did I bring an extra goo to make it home on glycogen and not have to slow down.
+
+
+Drivers are not athletes, cyclists are forced to be athletes, we are not constant output machines, our energy fades quickly and is maxed out by elite athletes at around 1,100-watts give or take, this for the best sprinters in the world taking the wind at the head of the peloton at over 40-mph, a trival speed for a car.
+
+ 
+
+Where are the hpv monorails where riders pedal where they want to go without having to own a bike and deal with traffic?
+
+ 
+
+Until hpv's have some design priority all you can do is put up a sign for us ... we'll dodge the cars, and, don't expect commuting by bicycle to catch on, you have to be a Cat III to deal with it, it's an athletic experience for the body to commute, you get stronger doing it, you have to eat right and sleep right just to get somewhere every workday or most. If the commute is too many miles you spend all day eating and wanting to doze off from having to recover like any pro athlete does, so, there is indeed a physical limit to how many commuter miles can be done a day by anybody without it affecting their work and home life.
+
+ 
+
+Cycling is a complex, technical sport, to use bicycles for transportation puts athletic stress on the body like any competition training regime, it's not a passive way to get somewhere, we have no high-level priority in funding anything transportation related that to me seems to address the momentum issue for cyclists, we are thrown into the street-light systems, intersections, cross-walks ... all things that kill your speed due to a priority on who has right-of-way.
+
+ 
+
+My practical solution for America to get pedaling is the hpv monorail for cities, our culture is not into cycling enough to make a significant difference to total transportation miles using a bike. Using the bicycle for "a nice ride" seems to me more important than using them for transportation in this country.
+
+ 
+
+If you want to design and build a green way to get there, a lightweight monorail system designed just for hpv, not for general trains, it's rather cheap, doesn't have a big land footprint, can be routed for more direct lines by not having to follow streets all the time, can handle small elevation changes cheaply whereas with roads it's expensive ...
+
+ 
+
+Seattle had a metropolitan area monorail proposed, voted in but then voted out that had a hpv monorail proposed by locals to be added, nice designs went around, a few exist around the world.
+
+ 
+
+hth,
+
+
+tom mallard 
+   .net web applications 
+      consumer product design
+ 		 	   		  
+
+From timallard at msn.com  Sun Feb 21 10:00:08 2010
+From: timallard at msn.com (Tom Mallard)
+Date: Sun, 21 Feb 2010 11:00:08 -0700
+Subject: [hpv] minimal helmet
+In-Reply-To: <4B80106F.1050002@gmail.com>
+References: <4B7D7BC8.1050705@buckeye-access.com>, ,
+	<4B7D7F8C.3070906@buckeye-access.com>,
+	<BAY110-W314DC5348DE62A6001A236A3460@phx.gbl>,
+	<4B80106F.1050002@gmail.com>
+Message-ID: <BAY110-W3EEDADB1A78DF7BFBE765A3440@phx.gbl>
+
+
+Of course that's true, for upside down on a recumbent a good lightweight climbing helmet is maybe a good choice, their vents aren't flow oriented so much but climbing is a sweaty sport so most of them vent well, made about the same, less crushable foam but enough, nice shells, adjustable suspensions, less protrusion in the back.
+
+ 
+
+hth,
+
+tom mallard 
+ 
+> Date: Sat, 20 Feb 2010 08:40:15 -0800
+> From: jw.stephens at gmail.com
+> To: hpv at bikelist.org
+> Subject: Re: [hpv] minimal helmet
+> 
+> What Tom writes it true, of course, but bike helmets are designed and 
+> built for riders whose head position is significantly different from 
+> mine (usually). I am usually forehead forward, 'sted of dome-forward as 
+> in the pictures of the go-boyz on VeloNews. So yes, MMDV.
+> 
+> Elrey in the shade in Orange County, California
+> 
+> Tom Mallard wrote:
+> > Those are actually heavier and hotter than a good helmet ...
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+ 		 	   		  
+
+From johnriley1 at rogers.com  Sun Feb 21 10:10:45 2010
+From: johnriley1 at rogers.com (John Riley)
+Date: Sun, 21 Feb 2010 13:10:45 -0500
+Subject: [hpv] Information about Books on hpv + Urban Design
+In-Reply-To: <4B816294.90104@gmail.com>
+References: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>
+	<8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>
+	<4B816294.90104@gmail.com>
+Message-ID: <9C989560-98B7-47B6-AF56-28F434A62340@rogers.com>
+
+
+On Feb 21, 2010, at 11:43 AM, JW Stephens wrote:
+>
+> Another overlooked, but simple, guideline, is to avoid pinch points,  
+> which throw traffic from two virtual lanes (one lane but unmarked  
+> for cyclist area) into one. The merge works fine if drivers are  
+> experience and not distracted. Huh.
+
+Before I left Toronto, it appeared to me that they were ADDING pinch  
+points to otherwise very rideable secondary streets in the name of  
+"traffic calming". You'd be riding along in a lane that would easily  
+accommodate a car and a bike, and then approach an point, often an  
+intersection, where the road would be artificially narrowed and you  
+would have to negotiate with the cars. 
+
+From jgtetz at msn.com  Sun Feb 21 18:55:03 2010
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Sun, 21 Feb 2010 21:55:03 -0500
+Subject: [hpv] Information about Books on hpv + Urban Design
+In-Reply-To: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>,
+	<8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>,
+	<4B816294.90104@gmail.com>
+	<BAY110-W3090506DB71A91CBC54D04A3440@phx.gbl>
+References: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>,
+	<8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>,
+	<4B816294.90104@gmail.com>
+	<BAY110-W3090506DB71A91CBC54D04A3440@phx.gbl>
+Message-ID: <COL102-DS126AAE5EDC1B81C7C7BFE1D7430@phx.gbl>
+
+Tom you have some great points. 
+
+I would like to add some of my own. 
+Because we have zero bike infrastructures I try to promote local alternate transportation for now. The 2 to 5 mile stuff for shopping and running errands. That can add up to 2500 to 3000 miles a year. Appreciable help for the environment and my health. 
+
+And that's what most Europeans do - short haul local travel. I seldom saw a bike in between towns and cities on a couple of my European tours.  
+
+Because I predominantly do local travel I don't get into the "athletic" performance area at all. At 78 those days are over. Nor do the Europeans get into athletic performance.  I do raise my heart rate, aerobic rate and get great exercise which helps lower my health care costs.  Average folks can handle this level of "performance."  
+
+ And for help in climbing I have a just a little electric help - which adds only 4.2 pounds to the vehicle. 
+
+>Street designers and transporation engineers are not cyclists, 
+....and they don't ask cyclists for their inputs. 
+
+>look at Europe and cycling, it's a heavy pro sport, 
+....I try to stay as far away as possible from the words cycling and sport. Here in the US that's predominantly what bikes are used for. Mention the word bike to a lay person and the first thing that comes to mind is Sport, then Kids and Toys. I have heard this innumerable times - and written in news papers.  
+
+When I go up town in my VM someone always stops to talk to me. They like my little car. This is a step  forward in consciousness for them - car equals transportation. And that's the way I use my VM. The concept Bike limits that consciousness change. And in truth a bike is seasonably and weather limited along with poor crash protection.  
+
+I like the idea of us writing the manuals. Most manual writers aren't even aware of VMs.  
+
+John Tetz 
+
+
+
+
+From plaidp at msn.com  Sun Feb 21 19:11:15 2010
+From: plaidp at msn.com (C POLLARD)
+Date: Sun, 21 Feb 2010 20:11:15 -0700
+Subject: [hpv] Information about Books on hpv + Urban Design
+In-Reply-To: <COL102-DS126AAE5EDC1B81C7C7BFE1D7430@phx.gbl>
+References: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>, ,
+	<8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>, ,
+	<4B816294.90104@gmail.com>,
+	<BAY110-W3090506DB71A91CBC54D04A3440@phx.gbl>,
+	<COL102-DS126AAE5EDC1B81C7C7BFE1D7430@phx.gbl>
+Message-ID: <SNT102-W18D07AA68C20E293509C6C5430@phx.gbl>
+
+
+Do you mean where you live?  Boulder CO has a huge bike infrastructure with totally separate paths and underpasses all over the place.  Quicker getting in to town by bike than by car.
+
+Chris P
+
+> From: jgtetz at msn.com
+> To: hpv at bikelist.org; timallard at msn.com
+> Date: Sun, 21 Feb 2010 21:55:03 -0500
+> Subject: Re: [hpv] Information about Books on hpv + Urban Design
+> 
+> Tom you have some great points. 
+> 
+> I would like to add some of my own. 
+> Because we have zero bike infrastructures 
+ 		 	   		  
+
+From jgtetz at msn.com  Sun Feb 21 20:02:44 2010
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Sun, 21 Feb 2010 23:02:44 -0500
+Subject: [hpv] Information about Books on hpv + Urban Design
+In-Reply-To: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>, ,
+	<8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>, ,
+	<4B816294.90104@gmail.com>,
+	<BAY110-W3090506DB71A91CBC54D04A3440@phx.gbl>,
+	<COL102-DS126AAE5EDC1B81C7C7BFE1D7430@phx.gbl>
+	<SNT102-W18D07AA68C20E293509C6C5430@phx.gbl>
+References: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>, ,
+	<8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>, ,
+	<4B816294.90104@gmail.com>,
+	<BAY110-W3090506DB71A91CBC54D04A3440@phx.gbl>,
+	<COL102-DS126AAE5EDC1B81C7C7BFE1D7430@phx.gbl>
+	<SNT102-W18D07AA68C20E293509C6C5430@phx.gbl>
+Message-ID: <COL102-DS10D0253AF4FC00FCE2BA92D7430@phx.gbl>
+
+>Do you mean where you live? Boulder CO has a huge bike infrastructure with totally separate paths and underpasses all over the place.  Quicker getting in to town by bike than by car.
+........Ok Ok quit you bragging.     Ha. 
+But seriously, in most of America there is zero bike infrastructure. The East happens to be the worse.
+
+john tetz 
+
+
+From opusthepoet at gmail.com  Sun Feb 21 21:48:34 2010
+From: opusthepoet at gmail.com (John Clary)
+Date: Sun, 21 Feb 2010 23:48:34 -0600
+Subject: [hpv] Information about Books on hpv + Urban Design
+In-Reply-To: <COL102-DS10D0253AF4FC00FCE2BA92D7430@phx.gbl>
+References: <BAY128-W19C45FAE033ABB344E875CB2460@phx.gbl>
+	<8894ADFCF0834156817CBA84AD2B780A@dv500015bcb074>
+	<4B816294.90104@gmail.com>
+	<BAY110-W3090506DB71A91CBC54D04A3440@phx.gbl>
+	<COL102-DS126AAE5EDC1B81C7C7BFE1D7430@phx.gbl>
+	<SNT102-W18D07AA68C20E293509C6C5430@phx.gbl>
+	<COL102-DS10D0253AF4FC00FCE2BA92D7430@phx.gbl>
+Message-ID: <331917b11002212148u5ef8c593kbca18783975636ef@mail.gmail.com>
+
+On Sun, Feb 21, 2010 at 10:02 PM, JOHN TETZ  wrote:
+
+>snip<
+> But seriously, in most of America there is zero bike infrastructure. The East happens to be the worse.
+>
+You haven't been to TX, I take it.
+
+-- 
+Opus
+
+I ride my bike to ride my bike, and sometimes it takes me where I need to go.
+
+From jeff_wills at comcast.net  Sun Feb 21 22:18:38 2010
+From: jeff_wills at comcast.net (Jeff Wills)
+Date: Mon, 22 Feb 2010 06:18:38 +0000
+Subject: [hpv] Pinch points,
+ was Re:  Information about Books on hpv + Urban Design
+In-Reply-To: <9C989560-98B7-47B6-AF56-28F434A62340@rogers.com>
+Message-ID: <1260420443.6753361266819518480.JavaMail.root@sz0158a.emeryville.ca.mail.comcast.net>
+
+As seen in Portland:
+
+http://bikeportland.org/2009/12/22/sellwood-gets-citys-first-next-generation-bike-boulevard/
+
+Our friend from Bogata can probably email Portland Bicycle Transportation Alliance for some references on constructing bicycle infrastructure.  Bear in mind, though, this is a "work in progress".
+
+
+Jeff Wills
+------------------------------------------------------------
+Make plans now to attend the 
+Portland Human Power Challenge
+http://www.ohpv.org/HPC/index.html
+and the Recumbent Retreat
+http://www.recumbentretreat.org/
+------------------------------------------------------------
+
+----- John Riley wrote:
+> 
+> On Feb 21, 2010, at 11:43 AM, JW Stephens wrote:
+> >
+> > Another overlooked, but simple, guideline, is to avoid pinch points,  
+> > which throw traffic from two virtual lanes (one lane but unmarked  
+> > for cyclist area) into one. The merge works fine if drivers are  
+> > experience and not distracted. Huh.
+> 
+> Before I left Toronto, it appeared to me that they were ADDING pinch  
+> points to otherwise very rideable secondary streets in the name of  
+> "traffic calming". You'd be riding along in a lane that would easily  
+> accommodate a car and a bike, and then approach an point, often an  
+> intersection, where the road would be artificially narrowed and you  
+> would have to negotiate with the cars. 
+>
+

@@ -1,0 +1,522 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>HPeJ article 12, issue 4</title>
+</head>
+<body>
+<p align="center">
+<img src="HPeJ-sml.gif" alt="Human Power eJournal" border="0"
+ height="50" width="400"><br>
+<a href="http://www.hupi.org/HPeJ/index.htm">Contents</a> | <a
+ href="http://www.hupi.org/HPeJ/about.htm">About</a> | <a
+ href="http://www.hupi.org/HPeJ/contact.htm">Contact</a>
+</p>
+<p align="center">article 12, issue 04
+<br>
+</p>
+<blockquote><font size="5">A Basic Data
+Logger for Recording a Bicycle's Wheel Rotation<br>
+  </font>
+  <p>John Snyder<br>
+March 21, 2007 </p>
+  <blockquote>
+    <p align="center"><b><i>Abstract</i></b> </p>
+    <p align="center"><i>A method is reviewed, for&nbsp; employing
+readily available
+components and consumer electronic devices to create a record of a
+bicycle's wheel rotation.&nbsp; </i><br>
+    </p>
+  </blockquote>
+</blockquote>
+<blockquote> <b>Introduction</b><br>
+  <br>
+In recent years, numerous manufacturers have offered for sale
+electronic devices which monitor a bicycle's
+speed and
+distance traveled, and which provide a means to download the collected
+information to a personal computer.&nbsp; The resulting
+records often display a relatively low resolution, which is acceptable
+for most purposes.&nbsp; However, determining vehicle drag
+parameters from roll out
+tests and conducting other motion
+studies demand a more precise depiction of time and distance
+[References
+1, 2, 3, 4
+and&nbsp; 5].&nbsp; Several individuals independently discovered this
+requirement may be satisfied by employing audio-quality
+recordings made from the output of a simple sensor.&nbsp; This paper
+serves
+as a general
+introduction to those efforts. We encourage readers interested in
+learning greater detail to study the works cited within the
+reference section.<br>
+  <br>
+  <br>
+  <b>Discussion<br>
+  <br>
+  </b>A basic wheel-rotation data logger begins with an
+unmodified
+portable audio
+recorder, a cycle computer's reed-switch wiring harness, and a
+spoke-mounted magnet.&nbsp; Modify the wiring harness by
+replacing
+the cycle computer mount with a plug which fits into the
+recorder's MIC input jack [Figure 1].&nbsp; Complete the kit with
+the addition of&nbsp; a dubbing cable, connecting the
+audio inputs
+and outputs of the recorder to a personal
+computer [Figure 2].<br>
+  <br>
+Install the spoke-magnet and reed-switch on a bicycle in
+the customary fashion.&nbsp; Plug the modified wiring harness into the
+audio recorder in the same manner as one would plug in
+an external microphone.&nbsp; Switch the portable recorder to record
+mode,
+place
+it in a shirt pocket or carrying bag, then
+ride the bicycle.&nbsp; Afterwards, transfer
+the
+recording to a personal computer for storage and analysis. <br>
+  <br>
+Moving a magnet past a reed-switch sensor, as used by a common cycle
+computer, generates a detectable, short-duration pulse.&nbsp;
+This pulse bears a similarity to the electronic click or
+pop heard when switching on a microphone.&nbsp; Spinning the wheel
+while recording the sensor's output generates a series of such pulses,
+often referred to as a pulse-train [Figure 3].&nbsp; The start of one
+pulse
+to the start of the next
+adjacent pulse represents one complete revolution of the wheel.&nbsp; <br>
+  <br>
+Measure time by utilizing an audio
+editor program which provides both a visual portrayal of the recorded
+pulse-train and a way to display elapsed time at any selected point
+within a digital audio file.&nbsp; The open source
+program Audacity fills these
+needs [Reference 6].&nbsp; With moderate care, events depicted within
+the recording can be timed precisely using the program's cursor
+position
+indicator
+[Figure 4 and Table].&nbsp; <br>
+  <br>
+Measure distance by counting the number of pulses, then
+multiplying the result by the wheel's circumference.<br>
+  <br>
+  <br>
+  <br>
+  <table style="text-align: left; width: 943px; height: 441px;"
+ cellpadding="2" cellspacing="2">
+    <tbody>
+      <tr>
+        <td style="vertical-align: bottom;"> <img
+ style="width: 437px; height: 320px;" src="harness.jpg" alt="Harness"> </td>
+        <td style="vertical-align: bottom;"> <img src="spacer.PNG"
+ alt=""> </td>
+        <td style="vertical-align: bottom;"> <img
+ src="recorder_and_cable.jpg" alt="Recorder and Cable"> </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">
+        <h6>Figure 1: Reed-switch and connecting plug.&nbsp; This
+harness was
+assembled
+from recycled components by soldering together the black paired-wires
+leading from a reed-switch sensor to the&nbsp; white paired-wires and
+connecting plug
+from what had been part of a monaural earphone.&nbsp; The
+splice was
+then covered with electrical tape.<br>
+        </h6>
+        </td>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top;">
+        <h6>Figure 2: IC recorder, spoke magnet and dubbing
+cable.&nbsp; Though a digital voice recorder is shown other types of
+portable audio devices would suffice, such as; a
+micro-cassette
+recorder, an MD recorder, an MP3 recorder,&nbsp; or a miniature FM
+transmitter.&nbsp; <br>
+        </h6>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <table style="text-align: left; width: 801px; height: 502px;"
+ cellpadding="2" cellspacing="2">
+    <tbody>
+      <tr>
+        <td style="vertical-align: top;"><img
+ style="width: 787px; height: 446px;" src="pulse_train.PNG" alt=""
+ align="left"></td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">
+        <h6>Figure 3; A pulse-train viewed as amplitude by time.&nbsp;
+The
+blue vertical lines in the signal reflect the
+spoke magnet having passed by the
+reed-switch.&nbsp;&nbsp; Here a spinning bicycle wheel placed in a
+truing
+stand
+has been monitored for approximately 23 seconds. </h6>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <br>
+  <table style="text-align: left; width: 806px; height: 509px;"
+ border="0" cellpadding="2" cellspacing="2">
+    <tbody>
+      <tr>
+        <td style="vertical-align: top;"><img
+ style="width: 789px; height: 448px;" src="one_pulse.PNG" alt=""
+ align="left"></td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">
+        <h6>Figure 4; A single pulse, magnified
+using Audacity's's zoom tool. The above program-window displays a
+segment of
+time 4.1860 to 4.1920
+seconds
+after the start of the audio file. <br>
+        </h6>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <table style="text-align: left; width: 698px; height: 328px;"
+ border="1" cellpadding="2" cellspacing="2">
+    <tbody>
+      <tr>
+        <td style="vertical-align: top;">
+        <table style="text-align: left; width: 690px; height: 211px;"
+ cellpadding="2" cellspacing="2">
+          <tbody>
+            <tr>
+              <td style="vertical-align: top; font-weight: bold;"><big>Rev<br>
+              </big></td>
+              <td style="vertical-align: top; font-weight: bold;"><big>Time
+(s)<br>
+              </big></td>
+              <td style="vertical-align: top; font-weight: bold;"><big>Rev<br>
+              </big></td>
+              <td style="vertical-align: top; font-weight: bold;"><big>Time
+(s)<br>
+              </big></td>
+              <td style="vertical-align: top; font-weight: bold;"><big>Rev<br>
+              </big></td>
+              <td style="vertical-align: top; font-weight: bold;"><big>Time
+(s)<br>
+              </big></td>
+              <td style="vertical-align: top; font-weight: bold;"><big>Rev<br>
+              </big></td>
+              <td style="vertical-align: top; font-weight: bold;"><big>Time
+(s)<br>
+              </big></td>
+              <td style="vertical-align: top; font-weight: bold;"><big>Rev<br>
+              </big></td>
+              <td style="vertical-align: top; font-weight: bold;"><big>Time
+(s)<br>
+              </big></td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">1<br>
+              </td>
+              <td style="vertical-align: top;">00.1541<br>
+              </td>
+              <td style="vertical-align: top;">11<br>
+              </td>
+              <td style="vertical-align: top;">04.1885<br>
+              </td>
+              <td style="vertical-align: top;">21<br>
+              </td>
+              <td style="vertical-align: top;">08.1161<br>
+              </td>
+              <td style="vertical-align: top;">31<br>
+              </td>
+              <td style="vertical-align: top;">12.9192<br>
+              </td>
+              <td style="vertical-align: top;">41<br>
+              </td>
+              <td style="vertical-align: top;">17.2844<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">2<br>
+              </td>
+              <td style="vertical-align: top;">00.5471<br>
+              </td>
+              <td style="vertical-align: top;">12<br>
+              </td>
+              <td style="vertical-align: top;">04.6016<br>
+              </td>
+              <td style="vertical-align: top;">22<br>
+              </td>
+              <td style="vertical-align: top;">08.8963<br>
+              </td>
+              <td style="vertical-align: top;">32<br>
+              </td>
+              <td style="vertical-align: top;">13.3342<br>
+              </td>
+              <td style="vertical-align: top;">42<br>
+              </td>
+              <td style="vertical-align: top;">17.7919<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">3<br>
+              </td>
+              <td style="vertical-align: top;">00.9435<br>
+              </td>
+              <td style="vertical-align: top;">13<br>
+              </td>
+              <td style="vertical-align: top;">05.0115<br>
+              </td>
+              <td style="vertical-align: top;">23<br>
+              </td>
+              <td style="vertical-align: top;">09.2883<br>
+              </td>
+              <td style="vertical-align: top;">33<br>
+              </td>
+              <td style="vertical-align: top;">13.7508<br>
+              </td>
+              <td style="vertical-align: top;">43<br>
+              </td>
+              <td style="vertical-align: top;">18.3069<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">4<br>
+              </td>
+              <td style="vertical-align: top;">01.3420<br>
+              </td>
+              <td style="vertical-align: top;">14<br>
+              </td>
+              <td style="vertical-align: top;">05.4166<br>
+              </td>
+              <td style="vertical-align: top;">24<br>
+              </td>
+              <td style="vertical-align: top;">10.0803<br>
+              </td>
+              <td style="vertical-align: top;">34<br>
+              </td>
+              <td style="vertical-align: top;">14.1690<br>
+              </td>
+              <td style="vertical-align: top;">44<br>
+              </td>
+              <td style="vertical-align: top;">18.8345<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">5<br>
+              </td>
+              <td style="vertical-align: top;">01.7434<br>
+              </td>
+              <td style="vertical-align: top;">15<br>
+              </td>
+              <td style="vertical-align: top;">05.8166<br>
+              </td>
+              <td style="vertical-align: top;">25<br>
+              </td>
+              <td style="vertical-align: top;">10.4798<br>
+              </td>
+              <td style="vertical-align: top;">35<br>
+              </td>
+              <td style="vertical-align: top;">14.5898<br>
+              </td>
+              <td style="vertical-align: top;">45<br>
+              </td>
+              <td style="vertical-align: top;">19.4239<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">6<br>
+              </td>
+              <td style="vertical-align: top;">02.1464<br>
+              </td>
+              <td style="vertical-align: top;">16<br>
+              </td>
+              <td style="vertical-align: top;">06.2037<br>
+              </td>
+              <td style="vertical-align: top;">26<br>
+              </td>
+              <td style="vertical-align: top;">10.8807<br>
+              </td>
+              <td style="vertical-align: top;">36<br>
+              </td>
+              <td style="vertical-align: top;">15.0118<br>
+              </td>
+              <td style="vertical-align: top;">46<br>
+              </td>
+              <td style="vertical-align: top;">20.1507<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">7<br>
+              </td>
+              <td style="vertical-align: top;">02.5499<br>
+              </td>
+              <td style="vertical-align: top;">17<br>
+              </td>
+              <td style="vertical-align: top;">06.5849<br>
+              </td>
+              <td style="vertical-align: top;">27<br>
+              </td>
+              <td style="vertical-align: top;">11.2838<br>
+              </td>
+              <td style="vertical-align: top;">37<br>
+              </td>
+              <td style="vertical-align: top;">15.4377<br>
+              </td>
+              <td style="vertical-align: top;">47<br>
+              </td>
+              <td style="vertical-align: top;">21.4268<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">8<br>
+              </td>
+              <td style="vertical-align: top;">02.9563<br>
+              </td>
+              <td style="vertical-align: top;">18<br>
+              </td>
+              <td style="vertical-align: top;">06.9646<br>
+              </td>
+              <td style="vertical-align: top;">28<br>
+              </td>
+              <td style="vertical-align: top;">11.6902<br>
+              </td>
+              <td style="vertical-align: top;">38<br>
+              </td>
+              <td style="vertical-align: top;">15.8685<br>
+              </td>
+              <td style="vertical-align: top;">48<br>
+              </td>
+              <td style="vertical-align: top;">22.9676<br>
+              </td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">9<br>
+              </td>
+              <td style="vertical-align: top;">03.3643<br>
+              </td>
+              <td style="vertical-align: top;">19<br>
+              </td>
+              <td style="vertical-align: top;">07.3469<br>
+              </td>
+              <td style="vertical-align: top;">29<br>
+              </td>
+              <td style="vertical-align: top;">12.0973<br>
+              </td>
+              <td style="vertical-align: top;">39<br>
+              </td>
+              <td style="vertical-align: top;">16.3191<br>
+              </td>
+              <td style="vertical-align: top;"><br>
+              </td>
+              <td style="vertical-align: top;"><br>
+              </td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;">10<br>
+              </td>
+              <td style="vertical-align: top;">03.7755<br>
+              </td>
+              <td style="vertical-align: top;">20<br>
+              </td>
+              <td style="vertical-align: top;">07.7310<br>
+              </td>
+              <td style="vertical-align: top;">30<br>
+              </td>
+              <td style="vertical-align: top;">12.5080<br>
+              </td>
+              <td style="vertical-align: top;">40<br>
+              </td>
+              <td style="vertical-align: top;">16.7920<br>
+              </td>
+              <td style="vertical-align: top;"><br>
+              </td>
+              <td style="vertical-align: top;"><br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">
+        <h6>Table: These time values represent the
+location
+of a consistent, repeating feature found within each pulse's wave-form.<br>
+        </h6>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <b><br>
+Conclusion</b><br>
+  <br>
+The information gleaned from the audio recording can be applied to a
+variety of studies, such as might be facilitated using an accurate
+stop-watch and a surveyor's distance-measuring wheel.&nbsp;
+As presented this simple data logger method is most suitable for making
+records of fairly short duration.&nbsp; The willingness of the user to
+make repetitious manual
+measurements serves as a practical constraint for the amount of data
+obtainable.&nbsp; <br>
+  <br>
+  <br>
+  <b>References</b><br>
+  <br>
+1. Nijboer. 2000. TIME MEASUREMENTS WITH DIGITAL AUDIO
+EQUIPMENT. <a
+ href="http://www.kvi.nl/%7Enijboer/wwwtimemeasurement/timemeasurement.htm">http://www.kvi.nl/~nijboer/wwwtimemeasurement/timemeasurement.htm</a><br>
+  <br>
+2. Starkjohann. 1997. DRAG MEASUREMENT ON HPVs. <a
+ href="http://members.shaw.ca/bicyclescience/starkjohann/index.htm">http://members.shaw.ca/bicyclescience/starkjohann/index.htm</a><br>
+  <br>
+3. Candau,&nbsp; Grappe, Menard, Barbier, Millet, Hoffman,
+Belli, and
+Rouillon. 1999. SIMPLIFIED DECELERATION METHOD FOR ASSESSMENT OF
+RESISTIVE FORCES IN CYCLING. Medicine &amp; Science in Sports &amp;
+Exercise: Volume 31(10) October 1999 p 1441.<br>
+  <br>
+4. Petrushov. 1997. COAST DOWN METHOD IN TIME-DISTANCE VARIABLES.
+Society of Automotive Engineers, Inc.: SAE publication 970408 p
+189-211.<br>
+  <br>
+5. Euler, Manfred, Braune, Schall, and Zollman.&nbsp; 1999.
+USING
+AUDIOTAPE TO COLLECT DATA OUTSIDE THE LAB: KINEMATICS OF THE BICYCLE. <br>
+  <a href="http://perg.phys.ksu.edu/papers/bike/usingaudiotape.pdf">http://perg.phys.ksu.edu/papers/bike/usingaudiotape.pdf</a><br>
+  <br>
+6. Audacity, a free cross-platform sound editor program available
+from;&nbsp; <a href="http://audacity.sourceforge.net/">http://audacity.sourceforge.net/</a><br>
+  <br>
+  <b><br>
+Supplemental File</b><br>
+  <p>The audio file used in Figures 3 and 4, and the Table; <span
+ style="text-decoration: underline;"><a href="reedswitch.mp3">reedswitch.mp3</a></span>&nbsp;&nbsp;
+(363 KB download)<br>
+  <br>
+  <br>
+  <b> <br>
+  <br>
+  <br>
+  </b></p>
+  <b> </b>
+  <p align="center"><b> <a href="http://www.hupi.org/HPeJ/index.htm">Contents</a>
+| <a href="http://www.hupi.org/HPeJ/about.htm">About</a> | <a
+ href="http://www.hupi.org/HPeJ/contact.htm">Contact</a> <br>
+  <br>
+  <b>Human Power eJournal</b><br>
+  </b></p>
+</blockquote>
+</body>
+</html>

@@ -1,0 +1,699 @@
+From skinnermp at gmail.com  Mon Jun  8 08:57:43 2009
+From: skinnermp at gmail.com (michael skinner)
+Date: Mon, 8 Jun 2009 08:57:43 -0700
+Subject: [hpv] hpv Digest, Vol 58, Issue 3
+In-Reply-To: <mailman.21.1244314803.58669.hpv@bikelist.org>
+References: <mailman.21.1244314803.58669.hpv@bikelist.org>
+Message-ID: <a1e635d20906080857p52ea6feendd59fd9b9be186eb@mail.gmail.com>
+
+where do they post when there will be "fun Days" or recumbent rides at
+the velodrome.  I live about 2 miels away and i never hear about them
+until after people post pictures:(
+
+On Sat, Jun 6, 2009 at 12:00 PM, <hpv-request at bikelist.org> wrote:
+> Send hpv mailing list submissions to
+> ? ? ? ?hpv at bikelist.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> ? ? ? ?http://hupi.org/mailman/listinfo/hpv
+> or, via email, send a message with subject or body 'help' to
+> ? ? ? ?hpv-request at bikelist.org
+>
+> You can reach the person managing the list at
+> ? ? ? ?hpv-owner at bikelist.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of hpv digest..."
+>
+>
+> Please DO NOT copy the original message in its entirety; it wastes space. Either reply without copying, or edit the copied text so that only the pertinent
+> information is provided. Thanks.
+>
+> Today's Topics:
+>
+> ? 1. Photos and Videos: HPV Fun Day at Hellyer, May 2009
+> ? ? ?(Bill Bushnell)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Fri, 5 Jun 2009 22:21:56 -0700
+> From: Bill Bushnell <bill.bushnell at pobox.com>
+> Subject: [hpv] Photos and Videos: HPV Fun Day at Hellyer, May 2009
+> To: <hpv at bikelist.org>
+> Message-ID: <b51c77f057361389b3155c071c58a55c at pobox.com>
+> Content-Type: text/plain; charset="US-ASCII"; format=flowed
+>
+> Folks:
+>
+> Here are some photos and videos taken at the HPV "Fun Day" at Hellyer
+> Velodrome in San Jose last weekend.
+>
+> http://tinyurl.com/osjqcf
+>
+> -- Bill
+> http://pobox.com/~bushnell/
+>
+>
+>
+> ------------------------------
+>
+> This message digest comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+>
+> End of hpv Digest, Vol 58, Issue 3
+> **********************************
+>
+
+
+
+-- 
+Michael P. Skinner
+
+Racing to Save Lives
+    O __
+ . _ \ __ > _
+...(_)     \ (_)
+
+http://pages.teamintraining.org/sj/ambbr09/mskinner
+
+From cbroome at calpoly.edu  Mon Jun  8 09:12:47 2009
+From: cbroome at calpoly.edu (Chris Broome)
+Date: Mon, 8 Jun 2009 09:12:47 -0700
+Subject: [hpv] hpv Digest, Vol 58, Issue 3 - Velodrome event
+In-Reply-To: <a1e635d20906080857p52ea6feendd59fd9b9be186eb@mail.gmail.com>
+References: <mailman.21.1244314803.58669.hpv@bikelist.org>
+	<a1e635d20906080857p52ea6feendd59fd9b9be186eb@mail.gmail.com>
+Message-ID: <4A2D387F.20201@calpoly.edu>
+
+Hi Michael,
+
+just send an email to Carole Leone  - traslo @ fix.net asking to be 
+added to her mailing list.
+
+The Hellyer Velodrome event is usually held around the last weekend in 
+May, depending on track availability.
+
+-- Chris Broome
+
+michael skinner wrote:
+> where do they post when there will be "fun Days" or recumbent rides at
+> the velodrome.  I live about 2 miels away and i never hear about them
+> until after people post pictures:(
+...............................................
+
+From PNGracey at aol.com  Mon Jun  8 09:21:15 2009
+From: PNGracey at aol.com (PNGracey at aol.com)
+Date: Mon, 8 Jun 2009 12:21:15 -0400
+Subject: [hpv] Hellyer Fun Day and my E-Assist
+Message-ID: <c99.4b74857b.375e947b@aol.com>
+
+
+In a message dated 6/7/09 12:01:10 PM, Bill Bushnell writes:
+
+
+> It appears to be a propeller inside a cowling, exhausting to the rear and
+> taking in air through several vents around the perimeter.? If Paul Gracey
+> reads this list perhaps he could elaborate.
+> 
+
+This is the Demo   I did for those at this strictly Human Power Event of 
+the drive I built for the Portland OHPV ePower event. I started out to just do 
+some boundary layer control using the fan, but when I tried to improve the 
+thrust to make me a bit more competitive I ended up with what you see in 
+Bill's pics. The theory is based on the work of Fabio Goldschmied at NACA using 
+an annular slot to pull the turbulent boundary layer in and redirect it out 
+the rear thus adding "negative drag"(pressure thrust) in place of some of 
+the form drag of a streamlined body. 
+
+Since this only works to the extent of the existing drag, and I wanted a 
+bit more boost, I began to cut the venturi tube down to get more thrust. I 
+found that I still had flow into the slot as well as the more direct flow 
+through a pair of NACA ducts and other openings leading to the fan. The static 
+jet stream measures 35MPH(56KPH) at full thrust, but for the ePower event I 
+dropped this down to about 24mph to get more time out of my batteries.
+ I found that this strategy worked better than I expected. At speed the 
+system seems to use less energy and the improvement it gives to my aerodynamics 
+lets me go faster than the bike will without it. Bill told me that he 
+sensed a slight headwind on the front straight at Portland International Raceway, 
+yet I felt I could produce more speed at this part of the course. Someone 
+else there might let me know if it has some downslope in that direction, 
+otherwise I was getting aerodynamic improvement of one sort or the other.
+ My bike sails quite well in a quartering crosswind and the filled in air 
+provided by the fan could have acted somewhat like a virtual tailcone 
+extension. As I had both battery and leg power left at the end of the race I 
+'goosed' the throttle at the end of it.
+
+Paul Gracey
+
+
+
+**************
+A Good Credit Score is 700 or Above. See yours in just 2 easy 
+steps! 
+(http://pr.atwola.com/promoclk/100126575x1222585043x1201462775/aol?redir=http://www.freecreditreport.com/pm/default.aspx?sc=668072&amp;hmpgID=62&amp;
+bcd=JunestepsfooterNO62)
+
+From togo at of.net  Mon Jun  8 14:51:39 2009
+From: togo at of.net (Tony Godshall)
+Date: Mon, 8 Jun 2009 14:51:39 -0700
+Subject: [hpv] hpv Digest, Vol 58, Issue 3
+In-Reply-To: <a1e635d20906080857p52ea6feendd59fd9b9be186eb@mail.gmail.com>
+References: <mailman.21.1244314803.58669.hpv@bikelist.org>
+	<a1e635d20906080857p52ea6feendd59fd9b9be186eb@mail.gmail.com>
+Message-ID: <3424dc900906081451o4621eb7fr97566a9d6358396d@mail.gmail.com>
+
+Yeah, me too.
+
+A little scroogling shows this is apparently an annual thing at the
+beginning of June and is sometimes announced on hpva lists and at the
+recumbents.com calendar
+
+http://www.recumbents.com/WISIL/calendar.asp?ViewCal=View%20Calendar
+
+I guess I'll put a reminder to myself to look for announcements in May 2010
+
+Best Regards.
+
+
+
+
+On Mon, Jun 8, 2009 at 8:57 AM, michael skinner<skinnermp at gmail.com> wrote:
+> where do they post when there will be "fun Days" or recumbent rides at
+> the velodrome. ?I live about 2 miels away and i never hear about them
+> until after people post pictures:(
+>
+> On Sat, Jun 6, 2009 at 12:00 PM, <hpv-request at bikelist.org> wrote:
+>> Send hpv mailing list submissions to
+>> ? ? ? ?hpv at bikelist.org
+>>
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>> ? ? ? ?http://hupi.org/mailman/listinfo/hpv
+>> or, via email, send a message with subject or body 'help' to
+>> ? ? ? ?hpv-request at bikelist.org
+>>
+>> You can reach the person managing the list at
+>> ? ? ? ?hpv-owner at bikelist.org
+>>
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of hpv digest..."
+>>
+>>
+>> Please DO NOT copy the original message in its entirety; it wastes space. Either reply without copying, or edit the copied text so that only the pertinent
+>> information is provided. Thanks.
+>>
+>> Today's Topics:
+>>
+>> ? 1. Photos and Videos: HPV Fun Day at Hellyer, May 2009
+>> ? ? ?(Bill Bushnell)
+>>
+>>
+>> ----------------------------------------------------------------------
+>>
+>> Message: 1
+>> Date: Fri, 5 Jun 2009 22:21:56 -0700
+>> From: Bill Bushnell <bill.bushnell at pobox.com>
+>> Subject: [hpv] Photos and Videos: HPV Fun Day at Hellyer, May 2009
+>> To: <hpv at bikelist.org>
+>> Message-ID: <b51c77f057361389b3155c071c58a55c at pobox.com>
+>> Content-Type: text/plain; charset="US-ASCII"; format=flowed
+>>
+>> Folks:
+>>
+>> Here are some photos and videos taken at the HPV "Fun Day" at Hellyer
+>> Velodrome in San Jose last weekend.
+>>
+>> http://tinyurl.com/osjqcf
+>>
+>> -- Bill
+>> http://pobox.com/~bushnell/
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> This message digest comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+>>
+>> End of hpv Digest, Vol 58, Issue 3
+>> **********************************
+>>
+>
+>
+>
+> --
+> Michael P. Skinner
+>
+> Racing to Save Lives
+> ? ?O __
+> ?. _ \ __ > _
+> ...(_) ? ? \ (_)
+>
+> http://pages.teamintraining.org/sj/ambbr09/mskinner
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+>
+
+From PNGracey at aol.com  Mon Jun  8 16:06:21 2009
+From: PNGracey at aol.com (PNGracey at aol.com)
+Date: Mon, 8 Jun 2009 19:06:21 -0400
+Subject: [hpv] hpv Digest, Vol 58, Issue 5
+Message-ID: <c54.4e4c99ce.375ef36d@aol.com>
+
+
+In a message dated 6/8/09 12:01:24 PM, Cornel writes:
+
+
+> > it provides about 4lbs of thrust, which isn't very much.
+> 
+> 4 lbf at 15mph is nearly 100W, which is reasonably impressive.
+> 
+> ++ Cornel Ormsby ++
+> +Las Vegas, Nevada+
+> 
+There it is then, my efficiency at 15mph is only about 25% unless it gets 
+better with speed. I think that is the case. Cornel, how is that 100W   speed 
+dependent? Is it based on my theoretical CdA matching the mass of the 
+volume air moved aside for that velocity?
+ I read that the Gossamer Albatross needed 11lbs of thrust to go 12mph 
+while using much of it for lift and pushing that great wing through the air. 
+Curiously, you arrived at my steady state speed of 15mph without pedalling 
+while doing figure 8s in the parking lot at full thrust. 
+ I need a propeller better optomised for for my best speeds. the one I used 
+is made for a model airplane that goes up to sixty mph. I'd be happy to 
+peak out in the middle of that range.
+
+Paul Gracey
+
+
+
+
+**************
+A Good Credit Score is 700 or Above. See yours in just 2 easy 
+steps! 
+(http://pr.atwola.com/promoclk/100126575x1222585043x1201462775/aol?redir=http://www.freecreditreport.com/pm/default.aspx?sc=668072&amp;hmpgID=62&amp;
+bcd=JunestepsfooterNO62)
+
+From smcelhiney at comcast.net  Mon Jun  8 16:23:44 2009
+From: smcelhiney at comcast.net (Scott McElhiney)
+Date: Mon, 8 Jun 2009 16:23:44 -0700
+Subject: [hpv] Hellyer Fun Day and my E-Assist
+In-Reply-To: <c99.4b74857b.375e947b@aol.com>
+References: <c99.4b74857b.375e947b@aol.com>
+Message-ID: <4A2D9D80.9040709@comcast.net>
+
+PNGracey at aol.com wrote:
+> In a message dated 6/7/09 12:01:10 PM, Bill Bushnell writes:
+>
+>
+>   
+>> It appears to be a propeller inside a cowling, exhausting to the rear and
+>> taking in air through several vents around the perimeter.  If Paul Gracey
+>> reads this list perhaps he could elaborate.
+>>
+>>     
+>
+> This is the Demo   I did for those at this strictly Human Power Event of 
+> the drive I built for the Portland OHPV ePower event. I started out to just do 
+> some boundary layer control using the fan, but when I tried to improve the 
+> thrust to make me a bit more competitive I ended up with what you see in 
+> Bill's pics. The theory is based on the work of Fabio Goldschmied at NACA using 
+> an annular slot to pull the turbulent boundary layer in and redirect it out 
+> the rear thus adding "negative drag"(pressure thrust) in place of some of 
+> the form drag of a streamlined body. 
+>
+>   
+Hi Paul,
+
+I'm Scott McElhiney... at Portland on Saturday afternoon you strapped 
+that contraption to my GTO trike and let me buzz around the infield a 
+bit.  I was wondering how the E-assist races went on Monday.  How many 
+miles did you end up doing? 
+
+For everyone else... when strapped to my trike, it didn't make enough 
+power to really get me rolling, but as soon as I pushed the pedals over 
+once, it just sort of floated along gathering speed slowly.  I didn't 
+pedal at all as I wanted to see if it was really pushing me along.  I 
+slowly picked up speed even as cornering and changing directions.  I'd 
+have been curious to see how fast it would have eventually have taken me 
+on a flat straight track.  It may have been acting a bit as a tailbox 
+even on my trike by sucking in that turbulent air behind the seat area 
+and thrusting it out.  Pretty interesting concept, although I don't 
+think it could be as efficient as something mechanically driving the wheels.
+
+From togo at of.net  Mon Jun  8 17:05:41 2009
+From: togo at of.net (Tony Godshall)
+Date: Mon, 8 Jun 2009 17:05:41 -0700
+Subject: [hpv] hpv Digest, Vol 58, Issue 3
+In-Reply-To: <3424dc900906081451o4621eb7fr97566a9d6358396d@mail.gmail.com>
+References: <mailman.21.1244314803.58669.hpv@bikelist.org>
+	<a1e635d20906080857p52ea6feendd59fd9b9be186eb@mail.gmail.com>
+	<3424dc900906081451o4621eb7fr97566a9d6358396d@mail.gmail.com>
+Message-ID: <3424dc900906081705l1abe2bb1vb72553b5abef4815@mail.gmail.com>
+
+Also found this calendar which would appear to be the authoritative
+calendar for the Hellyer Velodrome
+
+http://www.ridethetrack.com/calendar/
+
+And yes, before anyone else corrects me, it was in May this year.
+
+
+
+
+On Mon, Jun 8, 2009 at 2:51 PM, Tony Godshall<togo at of.net> wrote:
+> Yeah, me too.
+>
+> A little scroogling shows this is apparently an annual thing at the
+> beginning of June and is sometimes announced on hpva lists and at the
+> recumbents.com calendar
+>
+> http://www.recumbents.com/WISIL/calendar.asp?ViewCal=View%20Calendar
+>
+> I guess I'll put a reminder to myself to look for announcements in May 2010
+>
+> Best Regards.
+>
+>
+>
+>
+> On Mon, Jun 8, 2009 at 8:57 AM, michael skinner<skinnermp at gmail.com> wrote:
+>> where do they post when there will be "fun Days" or recumbent rides at
+>> the velodrome. ?I live about 2 miels away and i never hear about them
+>> until after people post pictures:(
+>>
+>> On Sat, Jun 6, 2009 at 12:00 PM, <hpv-request at bikelist.org> wrote:
+>>> Send hpv mailing list submissions to
+>>> ? ? ? ?hpv at bikelist.org
+>>>
+>>> To subscribe or unsubscribe via the World Wide Web, visit
+>>> ? ? ? ?http://hupi.org/mailman/listinfo/hpv
+>>> or, via email, send a message with subject or body 'help' to
+>>> ? ? ? ?hpv-request at bikelist.org
+>>>
+>>> You can reach the person managing the list at
+>>> ? ? ? ?hpv-owner at bikelist.org
+>>>
+>>> When replying, please edit your Subject line so it is more specific
+>>> than "Re: Contents of hpv digest..."
+>>>
+>>>
+>>> Please DO NOT copy the original message in its entirety; it wastes space. Either reply without copying, or edit the copied text so that only the pertinent
+>>> information is provided. Thanks.
+>>>
+>>> Today's Topics:
+>>>
+>>> ? 1. Photos and Videos: HPV Fun Day at Hellyer, May 2009
+>>> ? ? ?(Bill Bushnell)
+>>>
+>>>
+>>> ----------------------------------------------------------------------
+>>>
+>>> Message: 1
+>>> Date: Fri, 5 Jun 2009 22:21:56 -0700
+>>> From: Bill Bushnell <bill.bushnell at pobox.com>
+>>> Subject: [hpv] Photos and Videos: HPV Fun Day at Hellyer, May 2009
+>>> To: <hpv at bikelist.org>
+>>> Message-ID: <b51c77f057361389b3155c071c58a55c at pobox.com>
+>>> Content-Type: text/plain; charset="US-ASCII"; format=flowed
+>>>
+>>> Folks:
+>>>
+>>> Here are some photos and videos taken at the HPV "Fun Day" at Hellyer
+>>> Velodrome in San Jose last weekend.
+>>>
+>>> http://tinyurl.com/osjqcf
+>>>
+>>> -- Bill
+>>> http://pobox.com/~bushnell/
+>>>
+>>>
+>>>
+>>> ------------------------------
+>>>
+>>> This message digest comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.HuPI.org/
+>>> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+>>>
+>>> End of hpv Digest, Vol 58, Issue 3
+>>> **********************************
+>>>
+>>
+>>
+>>
+>> --
+>> Michael P. Skinner
+>>
+>> Racing to Save Lives
+>> ? ?O __
+>> ?. _ \ __ > _
+>> ...(_) ? ? \ (_)
+>>
+>> http://pages.teamintraining.org/sj/ambbr09/mskinner
+>> --
+>> This message comes to you via the hpv at bikelist.org mailing list, sponsored by http://www.hupi.org/
+>> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+>>
+>
+
+From traslo at fix.net  Mon Jun  8 21:33:41 2009
+From: traslo at fix.net (Carole and George Leone)
+Date: Mon, 8 Jun 2009 21:33:41 -0700
+Subject: [hpv] Hellyer Park Fun Day
+In-Reply-To: <3424dc900906081705l1abe2bb1vb72553b5abef4815@mail.gmail.com>
+References: <mailman.21.1244314803.58669.hpv@bikelist.org>	<a1e635d20906080857p52ea6feendd59fd9b9be186eb@mail.gmail.com>	<3424dc900906081451o4621eb7fr97566a9d6358396d@mail.gmail.com>
+	<3424dc900906081705l1abe2bb1vb72553b5abef4815@mail.gmail.com>
+Message-ID: <4A2DE625.5040209@fix.net>
+
+Hello Michael , Tony and the HPV Bikelist:
+
+I'm the main organizer of the San Jose Fun Day.  Next year will be our 
+15th year!   Here's the answers to some of your questions.
+
+1)  The event is always some time between mid-May and late June.   There 
+are several factors involved in figuring out which date:
+     a)  when the velodrome is available for us to use;
+     b)   when the ASME collegiate HPV race is.  George and I mentor the 
+Cal Poly ASME HPV team and we always go to that competition, which is 
+held in various places sometime in late April to early May.    We have 
+to have a couple of weekends between that race and ours for us and the 
+Cal Poly team to recuperate. 
+c)   When Mother's Day, Father's Day and Cal Poly graduation are.  I 
+won't do a race on Mother's Day weekend or Cal Poly graduation weekend.  
+The saturday before Father's Day is a possibility.
+d)  it can't be Memorial Day weekend because the Portland HPV races are 
+always that weekend.
+
+I try to pin down the date with the velodrome association in February 
+and begin letting people know and posting it on calendars by mid-March.
+
+2)  Race advertising.   I have a long e-mail mailing list that I send 
+the announcements to, and I've put both your names and e-mails on it 
+now.   I also have it posted on the Recumbents.com calendar and the 
+velodrome puts in on their calendar.    I used to post it on the 
+IHPVA/HPVA website but last time I tried, the calendar part wasn't 
+operational.  I also used to post it on the old hpv bulletin board, but 
+gave up on it when we were not getting any messages from that site.  I 
+don't know if we got bucked off the site at some time or if it went 
+dormant for awhile.   Now that it seems to be back in operation (or we 
+were put back on) I'll be posting information on next year's event 
+sometime next March.   Every year I vow to put up a website about the 
+event, but things keep getting in the way of learning to do web pages, 
+like helping build Primal 1, and getting ready to help build Primal 2 
+this summer.  Oh yeah, and work too.
+
+I'll be posting the final results this week as an Excel spreadsheet and 
+I'll see if the hpv bike list will  allow that as an attachment.
+
+3)  History. We started putting on this event 14 years ago as a fun 
+thing to do with the Cal Poly HPV team.  At the ASME collegiate races 
+only a few members of the team get to actually ride in the competition.  
+We wanted an event where all the team members could ride as much as 
+possible.   Word went out and it has just kept going.   There are a few 
+of us who have been to just about every one of them.   A lot of people 
+hear about it from a friend, come to watch the first year, and come back 
+to race the next year.  The racing is competitive, but we don't 
+emphasize who won as much as who is having the most fun.
+
+See you next year!
+Carole Leone
+
+
+
+
+
+
+From a.krause at humboldt1.com  Tue Jun  9 09:33:34 2009
+From: a.krause at humboldt1.com (Al Krause)
+Date: Tue, 9 Jun 2009 09:33:34 -0700
+Subject: [hpv] Hellyer Park Fun Day
+References: <mailman.21.1244314803.58669.hpv@bikelist.org>	<a1e635d20906080857p52ea6feendd59fd9b9be186eb@mail.gmail.com>	<3424dc900906081451o4621eb7fr97566a9d6358396d@mail.gmail.com>	<3424dc900906081705l1abe2bb1vb72553b5abef4815@mail.gmail.com>
+	<4A2DE625.5040209@fix.net>
+Message-ID: <4A2E8EDE.2040801@humboldt1.com>
+
+Also please feel free to use the new IHPVA forums
+http://www.ihpva.org/forums/
+
+Thanks again
+
+Al Krause
+
+
+Carole and George Leone wrote:
+> Hello Michael , Tony and the HPV Bikelist:
+> 
+> I'm the main organizer of the San Jose Fun Day.  Next year will be our 
+> 15th year!   Here's the answers to some of your questions.
+> 
+> 1)  The event is always some time between mid-May and late June.   There 
+> are several factors involved in figuring out which date:
+>     a)  when the velodrome is available for us to use;
+>     b)   when the ASME collegiate HPV race is.  George and I mentor the 
+> Cal Poly ASME HPV team and we always go to that competition, which is 
+> held in various places sometime in late April to early May.    We have 
+> to have a couple of weekends between that race and ours for us and the 
+> Cal Poly team to recuperate. c)   When Mother's Day, Father's Day and 
+> Cal Poly graduation are.  I won't do a race on Mother's Day weekend or 
+> Cal Poly graduation weekend.  The saturday before Father's Day is a 
+> possibility.
+> d)  it can't be Memorial Day weekend because the Portland HPV races are 
+> always that weekend.
+> 
+> I try to pin down the date with the velodrome association in February 
+> and begin letting people know and posting it on calendars by mid-March.
+> 
+> 2)  Race advertising.   I have a long e-mail mailing list that I send 
+> the announcements to, and I've put both your names and e-mails on it 
+> now.   I also have it posted on the Recumbents.com calendar and the 
+> velodrome puts in on their calendar.    I used to post it on the 
+> IHPVA/HPVA website but last time I tried, the calendar part wasn't 
+> operational.  I also used to post it on the old hpv bulletin board, but 
+> gave up on it when we were not getting any messages from that site.  I 
+> don't know if we got bucked off the site at some time or if it went 
+> dormant for awhile.   Now that it seems to be back in operation (or we 
+> were put back on) I'll be posting information on next year's event 
+> sometime next March.   Every year I vow to put up a website about the 
+> event, but things keep getting in the way of learning to do web pages, 
+> like helping build Primal 1, and getting ready to help build Primal 2 
+> this summer.  Oh yeah, and work too.
+> 
+> I'll be posting the final results this week as an Excel spreadsheet and 
+> I'll see if the hpv bike list will  allow that as an attachment.
+> 
+> 3)  History. We started putting on this event 14 years ago as a fun 
+> thing to do with the Cal Poly HPV team.  At the ASME collegiate races 
+> only a few members of the team get to actually ride in the competition.  
+> We wanted an event where all the team members could ride as much as 
+> possible.   Word went out and it has just kept going.   There are a few 
+> of us who have been to just about every one of them.   A lot of people 
+> hear about it from a friend, come to watch the first year, and come back 
+> to race the next year.  The racing is competitive, but we don't 
+> emphasize who won as much as who is having the most fun.
+> 
+> See you next year!
+> Carole Leone
+> 
+> 
+> 
+> 
+> 
+> --
+> This message comes to you via the hpv at bikelist.org mailing list, 
+> sponsored by http://www.hupi.org/
+> Visit http://hupi.org/mailman/listinfo/hpv to manage your subscription.
+> 
+
+
+
+From lioninoil at yahoo.com  Tue Jun  9 14:12:47 2009
+From: lioninoil at yahoo.com (LioNiNoiL)
+Date: Tue, 9 Jun 2009 14:12:47 -0700
+Subject: [hpv] Photos and Videos: HPV Fun Day at Hellyer
+Message-ID: <193021.3855.qm@web32702.mail.mud.yahoo.com>
+
+
+Paul Gracey wrote about his thruster:
+ 
+>> 4lbf at 15mph is nearly 100W, which is reasonably impressive.
+> 
+> There it is then, my efficiency at 15mph is only about 25%
+> unless it gets better with speed. I think that is the case.
+> Cornel, how is that 100W speed dependent?
+ 
+Expressing the net thrust as a function F(v) of speed, 
+then the propulsive power is P = vF(v) 
+ 
+Condidering the small size of your 60mph propeller, I would expect "P" (hence efficiency) to increase with speed, but there are a half-dozen confounding variables that make any such prediction nothing more than a 
+guess -- although a larger propeller and cowl, both optimised for lower-speed operation, would certainly increase efficiency. 
+ 
+++ Cornel Ormsby ++
++Las Vegas, Nevada+
+
+
+
+      
+
+From jgtetz at msn.com  Tue Jun  9 19:33:19 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Tue, 9 Jun 2009 22:33:19 -0400
+Subject: [hpv] Photos of dutch bicycle riders
+In-Reply-To: <193021.3855.qm@web32702.mail.mud.yahoo.com>
+References: <193021.3855.qm@web32702.mail.mud.yahoo.com>
+Message-ID: <COL102-DS16E5408C78B72B48F2368FD7450@phx.gbl>
+
+A few weeks ago someone posted a series of photos showing typical Dutch bikes and riders along with some written narration. 
+
+I cant find that Email. 
+
+John Tetz 
+
+From torben at thellefsen.dk  Tue Jun  9 21:57:35 2009
+From: torben at thellefsen.dk (Torben Thellefsen)
+Date: Wed, 10 Jun 2009 06:57:35 +0200
+Subject: [hpv] Photos of dutch bicycle riders
+In-Reply-To: <COL102-DS16E5408C78B72B48F2368FD7450@phx.gbl>
+References: <193021.3855.qm@web32702.mail.mud.yahoo.com>
+	<COL102-DS16E5408C78B72B48F2368FD7450@phx.gbl>
+Message-ID: <20090610065735.200f573c@hogwarts>
+
+On Tue, 9 Jun 2009 22:33:19 -0400
+JOHN TETZ <jgtetz at msn.com> wrote:
+
+> A few weeks ago someone posted a series of photos showing typical Dutch
+> bikes and riders along with some written narration. 
+
+Could it have been something along the lines of this?
+http://www.copenhagencyclechic.com/search?q=amsterdam
+
+The whole site is about photos of typical (mostly Danish, though) riders on
+their bikes. There was a link to it on this list recently, where the cycle
+chic had been to Amsterdam, but I'm not sure it's what you meant?
+
+
+Sincerely,
+-- 
+O\_o+  Torben Thellefsen <torben at thellefsen.dk>
+       Psychling - If you believe it will make you ride faster, it will!
+
+From jgtetz at msn.com  Wed Jun 10 19:56:27 2009
+From: jgtetz at msn.com (JOHN TETZ)
+Date: Wed, 10 Jun 2009 22:56:27 -0400
+Subject: [hpv] Photos of dutch bicycle riders
+In-Reply-To: <193021.3855.qm@web32702.mail.mud.yahoo.com><COL102-DS16E5408C78B72B48F2368FD7450@phx.gbl>
+	<20090610065735.200f573c@hogwarts>
+References: <193021.3855.qm@web32702.mail.mud.yahoo.com><COL102-DS16E5408C78B72B48F2368FD7450@phx.gbl>
+	<20090610065735.200f573c@hogwarts>
+Message-ID: <COL102-DS250D8470F41F67A86BFF7AD7420@phx.gbl>
+
+>Could it have been something along the lines of this?
+http://www.copenhagencyclechic.com/search?q=amsterdam<http://www.copenhagencyclechic.com/search?q=amsterdam>
+
+.......This is similar but the one I saw  an American narrated the photos of a intersection in Amsterdam. Poor narration but good photos. . He showed the types of bikes, how casually they road and carried passengers, and showed the kinds of clothing they wore. 
+
+The reason I am interested is recently the local bike club has asked me to write a series of articles about using a bike for local alternate transportation. 
+I want to show how what kinds of bike that Europeans use and how they ride them. 
+This is to inspire these bike club members to get then off their ultra lightweight stripped down bikes (toys) and get a bike with fat tires, fenders, luggage rack, panniers and lights. 
+
+John Tetz  
+

@@ -1,0 +1,79 @@
+From hbb at cs.cmu.edu  Sun Sep 20 09:02:37 2009
+From: hbb at cs.cmu.edu (Ben Brown)
+Date: Sun, 20 Sep 2009 12:02:37 -0400
+Subject: [hpv] Human powered flywheel motor concept
+Message-ID: <4AB6521D.6080101@cs.cmu.edu>
+
+The recent edition of HUMAN POWER (Number 58 Summer 2009)has an article 
+"Application of Human Powered Flywheel Motor as an Energy Source for 
+Generation of Electrical Energy for Rural Applications, and Computer 
+Aided Analysis of Battery Charging Process" by Deshpande, Modak and 
+Tarnekar. Based on this article and the references cited, the 
+authors--most notably Modak--have done extensive research in applying 
+human power to many applications, a laudable pursuit.
+
+What puzzles me, however, is the claim that *human pedallers can produce 
+five times the average power by sprinting for 60 seconds then resting 
+for 15 seconds, vs. pedalling continuously.* (See p11 first paragraph.) 
+Am I misinterpreting this? The references cited to back up this claim 
+are mostly by the authors themselves, except for ref. 17, attributed to 
+Eastman-Kodak. Some web searching turned up the the articles listed 
+below among others, but in brief review, I did not find data to support 
+the claim.
+
+If there is any truth to this claim, it would dramatically change the 
+way we think about and design human-powered vehicles and devices. Can 
+anyone comment on this? (Are the authors listening?) I would love to see 
+data supporting this.
+
+	Thanks, Ben
+
+*************************************************************************
+Article in HUMAN POWER "Design and development of a human-powered 
+machine for manufacture of lime-flyash-sand bricks" by J.P. Modak and 
+S.D. Moghe: http://www.ihpva.org/HParchive/PDF/45-v13n2-1998.pdf
+
+Lengthy (50 page) paper "HUMAN POWERED FLYWHEEL MOTOR CONCEPT, DESIGN, 
+DYNAMICS AND APPLICATIONS" BY J.P. Modak: 
+http://130.15.85.212/proceedings/proceedings_WorldCongress/WorldCongress07/articles/sessions/papers/A983.pdf
+
+Search for "Eastman Kodak" "work rest cycle" produced this article:
+"Kodak's Ergonomic Design for People at Work"
+http://books.google.com/books?id=FSgcaAIoHu8C&pg=PA483&lpg=PA483&dq=%22eastman+kodak%22+%22work+rest+cycle%22&source=bl&ots=pCQvbRwfqG&sig=8mXeber2VfReNhokGUH0y8JZFis&hl=en#v=onepage&q=&f=false
+
+From parker at cruzbike.com  Sun Sep 20 10:41:24 2009
+From: parker at cruzbike.com (Jim Parker)
+Date: Sun, 20 Sep 2009 13:41:24 -0400
+Subject: [hpv] Human powered flywheel motor concept
+In-Reply-To: <4AB6521D.6080101@cs.cmu.edu>
+References: <4AB6521D.6080101@cs.cmu.edu>
+Message-ID: <269d99ac0909201041o58471a9fwb221dd1f88dad012@mail.gmail.com>
+
+Very interesting.  This is the way I pedal.... crank really hard for a
+minute or two, go easy and catch my breath for 15-20 seconds, and then crank
+it back up.  I'm almost 200 lbs, so I carry a flywheel with me wherever I
+go.
+Jim Parker
+
+From Mikeatlbch at aol.com  Sun Sep 20 12:21:14 2009
+From: Mikeatlbch at aol.com (Mikeatlbch at aol.com)
+Date: Sun, 20 Sep 2009 15:21:14 -0400
+Subject: [hpv] intermittant power input during pedalling task.
+Message-ID: <c0a.63b2adab.37e7daaa@aol.com>
+
+Isn't this similar to what the endurence electric and gas folks do with 
+their machines to get more mpg or equivalent?  I have seen similar statements 
+before with different time intervals of pedal vs power.  Most of report 
+riding on rollers(repeating hills allows greater speed, though should have a 
+higher cost because of inefficiency climbing I would think.
+Interesting to consider...
+I have done something similar in time trials...I thought it was bad 
+conditioning and poor training and strategy when I coasted and gasped then pedalled 
+again...Yes, now I can say it it is my intent;-).  You guys just need to 
+give me the science now.
+ 
+Jim, you keep that mass of yours spinning?  Mine is just molded into the 
+seat...
+ 
+Mike
+

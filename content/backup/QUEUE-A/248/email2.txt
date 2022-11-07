@@ -1,0 +1,417 @@
+---------------------------- Original Message ----------------------------
+Subject: Re: Moulton Bicycle Aerodynamic Research Data
+From:    "Doug Milliken" <bd427@bfn.org>
+Date:    Thu, August 5, 2004 12:44 pm
+To:      "Angus Cameron" <angus_cameron@shaw.ca>
+
+
+
+Hi Angus,
+
+For whatever reason, we never got your first message to the company
+website.  In future you can email me direct at: bd427@bfn.org  (bike stuff
+is my personal hobby).
+
+I believe that the answer is that the data was measured and is presented
+in bike axes, not wind axes.  The three load cells in my balance (I had to
+build it for the tests) were mounted to the rotating portion of a
+turntable that was installed in the wind tunnel and turned as the bike was
+yawed.
+
+Does this answer your question?  If not, I can go back to the original
+report for Moulton (larger than the version published in IHPVA) and check
+further.
+
+** I have a separate question for you -- What is the point of HuPI when
+there is already a perfectly good IHPVA and HPVA?  And, is HuPI using
+copyrighted material from IHPVA without permission?  Certainly I was never
+contacted about reuse/web-publishing of my original paper in the 2nd
+Scientific Symposium volume.  Since I don't believe that any special
+arrangements were made, there is a good chance that I hold USA Copyright
+which is heavily in favor of original authors.
+
+Haven't got time now to read over the HuPI website, but I will take a look
+later.  Would appreciate your comments on this question of copyright.
+
+Best wishes,
+-- Doug Milliken
+   http://www.millikenresearch.com/books.html
+   http://members.localnet.com/~milliken/     <---a little hpv stuff here
+
+[quote snipped -- jcs]
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: Moulton Bicycle Aerodynamic Research Data
+From:    "Angus Cameron" <angus_cameron@shaw.ca>
+Date:    Thu, August 5, 2004 10:45 pm
+To:      bd427@bfn.org
+         jcsnyder@hupi.org
+--------------------------------------------------------------------------
+
+Doug Milliken wrote:
+
+ > Hi Angus,
+ >
+ > For whatever reason, we never got your first message to the company
+website.  In future you can email me direct at: bd427@bfn.org  (bike
+stuff is my personal hobby).
+
+The first message was sent to bd427@freenet.buffalo.edu.  That was the 
+problem.
+
+ > I believe that the answer is that the data was measured and is
+presented in
+ > bike axes, not wind axes.  The three load cells in my balance (I had to
+build it for the tests) were mounted to the rotating portion of a
+turntable
+ > that was installed in the wind tunnel and turned as the bike was yawed.
+ >
+ > Does this answer your question?  If not, I can go back to the original
+report for Moulton (larger than the version published in IHPVA) and
+check further.
+
+No, my question is about the output of the two Fy sensors and how to 
+combine them.  I want to say that Fy, the combined force perpendicular  to
+the bike, is just Fyf + Fyr.
+
+But that leads to an inconsistency which can be resolved mathematically 
+by taking Fy = (Fyf+Fyr)/2  This of course doesn't make any physical 
+sense, as far as I can see, unless the sensors were linked in some way 
+that wasn't mentioned in the paper.
+Please refer to this following link for the details.
+http://members.shaw.ca/bicyclescience/CrossWind2/Milliken_analysis.html
+
+
+As an aside:
+The direction in which I wanted to take my paper was to show that the 
+cylinder model of a bike in a crosswind was a rough approximation and if 
+a term including the lateral cross section was incorporated a better 
+model would result.  This is alluded to in Wilson 3rd ed page 149; "A
+cosine approximation to the retarding force offered by the wind has  been
+shown to be reasonable for an unfaired bicycle (see Milliken and  Milliken
+1980)"
+but that's it; the reader is left dangling.  After getting access to  your
+Moulton paper I still see nothing explicit about cosines.  Perhaps  it's
+in the unabridged version.
+
+Getting back to my question about the total force in the y direction,  the
+model I developed was looking very good using Fyf+Fyr, until this 
+question popped up and spoiled things for me.
+
+So that's all I want to know right now, is Fy equal to Fyf + Fyr?
+If it is true then then I'll have another question for you tomorrow.
+
+[quote snipped -- jcs]
+
+I'm not connected with either HuPI or HPVA.  There is some wrangling 
+between the two bodies that I'm not privy to.  As far as I know there 
+will be no copyright material on the HuPI site until the legalities are 
+sorted out.  Unfortunately it will leave unaffiliated people like myself 
+out in the cold in getting access to to the archives until matters are 
+solved.  John Snyder has given me access to certain material, such as 
+your own, but it isn't available to the public.
+
+I have forwarded your email to John with the request that he deal with 
+your questions directly.
+
+Thanks for your time,
+
+Angus Cameron
+
+[quote snipped -- jcs]
+
+---------------------------- Original Message ----------------------------
+Subject: Re: Moulton Bicycle Aerodynamic Research Data
+From:    "Doug Milliken" <bd427@bfn.org>
+Date:    Fri, August 6, 2004 2:33 pm
+To:      "Angus Cameron" <angus_cameron@shaw.ca>
+Cc:      jcsnyder@hupi.org
+--------------------------------------------------------------------------
+
+
+Hi Angus,
+
+I got a nice letter back from Theo on HuPI and answered him, so you are
+off the hook on that "hot" topic.  Of course you can still buy (as far as
+I know) the Second Symposium volume from HPVA, so you have access to my
+original paper (for nominal cost) whether you are a member or not.  The
+money goes to duplication and other HPVA projects and the club is really
+struggling right now--it would be nice if you supported the club that has
+made all these things possible for the last 30+ years.
+   Enough politics!
+
+The two Fy load cells were pointing the same direction and were 62 inches
+apart.  The front and rear forces should be added to give the total Fy on
+the test bike.
+
+One other thing is that the wind speed was a constant 20 mph (we corrected
+in the data acq computer for slight variations from 20 mph) for all our
+testing, so that when the bike and turntable was rotated, the x and y
+components (in bike axes) of the wind speed varied.  Maybe this is causing
+your problem?
+
+I don't know anything about the comments in Bicycling Science 3rd Ed. Dave
+Wilson was nice enough to get me a copy, but I've not had time to study
+it.  Could that be one of the sections writen by Jim P?
+
+Long after the test program, I calculated a hand written spreadsheet on an
+HP programable hand calculator to look at the power required at constant
+bike speed, with varying wind direction (constant wind from different
+directions relative to the bike path).  The transforms involved some trig,
+which I'm sure you can also work out for yourself (I might have notes
+somewhere, but this was never published).
+
+-- Doug
+[quote snipped -- jcs]
+
+---------------------------- Original Message ----------------------------
+Subject: Re: Moulton Bicycle Aerodynamic Research Data
+From:    "Angus Cameron" <angus_cameron@shaw.ca>
+Date:    Fri, August 6, 2004 8:52 pm
+To:      "Doug Milliken" <bd427@bfn.org>
+Cc:      jcsnyder@hupi.org
+--------------------------------------------------------------------------
+
+Doug Milliken wrote:
+
+
+> Hi Angus,
+>
+
+. . .  snipping the political bit
+
+
+> The two Fy load cells were pointing the same direction and were 62
+>inches apart.  The front and rear forces should be added to give the
+>total Fy on the test bike.
+
+OK.  Just as it should be.
+
+
+> One other thing is that the wind speed was a constant 20 mph (we
+>corrected in the data acq computer for slight variations from 20 mph)
+>for all our testing, so that when the bike and turntable was rotated,
+>the x and y components (in bike axes) of the wind speed varied.  Maybe
+>this is causing your problem?
+
+No that's not the problem either.  It was clearly stated in the paper 
+that 20 mph was used.
+
+Here are my assumptions:
+- The yaw angles, forces and wind speeds were measured with high precision
+- The Fx and Fy sensors were exactly perpendicular to one another and 
+correctly oriented along their respective axes
+- The resultant force can be calculated using (Fx^2+Fy^2)^0.5
+- The direction of resultant force was in the direction of the wind, 
+which, relative to the bike, is the yaw angle
+- The x component of the calculated resultant must be equal to Fx at  each
+angle
+
+Can you see any errors so far?  Anything that I've missed?  If not then 
+we are still faced with a pesky problem.
+
+I'll give the link again:
+http://members.shaw.ca/bicyclescience/CrossWind2/Milliken_analysis.html
+
+Look at the the 2 graphs in the left column titled 'std bike sum' and 
+'Moulton sum' (the 'sum' means the Fy values have been added together)
+
+(Ignore the two graphs on the right; their Fy's were averaged not added.
+  The nice correlation they show has been a real puzzle for me.)
+
+Getting back to the link, why are the Fx's more or less equal at 0, 10 & 
+20 deg, then diverge around 30 deg before reconverging at 90 deg? 
+According to Pythagoras that shouldn't happen.
+
+If I haven't made any error in logic (it's been known to happen) then  the
+divergence must be due to to some anomaly in the data.  Gulp, there  I've
+said it.
+
+I like the general shape of the pink lines because they imply an
+increase in effective cross sectional area as the yaw angle increases, 
+just like a model I'm trying to verify.  The blue data points do show a 
+slight rise at 10 and 20 deg, looking to me as if they were struggling  to
+climb higher.
+
+It's far fetched but there any chance that the something could have been
+  interfering mechanically with the proper operation of the Fx sensor?
+Or causing it to bind whenever there was a large lateral force?  I'm 
+grasping at straws here as you can see.
+
+
+
+> I don't know anything about the comments in Bicycling Science 3rd Ed.
+>Dave Wilson was nice enough to get me a copy, but I've not had time to
+>study it.  Could that be one of the sections writen by Jim P?
+
+It isn't always obvious to me who wrote what.  Jim's prose tends to be a 
+little more formal than Dave's.
+
+
+> Long after the test program, I calculated a hand written spreadsheet on
+>an HP programable hand calculator to look at the power required at
+>constant bike speed, with varying wind direction (constant wind from
+>different directions relative to the bike path).  The transforms
+>involved some trig, which I'm sure you can also work out for yourself (I
+>might have notes somewhere, but this was never published).
+
+Why didn't you publish it?  This is just where I'm trying to go with  this
+HuPI paper.  I haven't found much published on bicycles that I can  refer
+to.  Your wind tunnel data is the only yaw information out there  as far
+as I can see (by I, I really mean John S.  He is my research  librarian as
+well as my editor).
+
+Angus
+
+
+
+
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: Moulton Bicycle Aerodynamic Research Data
+From:    "Doug Milliken" <bd427@bfn.org>
+Date:    Sat, August 7, 2004 10:48 am
+To:      "Angus Cameron" <angus_cameron@shaw.ca>
+Cc:      jcsnyder@hupi.org
+--------------------------------------------------------------------------
+
+
+Hi Angus,
+
+You might like to assume that the bike and rider is a cylinder or some
+other simple geometric shape--but it _isn't_.  I don't see any reason why
+this should be true:
+
+
+> - The direction of resultant force was in the direction of the wind, 
+
+which, relative to the bike, is the yaw angle
+
+With bluff bodies (some attached flow and large amounts of flow
+separation) many nonlinear effects are present, including some small
+amount of "lift" which will rotate the resultant force vector.  As an
+experimentalist (not much of a theorist), I'm get annoyed when someone
+takes the highly complex flow field around a bike and reduces it to an
+extremely simple model.  That is the reason we continue to use wind
+tunnels, starting with the Wright Brothers!  Some day, modeling (CFD)
+might be up to the analysis task, but not yet (that I've seen).
+
+Maybe you can use my data to disprove some of the various simplistic
+analyses that have been presented in the past?
+
+I'm confident that the data is good (within our max errors of a couple of
+ounces, usually much less).  The three load cells were connected to the
+platform with long wires and calibrated with dead weights (and pulleys) as
+a complete system.  There wasn't much crosstalk between the load cells and
+I believe that our calibration process took this into account, along with
+tares for the platform with the wind on it.  The tunnel I used was run by
+Dr George Skinner, a highly experenced aerodynamicist who was a friend
+Paul MacCready when they both were at Cal Tech.
+
+I never published the further analysis of x-force in various winds because
+Moulton paid for it (he also paid for the data you are using) and he's the
+one that would have to decide to publish.  I've done a lot of wind tunnel
+work with bikes since then, but it's all done with customers that don't
+want to publish.
+
+Best wishes,
+-- Doug
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: Moulton Bicycle Aerodynamic Research Data
+From:    "Angus Cameron" <angus_cameron@shaw.ca>
+Date:    Sat, August 7, 2004 1:26 pm
+To:      "Doug Milliken" <bd427@bfn.org>
+Cc:      jcsnyder@hupi.org
+--------------------------------------------------------------------------
+
+Hi Doug,
+
+Thank you so much for your quick reply.  The fog is beginning to clear.
+  More below . . .
+
+Doug Milliken wrote:
+
+
+> You might like to assume that the bike and rider is a cylinder or some
+>other simple geometric shape--but it _isn't_.  I don't see any reason
+>why this should be true:
+
+> The direction of resultant force was in the direction of the wind, 
+>which, relative to the bike, is the yaw angle
+> With bluff bodies (some attached flow and large amounts of flow
+>separation) many nonlinear effects are present, including some small
+>amount of "lift" which will rotate the resultant force vector.
+
+So that's where I went wrong; the direction of the resultant force is  not
+in the direction of the wind, not even for a standard bike.  Very 
+unexpected to say the least.
+
+[quote snipped -- jcs]
+
+> Maybe you can use my data to disprove some of the various simplistic
+>analyses that have been presented in the past?
+
+Yes, that would seem to be the logical direction that my paper for HuPI 
+should now be taking. My own 'simplistic analysis' will probably never see 
+the light of day.  It was looking so good though . . . <grin>
+
+[quote snipped -- jcs]
+
+That's a shame isn't it.  There seems to be a lot of research, in every 
+field, not just bikes, that could be released into the public domain 
+without the sponsor losing any competitive edge.  The money has been 
+spent, so why not get some added return in the form of good will and  free
+advertising?  And that sentiment also applies to HPVA/HuPI.
+
+It would give 'amateur scientists' like myself more data to play around 
+with.  Who knows, perhaps one of us amateurs could even come up with 
+something new.
+
+Again thanks for the time you've spent in explaining things and for 
+steering me in the right direction.
+
+Cheers,
+
+Angus
+
+
+
+---------------------------- Original Message ----------------------------
+Subject: Re: Moulton Bicycle Aerodynamic Research Data
+From:    "Doug Milliken" <bd427@bfn.org>
+Date:    Sat, August 7, 2004 5:54 pm
+To:      "Angus Cameron" <angus_cameron@shaw.ca>
+Cc:      jcsnyder@hupi.org
+--------------------------------------------------------------------------
+
+
+Hi Angus,
+
+Before I did the wind tunnel work or built the streamlined Moultons, I
+started my reading with:
+
+Hoerner, Dr.Ing. S. F.  "Fluid-Dynamic Lift".  Hoerner Fluid Dynamics,
+7528 Staunton Place, NW, Albuquerque, NM  87120. 1975.
+  and
+Hoerner, Dr.Ing. S. F.  "Fluid-Dynamic Drag".  Hoerner Fluid Dynamics,
+7528 Staunton Place, NW, Albuquerque, NM  87120.  1965.
+
+Both are classics and (as far as I know) long out of print, suggest you
+hound your local librarian (interlibrary loan) or maybe hunt used books
+online.
+
+
+A summary of a lot of low speed aerodynamics for vehicles can be found in
+this newer book:
+
+  http://www.bentleypublishers.com/product.htm?code=GRLE
+
+Best wishes,
+
+-- Doug
+
+[quote snipped -- jcs]
