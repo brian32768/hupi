@@ -2,7 +2,7 @@
 
 <pre>
 <?php
-system('/sbin/ifconfig venet0:0');
+system('/sbin/ifconfig eth0');
 phpinfo();
 ?>
 </pre>

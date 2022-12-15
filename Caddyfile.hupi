@@ -1,9 +1,10 @@
 {
-  http_port 8088
+  http_port 80
 }
 
 http://{$HUPI_FQDN} {
   root * /srv
+  php_fastcgi hupiphp:9000
   file_server
   encode gzip zstd
 }

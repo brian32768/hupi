@@ -6,8 +6,6 @@ networks:
     external: true
 
 services:
-# This one will need to work witout Cloudflare, 
-# because Theo handles DNS for HuPI.org
   hupi:
     container_name: hupi
     image: caddy:latest
@@ -18,9 +16,9 @@ services:
       #caddy.servers.protocols: "experimental_http3" #### For HTTP/3
       #caddy.tls.ca: "https://acme.zerossl.com/v2/DV90" ### Only if you will prefer ZeroSSL. Default it is Let's Encypt.
       #caddy.tls.ca: "https://acme-staging-v02.api.letsencrypt.org/directory" # Needed only for testing purpose. Remove this line after you finished your tests.
-      caddy.reverse_proxy: "{{upstreams 8088}}" #### needed to tell caddy which port number should send traffic
+      caddy.reverse_proxy: "{{upstreams}}" 
       caddy.tls.protocols: "tls1.3" #### This is optional. Default it is tls1.2
-#      caddy.tls.dns: "cloudflare ${CLOUDFLARE_API_TOKEN}"
+      caddy.tls.dns: "cloudflare ${CLOUDFLARE_API_TOKEN}"
     volumes:
       - ./Caddyfile.hupi:/etc/caddy/Caddyfile:ro
       - ./content:/srv:ro #### content to be served
@@ -28,3 +26,15 @@ services:
       - proxy
     restart: unless-stopped
     
+  phpfpm:
+    # Note this same image is used for wiki.wildsong.biz
+    container_name: hupi-php
+    image: phpfpm:latest
+    volumes:
+      - ./content:/srv:ro
+    networks:
+      proxy:
+        aliases:
+          - hupiphp
+    restart: unless-stopped
+        
