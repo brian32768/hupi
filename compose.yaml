@@ -29,6 +29,7 @@ services:
     volumes:
       - ./php-fpm.d:/usr/local/etc/php-fpm.d:ro
       - ./content:/srv/hupi:ro
+      - ./logs/php-fpm.log:/usr/local/var/log/php-fpm.log:rw
     networks:
       # Has to be on same network as the caddy servers
       - zero-trust
