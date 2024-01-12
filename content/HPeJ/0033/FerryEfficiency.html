@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Ferry Efficiency Definitions</title>
+</head>
+<body>
+<h1>Ferry Efficiency Definitions</h1>
+
+<p>In the following it is attempted to define the mechanical propulsive efficiency η of ferry crossings, not the transport efficiency of the vessel itself nor its motor, controller or battery. That is, the efficiency is defined as 100% if the water (+ air) resistance times the speed of crossing (= propulsive power Pp) is equal to the mechanical power produced. Meant is the best efficiency at one operating point, not the practical efficiency average.</p>
+
+<h2>Still water</h2>
+<p>η is defined as the ratio between energy output and input. Energy is force times distance or power times time. η can also be calculated as the ratio of power or force output and inputs.</p>
+
+<h3>Free ferry</h3>
+<p>η = Pp / Pm (motor drive shaft power).<br>
+If the (small) friction from bearings and seals is neglected, η = η<sub>propeller</sub>, the propeller efficiency. This has a maximum at one speed that falls off toward low or high speeds. The maximum η<sub>propeller</sub> of an excellent propeller can be taken as ~85%, of an ultimate (but highly impractical) propeller as ~90%.</p>
+
+<h3>Cable ferry</h3>
+<p>η = Pp / (Pp + frictional power loss Pf)<br>
+Pf = crossing speed (Vcr) * total frictional force (e.g. from chain links and pulleys). The virtual slip from chain slack excess is neglected.</p> 
+
+<h2>Moving water</h2>
+<p>(Rivers or tidal streams with current speed (Vcu) at right angles to Vcr)</p>
+
+<h3>Free ferry</h3>
+<p>The apparent speed (Va) meeting the ferry equals the square root of Vcu^2 + Vcr^2.<br>
+η = Pp at speed Vcr / Pp at speed Va<br>
+As Pp is about proportional to speed^3, η ≈ (Vcr / Va)^3 = (Vcr / SQRT(Vcr^2 + Vcu^2))^3</p>
+
+<h3>Cable ferry</h3>
+<i>η = Pp / (Pp + Pf)<br>
+Pf = Vcr * total frictional force (neglecting excess chain length)<br>
+The frictional force is about proportional to Vcu^2.
+</i>
+</body>
+</html>
