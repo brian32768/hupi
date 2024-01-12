@@ -1,0 +1,36 @@
+networks:
+  zero-trust:
+    name: zero-trust
+    external: true
+
+services:
+  hupi:
+    image: caddy:latest
+    container_name: hupi
+    environment:
+      TZ: 'America/Los_Angeles'
+    volumes:
+      - ./Caddyfile.hupi:/etc/caddy/Caddyfile:ro
+      - ./content:/srv/hupi:ro #### content to be served
+    ports:
+      - 82:82
+    networks:
+      - zero-trust
+    depends_on:
+      - phpfpm
+    restart: unless-stopped
+
+  phpfpm:
+    image: phpfpm
+    container_name: phpfpm
+    build: 
+      context: .
+      dockerfile: Dockerfile.phpfpm
+    volumes:
+      - ./php-fpm.d:/usr/local/etc/php-fpm.d:ro
+      - ./content:/srv/hupi:ro
+    networks:
+      # Has to be on same network as the caddy servers
+      - zero-trust
+    restart: unless-stopped
+
